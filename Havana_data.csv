@@ -1,0 +1,195 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0091528,1986,Best Actress,,True,True,Miss Mary,nm0001046,Julie Christie,Miss Mary,1986.0,Drama,617477
+tt0092690,1987,Grand Coral - Third Prize,,True,True,Born in East L.A.,nm0001507,Cheech Marin,Born in East L.A.,1987.0,Comedy,77536761
+tt0106966,1993,Grand Coral - First Prize,,True,True,Strawberry and Chocolate,nm0349425,Tomás Gutiérrez Alea,Strawberry and Chocolate,1995.0,Comedy,7087289
+tt0104029,1993,Coral,Best Film Poster,True,True,Cronos,nm1542708,Pedro Meyer,Cronos,1994.0,Others,2153159
+tt0106678,1993,Special Jury Prize,,True,True,I Don't Want to Talk About It,nm0069833,María Luisa Bemberg,I Don't Want to Talk About It,1994.0,Drama,426534
+tt0108291,1993,Audience Award,,False,False,Wild Tango,nm0686304,Marcelo Piñeyro,Wild Tango,1997.0,Others,70876
+tt0110712,1994,Audience Award,,False,False,Of Love and Shadows,nm0438201,Betty Kaplan,Of Love and Shadows,1996.0,Drama,1959677
+tt0109485,1994,Saúl Yelín Award,,True,True,Celestial Clockwork,nm0061944,Tristán Bauer,Celestial Clockwork,1996.0,Others,600648
+tt0109381,1995,Grand Coral - First Prize,Documentary,True,False,Carmen Miranda: Bananas Is My Business,nm0812773,Helena Solberg,Carmen Miranda: Bananas Is My Business,1995.0,Others,48689
+tt0109949,1995,Grand Coral - Second Prize,,True,True,Guantanamera,nm0349425,Tomás Gutiérrez Alea,Guantanamera,1997.0,Comedy,2878186
+tt0192745,1998,Grand Coral - First Prize,,True,True,Life is to Whistle,nm0702148,Fernando Pérez,Life is to Whistle,1999.0,Drama,98881
+tt0169364,1998,Grand Coral - Second Prize,,True,True,Wind with the Gone,nm0002159,Alejandro Agresti,Wind with the Gone,1998.0,Comedy,127792
+tt0213324,1998,Coral,Best Film Poster,True,True,El último Carnaval,,[],El último Carnaval,2007.0,Others,6643
+tt0140888,1998,Special Jury Prize,,True,True,Central Station,nm0758574,Walter Salles,Central Station,1998.0,Drama,18606116
+tt0244504,2000,Grand Coral - First Prize,,True,True,Me You Them,nm0905343,Andrucha Waddington,Me You Them,2001.0,Comedy,1283346
+tt0245712,2000,Coral,Best First Work,True,True,Amores perros,nm0327944,Alejandro G. Iñárritu,Amores Perros,2001.0,Drama,38017184
+tt0179137,2000,Best Actor,,True,True,Coronation,nm0432553,Julio Jung,Coronation,2000.0,Drama,19256
+tt0227277,2000,Best Cinematography,,True,True,Burnt Money,nm0005790,Alfredo Mayo,Burnt Money,2001.0,Others,544673
+tt0221344,2000,Best Editing,,True,True,Herod's Law,nm0261840,Luis Estrada,Herod's Law,2000.0,Comedy,157446
+tt0276176,2000,Audience Award,,True,True,Playing Swede,nm0246499,Daniel Díaz Torres,Playing Swede,2001.0,Comedy,9572
+tt0240419,2001,Grand Coral - First Prize,,True,True,La Ciénaga,nm0551506,Lucrecia Martel,La Ciénaga,2001.0,Comedy,386875
+tt0291507,2001,Grand Coral - Third Prize,,True,True,A Cab for Three,nm0530668,Orlando Lübbert,A Cab for Three,2001.0,Others,45185
+tt0309897,2001,Coral,Best First Work,True,True,Nothing More,nm1117808,Juan Carlos Cremata Malberti,Nothing More,2002.0,Comedy,9225
+tt0241663,2001,Special Jury Prize,,True,True,To the Left of the Father,nm0142461,Luiz Fernando Carvalho,To the Left of the Father,2002.0,Drama,731416
+tt0273812,2001,Special Mention,,True,True,Honey for Oshun,nm0813695,Humberto Solás,Honey for Oshun,2002.0,Comedy,18686
+tt0292542,2001,Audience Award,,True,True,Son of the Bride,nm0002728,Juan José Campanella,Son of the Bride,2002.0,Comedy,13180559
+tt0245574,2001,FIPRESCI Prize,,True,True,Y tu mamá también,nm0190859,Alfonso Cuarón,Y Tu Mamá También,2002.0,Drama,67449250
+tt0303392,2002,Grand Coral - First Prize,Documentary,True,True,Missing Young Woman,nm0692409,Lourdes Portillo,Missing Young Woman,2002.0,Others,25563
+tt0317248,2002,Grand Coral - First Prize,,True,True,City of God,nm0576987,Fernando Meirelles,City of God,2004.0,Others,52489246
+tt0324158,2002,Grand Coral - First Prize,,True,True,Suddenly,nm1195308,Diego Lerman,Suddenly,2003.0,Comedy,276842
+tt0291988,2002,Grand Coral - Second Prize,,True,True,Intimate Stories,nm0815044,Carlos Sorin,Intimate Stories,2003.0,Comedy,600121
+tt0303408,2002,Grand Coral - Third Prize,,True,True,The Trespasser,nm0105242,Beto Brant,The Trespasser,2002.0,Drama,47676
+tt0322824,2002,Coral,Best First Work,True,True,Japón,nm1196161,Carlos Reygadas,Japón,2003.0,Drama,321627
+tt0317887,2002,Special Jury Prize,Best First Work,True,True,Madame Satã,nm0014694,Karim Aïnouz,Madame Satã,2002.0,Others,870181
+tt0318523,2002,Special Jury Prize,,True,True,Red Bear,nm0128382,Israel Adrián Caetano,Red Bear,2003.0,Others,425452
+tt0291003,2002,Best Director,,True,True,Behind the Sun,nm0758574,Walter Salles,Behind the Sun,2001.0,Drama,1194026
+tt0313196,2002,Best Screenplay,,True,True,The Crime of Padre Amaro,nm0508200,Vicente Leñero,The Crime of Padre Amaro,2002.0,Drama,46213054
+tt0329330,2002,OCIC Award - Special Mention,,True,True,Common Ground,nm0034899,Adolfo Aristarain,Common Ground,2003.0,Drama,2965588
+tt0321376,2002,Memoria Documentary Award,,True,True,Cuban Rafters,nm2060660,Josep Maria Domènech,Cuban Rafters,2003.0,Others,56709
+tt0340468,2003,Grand Coral - First Prize,Documentary,True,True,Bus 174,nm0655683,José Padilha,Bus 174,2003.0,Others,618416
+tt0384566,2003,Grand Coral - First Prize,,True,True,Havana Suite,nm0702148,Fernando Pérez,Havana Suite,2006.0,Others,74866
+tt0379199,2003,Grand Coral - First Prize,,False,False,The Middle of the World,nm0025241,Vicente Amorim,The Middle of the World,2004.0,Drama,18106
+tt0320042,2003,Grand Coral - Third Prize,,True,True,Kamchatka,nm0686304,Marcelo Piñeyro,Kamchatka,2002.0,Drama,4847656
+tt0293007,2003,Special Jury Prize,,True,True,Carandiru,nm0002199,Hector Babenco,Carandiru,2004.0,Others,15175535
+tt0367859,2003,Best Actor,,True,True,The Man Who Copied,nm0708698,Lázaro Ramos,The Man Who Copied,2004.0,Comedy,66309
+tt0476298,2003,Best Unpublished Screenplay,,True,True,Madeinusa,nm2013191,Claudia Llosa,Madeinusa,2006.0,Drama,313286
+tt0317603,2003,Best Cinematography - Mention,,True,True,Strange,nm0066960,Willi Behnisch,Strange,2003.0,Drama,38227
+tt0362496,2003,OCIC Award - Special Mention,,True,True,Captive,nm0083216,Gaston Biraben,Captive,2004.0,Drama,44343
+tt0317772,2003,Award of the Havana University,,True,True,Arcibel's Game,nm0496029,Alberto Lecchi,Arcibel's Game,2004.0,Drama,62263
+tt0331370,2004,Grand Coral - First Prize,,True,False,Whisky,nm0714261,Juan Pablo Rebella,Whisky,2004.0,Comedy,848383
+tt0356487,2004,Coral,Best First Work,True,True,Whisky Romeo Zulu,nm0684127,Enrique Piñeyro,Whisky Romeo Zulu,2005.0,Drama,782884
+tt0347449,2004,Coral,Sound,True,True,Avellaneda's Moon,nm0246623,José Luis Díaz,Avellaneda's Moon,2005.0,Comedy,5310991
+tt0383862,2004,Best Actress,,True,True,Roma,nm0669789,Susú Pecoraro,Roma,2005.0,Drama,1917809
+tt1064926,2004,Best Unpublished Screenplay,,True,True,Lamb of God,nm1282664,Lucía Cedrón,Lamb of God,2008.0,Drama,608809
+tt1368491,2004,Best Unpublished Screenplay - Mention,,True,True,Undertow,nm1659906,Javier Fuentes-León,Undertow,2010.0,Drama,719252
+tt0364270,2004,FIPRESCI Prize,,True,True,Little Sky,nm0579653,María Victoria Menis,Little Sky,2005.0,Drama,89127
+tt0288569,2005,Grand Coral - First Prize,,True,True,Iluminados por el fuego,nm0061944,Tristán Bauer,Iluminados por el fuego,2006.0,Others,983112
+tt0474642,2005,Grand Coral - Third Prize,,True,True,En la cama,nm1498570,Matías Bize,En la cama,2006.0,Drama,272416
+tt0378284,2005,Coral,Best Cinematography,True,True,Machuca,nm1098286,M.I. Littin-Menz,Machuca,2005.0,Others,4307432
+tt0499311,2005,Special Jury Prize,,True,True,Barrio Cuba,nm0813695,Humberto Solás,Barrio Cuba,2006.0,Drama,188051
+tt0456899,2005,Special Mention,Best First Work,True,True,Lower City,nm0532509,Sérgio Machado,Lower City,2006.0,Drama,462267
+tt0318765,2005,Best Actress,,True,True,The Wind,nm0182074,Antonella Costa,The Wind,2005.0,Drama,456931
+tt0196811,2005,Audience Award,,True,True,Olga,nm0598173,Jayme Monjardim,Olga,2004.0,Others,82018
+tt0420509,2005,FIPRESCI Prize,Best Film,True,True,The Aura,nm0081433,Fabián Bielinsky,The Aura,2006.0,Others,2377363
+tt0398664,2005,Radio Havana Award,,True,True,Northeast,nm0812626,Juan Solanas,Northeast,2005.0,Drama,71690
+tt0441297,2005,CARACOL Award,,True,True,Habana Blues,nm0952583,Benito Zambrano,Habana Blues,2005.0,Drama,4857641
+tt0480126,2005,Saúl Yelín Award,,True,True,La dignidad de los nadies,nm0812625,Fernando E. Solanas,La dignidad de los nadies,2006.0,Others,7603
+tt0841175,2006,Grand Coral - First Prize,,True,True,Love for Sale,nm0014694,Karim Aïnouz,Love for Sale,2007.0,Drama,34105
+tt0951297,2006,Grand Coral - Second Prize,Opera Prima,True,True,How Much Further,nm0379409,Tania Hermida,How Much Further,2009.0,Drama,582829
+tt0865438,2006,Grand Coral - Second Prize,,True,True,The Road to San Diego,nm0815044,Carlos Sorin,The Road to San Diego,2007.0,Comedy,24135
+tt0492869,2006,Coral,Best Score,True,True,Antonia,nm0998274,Beto Villares,Antonia,2007.0,Drama,8702
+tt1002459,2006,Special Jury Prize,,True,True,Forbidden to Forbid,nm0244525,Jorge Durán,Forbidden to Forbid,2007.0,Drama,226745
+tt0462242,2006,Best Actor,,True,True,El custodio,nm0154509,Julio Chávez,El custodio,2007.0,Drama,205820
+tt0439547,2006,Audience Award,Best Film,True,True,Two Sons of Francisco,nm0798595,Breno Silveira,Two Sons of Francisco,2006.0,Others,19492824
+tt0483179,2007,Grand Coral - First Prize,Documentary,True,False,The Sugar Curtain,nm2050821,Camila Guzmán Urzúa,The Sugar Curtain,2007.0,Others,83694
+tt0984175,2007,Grand Coral - First Prize,First Work,True,True,Alice's House,nm0854098,Chico Teixeira,Alice's House,2007.0,Drama,317771
+tt0841925,2007,Grand Coral - First Prize,,True,True,Silent Light,nm1196161,Carlos Reygadas,Silent Light,2007.0,Drama,1146987
+tt0990443,2007,Grand Coral - Second Prize,First Work,True,True,Used Parts,nm1848095,Aarón Fernández Lesur,Used Parts,2008.0,Drama,145613
+tt0857355,2007,Grand Coral - Second Prize,,True,True,The Year My Parents Went on Vacation,nm0357463,Cao Hamburger,The Year My Parents Went on Vacation,2007.0,Drama,5962149
+tt0499540,2007,Grand Coral - Third Prize,,True,True,The Other,nm0745438,Ariel Rotter,The Other,2007.0,Drama,369071
+tt1002581,2007,Special Jury Prize,Documentary,True,True,Argentina latente,nm0812625,Fernando E. Solanas,Argentina latente,2007.0,Others,38831
+tt0808267,2007,Mention,,True,True,Fiesta Patria,nm0893562,Luis R. Vera,Fiesta Patria,2008.0,Others,43620
+tt1230463,2007,Best Actress,,True,True,Kill Them All,nm1498581,Roxana Blanco,Kill Them All,2007.0,Drama,96368
+tt0462230,2007,Best Editing,,True,True,El cobrador: In God We Trust,nm0534451,Juan Carlos Macías,El cobrador: In God We Trust,2007.0,Drama,140494
+tt0813630,2007,FIPRESCI Prize,,True,True,A Stray Girlfriend,nm1195064,Ana Katz,A Stray Girlfriend,2007.0,Drama,65499
+tt1183942,2008,Grand Coral - First Prize,First Work,True,True,Parque vía,nm2737486,Enrique Rivero,Parque vía,2009.0,Drama,37729
+tt1223975,2008,Grand Coral - First Prize,,True,True,Tony Manero,nm1883257,Pablo Larraín,Tony Manero,2008.0,Drama,827071
+tt0848596,2008,Grand Coral - Second Prize,First Work,True,True,Mutum,nm0463156,Sandra Kogut,Mutum,2009.0,Drama,175621
+tt0803029,2008,Grand Coral - Second Prize,,True,True,Linha de Passe,nm0758574,Walter Salles,Linha de Passe,2010.0,Drama,1793818
+tt0815490,2008,Grand Coral - Third Prize,First Work,True,True,Acné,nm0992159,Federico Veiroj,Acné,2008.0,Comedy,97510
+tt1284978,2008,Grand Coral - Third Prize,,True,True,Horn of Plenty,nm0846119,Juan Carlos Tabío,Horn of Plenty,2008.0,Comedy,671611
+tt1022606,2008,Special Jury Prize,,True,True,Lion's Den,nm0871086,Pablo Trapero,Lion's Den,2008.0,Others,1007206
+tt1341166,2008,Mention,Best First Work,True,True,FilmeFobia,nm1463602,Kiko Goifman,FilmeFobia,2009.0,Drama,14464
+tt1327798,2008,Mention,,True,True,The Good Life,nm0939540,Andrés Wood,The Good Life,2008.0,Drama,292656
+tt1204366,2008,Best Cinematography,,True,True,Desierto adentro,nm0757921,Serguei Saldívar Tanaka,Desierto adentro,2009.0,Drama,58512
+tt1116944,2008,Best Music,,True,True,Another Love Story,nm1233581,Fernando Moura,Another Love Story,2008.0,Drama,105493
+tt1283896,2008,Best Sound,,True,True,Gods,nm1427460,Rufino Basavilbaso,Gods,2008.0,Drama,344597
+tt1319695,2009,Grand Coral - First Prize,Animation,True,False,"31 minutos, la película",nm1425747,Pedro Peirano,"31 minutos, la película",2008.0,Others,1500738
+tt1206488,2009,Grand Coral - First Prize,,True,True,The Milk of Sorrow,nm2013191,Claudia Llosa,The Milk of Sorrow,2009.0,Drama,1853820
+tt1360866,2009,Grand Coral - Second Prize,First Work,True,True,Giant,nm2254150,Adrián Biniez,Giant,2009.0,Drama,601057
+tt1187044,2009,Grand Coral - Second Prize,,True,True,The Maid,nm2928364,Sebastián Silva,The Maid,2009.0,Comedy,2744574
+tt1333639,2009,Grand Coral - Third Prize,Documentary,True,True,The General,nm1094895,Natalia Almada,The General,2009.0,Others,11441
+tt1143148,2009,Grand Coral - Third Prize,First Feature Competition,True,True,Nora's Will,nm1662689,Mariana Chenillo,Nora's Will,2010.0,Comedy,190868
+tt1388402,2009,Grand Prize Coral,,False,False,Bad Day to Go Fishing,nm1304308,Álvaro Brechner,Bad Day to Go Fishing,2010.0,Comedy,286620
+tt1483795,2009,Coral,Best Artistic Contribution,True,True,The Famous and the Dead,nm2296828,Esmir Filho,The Famous and the Dead,2010.0,Drama,27167
+tt1016321,2009,Coral,Best Cinematography,True,True,Adrift,nm1628660,Ricardo Della Rosa,Adrift,2011.0,Drama,536534
+tt1726888,2009,Coral,Unproduced Script (Guión Inédito),True,True,Clandestine Childhood,nm1198000,Benjamín Ávila,Clandestine Childhood,2012.0,Drama,1349312
+tt2091235,2009,Coral,Unproduced Script (Guión Inédito),False,False,My Straight Son,nm1133652,Miguel Ferrari,My Straight Son,2014.0,Drama,4536794
+tt1561315,2009,Special Jury Prize,Documentary,True,True,Fragmentos rebelados,nm0087905,David Blaustein,Fragmentos rebelados,2009.0,Others,809
+tt1305806,2009,Special Jury Prize,,True,True,The Secret in Their Eyes,nm0002728,Juan José Campanella,The Secret in Their Eyes,2010.0,Drama,57417461
+tt1257579,2009,Best Screenplay,,True,True,Backyard,nm0075843,Sabina Berman,Backyard,2009.0,Others,972840
+tt1719497,2010,Grand Coral - First Prize,Best Film,True,False,A Useful Life,nm0992159,Federico Veiroj,A Useful Life,2011.0,Drama,24977
+tt1714886,2010,Grand Coral - Second Prize,Best Film,True,True,Post mortem,nm1883257,Pablo Larraín,Post Mortem,2012.0,Drama,293104
+tt1313254,2010,Special Jury Prize,Best Film,True,True,The Invisible Eye,nm1195308,Diego Lerman,The Invisible Eye,2011.0,Drama,124429
+tt1588358,2010,Special Jury Prize,Best First Work,True,True,Brother,nm2308899,Marcel Rasquin,Brother,2010.0,Drama,1891315
+tt1646118,2010,Cibervoto Award,First Film,True,True,October,nm3307029,Diego Vega Vidal,October,2010.0,Drama,188333
+tt1322277,2010,Opera Prima,Opera Prima,False,False,The Assailant,nm1700273,João Daniel Tikhomiroff,The Assailant,2011.0,Others,2294579
+tt1692190,2011,Grand Coral - First Prize,Best Film,True,True,El Narco,nm0261840,Luis Estrada,El Narco,2010.0,Others,7842744
+tt1964948,2011,Grand Coral - First Prize,Best Film,False,False,Mother and Daughter,nm3309755,Petrus Cariry,Mother and Daughter,2012.0,Drama,2105
+tt1725057,2011,Grand Coral - Second Prize,Best Film,True,True,The Silver Cliff,nm0014694,Karim Aïnouz,O Abismo Prateado,2013.0,Drama,45568
+tt2023367,2011,Grand Coral - Second Prize,First Work,True,True,Back to Stay,nm1436684,Milagros Mumenthaler,Back to Stay,2012.0,Drama,63396
+tt2167895,2011,Coral,Best Artistic Contribution,True,True,Southwest,nm1177753,Eduardo Nunes,Southwest,2013.0,Drama,8248
+tt1555149,2011,Special Jury Prize,Best Film,True,True,Elite Squad: The Enemy Within,nm0655683,José Padilha,Elite Squad: The Enemy Within,2011.0,Others,73253851
+tt2044009,2011,Special Jury Prize,First Work,True,True,Swirl,nm1080858,Clarissa Campolina,Swirl,2012.0,Drama,16005
+tt1705786,2011,Special Mention,Best Film,True,True,Chinese Take-Out,nm0096375,Sebastián Borensztein,Chinese Take-Out,2012.0,Comedy,7953539
+tt2091291,2011,Mention,Best Documentary,True,True,The Marriage,nm1212968,Aldo Garay,The Marriage,2012.0,Others,2598
+tt1720114,2011,Best Actor,,True,True,Heleno,nm0763928,Rodrigo Santoro,Heleno: O Príncipe Maldito,2012.0,Others,2368841
+tt1835951,2011,Best Screenplay,,True,True,The Kid Who Lies,nm0880134,Marité Ugas,The Kid Who Lies,2011.0,Drama,690351
+tt1913002,2011,FIPRESCI Prize,Best Film,True,True,Bonsái,nm1825141,Cristián Jiménez,Bonsái,2011.0,Drama,79286
+tt2059255,2012,Grand Coral - First Prize,Best Film,True,False,No,nm1883257,Pablo Larraín,No,2012.0,Drama,11094761
+tt2072993,2012,Grand Coral - First Prize,Best Film,False,False,Hoje,nm0024015,Tata Amaral,Hoje,2013.0,Drama,44890
+tt2014392,2012,Grand Coral - Second Prize,Best Film,True,True,Violeta Went to Heaven,nm0939540,Andrés Wood,Violeta Went to Heaven,2012.0,Others,1390193
+tt2200908,2012,Grand Coral - Third Prize,Best Film,True,True,Rat Fever,nm1095011,Cláudio Assis,Rat Fever,2012.0,Drama,117337
+tt1666318,2012,Coral,Best Score,True,True,The Delay,nm0509390,Jacobo Lieberman,The Delay,2013.0,Drama,12342
+tt2184331,2012,Coral,Opera Prima,False,False,Una noche,nm2280980,Lucy Mulloy,Una noche,2012.0,Drama,236339
+tt2387455,2012,Special Mention,Best First Work,True,True,The Cleaner,nm3929944,Adrián Saba,The Cleaner,2013.0,Drama,21783
+tt2368749,2012,Best Director,,True,True,After Lucia,nm1633015,Michel Franco,After Lucia,2013.0,Drama,1751902
+tt2852376,2013,Grand Coral - First Prize,Best Film,True,True,Heli,nm1661334,Amat Escalante,Heli,2013.0,Others,402528
+tt2199439,2013,Grand Coral - First Prize,Best Film,False,False,La distancia más larga,nm2323201,Claudia Pinto,La distancia más larga,2014.0,Drama,1472346
+tt2475154,2013,Grand Coral - First Prize,Documentary,True,False,Elena,nm3525467,Petra Costa,Elena,2013.0,Others,405731
+tt2861532,2013,Grand Coral - First Prize,First Work,True,False,A Wolf at the Door,nm2036500,Fernando Coimbra,A Wolf at the Door,2014.0,Others,481228
+tt1921129,2013,Grand Coral - Second Prize,Best Film,True,True,The Militant,nm0631315,Manolo Nieto,The Militant,2014.0,Drama,5445
+tt2414046,2013,Grand Coral - Second Prize,First Work,True,True,The Amazing Catfish,nm2404755,Claudia Sainte-Luce,The Amazing Catfish,2014.0,Comedy,345741
+tt2425486,2013,Grand Coral - Third Prize,Best Film,True,True,Gloria,nm0133326,Sebastián Lelio,Gloria,2013.0,Comedy,9509790
+tt2746176,2013,Coral,Best Artistic Contribution,True,True,Tattoo,nm2046691,Irandhir Santos,Tattoo,2013.0,Drama,188761
+tt3074610,2013,Special Jury Prize,Best Film,True,True,Bad Hair,nm0740048,Mariana Rondón,Bad Hair,2014.0,Drama,2861245
+tt2042583,2013,Special Jury Prize,First Work,True,True,The Golden Dream,nm0004033,Diego Quemada-Díez,The Golden Dream,2013.0,Drama,1117430
+tt2718462,2013,Best Actor,,True,True,The Reconstruction,nm0673391,Diego Peretti,The Reconstruction,2014.0,Drama,674743
+tt1847746,2013,Best Director,,True,True,The German Doctor,nm0699932,Lucía Puenzo,The German Doctor,2014.0,Drama,3704626
+tt2820226,2013,Best Editing,,True,True,The Last Call,nm1139763,Mariana Rodríguez,The Last Call,2014.0,Comedy,417748
+tt2638480,2013,Best Sound,,True,True,Yvy Maraey,nm0276454,Ramiro Fierro,Yvy Maraey,2013.0,Drama,23419
+tt3595966,2014,Grand Coral - First Prize,Best Film,True,True,Conducta,nm1954936,Ernesto Daranas,Conducta,2015.0,Drama,161537
+tt3499048,2014,Grand Coral - First Prize,First Work,True,False,Güeros,nm2091911,Alonso Ruizpalacios,Güeros,2014.0,Comedy,175129
+tt2642524,2014,Grand Prize Coral,,False,False,Mr. Kaplan,nm1304308,Álvaro Brechner,Mr. Kaplan,2014.0,Comedy,218497
+tt3238338,2014,Special Jury Prize,Best Film,True,True,Dust on the Tongue,nm0579370,Rubén Mendoza,Dust on the Tongue,2014.0,Drama,19067
+tt3011894,2014,Best Director,,True,True,Wild Tales,nm1167933,Damián Szifron,Wild Tales,2014.0,Comedy,32353447
+tt1964860,2014,Best Screenplay,,True,True,The Third Side of the River,nm0575690,Gabriel Medina,The Third Side of the River,2014.0,Drama,24863
+tt3717390,2014,Best Cinematography,,True,True,Refugiado,nm0823430,Wojciech Staron,Refugiado,2014.0,Drama,188792
+tt3460184,2014,Best Art Direction,,True,True,Lock Charmer,nm0837271,María Eugenia Sueiro,Lock Charmer,2014.0,Drama,19253
+tt2199543,2014,Best Music,Best Music,True,True,Futuro Beach,nm2890617,Volker Bertelmann,Futuro Beach,2015.0,Drama,871086
+tt4375438,2015,Grand Coral - First Prize,Best Film,True,False,The Club,nm1883257,Pablo Larraín,The Club,2015.0,Comedy,638527
+tt4721400,2015,Grand Coral - First Prize,First Work,True,False,From Afar,nm1729237,Lorenzo Vigas,From Afar,2015.0,Drama,194471
+tt3806654,2015,Coral,Best Editing,False,False,To My Beloved,nm5227778,João Menna Barreto,To My Beloved,2015.0,Drama,22116
+tt4899406,2015,Special Jury Prize,Best Film,True,True,Neon Bull,nm3486709,Gabriel Mascaro,Neon Bull,2015.0,Drama,214841
+tt4072352,2015,Special Jury Prize,First Work,True,True,Magallanes,nm0215938,Salvador del Solar,Magallanes,2015.0,Drama,1068566
+tt4863784,2015,Best Actor,,True,True,I Promise You Anarchy,nm3886586,Diego Calva Hernández,I Promise You Anarchy,2016.0,Drama,6721
+tt4569240,2015,Best Actress,,True,True,A Monster with a Thousand Heads,nm1196107,Jana Raluy,A Monster with a Thousand Heads,2015.0,Drama,55567
+tt4955012,2015,Best Cinematography,,True,True,Incident Light,nm0631286,Guillermo Nieto,Incident Light,2016.0,Drama,65610
+tt4285496,2015,Best Editing,,True,True,Embrace of the Serpent,nm1171691,Etienne Boussac,Embrace of the Serpent,2015.0,Others,5041646
+tt3633992,2015,Best New Director,Operas Primas,False,False,Paula,nm6085063,Eugenio Canevari,Paula,2015.0,Drama,992581
+tt4954564,2015,SIGNIS Award,Best Picture,True,True,Campo Grande,nm0463156,Sandra Kogut,Campo Grande,2016.0,Drama,6204
+tt4562518,2016,Coral,Best Screenplay,True,True,The Distinguished Citizen,nm3321995,Andrés Duprat,The Distinguished Citizen,2017.0,Comedy,4685710
+tt5070130,2016,Special Jury Prize,First Work,True,True,Rara,nm1930893,Pepa San Martín,Rara,2016.0,Drama,83848
+tt4123876,2016,Special Mention,Best First Work,True,True,Oscuro animal,nm2050643,Felipe Guerrero,Oscuro animal,2016.0,Drama,9499
+tt5786012,2016,Audience Award,Best Film,False,False,Fin de Semana,nm4008066,Moroco Colman,Fin de Semana,2016.0,Drama,7894
+tt5221584,2016,FIPRESCI Prize,Best Film,True,True,Aquarius,nm2207625,Kleber Mendonça Filho,Aquarius,2016.0,Drama,3564669
+tt7297954,2017,Grand Coral - First Prize,Best Film,True,False,Alanis,,[],Alanis,2018.0,Drama,80274
+tt4673790,2017,Grand Coral - First Prize,Best Film,False,False,Vazante,nm0858680,Daniela Thomas,Vazante,2018.0,Others,50492
+tt5639354,2017,Special Jury Prize,Best Film,True,True,A Fantastic Woman,,[],A Fantastic Woman,2018.0,Drama,5874061
+tt3409848,2017,FIPRESCI Prize,Best Film,True,True,Zama,nm0551506,Lucrecia Martel,Zama,2017.0,Drama,714704
+tt5065762,2017,Premio Coral,Best Sound,True,True,Últimos días en La Habana,nm2252404,Sheyla Pool,Últimos días en La Habana,2017.0,Drama,33024
+tt6792282,2018,Coral,Best Editing,True,True,A Twelve-Year Night,nm0749593,Nacho Ruiz Capillas,A Twelve-Year Night,2018.0,Others,817524
+tt6386748,2018,Coral,Best Film,True,True,Birds of Passage,nm5305003,Cristina Gallego,Birds of Passage,2019.0,Drama,2822716
+tt8846072,2018,Coral,Best Film,False,False,Belmonte,nm0992159,Federico Veiroj,Belmonte,2019.0,Comedy,7184
+tt7204348,2018,Coral,Best Film,False,True,El Angel,nm1166781,Luis Ortega,El Angel,2018.0,Others,5785383
+tt8437838,2018,Coral,Best Film,False,True,Joel,nm0815044,Carlos Sorin,Joel,2018.0,Drama,105892
+tt4958448,2018,Coral,Best Film,False,False,Museo,nm2091911,Alonso Ruizpalacios,Museo,2018.0,Others,919315
+tt5265964,2018,Coral,Best Film,False,False,Our Time,nm1196161,Carlos Reygadas,Our Time,2019.0,Drama,46195
+tt8956390,2018,Coral,Best Film,False,False,Rojo,nm3028737,Benjamín Naishtat,Rojo,2019.0,Drama,459634
+tt7952000,2018,Coral,Best Film,False,False,The Accused,nm1886112,Gonzalo Tobal,The Accused,2019.0,Others,1589812
+tt7482212,2018,Coral,Best Film,False,True,The Good Girls,nm7287484,Rodrigo Sebastian Gonzalez,The Good Girls,2018.0,Drama,741782
+tt8331988,2018,Special Jury Prize,Best First Work,True,True,The Chambermaid,nm3569165,Lila Avilés,The Chambermaid,2019.0,Drama,149031
+tt6400166,2018,Sara Gómez Award,,True,True,My Best Friend,,[],My Best Friend,2018.0,Drama,14476
+tt8327492,2018,Festival Award,Best Animation,True,True,Tito and the Birds,nm0825756,Gustavo Steinberg,Tito and the Birds,2018.0,Others,8755

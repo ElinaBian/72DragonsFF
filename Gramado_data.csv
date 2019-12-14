@@ -1,0 +1,82 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0103030,1992,Golden Kikito,Best Ibero-American Film (Melhor Filme),True,False,High Heels,nm0000264,Pedro Almodóvar,High Heels,1991.0,Comedy,6337949
+tt0104774,1993,Golden Kikito,Best Latin Film (Melhor Filme),True,False,A Place in the World,nm0034899,Adolfo Aristarain,A Place in the World,1994.0,Drama,348562
+tt0103791,1993,Golden Kikito,Best Latin Film (Melhor Filme),True,True,Belle Epoque,nm0874096,Fernando Trueba,Belle Epoque,1994.0,Comedy,18876813
+tt0103994,1993,Golden Kikito,Best Latin Film (Melhor Filme),False,True,Like Water for Chocolate,nm0000778,Alfonso Arau,Like Water for Chocolate,1993.0,Drama,76929640
+tt0107471,1993,Golden Kikito,Best Latin Film (Melhor Filme),False,False,My Favorite Season,nm0029242,André Téchiné,My Favorite Season,1996.0,Drama,2857484
+tt0106966,1994,Golden Kikito,Best Latin Film (Melhor Filme),True,True,Strawberry and Chocolate,nm0349425,Tomás Gutiérrez Alea,Strawberry and Chocolate,1995.0,Comedy,7087289
+tt0112387,1995,Golden Kikito,Best Editing (Melhor Montagem),True,False,Fresh Bait,nm0344424,Luce Grunenwaldt,Fresh Bait,1995.0,Others,68557
+tt0109949,1996,Golden Kikito,Latin Competition: Best Film (Competição Latino: Melhor Filme),True,True,Guantanamera,nm0349425,Tomás Gutiérrez Alea,Guantanamera,1997.0,Comedy,2878186
+tt0117883,1996,Golden Kikito,Latin Competition: Best Film (Competição Latino: Melhor Filme),False,False,Thesis,nm0024622,Alejandro Amenábar,Thesis,1997.0,Others,22779
+tt0125061,1998,Golden Kikito,Best Film (Melhor Filme),False,False,Esmeralda Comes by Night,nm0379445,Jaime Humberto Hermosillo,Esmeralda Comes by Night,1998.0,Comedy,48957
+tt0192745,1999,Golden Kikito,Best Film (Melhor Filme),False,False,Life is to Whistle,nm0702148,Fernando Pérez,Life is to Whistle,1999.0,Drama,98881
+tt0133363,1999,Golden Kikito,Best Film (Melhor Filme),True,True,Lovers of the Arctic Circle,nm0575523,Julio Medem,Lovers of the Arctic Circle,1999.0,Drama,1037830
+tt0146664,1999,Golden Kikito,Best Film (Melhor Filme),False,False,The Day Silence Died,nm0012910,Paolo Agazzi,The Day Silence Died,2000.0,Comedy,2558
+tt0126651,2000,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,False,Santitos,nm0663415,Salvador Parra,Santitos,1999.0,Comedy,755911
+tt0190611,2000,Golden Kikito,Best Editing (Melhor Montagem),True,True,Captain Pantoja and the Special Services,nm0277217,Danielle Fillios,Captain Pantoja and the Special Services,2002.0,Comedy,54187
+tt0210843,2000,Golden Kikito,Best Film (Melhor Filme),False,False,"El mismo amor, la misma lluvia",nm0002728,Juan José Campanella,"El mismo amor, la misma lluvia",1999.0,Comedy,3630661
+tt0179137,2001,Golden Kikito,"Latin Film Competiton - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,False,Coronation,nm0129028,Silvio Caiozzi,Coronation,2000.0,Drama,19256
+tt0291507,2002,Golden Kikito,"Latin Film Competiton - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,False,A Cab for Three,nm0530668,Orlando Lübbert,A Cab for Three,2001.0,Others,45185
+tt0292542,2002,Golden Kikito,"Latin Film Competiton - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,True,Son of the Bride,nm0002728,Juan José Campanella,Son of the Bride,2002.0,Comedy,13180559
+tt0319769,2003,Golden Kikito,"Latin Film Competititon - Best Film (Longa Metragem em 35 mm, Latinos - Melhor Filme)",True,True,Mondays in the Sun,nm0508208,Fernando León de Aranoa,Mondays in the Sun,2003.0,Comedy,14044477
+tt0318380,2003,Golden Kikito,"Latin Film Competititon - Best Film (Longa Metragem em 35 mm, Latinos - Melhor Filme)",False,False,Bedtime Fairy Tales for Crocodiles,nm0651148,Ignacio Ortiz,Bedtime Fairy Tales for Crocodiles,2003.0,Drama,27551
+tt0329330,2003,Golden Kikito,"Latin Film Competititon - Best Film (Longa Metragem em 35 mm, Latinos - Melhor Filme)",False,False,Common Ground,nm0034899,Adolfo Aristarain,Common Ground,2003.0,Drama,2965588
+tt0303267,2003,Special Jury Award,"Latin Film Competititon (Longa Metragem em 35 mm, Latinos)",True,True,The Last Train,nm0037597,Diego Arsuaga,The Last Train,2003.0,Others,676771
+tt0331370,2004,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,True,Whisky,nm0714261,Juan Pablo Rebella,Whisky,2004.0,Comedy,848383
+tt0384566,2004,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,True,Havana Suite,nm0702148,Fernando Pérez,Havana Suite,2006.0,Others,74866
+tt0325444,2005,Golden Kikito,"Brazilian Film Competition - Best Film (Longa Metragem em 35 mm, Brasileiros - Melhor Filme)",True,False,Gaijin - Ama-me Como Sou,nm0945592,Tizuka Yamasaki,Gaijin - Ama-me Como Sou,2005.0,Others,237392
+tt0477159,2005,Golden Kikito,"Brazilian Film Competition - Best Film (Longa Metragem em 35 mm, Brasileiros - Melhor Filme)",False,False,Carreiras,nm0210659,Domingos de Oliveira,Carreiras,2005.0,Drama,1092
+tt0385889,2005,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,False,A Less Bad World,nm0002159,Alejandro Agresti,A Less Bad World,2004.0,Drama,13669
+tt0377744,2005,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,True,A Day Without a Mexican,nm0033190,Sergio Arau,A Day Without a Mexican,2004.0,Comedy,19239630
+tt0356446,2005,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,False,Buenos Aires 100 Km,nm1334961,Pablo José Meza,Buenos Aires 100 Km,2005.0,Drama,8014
+tt0438893,2005,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,False,Kiss Me,nm0196088,António da Cunha Telles,Kiss Me,2004.0,Drama,85777
+tt0922605,2006,Golden Kikito,"Brazilian Film Competition - Best Cinematography (Longa Metragem 35 mm, Brasileiros - Melhor Fotografia)",True,False,Serras da desordem,nm0712084,Aloysio Raulino,Serras da desordem,2006.0,Others,20002
+tt0451966,2006,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,True,The Violin,nm0889829,Francisco Vargas,The Violin,2006.0,Drama,1584885
+tt1018710,2007,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,True,Happy Desert,nm0996965,Moacyr Gramacho,Happy Desert,2007.0,Drama,31099
+tt0468816,2007,Golden Kikito,"Brazilian Film Competition - Best Cinematography (Longa Metragem 35 mm, Brasileiros - Melhor Fotografia)",True,False,Born and Bred,nm0631286,Guillermo Nieto,Born and Bred,2007.0,Drama,94544
+tt1391552,2007,Golden Kikito,"Brazilian Film Competition - Best Screenplay (Longa Metragem em 35mm, Brasileiros - Melhor Roteiro)",True,False,Olho de Boi,nm1005481,Marcos Cesana,Olho de Boi,2008.0,Drama,2876
+tt0482901,2007,Golden Kikito,"Latin Film Competition - Best Screenplay (Longa Metragem em 35mm, Latinos - Melhor Roteiro)",True,True,The Pope's Toilet,nm0153263,César Charlone,The Pope's Toilet,2009.0,Comedy,1353794
+tt0462230,2007,Special Jury Award,Letin Film Competition,True,True,El cobrador: In God We Trust,nm0496694,Paul Leduc,El cobrador: In God We Trust,2007.0,Drama,140494
+tt0882820,2008,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,False,Camila Jam,nm2637955,Pedro Paulo de Souza,Camila Jam,2008.0,Drama,174997
+tt1136609,2008,Golden Kikito,Best Cinematography (Melhor Fotografia),True,True,The Dead Girl's Feast,nm0142464,Lula Carvalho,The Dead Girl's Feast,2008.0,Drama,80876
+tt1157631,2008,Golden Kikito,"Latin Film Competiton - Best Cinematography (Longa Metragem em 35mm, Latinos - Melhor Fotografia)",True,True,Dog Eat Dog,nm5929228,Juan Carlos Gil,Dog Eat Dog,2008.0,Others,193
+tt1511537,2009,Golden Kikito,Best Music,True,True,In Your Name,nm3614710,Renato Muller,In Your Name,2010.0,Drama,590
+tt1206488,2009,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,False,The Milk of Sorrow,nm2013191,Claudia Llosa,The Milk of Sorrow,2009.0,Drama,1853820
+tt1360866,2009,Golden Kikito,"Latin Film Competition - Best Screenplay (Longa Metragem em 35mm, Latinos - Melhor Roteiro)",True,True,Giant,nm2254150,Adrián Biniez,Giant,2009.0,Drama,601057
+tt1194615,2009,Golden Kikito,"Latin Film Competiton - Best Cinematography (Longa Metragem em 35mm, Latinos - Melhor Fotografia)",True,True,Rain,nm0631286,Guillermo Nieto,Rain,2010.0,Drama,192572
+tt1284509,2009,Special Jury Award,"Latin Film Competititon (Longa Metragem em 35 mm, Latinos)",True,True,La próxima estación,nm0812625,Fernando E. Solanas,La próxima estación,2008.0,Others,144898
+tt1679538,2010,Golden Kikito,Best Editing (Melhor Montagem),True,False,Bróder,nm1203982,Quito Ribeiro,Bróder,2011.0,Others,260696
+tt1725023,2010,Golden Kikito,"Latin Film Competition - Best Screenplay (Longa Metragem em 35mm, Latinos - Melhor Roteiro)",True,False,The Old Woman at the Back,nm1334961,Pablo José Meza,The Old Woman at the Back,2010.0,Drama,22686
+tt2103142,2011,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,True,A Long Journey,nm0182259,Mônica Costa,A Long Journey,2011.0,Others,17362
+tt2153980,2011,Golden Kikito,Best Cinematography (Melhor Fotografia),True,False,O Carteiro,nm0377091,Roberto Henkin,O Carteiro,2011.0,Drama,9764
+tt1235841,2011,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,True,Sidewalls,nm1391924,Gustavo Taretto,Sidewalls,2011.0,Comedy,1140483
+tt1696181,2011,Special Jury Award,"Latin Film Competititon (Longa Metragem em 35 mm, Latinos)",True,True,The Bad Intentions,nm1514261,Rosario Garcia-Montero,The Bad Intentions,2012.0,Comedy,98861
+tt1179259,2012,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,True,Buddies,nm2290601,Zenor Ribas,Buddies,2012.0,Others,945883
+tt2316323,2012,Golden Kikito,Best Cinematography (Melhor Fotografia),True,False,Jorge Mautner: O Filho do Holocausto,nm0352637,Gustavo Hadba,Jorge Mautner: O Filho do Holocausto,2012.0,Others,54026
+tt2190367,2012,Golden Kikito,Best Sound (Melhor Som),True,True,Neighboring Sounds,nm2207625,Kleber Mendonça Filho,Neighboring Sounds,2012.0,Drama,585237
+tt2322316,2013,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,False,Until Sbornia Takes Us Apart,nm4761468,Eloar Guazzelli Filho,Until Sbornia Takes Us Apart,2013.0,Others,48338
+tt4842830,2013,Golden Kikito,Best Cinematography (Melhor Fotografia),True,False,Deep Blue Dream,nm7443425,Dida Andrade,Deep Blue Dream,2016.0,Drama,6493
+tt2746176,2013,Golden Kikito,Best Film (Melhor Filme),True,False,Tattoo,nm0479886,Hilton Lacerda,Tattoo,2013.0,Drama,188761
+tt3026224,2013,Golden Kikito,Best Screenplay (Melhor Roteiro),True,False,Primeiro Dia de Um Ano Qualquer,nm0210659,Domingos de Oliveira,Primeiro Dia de Um Ano Qualquer,2012.0,Drama,6602
+tt2355346,2013,Special Jury Award,"Latin Film Competititon (Longa Metragem em 35 mm, Latinos)",True,True,A Oeste do Fim do Mundo,nm2017649,Paulo Nascimento,A Oeste do Fim do Mundo,2013.0,Drama,24714
+tt2550692,2013,Audience Award,"Brazilian Competition (Longa Metragem em 35mm, Brasileiros)",True,True,The Invisible Collection,nm0346069,Otto Guerra,The Invisible Collection,2013.0,Drama,25004
+tt5605728,2014,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,False,A Luneta do Tempo,nm0996965,Moacyr Gramacho,A Luneta do Tempo,2014.0,Drama,18581
+tt1921129,2014,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,False,The Militant,nm0631315,Manolo Nieto,The Militant,2014.0,Drama,5445
+tt1772845,2014,Audience Award,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,True,God's Slave,nm1629105,Joel Novoa,God's Slave,2014.0,Others,938131
+tt3906650,2014,Kikito Critics Prize,"Brazilian Competition (Longa Metragem em 35mm, Brasileiros)",True,True,Necropolis Symphony,nm2193400,Juliana Rojas,Necropolis Symphony,2016.0,Comedy,1311
+tt2249278,2014,Kikito Critics Prize,"Latin Film Competiton (Longa Metragem em 35mm, Latinos)",True,True,The Film Critic,nm0346331,Hernán Guerschuny,The Film Critic,2015.0,Comedy,186175
+tt3922062,2015,Golden Kikito,Best Editing (Melhor Montagem),True,False,Ponto Zero,nm1404599,Federico Brioni,Ponto Zero,2016.0,Drama,19440
+tt4016634,2015,Golden Kikito,Best Music (Melhor Trilha Sonora),False,True,O Outro Lado do Paraíso,nm4077096,Patrick de Jongh,O Outro Lado do Paraíso,2016.0,Drama,8077
+tt3755978,2015,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,True,La Salada,nm1892235,Juan Martín Hsu,La Salada,2015.0,Others,8864
+tt3958286,2015,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",False,False,Zanahoria,nm1989282,Enrique Buchichio,Zanahoria,2014.0,Drama,36214
+tt4875150,2016,Golden Kikito,Best Art Direction (Melhor Direção de Arte),True,True,Elis,,[],Elis,2016.0,Others,2426783
+tt5125930,2016,Golden Kikito,Best Sound (Melhor Som),True,True,The Silence of the Sky,nm2392676,Daniel Turini,The Silence of the Sky,2017.0,Drama,19626
+tt3548664,2016,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,False,Guaraní,nm5427538,Luis Zorraquin,Guaraní,2016.0,Drama,32562
+tt5883632,2016,Special Jury Award,"Latin Film Competititon (Longa Metragem em 35 mm, Latinos)",True,True,Esteros,nm2039399,Papu Curotto,Esteros,2016.0,Drama,8898
+tt5631456,2017,Golden Kikito,Best Cinematography (Melhor Fotografia),True,False,Just Like Our Parents,nm1407419,Pedro J. Márquez,Just Like Our Parents,2017.0,Drama,816830
+tt6866290,2017,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,False,Symphony for Ana,nm1288010,Virna Molina,Symphony for Ana,2017.0,Drama,62346
+tt6259366,2017,Kikito Critics Prize,"Latin Film Competiton (Longa Metragem em 35mm, Latinos)",True,True,Pinamar,nm3184750,Federico Godfrid,Pinamar,2017.0,Drama,15773
+tt7875464,2018,Golden Kikito,"Latin Film Competition - Best Film (Longa Metragem em 35mm, Latinos - Melhor Filme)",True,True,The Heiresses,nm3308584,Marcelo Martinessi,The Heiresses,2019.0,Drama,889248
+tt7851964,2018,Golden Kikito,"Latin Film Competiton - Best Cinematography (Longa Metragem em 35mm, Latinos - Melhor Fotografia)",True,True,Averno,nm0994034,Nelson Wainstein,Averno,2018.0,Others,81416
+tt5707048,2018,Audience Award,"Brazilian Competition (Longa Metragem em 35mm, Brasileiros)",True,True,Loveling,nm3221896,Gustavo Pizzi,Loveling,2018.0,Drama,141053
+tt6452534,2019,Golden Kikito,"Latin Film Competition - Best Screenplay (Longa Metragem em 35mm, Latinos - Melhor Roteiro)",True,False,In the Quarry,nm5426930,Bernardo Antonaccio,In the Quarry,2018.0,Others,19444

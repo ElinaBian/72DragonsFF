@@ -1,0 +1,561 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0045888,1953,Best Film,Best Film,False,False,House of Wax,nm0211964,André De Toth,House of Wax,1953.0,Others,456335714
+tt0044518,1953,Best Film,Best Film,False,False,White Mane,nm0483738,Albert Lamorisse,White Mane,1953.0,Drama,9382231
+tt0052357,1958,Silver Seashell,,True,True,Vertigo,nm0000033,Alfred Hitchcock,Vertigo,1958.0,Others,136926173
+tt0053125,1959,Silver Seashell,,True,True,North by Northwest,nm0000033,Alfred Hitchcock,North by Northwest,1959.0,Others,486565
+tt0056241,1962,OCIC Award,,True,True,The Miracle Worker,nm0671957,Arthur Penn,The Miracle Worker,1962.0,Others,34908
+tt0056210,1963,Golden Seashell,,True,False,Mafioso,nm0490444,Alberto Lattuada,Mafioso,1964.0,Comedy,6595100
+tt0062407,1967,Golden Seashell,,True,False,Two for the Road,nm0002045,Stanley Donen,Two for the Road,1967.0,Comedy,134182
+tt0065671,1971,Silver Seashell,,True,True,Dyadya Vanya,nm0464846,Andrey Konchalovskiy,Dyadya Vanya,1971.0,Drama,12183
+tt0070334,1973,Golden Seashell,Best Film,False,False,The Long Goodbye,nm0000265,Robert Altman,The Long Goodbye,1973.0,Comedy,127591
+tt0070040,1973,Golden Seashell,,True,False,The Spirit of the Beehive,nm0258977,Víctor Erice,The Spirit of the Beehive,1973.0,Drama,733857
+tt0070819,1973,Silver Seashell,,True,True,A Touch of Class,nm0291035,Melvin Frank,A Touch of Class,1973.0,Comedy,105873189
+tt0069762,1974,Golden Seashell,,True,False,Badlands,nm0000517,Terrence Malick,Badlands,1973.0,Others,304841
+tt0072417,1975,Silver Seashell,,True,True,A Woman Under the Influence,nm0001023,John Cassavetes,A Woman Under the Influence,1974.0,Drama,66178645
+tt0072826,1976,Silver Seashell,,True,True,Cousin cousine,nm0006621,Jean-Charles Tacchella,Cousin cousine,1976.0,Comedy,38936385
+tt0076446,1977,Golden Seashell,,True,False,An Unfinished Piece for Mechanical Piano,nm0586482,Nikita Mikhalkov,Unfinished Piece for the Player Piano,1978.0,Drama,7795
+tt0075118,1977,Special Prize of the Jury,,True,True,La question,nm0382327,Laurent Heynemann,La question,1977.0,Drama,31865
+tt0078748,1979,Silver Seashell,Best Cinematography and Special Effects,True,True,Alien,,[],Alien,1979.0,Others,659533024
+tt0083946,1982,OCIC Award,,True,True,Fitzcarraldo,nm0001348,Werner Herzog,Fitzcarraldo,1982.0,Others,7479
+tt0085370,1983,FIPRESCI Prize,,True,True,Entre Nous,nm0476123,Diane Kurys,Entre Nous,1983.0,Others,20114790
+tt0086216,1984,FIPRESCI Prize,,True,True,Rumble Fish,nm0000338,Francis Ford Coppola,Rumble Fish,1983.0,Others,12622957
+tt0089881,1985,OCIC Award,,True,True,Ran,nm0000041,Akira Kurosawa,Ran,1985.0,Others,19577086
+tt0095303,1987,Silver Seashell,,True,True,High Season,nm0672543,Clare Peploe,High Season,1988.0,Comedy,2436368
+tt0098528,1989,Prize San Sebastián,,True,True,True Love,nm0001700,Nancy Savoca,True Love,1989.0,Comedy,5537287
+tt0100150,1990,Golden Seashell,,False,False,Miller's Crossing,nm0001054,Joel Coen,Miller's Crossing,1990.0,Others,19450012
+tt0102035,1991,Golden Seashell,,False,False,Highway 61,nm0567680,Bruce McDonald,Highway 61,1992.0,Comedy,534260
+tt0101597,1991,OCIC Award - Honorable Mention,,True,True,Closet Land,nm0080233,Radha Bharadwaj,Closet Land,1991.0,Drama,980592
+tt0104774,1992,Golden Seashell,,True,True,A Place in the World,nm0034899,Adolfo Aristarain,A Place in the World,1994.0,Drama,348562
+tt0107220,1993,Golden Seashell,Best Film,False,False,Inside Monkey Zetterland,nm0506461,Jefery Levy,Inside Monkey Zetterland,1993.0,Comedy,214383
+tt0110769,1994,Golden Seashell,,False,True,"Red Firecracker, Green Firecracker",nm0372092,Ping He,"Red Firecracker, Green Firecracker",1995.0,Drama,456185
+tt0111102,1994,Golden Seashell,,False,True,Second Best,nm0579580,Chris Menges,Second Best,1994.0,Drama,294598
+tt0111149,1994,Golden Seashell,,False,False,Shallow Grave,nm0000965,Danny Boyle,Shallow Grave,1995.0,Others,7043468
+tt0113774,1995,Golden Seashell,,True,False,Margaret's Museum,nm0710372,Mort Ransen,Margaret's Museum,1996.0,Drama,868868
+tt0114354,1995,Golden Seashell,,False,True,Brother of Sleep,nm0005917,Joseph Vilsmaier,Brother of Sleep,1996.0,Drama,316918
+tt0112857,1995,Golden Seashell,,False,False,Devil in a Blue Dress,nm0002083,Carl Franklin,Devil in a Blue Dress,1995.0,Others,53847973
+tt0113627,1995,Golden Seashell,,False,False,Leaving Las Vegas,nm0001214,Mike Figgis,Leaving Las Vegas,1996.0,Drama,105683460
+tt0113896,1995,Golden Seashell,,False,True,My Family,nm0622695,Gregory Nava,My Family,1995.0,Drama,37205146
+tt0114702,1995,Golden Seashell,,False,False,Total Eclipse,nm0002140,Agnieszka Holland,Total Eclipse,1995.0,Others,1131794
+tt0113557,1995,Golden Seashell,,False,True,Zero Kelvin,nm0596407,Hans Petter Moland,Zero Kelvin,1996.0,Drama,33814
+tt0117969,1996,Golden Seashell,,True,False,Trojan Eddie,nm0533564,Gillies MacKinnon,Trojan Eddie,1997.0,Others,67586
+tt0115639,1996,Golden Seashell,,False,True,Beautiful Girls,nm0001130,Ted Demme,Beautiful Girls,1996.0,Comedy,34967541
+tt0115710,1996,Golden Seashell,,False,False,Blood and Wine,nm0706182,Bob Rafelson,Blood and Wine,1997.0,Others,3505516
+tt0116743,1996,Golden Seashell,,False,False,Kama Sutra: A Tale of Love,nm0619762,Mira Nair,Kama Sutra: A Tale of Love,1997.0,Others,13158784
+tt0125994,1996,Golden Seashell,,False,True,The Emperor's Shadow,nm0955777,Xiaowen Zhou,The Emperor's Shadow,1997.0,Drama,114488
+tt0116277,1996,Golden Seashell,,False,False,The Fan,nm0001716,Tony Scott,The Fan,1996.0,Others,60520586
+tt0117991,1996,Golden Seashell,,False,False,Twelfth Night or What You Will,nm0638080,Trevor Nunn,Twelfth Night or What You Will,1996.0,Comedy,1900453
+tt0116714,1996,Best New Director,,True,True,Johns,nm0798788,Scott Silver,Johns,1997.0,Drama,163155
+tt0126612,1996,Best New Director - Special Mention,,True,True,Pizzicata,nm0935529,Edoardo Winspeare,Pizzicata,1997.0,Drama,17992
+tt0117690,1996,Audience Award,,True,True,Some Mother's Son,nm0313623,Terry George,Some Mother's Son,1996.0,Drama,2163737
+tt0117359,1996,OCIC Award - Honorable Mention,,True,True,Ponette,nm0230695,Jacques Doillon,Ponette,1997.0,Drama,4153859
+tt0118566,1997,Golden Seashell,,False,True,Afterglow,nm0748928,Alan Rudolph,Afterglow,1998.0,Comedy,7770297
+tt0119125,1997,Golden Seashell,,False,True,Firelight,nm0629933,William Nicholson,Firelight,1998.0,Drama,2453891
+tt0126344,1997,Golden Seashell,,False,True,I Went Down,nm0106456,Paddy Breathnach,I Went Down,1998.0,Others,635416
+tt0119657,1997,Golden Seashell,,False,True,Men with Guns,nm0000626,John Sayles,Men with Guns,1998.0,Others,2869867
+tt0119723,1997,Golden Seashell,,False,False,Mrs Dalloway,nm0331296,Marleen Gorris,Mrs Dalloway,1998.0,Drama,10447386
+tt0125980,1997,Golden Seashell,,False,False,Passion in the Desert,nm0193010,Lavinia Currier,Passion in the Desert,1998.0,Others,786702
+tt0119164,1997,OCIC Award,,True,True,The Full Monty,nm0146341,Peter Cattaneo,The Full Monty,1997.0,Comedy,481750419
+tt0169364,1998,Golden Seashell,,True,False,Wind with the Gone,nm0002159,Alejandro Agresti,Wind with the Gone,1998.0,Comedy,127792
+tt0165078,1998,Golden Seashell,,False,True,After Life,nm0466153,Hirokazu Koreeda,After Life,1999.0,Drama,2466253
+tt0120684,1998,Golden Seashell,,False,True,Gods and Monsters,nm0174374,Bill Condon,Gods and Monsters,1998.0,Others,20106105
+tt0167925,1998,Golden Seashell,,False,False,"Late August, Early September",nm0000801,Olivier Assayas,"Late August, Early September",1998.0,Drama,225976
+tt0120148,1998,Golden Seashell,,False,False,Sliding Doors,nm0398185,Peter Howitt,Sliding Doors,1998.0,Comedy,37175465
+tt0124198,1998,Golden Seashell,,False,False,Very Bad Things,nm0000916,Peter Berg,Very Bad Things,1998.0,Comedy,30847797
+tt0119517,1998,Golden Seashell,,False,False,Your Friends & Neighbors,nm0001438,Neil LaBute,Your Friends & Neighbors,1998.0,Comedy,14746896
+tt0140888,1998,Audience Award,,True,True,Central Station,nm0758574,Walter Salles,Central Station,1998.0,Drama,18606116
+tt0168589,1998,OCIC Award,,True,True,La Ciudad (The City),nm0726935,David Riker,La Ciudad (The City),1999.0,Drama,363227
+tt0160513,1999,Golden Seashell,,False,False,A Map of the World,nm0254623,Scott Elliott,A Map of the World,2000.0,Drama,1689028
+tt0188030,1999,Golden Seashell,,False,False,Butterfly,nm0191109,José Luis Cuerda,Butterfly,2000.0,Drama,14538449
+tt0189744,1999,Golden Seashell,,False,False,Miss Julie,nm0001214,Mike Figgis,Miss Julie,1999.0,Drama,133440
+tt0140397,1999,Golden Seashell,,False,True,Mumford,nm0001410,Lawrence Kasdan,Mumford,1999.0,Comedy,13867045
+tt0183613,1999,Golden Seashell,,False,False,Orfeu,nm0225935,Carlos Diegues,Orfeu,1999.0,Others,147348
+tt0215369,1999,Golden Seashell,,False,True,Shower,nm0955434,Yang Zhang,Shower,2000.0,Comedy,5038610
+tt0180181,1999,Golden Seashell,,False,True,Soft Fruit,nm0028297,Christina Andreef,Soft Fruit,2000.0,Comedy,41341
+tt0158302,1999,Golden Seashell,,False,True,Under the Sun,nm0638324,Colin Nutley,Under the Sun,1999.0,Drama,960264
+tt0220726,1999,Best New Director,,True,True,Human Resources,nm0134559,Laurent Cantet,Human Resources,2000.0,Comedy,174139
+tt0186730,1999,Audience Award,,True,True,It All Starts Today,nm0851724,Bertrand Tavernier,It All Starts Today,1999.0,Drama,18760
+tt0160509,1999,Youth Jury Award,,True,True,Agnes Browne,nm0001378,Anjelica Huston,Agnes Browne,2000.0,Comedy,444381
+tt0185125,1999,FIPRESCI Film of the Year,,True,True,All About My Mother,nm0000264,Pedro Almodóvar,All About My Mother,2000.0,Drama,113888588
+tt0255067,2000,Golden Seashell,,False,False,Common Wealth,nm0407067,Álex de la Iglesia,Common Wealth,2001.0,Comedy,424338
+tt0216799,2000,Golden Seashell,,False,True,Harrison's Flowers,nm0159402,Élie Chouraqui,Harrison's Flowers,2002.0,Drama,7009948
+tt0262674,2000,Golden Seashell,,False,True,Paria,nm0460120,Nicolas Klotz,Paria,2001.0,Others,24576
+tt0228786,2000,Golden Seashell,,False,False,The Crimson Rivers,nm0440913,Mathieu Kassovitz,The Crimson Rivers,2001.0,Others,87388268
+tt0210382,2000,Golden Seashell,,False,False,The Weight of Water,nm0000941,Kathryn Bigelow,The Weight of Water,2001.0,Others,619662
+tt0240913,2000,Golden Seashell,,False,False,Under the Sand,nm0654830,François Ozon,Under the Sand,2001.0,Drama,11482237
+tt0239936,2000,Best New Director,,True,True,Life Blood,nm0935529,Edoardo Winspeare,Life Blood,2000.0,Drama,12208
+tt0251091,2000,Youth Jury Award,,True,True,Before the Storm,nm0663711,Reza Parsa,Before the Storm,2000.0,Others,11508
+tt0175880,2000,FIPRESCI Film of the Year,,True,True,Magnolia,nm0000759,Paul Thomas Anderson,Magnolia,2000.0,Drama,107347992
+tt0243794,2000,OCIC Award,,True,True,El Bola,nm0563748,Achero Mañas,El Bola,2001.0,Drama,145184
+tt0250478,2000,Sebastiane Award,,True,True,Nico and Dani,nm0310747,Cesc Gay,Nico and Dani,2001.0,Comedy,1080645
+tt0291507,2001,Golden Seashell,,True,False,A Cab for Three,nm0530668,Orlando Lübbert,A Cab for Three,2001.0,Others,45185
+tt0290591,2001,Golden Seashell,,False,True,En construcción,nm0346360,José Luis Guerín,En construcción,2001.0,Others,416702
+tt0297107,2001,Golden Seashell,,False,True,Escape to Paradise,nm0415259,Nino Jacusso,Escape to Paradise,2002.0,Drama,13067
+tt0259393,2001,Golden Seashell,,False,False,Lantana,nm0492979,Ray Lawrence,Lantana,2002.0,Drama,29114519
+tt0253200,2001,Golden Seashell,,False,False,Last Orders,nm0770961,Fred Schepisi,Last Orders,2001.0,Drama,13310367
+tt0270480,2001,Golden Seashell,,False,False,Mad Love,nm0033005,Vicente Aranda,Mad Love,2002.0,Others,13557207
+tt0252480,2001,Golden Seashell,,False,False,The Grey Zone,nm0625789,Tim Blake Nelson,The Grey Zone,2002.0,Drama,1608772
+tt0256359,2001,Golden Seashell,,False,False,The Safety of Objects,nm0873266,Rose Troche,The Safety of Objects,2002.0,Drama,1088991
+tt0295682,2001,Golden Seashell,,False,True,The Warrior,nm0438090,Asif Kapadia,The Warrior,2005.0,Others,505987
+tt0273326,2001,Golden Seashell,,False,True,Truly Human,nm0761879,Åke Sandgren,Truly Human,2001.0,Drama,349370
+tt0287811,2001,Golden Seashell,,False,False,Visible Secret,nm0401176,Ann Hui,Visible Secret,2001.0,Others,58786
+tt0279765,2001,Best New Director,,True,True,Streeters,nm0869007,Gerardo Tort,Streeters,2001.0,Drama,4465937
+tt0279064,2001,Best New Director - Special Mention,,True,True,Elling,nm0639033,Petter Næss,Elling,2002.0,Comedy,3349866
+tt0283509,2001,Audience Award,,True,True,No Man's Land,nm0849786,Danis Tanovic,No Man's Land,2001.0,Drama,8443038
+tt0301050,2001,Made in Spanish Award,,True,True,Bolivia,nm0128382,Israel Adrián Caetano,Bolivia,2003.0,Drama,105441
+tt0255094,2001,FIPRESCI Film of the Year,,True,True,The Circle,nm0070159,Jafar Panahi,The Circle,2000.0,Drama,1889650
+tt0274497,2001,Sebastiane Award,,True,True,His Secret Life,nm0654858,Ferzan Ozpetek,The Ignorant Fairies,2002.0,Drama,1011432
+tt0319769,2002,Golden Seashell,,True,True,Mondays in the Sun,nm0508208,Fernando León de Aranoa,Mondays in the Sun,2003.0,Comedy,14044477
+tt0291022,2002,Golden Seashell,,False,False,Aro Tolbukhin in the Mind of a Killer,nm0898063,Agustí Villaronga,Aro Tolbukhin in the Mind of a Killer,2003.0,Drama,135947
+tt0298744,2002,Golden Seashell,,False,False,Auto Focus,nm0001707,Paul Schrader,Auto Focus,2002.0,Others,6720851
+tt0329330,2002,Golden Seashell,,False,True,Common Ground,nm0034899,Adolfo Aristarain,Common Ground,2003.0,Drama,2965588
+tt0337662,2002,Golden Seashell,,False,False,El Leyton,nm0433211,Gonzalo Justiniano,El Leyton,2003.0,Drama,3703
+tt0295004,2002,Golden Seashell,,False,False,Ghost River,nm0196860,Olivier Dahan,Ghost River,2003.0,Drama,1300490
+tt0291988,2002,Golden Seashell,,False,True,Intimate Stories,nm0815044,Carlos Sorin,Intimate Stories,2003.0,Comedy,600121
+tt0315543,2002,Golden Seashell,,False,False,Open Hearts,nm0081540,Susanne Bier,Open Hearts,2003.0,Drama,2571572
+tt0313196,2002,Golden Seashell,,False,False,The Crime of Padre Amaro,nm0140196,Carlos Carrera,The Crime of Padre Amaro,2002.0,Drama,46213054
+tt0281820,2002,Golden Seashell,,False,False,The Good Thief,nm0001403,Neil Jordan,The Good Thief,2003.0,Others,12895221
+tt0332381,2002,Golden Seashell,,False,False,The Sea,nm0466349,Baltasar Kormákur,The Sea,2003.0,Comedy,354975
+tt0316829,2002,Golden Seashell,,False,False,The Sea Is Watching,nm0474743,Kei Kumai,The Sea Is Watching,2003.0,Drama,2162167
+tt0332639,2002,Golden Seashell,,False,False,Together with You,nm0155280,Kaige Chen,Together,2003.0,Drama,22034035
+tt0298228,2002,Golden Seashell,,False,False,Whale Rider,nm0138927,Niki Caro,Whale Rider,2003.0,Drama,85610853
+tt0289786,2002,Best New Director,,True,True,Some Secrets,nm0625080,Alice Nellis,Some Secrets,2003.0,Comedy,230008
+tt0289229,2002,Best New Director - Special Mention,,True,True,Hukkle,nm0701650,György Pálfi,Hukkle,2003.0,Others,258262
+tt0312841,2002,Best New Director - Special Mention,,True,True,The Way Home,nm1011539,Jeong-hyang Lee,The Way Home,2002.0,Drama,35799420
+tt0310793,2002,Audience Award,,True,True,Bowling for Columbine,nm0601619,Michael Moore,Bowling for Columbine,2002.0,Others,112181756
+tt0296166,2002,Youth Jury Award,,True,True,Real Women Have Curves,nm0136603,Patricia Cardoso,Real Women Have Curves,2002.0,Comedy,19213296
+tt0316188,2002,Made in Spanish Award,,True,True,Raising Victor Vargas,nm0813164,Peter Sollett,Raising Victor Vargas,2003.0,Drama,6816623
+tt0300214,2002,FIPRESCI Director of the Year,,True,True,Morvern Callar,nm0708903,Lynne Ramsay,Morvern Callar,2002.0,Drama,1466254
+tt0361493,2003,Golden Seashell,,False,False,Dans le rouge du couchant,nm0185473,Edgardo Cozarinsky,Dans le rouge du couchant,2004.0,Drama,2626
+tt0335119,2003,Golden Seashell,,False,True,Girl with a Pearl Earring,nm0916424,Peter Webber,Girl with a Pearl Earring,2004.0,Others,57337985
+tt0365289,2003,Golden Seashell,,False,False,Grimm,nm0912334,Alex van Warmerdam,Grimm,2003.0,Others,332394
+tt0384566,2003,Golden Seashell,,False,True,Havana Suite,nm0702148,Fernando Pérez,Havana Suite,2006.0,Others,74866
+tt0345185,2003,Golden Seashell,,False,False,In the City,nm0310747,Cesc Gay,In the City,2003.0,Drama,762168
+tt0353969,2003,Golden Seashell,,False,True,Memories of Murder,nm0094435,Bong Joon Ho,Memories of Murder,2003.0,Others,779543
+tt0376800,2003,Golden Seashell,,False,True,November,nm0563748,Achero Mañas,November,2004.0,Comedy,1297106
+tt0350193,2003,Golden Seashell,,False,True,Take My Eyes,nm0093081,Icíar Bollaín,Take My Eyes,2004.0,Drama,8457271
+tt0328844,2003,Golden Seashell,,False,True,The Inheritance,nm0283377,Per Fly,The Inheritance,2004.0,Drama,1965199
+tt0379199,2003,Golden Seashell,,False,False,The Middle of the World,nm0025241,Vicente Amorim,The Middle of the World,2004.0,Drama,18106
+tt0340377,2003,Golden Seashell,,False,True,The Station Agent,nm0565336,Tom McCarthy,The Station Agent,2003.0,Comedy,20023306
+tt0339357,2003,Golden Seashell,,False,False,The Story of Marie and Julien,nm0729626,Jacques Rivette,The Story of Marie and Julien,2004.0,Drama,89783
+tt0312549,2003,Golden Seashell,,False,True,Veronica Guerin,nm0001708,Joel Schumacher,Veronica Guerin,2003.0,Others,15210167
+tt0334575,2003,Best New Director - Special Mention,,True,True,Faithless Games,nm0667912,Michaela Pavlátová,Faithless Games,2004.0,Others,19126
+tt0362496,2003,Horizons Award,,True,True,Captive,nm0083216,Gaston Biraben,Captive,2004.0,Drama,44343
+tt0322298,2003,Horizons Award - Special Mention,,True,True,The Bottom of the Sea,nm1167933,Damián Szifron,The Bottom of the Sea,2003.0,Drama,305527
+tt0374546,2003,Audience Award,,True,True,"Spring, Summer, Fall, Winter... and Spring",nm1104118,Ki-duk Kim,"Spring, Summer, Fall, Winter... and Spring",2004.0,Drama,18070955
+tt0382308,2003,Films in Progress Award,,True,True,Wandering Shadows,nm1458734,Ciro Guerra,Wandering Shadows,2005.0,Drama,3082
+tt0387810,2003,Arte Award,,True,True,With George Bush on My Mind,nm0649875,Joaquín Oristrell,With George Bush on My Mind,2003.0,Comedy,39194
+tt0346094,2003,FIPRESCI Film of the Year,,True,True,Uzak,nm0149196,Nuri Bilge Ceylan,Distant,2003.0,Drama,569927
+tt0366943,2003,FIPRESCI Director of the Year,,True,True,Reconstruction,nm1061993,Christoffer Boe,Reconstruction,2003.0,Drama,753939
+tt0424227,2004,Golden Seashell,,True,True,Turtles Can Fly,nm0315842,Bahman Ghobadi,Turtles Can Fly,2004.0,Drama,1785932
+tt0411705,2004,Golden Seashell,,False,True,9 Songs,nm0935863,Michael Winterbottom,9 Songs,2005.0,Drama,2220682
+tt0420548,2004,Golden Seashell,,False,True,Bombón: El Perro,nm0815044,Carlos Sorin,Bombón: El Perro,2005.0,Drama,1882178
+tt0386342,2004,Golden Seashell,,False,False,Brothers,nm0081540,Susanne Bier,Brothers,2005.0,Drama,1177806
+tt0375342,2004,Golden Seashell,,False,False,Hours of Light,nm0559120,Manolo Matji,Hours of Light,2004.0,Drama,500462
+tt0424234,2004,Golden Seashell,,False,False,Letter from an Unknown Woman,nm1292891,Jinglei Xu,Letter from an Unknown Woman,2005.0,Drama,102
+tt0364270,2004,Golden Seashell,,False,True,Little Sky,nm0579653,María Victoria Menis,Little Sky,2005.0,Drama,89127
+tt0363826,2004,Golden Seashell,,False,False,My Father Is an Engineer,nm0350168,Robert Guédiguian,My Father Is an Engineer,2004.0,Drama,1179288
+tt0383862,2004,Golden Seashell,,False,False,Roma,nm0034899,Adolfo Aristarain,Roma,2005.0,Drama,1917809
+tt0376890,2004,Golden Seashell,,False,False,Silver City,nm0000626,John Sayles,Silver City,2004.0,Comedy,3236471
+tt0348593,2004,Golden Seashell,,False,False,The Door in the Floor,nm0931095,Tod Williams,The Door in the Floor,2004.0,Comedy,14253632
+tt0325675,2004,Best New Director - Special Mention,,True,True,Boats Out of Watermelon Rinds,nm1204496,Ahmet Uluçay,Boats Out of Watermelon Rinds,2005.0,Comedy,17728
+tt0382621,2004,Horizons Award - Special Mention,,True,True,Cronicas,nm0017343,Damián Alcázar,Cronicas,2005.0,Others,1452750
+tt0402417,2004,Horizons Award - Special Mention,,True,True,The Other Side of the Street,nm0005244,Fernanda Montenegro,The Other Side of the Street,2004.0,Drama,149893
+tt0318462,2004,Audience Award,,True,True,The Motorcycle Diaries,nm0758574,Walter Salles,The Motorcycle Diaries,2004.0,Others,99655167
+tt0385017,2004,Youth Jury Award,,True,True,In My Father's Den,nm0568899,Brad McGann,In My Father's Den,2005.0,Drama,2138704
+tt0288569,2004,Films in Progress Award,,True,True,Iluminados por el fuego,nm0061944,Tristán Bauer,Iluminados por el fuego,2006.0,Others,983112
+tt0360845,2004,FIPRESCI Film of the Year,,True,True,Notre musique,nm0000419,Jean-Luc Godard,Notre musique,2004.0,Drama,580442
+tt0401248,2004,Sebastiane Award,,True,True,Beautiful Boxer,nm0879960,Ekachai Uekrongtham,Beautiful Boxer,2004.0,Others,1040293
+tt0406098,2005,Golden Seashell,,True,False,Something Like Happiness,nm0805246,Bohdan Sláma,Something Like Happiness,2005.0,Drama,1770851
+tt0461894,2005,Golden Seashell,,False,False,7 Virgins,nm0735705,Alberto Rodríguez,7 Virgins,2006.0,Others,7291331
+tt0448663,2005,Golden Seashell,,False,False,April Snow,nm0403297,Jin-ho Hur,April Snow,2005.0,Drama,31909066
+tt0424971,2005,Golden Seashell,,False,False,Drabet,nm0283377,Per Fly,Drabet,2005.0,Drama,449206
+tt0443072,2005,Golden Seashell,,False,False,Entre ses mains,nm0284774,Anne Fontaine,Entre ses mains,2005.0,Drama,3727129
+tt0476323,2005,Golden Seashell,,False,True,Gravehopping,nm0194156,Jan Cvitkovic,Odgrobadogroba,2006.0,Comedy,59132
+tt0444530,2005,Golden Seashell,,False,False,La vida perra de Juanita Narboni,nm0069937,Farida Benlyazid,La vida perra de Juanita Narboni,2006.0,Comedy,44573
+tt0456526,2005,Golden Seashell,,False,True,Malas temporadas,nm0554532,Manuel Martín Cuenca,Malas temporadas,2006.0,Drama,246887
+tt0436445,2005,Golden Seashell,,False,True,Not Here to Be Loved,nm0110300,Stéphane Brizé,Je ne suis pas là pour être aimé,2006.0,Drama,2509949
+tt0397582,2005,Golden Seashell,,False,False,Obaba,nm0035404,Montxo Armendáriz,Obaba,2007.0,Drama,3057425
+tt0477877,2005,Golden Seashell,,False,True,Summer in Berlin,nm0237527,Andreas Dresen,Summer in Berlin,2005.0,Drama,9912307
+tt0401808,2005,Golden Seashell,,False,True,Sunflower,nm0955434,Yang Zhang,Sunflower,2007.0,Drama,63992
+tt0420509,2005,Golden Seashell,,False,False,The Aura,nm0081433,Fabián Bielinsky,The Aura,2006.0,Others,2377363
+tt0412080,2005,Golden Seashell,,False,False,The World's Fastest Indian,nm0002044,Roger Donaldson,The World's Fastest Indian,2006.0,Others,29962061
+tt0410764,2005,Golden Seashell,,False,True,Tideland,nm0000416,Terry Gilliam,Tideland,2006.0,Drama,801676
+tt0423409,2005,Golden Seashell,,False,False,Tristram Shandy: A Cock and Bull Story,nm0935863,Michael Winterbottom,Tristram Shandy: A Cock and Bull Story,2005.0,Comedy,6652195
+tt0478025,2005,Best New Screenwriter,,True,True,Sorry Apple,nm1118549,Yi-kwan Kang,Sa-kwa,2008.0,Drama,322942
+tt0385006,2005,Horizons Award - Special Mention,,True,True,How the Garcia Girls Spent Their Summer,nm1203987,Georgina Garcia Riedel,How the Garcia Girls Spent Their Summer,2008.0,Comedy,507960
+tt0384177,2005,Audience Award,,True,True,Holy Lola,nm0851724,Bertrand Tavernier,Holy Lola,2004.0,Drama,3819019
+tt1002459,2005,Films in Progress Award,,True,True,Forbidden to Forbid,nm0244525,Jorge Durán,Forbidden to Forbid,2007.0,Drama,226745
+tt0451966,2005,Casa de América Award,,True,True,The Violin,nm0889829,Francisco Vargas,The Violin,2006.0,Drama,1584885
+tt0483179,2005,TVE Award,,True,True,The Sugar Curtain,nm2050821,Camila Guzmán Urzúa,The Sugar Curtain,2007.0,Others,83694
+tt0423866,2005,FIPRESCI Film of the Year,,True,True,3-Iron,nm1104118,Ki-duk Kim,3-Iron,2005.0,Others,4297855
+tt0432325,2005,SIGNIS Award - Special Mention,,True,True,The Cave of the Yellow Dog,nm1389025,Byambasuren Davaa,The Cave of the Yellow Dog,2006.0,Drama,4544926
+tt0847050,2006,Golden Seashell,,True,True,Half Moon,nm0315842,Bahman Ghobadi,Half Moon,2007.0,Comedy,305725
+tt0446370,2006,Golden Seashell,,True,False,My Son,nm1136112,Martial Fougeron,My Son,2007.0,Drama,180727
+tt0424908,2006,Golden Seashell,,False,True,Copying Beethoven,nm0002140,Agnieszka Holland,Copying Beethoven,2006.0,Others,8257622
+tt0412637,2006,Golden Seashell,,False,True,Delirious,nm0001139,Tom DiCillo,Delirious,2007.0,Comedy,941878
+tt0906743,2006,Golden Seashell,,False,False,Forever,nm0393322,Heddy Honigmann,Forever,2007.0,Others,77224
+tt0464038,2006,Golden Seashell,,False,False,Hana,nm0466153,Hirokazu Koreeda,Hana,2007.0,Comedy,695675
+tt0470587,2006,Golden Seashell,,False,False,Las vidas de Celia,nm0154464,Antonio Chavarrías,Las vidas de Celia,2007.0,Drama,43519
+tt0477331,2006,Golden Seashell,,False,False,Lo que sé de Lola,nm1503559,Javier Rebollo,Lo que sé de Lola,2006.0,Drama,10613
+tt0441774,2006,Golden Seashell,,False,False,Lonely Hearts,nm0733149,Todd Robinson,Lonely Hearts,2006.0,Others,3436137
+tt0492492,2006,Golden Seashell,,False,False,Sleeping Dogs Lie,nm0001281,Bobcat Goldthwait,Sleeping Dogs Lie,2006.0,Comedy,843285
+tt0889222,2006,Golden Seashell,,False,True,Sounds of Sand,nm0405578,Marion Hänsel,Sounds of Sand,2007.0,Drama,206291
+tt0469754,2006,Golden Seashell,,False,False,The Boss of It All,nm0001885,Lars von Trier,The Boss of It All,2007.0,Comedy,3910684
+tt0939911,2006,Golden Seashell,,False,False,The Old Garden,nm0407992,Sang-soo Im,The Old Garden,2007.0,Drama,1963189
+tt0865438,2006,Golden Seashell,,False,True,The Road to San Diego,nm0815044,Carlos Sorin,The Road to San Diego,2007.0,Comedy,24135
+tt0765266,2006,Golden Seashell,,False,False,Vete de mí,nm0508277,Víctor García León,Vete de mí,2006.0,Comedy,578508
+tt0454602,2006,Best New Director,,True,True,Fair Play,nm1014409,Lionel Bailliu,Fair Play,2006.0,Others,752735
+tt0768837,2006,Best New Screenwriter,,True,True,Singapore Dreaming,nm2157449,Yen Yen Woo,Singapore Dreaming,2006.0,Drama,952
+tt0462242,2006,Horizons Award - Special Mention,,True,True,El custodio,nm0604169,Rodrigo Moreno,El custodio,2007.0,Drama,205820
+tt0449059,2006,Audience Award,,True,True,Little Miss Sunshine,nm0206760,Jonathan Dayton,Little Miss Sunshine,2006.0,Comedy,201047318
+tt0495040,2006,Youth Jury Award,,True,True,The Art of Crying,nm0283844,Peter Schønau Fog,The Art of Crying,2007.0,Comedy,20783
+tt0813630,2006,Films in Progress Award,,True,True,A Stray Girlfriend,nm1195064,Ana Katz,A Stray Girlfriend,2007.0,Drama,65499
+tt0984175,2006,TVE Award,,True,True,Alice's House,nm0854098,Chico Teixeira,Alice's House,2007.0,Drama,317771
+tt0808267,2006,TVE Award,,True,True,Fiesta Patria,nm0893562,Luis R. Vera,Fiesta Patria,2008.0,Others,43620
+tt0441909,2006,FIPRESCI Film of the Year,,True,True,Volver,nm0000264,Pedro Almodóvar,Volver,2007.0,Comedy,124336297
+tt0460740,2006,C.I.C.A.E. Award,,True,True,Cashback,nm1193346,Sean Ellis,Cashback,2007.0,Comedy,2868011
+tt0499019,2006,Sebastiane Award,,True,True,Estrellas de La Línea,nm1320860,Chema Rodríguez,Estrellas de La Línea,2006.0,Others,48874
+tt0969705,2006,Zabaltegi Section,Competition,False,False,Familia tortuga,nm1585512,Rubén Imaz,Familia tortuga,2008.0,Drama,10302
+tt0838233,2007,Golden Seashell,Best Film,True,True,A Thousand Years of Good Prayers,nm0911061,Wayne Wang,A Thousand Years of Good Prayers,2008.0,Drama,2035187
+tt0810868,2007,Golden Seashell,,False,False,Free Rainer,nm0918326,Hans Weingartner,Free Rainer,2007.0,Comedy,2365299
+tt0780565,2007,Golden Seashell,,False,False,Mataharis,nm0093081,Icíar Bollaín,Mataharis,2007.0,Comedy,2531125
+tt0862826,2007,Golden Seashell,,False,True,Siete mesas de billar francés,nm0703265,Gracia Querejeta,Siete mesas de billar francés,2007.0,Drama,2071690
+tt1094627,2007,Special Prize of the Jury,,True,True,Buddha Collapsed Out of Shame,nm0538529,Hana Makhmalbaf,Buddha Collapsed Out of Shame,2008.0,Drama,1888332
+tt1091616,2007,Prize of the Jury,Best Cinematography,True,True,Exodus,nm1185460,Charlie Lam,Exodus,2008.0,Comedy,674941
+tt0829193,2007,Best Screenplay,,True,True,Honeydripper,nm0000626,John Sayles,Honeydripper,2007.0,Others,994135
+tt0482901,2007,Horizons Award,,True,True,The Pope's Toilet,nm0273483,Enrique Fernández,The Pope's Toilet,2009.0,Comedy,1353794
+tt0481320,2007,Horizons Award - Special Mention,,True,True,Blue Eyelids,nm0176496,Ernesto Contreras,Blue Eyelids,2007.0,Comedy,467863
+tt0473697,2007,Horizons Award - Special Mention,,True,True,Satanás,nm0306622,Marcela Mar,Satanás,2007.0,Others,226597
+tt0401383,2007,Audience Award,European Film,True,True,The Diving Bell and the Butterfly,nm0773603,Julian Schnabel,The Diving Bell and the Butterfly,2008.0,Others,31124702
+tt0825236,2007,Audience Award,,True,True,Caramel,nm1701024,Nadine Labaki,Caramel,2008.0,Comedy,18474822
+tt0815490,2007,TVE Award,,True,True,Acné,nm0992159,Federico Veiroj,Acné,2008.0,Comedy,97510
+tt1090680,2007,Cinema in Motion Award,,True,True,Salt of This Sea,nm1486975,Annemarie Jacir,Salt of This Sea,2009.0,Drama,901027
+tt1032846,2007,FIPRESCI Film of the Year,,True,True,"4 Months, 3 Weeks and 2 Days",nm0612816,Cristian Mungiu,"4 Months, 3 Weeks and 2 Days",2007.0,Drama,13530041
+tt1090200,2007,FIPRESCI Prize,,True,True,Encarnacion,nm1318393,Anahí Berneri,Encarnacion,2007.0,Drama,90991
+tt0870211,2007,SIGNIS Award - Special Mention,,True,True,Battle for Haditha,nm0112374,Nick Broomfield,Battle for Haditha,2008.0,Drama,301788
+tt1056468,2007,SIGNIS Films in Progress Award,,True,True,The Foreigner,nm0246577,Fernando Díaz,The Foreigner,2009.0,Drama,2552
+tt0940585,2007,C.I.C.A.E. Award,,True,True,Brick Lane,nm0310673,Sarah Gavron,Brick Lane,2008.0,Drama,5682909
+tt0791303,2008,Golden Seashell,Best Film,False,False,A Summer in Genoa,nm0935863,Michael Winterbottom,A Summer in Genoa,2011.0,Drama,2440458
+tt1285130,2008,Golden Seashell,,True,False,Pandora's Box,nm0882445,Yesim Ustaoglu,Pandora's Box,2009.0,Drama,611551
+tt0978759,2008,Golden Seashell,,False,True,Frozen River,nm2581581,Courtney Hunt,Frozen River,2008.0,Others,9257629
+tt1103193,2008,Golden Seashell,,False,False,My Prison Yard,nm0534442,Belén Macías,My Prison Yard,2008.0,Drama,461893
+tt1198410,2008,Golden Seashell,,False,False,Tiro en la cabeza,nm0740963,Jaime Rosales,Tiro en la cabeza,2008.0,Drama,56494
+tt1039914,2008,Special Prize of the Jury,,True,True,Two-Legged Horse,nm0538533,Samira Makhmalbaf,Two-Legged Horse,2009.0,Drama,31308
+tt1132594,2008,Best Screenplay,,True,True,Louise-Michel,nm0218022,Benoît Delépine,Louise-Michel,2009.0,Comedy,6070376
+tt1299370,2008,Best New Director,,True,True,The Equation of Love and Death,nm3148857,Baoping Cao,The Equation of Love and Death,2008.0,Others,2232427
+tt1183942,2008,Horizons Award - Special Mention,,False,False,Parque vía,nm2737486,Enrique Rivero,Parque vía,2009.0,Drama,37729
+tt1160004,2008,Youth Jury Award,,True,True,Lovely Loneliness,nm1320998,Victoria Galardi,Lovely Loneliness,2009.0,Comedy,138013
+tt1331320,2008,Films in Progress Award,,True,True,Northless,nm1574929,Rigoberto Pérezcano,Northless,2009.0,Drama,49949
+tt0469494,2008,FIPRESCI Film of the Year,,True,True,There Will Be Blood,nm0000759,Paul Thomas Anderson,There Will Be Blood,2008.0,Drama,140926778
+tt0497465,2008,Sebastiane Award,,True,True,Vicky Cristina Barcelona,nm0000095,Woody Allen,Vicky Cristina Barcelona,2008.0,Comedy,139535101
+tt1289449,2009,Golden Seashell,Best Film,False,False,Me Too,nm0619560,Antonio Naharro,Me Too,2010.0,Drama,2520158
+tt1124052,2009,Golden Seashell,,True,True,City of Life and Death,nm1283651,Chuan Lu,City of Life and Death,2009.0,Drama,12778610
+tt1504429,2009,Golden Seashell,,False,True,Hideaway (Le refuge),nm0654830,François Ozon,Hideaway (Le refuge),2010.0,Drama,1059638
+tt1305806,2009,Golden Seashell,,False,False,The Secret in Their Eyes,nm0002728,Juan José Campanella,The Secret in Their Eyes,2010.0,Drama,57417461
+tt1451755,2009,Golden Seashell,,False,True,Woman Without Piano,nm1503559,Javier Rebollo,Woman Without Piano,2009.0,Comedy,97688
+tt1360866,2009,Horizons Award,,True,True,Giant,nm2254150,Adrián Biniez,Giant,2009.0,Drama,601057
+tt1383604,2009,Horizons Award - Special Mention,,True,True,France,nm0128382,Israel Adrián Caetano,France,2010.0,Comedy,40699
+tt1054580,2009,Audience Award,Best European Film,True,True,Desert Flower,nm0394776,Sherry Hormann,Desert Flower,2009.0,Others,17348525
+tt0929632,2009,Audience Award,,True,True,Precious,nm0200005,Lee Daniels,Precious,2009.0,Drama,131376168
+tt1410272,2009,Youth Jury Award,,True,True,Before Your Eyes,nm3109814,Miraz Bezar,Before Your Eyes,2010.0,Drama,118682
+tt1149362,2009,FIPRESCI Film of the Year,,True,True,The White Ribbon,nm0359734,Michael Haneke,The White Ribbon,2010.0,Drama,25295537
+tt1351734,2009,Sebastian Award,,False,False,Ander,nm1954420,Roberto Castón,Ander,2009.0,Drama,3653
+tt1368491,2009,Sebastiane Award,,True,True,Undertow,nm1659906,Javier Fuentes-León,Undertow,2010.0,Drama,719252
+tt1560970,2010,Golden Seashell,Best Film,True,False,Neds,nm0611932,Peter Mullan,Neds,2011.0,Drama,2157526
+tt1454523,2010,Golden Seashell,Best Film,False,False,Black Bread,nm0898063,Agustí Villaronga,Black Bread,2011.0,Others,3957926
+tt1236371,2010,Golden Seashell,Best Film,False,False,Mysteries of Lisbon,nm0749914,Raoul Ruiz,Mysteries of Lisbon,2010.0,Drama,325981
+tt1525915,2010,Golden Seashell,Best Film,False,False,The Great Vazquez,nm0014426,Óscar Aibar,The Great Vazquez,2010.0,Others,1385750
+tt1563655,2010,Special Prize of the Jury,,True,True,Elisa K,nm0128150,Jordi Cadena,Elisa K,2010.0,Drama,56552
+tt1274636,2010,Best Cinematography,,True,True,Father,nm2261990,Jimmy Gimferrer,Father,2010.0,Drama,7465
+tt1719497,2010,Best New Director - Special Mention,,True,True,A Useful Life,nm0992159,Federico Veiroj,A Useful Life,2011.0,Drama,24977
+tt1503116,2010,Best New Director - Special Mention,,True,True,Nothing's All Bad,nm2206944,Mikkel Munch-Fals,Nothing's All Bad,2010.0,Drama,59475
+tt1646118,2010,Horizons Award,,False,False,October,nm3307029,Diego Vega Vidal,October,2010.0,Drama,188333
+tt1620785,2010,Audience Award,Best European Film,True,True,"How Much Does Your Building Weigh, Mr Foster?",,[],"How Much Does Your Building Weigh, Mr Foster?",2011.0,Others,208751
+tt1423894,2010,Audience Award,Best Film,True,True,Barney's Version,nm0003557,Richard J. Lewis,Barney's Version,2011.0,Comedy,14892096
+tt1533013,2010,Youth Jury Award,,False,False,Beautiful Boy,nm0473329,Shawn Ku,Beautiful Boy,2011.0,Drama,246985
+tt1700455,2010,TVE Otra Mirada Award,,True,True,Mount Bayo,nm1320998,Victoria Galardi,Mount Bayo,2011.0,Comedy,49021
+tt1308111,2010,Made in Spanish Award,Best Film,False,False,Fake Orgasm,nm0714937,Jordi Rediu,Fake Orgasm,2010.0,Others,61078
+tt1139328,2010,FIPRESCI Film of the Year,,True,True,The Ghost Writer,nm0000591,Roman Polanski,The Ghost Writer,2010.0,Drama,88963886
+tt1600383,2010,Sebastiane Award,,True,True,For 80 Days,nm1531686,Jon Garaño,For 80 Days,2011.0,Drama,133737
+tt2007421,2011,Golden Seashell,Best Film,True,False,The Double Steps,nm1050097,Isaki Lacuesta,The Double Steps,2012.0,Others,46271
+tt2042432,2011,Golden Seashell,Best Film,False,False,11 Flowers,nm0911075,Xiaoshuai Wang,11 Flowers,2012.0,Drama,23101
+tt1629736,2011,Golden Seashell,Best Film,False,False,Los Marziano,nm1195064,Ana Katz,Los Marziano,2011.0,Comedy,1249603
+tt1661862,2011,Golden Seashell,Best Film,False,False,No Rest for the Wicked,nm0881762,Enrique Urbizu,No Rest for the Wicked,2012.0,Others,3494046
+tt1638350,2011,Golden Seashell,Best Film,False,True,Skylab,nm0000365,Julie Delpy,Skylab,2012.0,Comedy,1034595
+tt1592281,2011,Golden Seashell,Best Film,False,False,Take This Waltz,nm0001631,Sarah Polley,Take This Waltz,2012.0,Comedy,6892406
+tt1700844,2011,Golden Seashell,Best Film,False,False,The Deep Blue Sea,nm0203993,Terence Davies,The Deep Blue Sea,2011.0,Drama,4819117
+tt1688649,2011,Golden Seashell,Best Film,False,False,The Sleeping Voice,nm0952583,Benito Zambrano,The Sleeping Voice,2012.0,Drama,747488
+tt1650453,2011,Best Screenplay,,True,True,I Wish,nm0466153,Hirokazu Koreeda,I Wish,2012.0,Drama,1876132
+tt1956669,2011,Best New Director,First Films Competition,True,True,Der Fluss war einst ein Mensch,nm2215563,Jan Zabeil,Der Fluss war einst ein Mensch,2012.0,Drama,56159
+tt2009643,2011,Best New Director,,False,False,Either Way,nm2619779,Hafsteinn Gunnar Sigurðsson,Either Way,2011.0,Comedy,12516
+tt1754078,2011,Horizons Award,,True,True,Las acacias,nm0313652,Pablo Giorgelli,Las Acacias,2012.0,Drama,403252
+tt2023367,2011,Horizons Award,,False,False,Back to Stay,nm1436684,Milagros Mumenthaler,Back to Stay,2012.0,Drama,63396
+tt1913002,2011,Horizons Award,,False,False,Bonsái,nm1825141,Cristián Jiménez,Bonsái,2011.0,Drama,79286
+tt1774531,2011,Horizons Award,,False,False,Porfirio,,[],Porfirio,2012.0,Comedy,3760
+tt2043879,2011,Horizons Award - Special Mention,,True,True,Found Memories,nm0613580,Júlia Murat,Found Memories,2012.0,Drama,57132
+tt1911600,2011,Horizons Award - Special Mention,,True,True,Miss Bala,nm1319671,Gerardo Naranjo,Miss Bala,2011.0,Others,993227
+tt1772424,2011,Audience Award,Best European Film,True,True,Where Do We Go Now?,nm4234156,Bassam Habib,Where Do We Go Now?,2012.0,Comedy,9063382
+tt1655442,2011,Audience Award,Best Film,True,True,The Artist,nm0371890,Michel Hazanavicius,The Artist,2012.0,Comedy,200799675
+tt1726888,2011,Casa de América Award,,True,True,Clandestine Childhood,nm1198000,Benjamín Ávila,Clandestine Childhood,2012.0,Drama,1349312
+tt1832382,2011,TVE Otra Mirada Award,,True,True,A Separation,nm1410815,Asghar Farhadi,A Separation,2011.0,Drama,30408318
+tt0478304,2011,FIPRESCI Film of the Year,,True,True,The Tree of Life,nm0000517,Terrence Malick,The Tree of Life,2011.0,Drama,76457936
+tt1602098,2011,Sebastiane Award,,True,True,Albert Nobbs,nm0006554,Rodrigo García,Albert Nobbs,2011.0,Drama,9742070
+tt1964624,2012,Golden Seashell,,True,True,In the House,nm0654830,François Ozon,In the House,2013.0,Drama,13483226
+tt1764183,2012,Golden Seashell,,False,False,Arbitrage,nm1906430,Nicholas Jarecki,Arbitrage,2012.0,Drama,47932717
+tt1854513,2012,Golden Seashell,,False,True,Blancanieves,nm0074311,Pablo Berger,Blancanieves,2012.0,Drama,3165399
+tt1951166,2012,Golden Seashell,,False,True,Capital,nm0002020,Costa-Gavras,Capital,2013.0,Drama,2871151
+tt1772270,2012,Golden Seashell,,False,False,Foxfire: Confessions of a Girl Gang,nm0134559,Laurent Cantet,Foxfire: Confessions of a Girl Gang,2013.0,Others,608773
+tt2379436,2012,Golden Seashell,,False,True,Gone Fishing,nm0815044,Carlos Sorin,Gone Fishing,2012.0,Drama,332935
+tt1850419,2012,Golden Seashell,,False,True,Rhino Season,nm0315842,Bahman Ghobadi,Rhino Season,2012.0,Drama,421495
+tt1990217,2012,Golden Seashell,,False,False,The Artist and the Model,nm0874096,Fernando Trueba,The Artist and the Model,2013.0,Drama,1770915
+tt0787442,2012,Golden Seashell,,False,True,The Attack,nm0234780,Ziad Doueiri,The Attack,2012.0,Drama,4262509
+tt1890391,2012,Golden Seashell,,False,True,The Dead Man and Being Happy,nm1503559,Javier Rebollo,The Dead Man and Being Happy,2012.0,Comedy,37095
+tt2343536,2012,Golden Seashell,,False,False,The Dead and the Living,nm0016475,Barbara Albert,The Dead and the Living,2013.0,Drama,36271
+tt1556243,2012,Golden Seashell,,False,False,The Hypnotist,nm0002120,Lasse Hallström,The Hypnotist,2013.0,Others,4077140
+tt1396226,2012,Golden Seashell,,False,False,Twice Born,nm0144812,Sergio Castellitto,Twice Born,2013.0,Drama,5988341
+tt2125500,2012,Horizons Award,,True,True,The Last Elvis,nm3174584,Armando Bo,The Last Elvis,2012.0,Drama,948522
+tt1666318,2012,Horizons Award,,False,False,The Delay,nm0687751,Rodrigo Plá,The Delay,2013.0,Drama,12342
+tt2125698,2012,Horizons Award,,False,True,Young and Wild,,[],Young and Wild,2012.0,Comedy,242135
+tt2368749,2012,Horizons Award - Special Mention,,True,True,After Lucia,nm1633015,Michel Franco,After Lucia,2013.0,Drama,1751902
+tt1663661,2012,Horizons Award - Special Mention,,True,True,Once Upon a Time Veronica,nm1103123,Marcelo Gomes,Once Upon a Time Veronica,2012.0,Drama,90937
+tt1924394,2012,Audience Award,European Film,True,True,The Angels' Share,nm0516360,Ken Loach,The Angels' Share,2013.0,Comedy,8124001
+tt1866249,2012,Audience Award,,True,True,The Sessions,nm0506802,Ben Lewin,The Sessions,2012.0,Others,16806452
+tt2333598,2012,Youth Jury Award,,True,True,7 Boxes,nm1515311,Juan Carlos Maneglia,7 Boxes,2014.0,Others,373461
+tt2425486,2012,Films in Progress Award,,True,True,Gloria,nm0133326,Sebastián Lelio,Gloria,2013.0,Comedy,9509790
+tt1986825,2012,Made in Spanish Award,,False,False,The Wild Ones,nm0274407,Patricia Ferreira,The Wild Ones,2012.0,Drama,312017
+tt1602620,2012,FIPRESCI Film of the Year,,True,True,Amour,nm0359734,Michael Haneke,Amour,2012.0,Drama,29376407
+tt2219470,2012,Sebastiane Award,Best Film,False,False,El Bella Vista,nm5113033,Alicia Cano Menoni,El Bella Vista,2012.0,Comedy,23286
+tt2355144,2012,Sebastiane Award,Best Film,False,False,Kern,nm1072411,Veronika Franz,Kern,2013.0,Others,624
+tt2191729,2012,Sebastiane Award,Best Film,False,False,König des Comics,nm0902823,Rosa von Praunheim,König des Comics,2012.0,Comedy,1189
+tt1633170,2012,Best Basque Film,,False,False,Baztan,nm0253757,Iñaki Elizalde,Baztan,2013.0,Drama,137771
+tt2121338,2012,Best Basque Film,,False,False,Bypass,nm1295151,Patxo Tellería,Bypass,2013.0,Comedy,194756
+tt2406934,2012,Best Basque Film,,False,False,Zuloak,nm1474346,Fermín Muguruza,Zuloak,2012.0,Others,3960
+tt1826876,2012,Norteado Award,,True,True,So Much Water,nm3383582,Ana Guevara,So Much Water,2013.0,Comedy,27379
+tt2387455,2012,New Directors Award - Special Mention,,True,True,The Cleaner,nm3929944,Adrián Saba,The Cleaner,2013.0,Drama,21783
+tt1718747,2013,Golden Seashell,Best Film,False,True,Cannibal,nm0554532,Manuel Martín Cuenca,Cannibal,2014.0,Drama,209102
+tt0804463,2013,Golden Seashell,Best Film,False,False,Devil's Knot,nm0000382,Atom Egoyan,Devil's Knot,2014.0,Others,2165478
+tt2316411,2013,Golden Seashell,Best Film,False,False,Enemy,nm0898288,Denis Villeneuve,Enemy,2014.0,Others,4795125
+tt2392326,2013,Golden Seashell,Best Film,False,False,Le Week-End,nm0585011,Roger Michell,Le Week-End,2013.0,Comedy,11871394
+tt2896036,2013,Golden Seashell,Best Film,False,False,Living Is Easy with Eyes Closed,nm0874093,David Trueba,Living Is Easy with Eyes Closed,2014.0,Comedy,2809013
+tt3121050,2013,Golden Seashell,Best Film,False,False,Oktober November,nm0818608,Götz Spielmann,Oktober November,2014.0,Drama,246458
+tt2609222,2013,Golden Seashell,Best Film,False,True,The French Minister,nm0851724,Bertrand Tavernier,The French Minister,2014.0,Comedy,5541601
+tt2058107,2013,Golden Seashell,Best Film,False,True,The Railway Man,nm0855300,Jonathan Teplitzky,The Railway Man,2014.0,Others,32906431
+tt2504404,2013,Golden Seashell,Best Film,False,True,Wolf,nm2165987,Jim Taihuttu,Wolf,2013.0,Others,338336
+tt2721712,2013,Golden Seashell,Best Film,False,True,Wounded,nm1136120,Fernando Franco,Wounded,2014.0,Drama,174316
+tt3074610,2013,Golden Seashell,,True,True,Bad Hair,nm0740048,Mariana Rondón,Bad Hair,2014.0,Drama,2861245
+tt2861532,2013,Horizons Award,,True,True,A Wolf at the Door,nm2036500,Fernando Coimbra,A Wolf at the Door,2014.0,Others,481228
+tt2316573,2013,Horizons Award,,False,False,Underage,nm4700016,Caru Alves de Souza,Underage,2014.0,Drama,32461
+tt2752200,2013,TVE Otra Mirada Award,,True,True,Young & Beautiful,nm0654830,François Ozon,Young & Beautiful,2014.0,Drama,10583679
+tt2278871,2013,FIPRESCI Film of the Year,,True,True,Blue Is the Warmest Color,nm0444244,Abdellatif Kechiche,Blue Is the Warmest Color,2013.0,Drama,10467236
+tt0790636,2013,Sebastiane Award,Best Film,True,True,Dallas Buyers Club,nm0885249,Jean-Marc Vallée,Dallas Buyers Club,2013.0,Others,90453185
+tt2243389,2013,Sebastiane Award,Best Film,False,False,I'm So Excited!,nm0000264,Pedro Almodóvar,I'm So Excited!,2013.0,Comedy,14328213
+tt0213682,2013,Sebastiane Award,Best Film,False,False,Taboo,nm0651915,Nagisa Ôshima,Taboo,2000.0,Drama,357206
+tt2251648,2013,Sebastiane Award,Best Film,False,False,The Dune,nm0043211,Yossi Aviram,The Dune,2014.0,Drama,62295
+tt2194499,2013,Waki.TV Audience Award,Best European Film,True,True,About Time,nm0193485,Richard Curtis,About Time,2013.0,Comedy,112301882
+tt2331143,2013,Waki.TV Audience Award,,True,True,"Like Father, Like Son",nm0466153,Hirokazu Koreeda,"Like Father, Like Son",2013.0,Drama,22170045
+tt3183716,2013,Irizar Award,,True,True,Asier ETA biok,nm0580803,Amaia Merino,Asier ETA biok,2015.0,Others,197951
+tt3089326,2014,Golden Seashell,Best Film,True,False,Magical Girl,nm4209430,Carlos Vermut,Magical Girl,2015.0,Drama,233760
+tt3305316,2014,Golden Seashell,Best Film,False,True,A Second Chance,nm0081540,Susanne Bier,A Second Chance,2015.0,Drama,13494033
+tt3543234,2014,Golden Seashell,Best Film,False,False,Aire libre,nm1318393,Anahí Berneri,Aire libre,2014.0,Drama,244678
+tt1971325,2014,Golden Seashell,Best Film,False,False,Automata,nm2688320,Gabe Ibáñez,Automata,2014.0,Others,6697051
+tt2614400,2014,Golden Seashell,Best Film,False,False,Casanova Variations,nm0836423,Michael Sturminger,Casanova Variations,2015.0,Others,5129
+tt3090634,2014,Golden Seashell,Best Film,False,False,Eden,nm0361135,Mia Hansen-Løve,Eden,2015.0,Others,614003
+tt3900206,2014,Golden Seashell,Best Film,False,True,Flowers,nm1531686,Jon Garaño,Flowers,2015.0,Drama,215985
+tt3685218,2014,Golden Seashell,Best Film,False,False,Félix & Meira,nm2113645,Maxime Giroux,Félix & Meira,2015.0,Drama,1019676
+tt3253930,2014,Golden Seashell,Best Film,False,True,Marshland,nm0735705,Alberto Rodríguez,Marshland,2015.0,Others,9736561
+tt2764784,2014,Golden Seashell,Best Film,False,True,Phoenix,nm0678857,Christian Petzold,Phoenix,2015.0,Drama,9774276
+tt3303728,2014,Golden Seashell,Best Film,False,False,Sea Fog,nm1646563,Sung-bo Shim,Sea Fog,2014.0,Drama,12289472
+tt3335048,2014,Golden Seashell,Best Film,False,False,Silent Heart,nm0000806,Bille August,Silent Heart,2014.0,Drama,552518
+tt1600196,2014,Golden Seashell,Best Film,False,True,The Drop,nm1742427,Michaël R. Roskam,The Drop,2014.0,Others,31545084
+tt3184934,2014,Golden Seashell,Best Film,False,True,The New Girlfriend,nm0654830,François Ozon,The New Girlfriend,2015.0,Drama,5759267
+tt3004774,2014,Golden Seashell,Best Film,False,False,Tigers,nm0849786,Danis Tanovic,Tigers,2018.0,Drama,297358
+tt3480164,2014,Golden Seashell,Best Film,False,True,Wild Life,nm0434806,Cédric Kahn,Wild Life,2015.0,Drama,561552
+tt3499048,2014,Horizons Award,,True,True,Güeros,nm2091911,Alonso Ruizpalacios,Güeros,2014.0,Comedy,175129
+tt3474994,2014,Horizons Award,,False,False,Casa Grande,nm1805204,Fellipe Barbosa,Casa Grande,2015.0,Drama,130509
+tt1863192,2014,Audience Award,Best Film,False,False,Corn Island,nm0653768,George Ovashvili,Corn Island,2014.0,Drama,40301
+tt3011894,2014,Audience Award,European Film,True,True,Wild Tales,nm1167933,Damián Szifron,Wild Tales,2014.0,Comedy,32353447
+tt3674140,2014,Audience Award,,True,True,The Salt of the Earth,nm0000694,Wim Wenders,The Salt of the Earth,2015.0,Others,7311415
+tt3655522,2014,TVE Otra Mirada Award,,True,True,Girlhood,nm1780037,Céline Sciamma,Girlhood,2014.0,Drama,2070528
+tt3062880,2014,TVE Otra Mirada Award - Special Mention,,True,True,Gett: The Trial of Viviane Amsalem,nm0253813,Ronit Elkabetz,Gett: The Trial of Viviane Amsalem,2014.0,Drama,2418768
+tt1065073,2014,FIPRESCI Film of the Year,,True,True,Boyhood,nm0000500,Richard Linklater,Boyhood,2014.0,Drama,75044165
+tt2718492,2014,FIPRESCI Film of the Year,,False,False,Ida,nm0667734,Pawel Pawlikowski,Ida,2013.0,Drama,16372301
+tt2278388,2014,FIPRESCI Film of the Year,,False,False,The Grand Budapest Hotel,nm0027572,Wes Anderson,The Grand Budapest Hotel,2014.0,Others,251162853
+tt2758880,2014,FIPRESCI Film of the Year,,False,False,Winter Sleep,nm0149196,Nuri Bilge Ceylan,Winter Sleep,2014.0,Drama,4325312
+tt2199543,2014,Sebastiane Award,Best Film,False,True,Futuro Beach,nm0014694,Karim Aïnouz,Futuro Beach,2015.0,Drama,871086
+tt2639344,2014,Sebastiane Award,Best Film,False,False,Love Is Strange,nm0755158,Ira Sachs,Love Is Strange,2014.0,Drama,5811556
+tt3125652,2014,Sebastiane Award,Best Film,False,False,Pasolini,nm0001206,Abel Ferrara,Pasolini,2019.0,Others,580643
+tt2746176,2014,Sebastiane Award,Best Film,False,False,Tattoo,nm0479886,Hilton Lacerda,Tattoo,2013.0,Drama,188761
+tt3104102,2014,Sebastiane Award,Best Film,False,False,The Silly Ones and the Stupid Ones,nm1954420,Roberto Castón,The Silly Ones and the Stupid Ones,2015.0,Drama,8472
+tt3419662,2014,Sebastiane Award,Best Latin American Film,False,False,Amar es bendito,nm1391027,Liliana Paolinelli,Amar es bendito,2013.0,Others,2221
+tt1702014,2014,Sebastiane Award,Best Latin American Film,False,False,The Way He Looks,nm2406154,Daniel Ribeiro,The Way He Looks,2014.0,Drama,1364470
+tt3626760,2014,Irizar Award,Best Basque Film,True,True,Negociador,nm1141070,Borja Cobeaga,Negociador,2014.0,Comedy,342864
+tt3823018,2015,Golden Seashell,Best Film,True,False,Sparrows,nm1242172,Rúnar Rúnarsson,Sparrows,2015.0,Drama,135559
+tt4944620,2015,Golden Seashell,Best Film,False,True,Amama,nm0023070,Asier Altuna,Amama,2016.0,Drama,356059
+tt4291590,2015,Golden Seashell,Best Film,False,True,Evolution,nm0352968,Lucile Hadzihalilovic,Evolution,2016.0,Drama,85504
+tt1658801,2015,Golden Seashell,Best Film,False,True,Freeheld,nm0813164,Peter Sollett,Freeheld,2015.0,Others,2200290
+tt0462335,2015,Golden Seashell,Best Film,False,False,High-Rise,nm1296554,Ben Wheatley,High-Rise,2016.0,Drama,4951097
+tt2262161,2015,Golden Seashell,Best Film,False,False,Sunset Song,nm0203993,Terence Davies,Sunset Song,2016.0,Drama,1575891
+tt4272866,2015,Golden Seashell,Best Film,False,False,The Boy and the Beast,nm0396074,Mamoru Hosoda,The Boy and the Beast,2015.0,Others,53977432
+tt4247492,2015,Golden Seashell,Best Film,False,False,The Demons,nm3679540,Philippe Lesage,The Demons,2016.0,Drama,1874
+tt4516324,2015,Golden Seashell,Best Film,False,False,The King of Havana,nm0898063,Agustí Villaronga,The King of Havana,2016.0,Drama,159679
+tt3597510,2015,Golden Seashell,Best Film,False,False,The White Knights,nm1050098,Joachim Lafosse,The White Knights,2015.0,Drama,1221943
+tt3754940,2015,Golden Seashell,Best Film,False,True,Truman,nm0310747,Cesc Gay,Truman,2017.0,Comedy,9654941
+tt4886362,2015,Golden Seashell,Best Film,False,False,Un dia perfecte per volar,nm0714437,Marc Recha,Un dia perfecte per volar,2015.0,Drama,15699
+tt3784222,2015,Horizons Award,,True,True,Paulina,nm1377207,Santiago Mitre,Paulina,2017.0,Drama,1099495
+tt3685622,2015,Horizons Award,,False,False,600 Miles,nm2239581,Gabriel Ripstein,600 Miles,2016.0,Drama,299969
+tt3850496,2015,Horizons Award,,False,False,Chronic,nm1633015,Michel Franco,Chronic,2015.0,Drama,412310
+tt4285496,2015,Horizons Award,,False,False,Embrace of the Serpent,nm1458734,Ciro Guerra,Embrace of the Serpent,2015.0,Others,5041646
+tt4721400,2015,Horizons Award,,False,True,From Afar,nm1729237,Lorenzo Vigas,From Afar,2015.0,Drama,194471
+tt4863784,2015,Horizons Award,,False,False,I Promise You Anarchy,nm2785946,Julio Hernández Cordón,I Promise You Anarchy,2016.0,Drama,6721
+tt4135844,2015,Horizons Award,,False,False,Ixcanul,nm3563342,Jayro Bustamante,Ixcanul,2015.0,Drama,955834
+tt4663992,2015,Horizons Award,,False,True,Land and Shade,nm6671999,César Augusto Acevedo,Land and Shade,2016.0,Drama,174858
+tt4072352,2015,Horizons Award,,False,False,Magallanes,nm0215938,Salvador del Solar,Magallanes,2015.0,Drama,1068566
+tt4375438,2015,Horizons Award,,False,False,The Club,nm1883257,Pablo Larraín,The Club,2015.0,Comedy,638527
+tt4377864,2015,Horizons Award,,False,False,The Pearl Button,nm0350099,Patricio Guzmán,The Pearl Button,2015.0,Others,173975
+tt3806654,2015,Horizons Award,,False,False,To My Beloved,nm3620652,Aly Muritiba,To My Beloved,2015.0,Drama,22116
+tt3740778,2015,Audience Award,Best European Film,True,True,Mountains May Depart,nm0422605,Zhangke Jia,Mountains May Depart,2015.0,Drama,5690557
+tt3756788,2015,Audience Award,Best Film,True,True,Our Little Sister,nm0466153,Hirokazu Koreeda,Our Little Sister,2015.0,Drama,17712396
+tt1392190,2015,FIPRESCI Film of the Year,,True,True,Mad Max: Fury Road,nm0004306,George Miller,Mad Max: Fury Road,2015.0,Others,568757186
+tt3808342,2015,FIPRESCI Film of the Year,,False,False,Son of Saul,nm1841577,László Nemes,Son of Saul,2015.0,Drama,9060265
+tt4359416,2015,FIPRESCI Film of the Year,,False,False,Taxi,nm0070159,Jafar Panahi,Taxi,2015.0,Comedy,4540643
+tt3508840,2015,FIPRESCI Film of the Year,,False,False,The Assassin,nm0396284,Hsiao-Hsien Hou,The Assassin,2015.0,Others,13564240
+tt3900580,2015,Irizar Award,Special Mention,True,True,An Autumn Without Berlin,nm1354955,Irene Escolar,An Autumn Without Berlin,2015.0,Drama,95870
+tt4939866,2015,New Directors Award,,False,False,One of Us,nm3281569,Stephan Richter,One of Us,2015.0,Drama,22695
+tt2662716,2015,Zabaltegi Section,Competition,False,False,Montanha,nm0757651,João Salaviza,Montanha,2015.0,Drama,28587
+tt5918090,2016,Golden Seashell,Best Film,True,False,I Am Not Madame Bovary,nm0271815,Xiaogang Feng,I Am Not Madame Bovary,2016.0,Comedy,75454286
+tt5247544,2016,Golden Seashell,Best Film,False,False,150 Milligrams,nm0073384,Emmanuelle Bercot,150 Milligrams,2017.0,Others,3049719
+tt0376479,2016,Golden Seashell,Best Film,False,False,American Pastoral,nm0000191,Ewan McGregor,American Pastoral,2016.0,Others,2756599
+tt4291600,2016,Golden Seashell,Best Film,False,True,Lady Macbeth,nm4399706,William Oldroyd,Lady Macbeth,2017.0,Drama,6817983
+tt4944596,2016,Golden Seashell,Best Film,False,True,May God Save Us,nm2507695,Rodrigo Sorogoyen,May God Save Us,2017.0,Others,3532371
+tt4795546,2016,Golden Seashell,Best Film,False,True,Nocturama,nm0094274,Bertrand Bonello,Nocturama,2017.0,Drama,364371
+tt4746516,2016,Golden Seashell,Best Film,False,False,Orphan,nm0220774,Arnaud des Pallières,Orphan,2017.0,Drama,382856
+tt4384088,2016,Golden Seashell,Best Film,False,False,Rage,nm0498212,Sang-il Lee,Rage,2017.0,Drama,13999797
+tt1713440,2016,Golden Seashell,Best Film,False,True,The Man with Thousand Faces,nm0735705,Alberto Rodríguez,The Man with Thousand Faces,2017.0,Others,3201679
+tt5900208,2016,Golden Seashell,Best Film,False,False,The Reconquest,nm0343903,Jonás Trueba,The Reconquest,2016.0,Drama,36618
+tt3737944,2016,Golden Seashell,Best Film,False,True,The Winter,nm0868623,Emiliano Torres,The Winter,2017.0,Drama,18796
+tt5907916,2016,Golden Seashell,Best Film,False,False,Yourself and Yours,nm0393254,Sang-soo Hong,Yourself and Yours,2016.0,Comedy,158817
+tt5070130,2016,Horizons Award,,True,True,Rara,nm1930893,Pepa San Martín,Rara,2016.0,Drama,83848
+tt5986738,2016,Horizons Award,,False,False,Dark Skull,nm4576903,Kiro Russo,Dark Skull,2017.0,Others,9371
+tt5541206,2016,Horizons Award,,False,False,The Idea of a Lake,nm1436684,Milagros Mumenthaler,The Idea of a Lake,2017.0,Drama,10143
+tt5623224,2016,Horizons Award,,False,False,The Long Night of Francisco Sanctis,nm0617305,Francisco Márquez,The Long Night of Francisco Sanctis,2017.0,Drama,28063
+tt5265960,2016,Horizons Award,,False,False,The Untamed,nm1661334,Amat Escalante,The Untamed,2017.0,Drama,92747
+tt5168192,2016,Audience Award,Best Film,True,True,"I, Daniel Blake",nm0516360,Ken Loach,"I, Daniel Blake",2017.0,Drama,16747629
+tt2321405,2016,Audience Award,European Film,True,True,My Life as a Zucchini,nm1957706,Claude Barras,My Life as a Zucchini,2017.0,Others,6486204
+tt5974388,2016,Youth Jury Award,,True,True,In Between,nm4092213,Maysaloun Hamoud,In Between,2017.0,Drama,1881500
+tt5786012,2016,Youth Jury Award,,False,False,Fin de Semana,nm4008066,Moroco Colman,Fin de Semana,2016.0,Drama,7894
+tt4048272,2016,FIPRESCI Film of the Year,,True,True,Toni Erdmann,nm0011752,Maren Ade,Toni Erdmann,2016.0,Comedy,14039087
+tt2401878,2016,FIPRESCI Film of the Year,,False,False,Anomalisa,nm2122478,Duke Johnson,Anomalisa,2015.0,Others,10115351
+tt5247022,2016,FIPRESCI Film of the Year,,False,False,Paterson,nm0000464,Jim Jarmusch,Paterson,2016.0,Comedy,12412222
+tt3416532,2016,SIGNIS Award - Special Mention,,True,True,A Monster Calls,nm1291105,J.A. Bayona,A Monster Calls,2017.0,Others,53721849
+tt4123876,2016,Solidarity Award,,True,True,Oscuro animal,,[],Oscuro animal,2016.0,Drama,9499
+tt6129730,2016,Sebastiane Award,Best Film,False,False,Our Love Story,nm6293229,Hyun-ju Lee,Our Love Story,2016.0,Drama,154488
+tt4929038,2016,Sebastiane Award,Best Film,False,False,The Ornithologist,nm0735134,João Pedro Rodrigues,The Ornithologist,2016.0,Others,132383
+tt2634548,2016,Sebastiane Award,Best Film,False,False,Uncle Howard,nm1774379,Aaron Brookner,Uncle Howard,2016.0,Others,2377
+tt5452964,2016,Sebastiane Award,Best Latin American Film,False,False,Don't Call Me Son,nm1155957,Anna Muylaert,Don't Call Me Son,2016.0,Drama,228624
+tt5786632,2016,Sebastiane Award,Best Latin American Film,False,False,Restless Love,nm2183022,Vera Egito,Restless Love,2016.0,Comedy,13294
+tt4446472,2016,New Directors Award,,False,False,Porto,nm5674075,Gabe Klinger,Porto,2017.0,Drama,128494
+tt5275830,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,True,True,Eat That Question,nm0778343,Thorsten Schütte,Eat That Question: Frank Zappa in His Own Words,2016.0,Others,777285
+tt2392830,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,A Quiet Passion,nm0203993,Terence Davies,A Quiet Passion,2016.0,Others,6369054
+tt6257364,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,Ejercicios de memoria,nm1885520,Paz Encina,Ejercicios de memoria,2016.0,Others,1022
+tt1714917,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,Gimme Danger,nm0000464,Jim Jarmusch,Gimme Danger,2016.0,Others,1470167
+tt5894778,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,Louise by the Shore,nm0481451,Jean-François Laguionie,Louise by the Shore,2016.0,Others,505950
+tt2649554,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,Midnight Special,nm2158772,Jeff Nichols,Midnight Special,2016.0,Others,10650405
+tt5652594,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,My Journey Through French Cinema,nm0851724,Bertrand Tavernier,My Journey Through French Cinema,2016.0,Others,130604
+tt4144190,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,Wiener-Dog,nm0001754,Todd Solondz,Wiener-Dog,2016.0,Comedy,1307512
+tt5133392,2016,Zabaltegi Section,Zabaltegi-Tabakalera Award,False,False,Zoology,nm6592335,Ivan I. Tverdovskiy,Zoology,2016.0,Comedy,20716
+tt3521126,2017,Golden Seashell,Best Film,True,True,The Disaster Artist,nm0290556,James Franco,The Disaster Artist,2017.0,Others,52805933
+tt6386168,2017,Golden Seashell,Best Film,False,True,A Sort of Family,nm1195308,Diego Lerman,A Sort of Family,2018.0,Others,48236
+tt7297954,2017,Golden Seashell,Best Film,False,False,Alanis,nm1318393,Anahí Berneri,Alanis,2018.0,Drama,80274
+tt5699154,2017,Golden Seashell,Best Film,False,False,C'est la vie!,nm0619923,Olivier Nakache,C'est la vie!,2018.0,Comedy,33408279
+tt5891122,2017,Golden Seashell,Best Film,False,True,Life and Nothing More,nm3564648,Antonio Méndez Esparza,Life & Nothing More,2018.0,Drama,65622
+tt5584756,2017,Golden Seashell,Best Film,False,False,Mademoiselle Paradis,nm0016475,Barbara Albert,Mademoiselle Paradis,2018.0,Drama,17895
+tt6313378,2017,Golden Seashell,Best Film,False,False,Memoir of War,nm0277933,Emmanuel Finkiel,Memoir of War,2018.0,Drama,3126236
+tt5242548,2017,Golden Seashell,Best Film,False,False,Pororoca,nm0691223,Constantin Popescu,Pororoca,2018.0,Drama,26322
+tt5501158,2017,Golden Seashell,Best Film,False,True,So Help Me God,nm3554712,Yves Hinant,So Help Me God,2018.0,Others,1302121
+tt7262052,2017,Golden Seashell,Best Film,False,True,Soldiers: Story from Ferentari,nm3875677,Ivana Mladenovic,Soldiers. Story from Ferentari,2018.0,Drama,23664
+tt5180888,2017,Golden Seashell,Best Film,False,False,Sollers Point,nm2275041,Matthew Porterfield,Sollers Point,2018.0,Drama,66242
+tt3563262,2017,Golden Seashell,Best Film,False,False,Submergence,nm0000694,Wim Wenders,Submergence,2018.0,Drama,824385
+tt5693136,2017,Golden Seashell,Best Film,False,True,The Giant,nm1534594,Aitor Arregi,The Giant,2017.0,Drama,891754
+tt5451244,2017,Golden Seashell,Best Film,False,False,The Motive,nm0554532,Manuel Martín Cuenca,The Motive,2017.0,Comedy,800503
+tt6596454,2017,Horizons Award,,True,True,Los Perros,nm1888700,Marcela Said,Los Perros,2017.0,Drama,87391
+tt5639354,2017,Horizons Award,,False,True,A Fantastic Woman,nm0133326,Sebastián Lelio,A Fantastic Woman,2018.0,Drama,5874061
+tt5613066,2017,Horizons Award,,False,False,Al Desierto,nm1091090,Ulises Rosell,Al Desierto,2017.0,Others,9991
+tt6397762,2017,Horizons Award,,False,False,April's Daughter,nm1633015,Michel Franco,April's Daughter,2017.0,Drama,802774
+tt6400280,2017,Horizons Award,,False,False,Araby,nm7925042,João Dumans,Araby,2017.0,Drama,80498
+tt5708028,2017,Horizons Award,,False,False,Cocote,nm4981904,Nelson Carlo de Los Santos Arias,Cocote,2018.0,Drama,8250
+tt5903232,2017,Horizons Award,,False,False,Hunting Season,nm4407467,Natalia Garagiola,Hunting Season,2017.0,Drama,14358
+tt6107102,2017,Horizons Award,,False,False,Rey's Education,nm3884273,Santiago Esteves,Rey's Education,2018.0,Drama,15263
+tt6147512,2017,Horizons Award,,False,False,The Desert Bride,nm1170183,Cecilia Atán,The Desert Bride,2017.0,Drama,243941
+tt6107516,2017,Horizons Award,,False,False,The Family,nm2271584,Gustavo Rondón Córdova,The Family,2018.0,Drama,7491
+tt6002232,2017,Audience Award,European Film,True,True,Custody,nm0499488,Xavier Legrand,Custody,2017.0,Drama,4013736
+tt5027774,2017,Audience Award,,True,True,"Three Billboards Outside Ebbing, Missouri",nm1732981,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri",2017.0,Others,221547257
+tt5222918,2017,FIPRESCI Film of the Year,,True,True,The Other Side of Hope,nm0442454,Aki Kaurismäki,The Other Side of Hope,2017.0,Comedy,4624892
+tt4975722,2017,FIPRESCI Film of the Year,,False,False,Moonlight,nm1503575,Barry Jenkins,Moonlight,2016.0,Drama,98365559
+tt5607714,2017,FIPRESCI Film of the Year,,False,False,On Body and Soul,nm0258221,Ildikó Enyedi,On Body and Soul,2018.0,Drama,2187363
+tt7272242,2017,SIGNIS Award - Special Mention,,True,True,Killing Jesus,nm2005384,Laura Mora Ortega,Killing Jesus,2017.0,Drama,100402
+tt6135348,2017,Sebastiane Award,Best Film,True,True,BPM (Beats Per Minute),nm0133028,Robin Campillo,BPM (Beats Per Minute),2017.0,Drama,8111584
+tt5726616,2017,Sebastiane Award,Best Film,False,False,Call Me by Your Name,nm0345174,Luca Guadagnino,Call Me by Your Name,2018.0,Drama,61842081
+tt5808778,2017,Sebastiane Award,Best Film,False,False,Skins,nm1816428,Eduardo Casanova,Skins,2017.0,Drama,93229
+tt4830786,2017,Sebastiane Award,Best Film,False,False,The Cakemaker,nm3409787,Ofir Raul Graizer,The Cakemaker,2017.0,Drama,2241243
+tt5642120,2017,Sebastiane Award,Best Latin American Film,False,False,Primavera,nm0320622,Santiago Giralt,Primavera,2016.0,Comedy,8968
+tt7197576,2017,Sebastiane Award,Best Latin American Film,False,False,"Señorita María, la falda de la montaña",nm0579370,Rubén Mendoza,"Señorita María, la falda de la montaña",2017.0,Others,130881
+tt5668850,2017,Kutxa Award,Fedeora Award,True,True,The Charmer,nm3613729,Milad Alami,The Charmer,2018.0,Drama,134822
+tt6763252,2017,Jury Prize,Best Cinematography,True,True,The Captain,nm0050832,Florian Ballhaus,The Captain,2018.0,Drama,520978
+tt7124090,2017,New Directors Award,,True,True,The Sower,nm1105160,Marine Francen,The Sower,2019.0,Drama,469345
+tt4729896,2017,New Directors Award,,False,False,Apostasy,nm3782307,Daniel Kokotajlo,Apostasy,2018.0,Drama,443007
+tt6193454,2017,New Directors Award,,False,False,Blue My Mind,nm2337186,Lisa Brühlmann,Blue My Mind,2017.0,Drama,11751
+tt5072336,2017,New Directors Award,,False,False,Princesita,nm0729086,Marialy Rivas,Princesita,2017.0,Drama,516
+tt6194540,2017,New Directors Award,,False,False,The Price of Success,nm1768202,Teddy Lussi-Modeste,The Price of Success,2017.0,Comedy,704743
+tt7297964,2017,New Directors Award,,False,False,Tigre,nm5663638,Ulises Porra,Tigre,2018.0,Drama,1756
+tt6777114,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,12 Days,nm0220019,Raymond Depardon,12 Days,2018.0,Others,744720
+tt6777056,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,Closeness,nm8921482,Kantemir Balagov,Closeness,2017.0,Drama,103132
+tt6209282,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,Ex Libris: New York Public Library,nm0936464,Frederick Wiseman,Ex Libris: The New York Public Library,2017.0,Others,369036
+tt7115920,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,"Lots of Kids, a Monkey and a Castle",nm0758687,Gustavo Salmerón,"Lots of Kids, a Monkey and a Castle",2018.0,Others,509189
+tt5642124,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,Lover for a Day,nm0308042,Philippe Garrel,Lover for a Day,2018.0,Drama,395767
+tt6532954,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,No Intenso Agora,nm1098834,João Moreira Salles,No Intenso Agora,2018.0,Others,65135
+tt6142716,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,Soldado,nm3378941,Manuel Abramovich,Soldado,2018.0,Others,1593702
+tt6462506,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,The Day After,nm0393254,Sang-soo Hong,The Day After,2017.0,Drama,197639
+tt7336012,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,The Night I Swam,nm6431477,Kohei Igarashi,The Night I Swam,2018.0,Drama,20848
+tt4995790,2017,Zabaltegi Section,Zabaltegi-Tabakalera Prize,False,False,The Square,nm1128037,Ruben Östlund,The Square,2017.0,Comedy,11387664
+tt6322922,2017,Greenpeace - Lurra Award,,True,True,An Inconvenient Sequel: Truth to Power,nm0074009,Richard Berge,An Inconvenient Sequel: Truth to Power,2017.0,Others,9259146
+tt6157294,2018,Golden Seashell,Best Film,True,False,Between Two Waters,nm1050097,Isaki Lacuesta,Between Two Waters,2018.0,Drama,88985
+tt8075202,2018,Golden Seashell,Best Film,False,True,A Faithful Man,nm0308039,Louis Garrel,A Faithful Man,2019.0,Comedy,1647885
+tt8405810,2018,Golden Seashell,Best Film,False,False,An Unexpected Love,nm0893556,Juan Vera,An Unexpected Love,2018.0,Comedy,4811187
+tt7318102,2018,Golden Seashell,Best Film,False,False,Angelo,nm0772207,Markus Schleinzer,Angelo,2018.0,Drama,470
+tt8846198,2018,Golden Seashell,Best Film,False,False,Baby,nm0514952,Jie Liu,Baby,2019.0,Drama,3576269
+tt1226837,2018,Golden Seashell,Best Film,False,False,Beautiful Boy,nm0886976,Felix van Groeningen,Beautiful Boy,2018.0,Others,24482406
+tt8125842,2018,Golden Seashell,Best Film,False,False,Blind Spot,nm0637259,Tuva Novotny,Blind Spot,2018.0,Drama,244283
+tt4827558,2018,Golden Seashell,Best Film,False,True,High Life,nm0219136,Claire Denis,High Life,2019.0,Others,3328292
+tt3967878,2018,Golden Seashell,Best Film,False,False,Illang: The Wolf Brigade,nm0453518,Jee-woon Kim,Illang: The Wolf Brigade,2018.0,Others,6273398
+tt7464188,2018,Golden Seashell,Best Film,False,False,In Fabric,nm3270827,Peter Strickland,In Fabric,2018.0,Comedy,133559
+tt6485304,2018,Golden Seashell,Best Film,False,True,Quién te cantará,nm4209430,Carlos Vermut,Quién te cantará,2018.0,Drama,177642
+tt8956390,2018,Golden Seashell,Best Film,False,True,Rojo,nm3028737,Benjamín Naishtat,Rojo,2019.0,Drama,459634
+tt7490368,2018,Golden Seashell,Best Film,False,False,The Black Book,nm0765384,Valeria Sarmiento,The Black Book,2018.0,Drama,11173
+tt7095482,2018,Golden Seashell,Best Film,False,False,The Candidate,nm2507695,Rodrigo Sorogoyen,The Realm,2019.0,Drama,4118211
+tt7566518,2018,Golden Seashell,Best Film,False,False,Vision,nm0442905,Naomi Kawase,Vision,2018.0,Drama,115348
+tt7666250,2018,Golden Seashell,Best Film,False,True,Yuli,nm0093081,Icíar Bollaín,Yuli,2019.0,Others,1490545
+tt8890690,2018,Horizons Award,,True,True,A Family Submerged,nm1600662,María Alche,A Family Submerged,2018.0,Drama,11686
+tt8266010,2018,Horizons Award,,True,True,The Snatch Thief,nm3188011,Agustín Toscano,The Snatch Thief,2018.0,Others,14319
+tt6792282,2018,Horizons Award,,False,False,A Twelve-Year Night,nm1304308,Álvaro Brechner,A Twelve-Year Night,2018.0,Others,817524
+tt7943248,2018,Horizons Award,,False,False,Marilyn,nm8094978,Martín Rodríguez Redondo,Marilyn,2018.0,Drama,3733
+tt5265964,2018,Horizons Award,,False,False,Our Time,nm1196161,Carlos Reygadas,Our Time,2019.0,Drama,46195
+tt7875464,2018,Horizons Award,,False,True,The Heiresses,nm3308584,Marcelo Martinessi,The Heiresses,2019.0,Drama,889248
+tt8254556,2018,Audience Award,Best European Film,True,True,Girl,nm4080113,Lukas Dhont,Girl,2019.0,Drama,4179831
+tt2967856,2018,Audience Award,City of Donostia Audience Award,True,True,Another Day of Life,nm4618825,Raúl de la Fuente,Another Day of Life,2019.0,Others,131611
+tt6109502,2018,Youth Jury Award,,True,True,Journey to a Mother's Room,nm3536332,Celia Rico Clavellino,Journey to a Mother's Room,2019.0,Drama,7790
+tt9358136,2018,Films in Progress Award,,True,True,The Sharks,nm8738226,Lucía Garibaldi,The Sharks,2019.0,Drama,4108
+tt7692966,2018,TVE Otra Mirada Award,,True,True,The Third Wife,nm4451190,Ash Mayfair,The Third Wife,2019.0,Drama,378797
+tt5776858,2018,FIPRESCI Film of the Year,,True,True,Phantom Thread,nm0000759,Paul Thomas Anderson,Phantom Thread,2018.0,Drama,71091593
+tt6543652,2018,FIPRESCI Film of the Year,,False,False,Cold War,nm0667734,Pawel Pawlikowski,Cold War,2019.0,Drama,24909769
+tt3409848,2018,FIPRESCI Film of the Year,,False,False,Zama,nm0551506,Lucrecia Martel,Zama,2017.0,Drama,714704
+tt7204348,2018,Sebastiane Award,Best Film,False,False,El Angel,nm1166781,Luis Ortega,El Angel,2018.0,Others,5785383
+tt8805374,2018,Sebastiane Award,Best Film,False,False,The Daughters of Fire,nm0140337,Albertina Carri,The Daughters of Fire,2019.0,Drama,2978
+tt6400166,2018,Sebastiane Award,Best Latin American Film,False,False,My Best Friend,nm1389105,Martín Deus,My Best Friend,2018.0,Drama,14476
+tt8845840,2018,New Directors Award,,False,False,Serdtse mira,nm3770347,Nataliya Meshchaninova,Serdtse mira,2018.0,Drama,56228
+tt8331988,2018,New Directors Award,,False,False,The Chambermaid,nm3569165,Lila Avilés,The Chambermaid,2019.0,Drama,149031
+tt8020896,2018,Zabaltegi-Tabakalera Prize,,False,False,An Elephant Sitting Still,nm9636804,Bo Hu,An Elephant Sitting Still,2019.0,Drama,72155
+tt8846072,2018,Zabaltegi-Tabakalera Prize,,False,False,Belmonte,nm0992159,Federico Veiroj,Belmonte,2019.0,Comedy,7184
+tt6109168,2018,Zabaltegi-Tabakalera Prize,,False,False,Bergman: A Year in the Life,nm3082355,Jane Magnusson,Bergman: A Year in a Life,2018.0,Others,49571
+tt8185182,2018,Zabaltegi-Tabakalera Prize,,False,False,Long Day's Journey Into Night,nm7267981,Gan Bi,Long Day's Journey Into Night,2018.0,Drama,42971620
+tt5749596,2018,Zabaltegi-Tabakalera Prize,,False,False,The Image Book,nm0000419,Jean-Luc Godard,The Image Book,2019.0,Drama,224955
+tt5821220,2018,Zabaltegi-Tabakalera Prize,,False,False,Theatre of War,nm8229588,Lola Arias,Theatre of War,2018.0,Others,600

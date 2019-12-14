@@ -1,0 +1,318 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0082933,1981,Critics Award,,True,True,Possession,nm0958558,Andrzej Zulawski,Possession,1983.0,Drama,5634899
+tt0085809,1984,Audience Award,Best Feature,True,False,Koyaanisqatsi,nm0716585,Godfrey Reggio,Koyaanisqatsi,1982.0,Others,9284131
+tt0084740,1984,Critics Award,,True,True,El sur,nm0258977,Víctor Erice,El Sur,1983.0,Drama,30198
+tt0091954,1986,Critics Award,,True,True,Sid and Nancy,nm0007182,Alex Cox,Sid and Nancy,1986.0,Others,13141347
+tt0093191,1988,Audience Award,Best Feature,True,False,Wings of Desire,nm0000694,Wim Wenders,Wings of Desire,1988.0,Drama,14654375
+tt0103130,1991,Audience Award,Best Feature,True,False,Trust,nm0001325,Hal Hartley,Trust,1991.0,Comedy,1348662
+tt0102456,1991,Critics Special Award,,True,True,Mississippi Masala,nm0619762,Mira Nair,Mississippi Masala,1992.0,Drama,26951596
+tt0102721,1992,Critics Award,,True,True,Proof,nm0602104,Jocelyn Moorhouse,Proof,1992.0,Drama,1925023
+tt0108328,1994,International Jury Award,,True,True,Thirty Two Short Films About Glenn Gould,nm0320660,François Girard,Thirty Two Short Films About Glenn Gould,1993.0,Others,4625527
+tt0110882,1994,Audience Award,Best Feature,True,False,Before the Rain,nm0541391,Milcho Manchevski,Before the Rain,1995.0,Drama,2587138
+tt0111845,1994,Critics Award,,True,True,Through the Olive Trees,nm0452102,Abbas Kiarostami,Through the Olive Trees,1994.0,Drama,68932
+tt0112445,1995,International Jury Award,,True,True,The White Balloon,nm0070159,Jafar Panahi,The White Balloon,1996.0,Drama,3061743
+tt0112844,1995,Special Jury Award,,True,True,Denise Calls Up,nm0759410,Hal Salwen,Denise Calls Up,1996.0,Comedy,486217
+tt0110877,1995,Audience Award,Best Feature,True,False,Il postino,nm0705535,Michael Radford,The Postman (Il Postino),1996.0,Others,71802672
+tt0110299,1995,Critics Award,,True,True,Lamerica,nm0002167,Gianni Amelio,Lamerica,1995.0,Drama,8690317
+tt0116860,1996,International Jury Award,,True,True,"Pretty Village, Pretty Flame",nm0236729,Srdjan Dragojevic,"Pretty Village, Pretty Flame",1996.0,Comedy,681
+tt0115640,1996,International Jury Award - Honorable Mention,,True,True,Beautiful Thing,nm0531751,Hettie Macdonald,Beautiful Thing,1996.0,Comedy,4998344
+tt0117359,1996,Critics Award,,True,True,Ponette,nm0230695,Jacques Doillon,Ponette,1997.0,Drama,4153859
+tt0117959,1997,Audience Award,Best Feature,True,False,The Truce,nm0742940,Francesco Rosi,The Truce,1998.0,Drama,112359
+tt0122082,1997,Audience Award,Best Feature,False,False,The Crazy Stranger,nm0309697,Tony Gatlif,The Crazy Stranger,1998.0,Comedy,1052771
+tt0119590,1997,Audience Award,Best Feature,False,False,Ma vie en rose,nm0075626,Alain Berliner,Ma Vie en Rose,1997.0,Drama,6850660
+tt0119250,1997,Critics Award,,True,True,Fireworks,nm0001429,Takeshi Kitano,Fireworks,1998.0,Others,1575511
+tt0117909,1997,Critics Award - Honorable Mention,,True,True,Earth,nm0575523,Julio Medem,Earth,1997.0,Drama,25747
+tt0147612,1998,International Jury Award,,True,True,Happiness,nm0001754,Todd Solondz,Happiness,1998.0,Comedy,9293255
+tt0154420,1998,International Jury Award - Honorable Mention,,True,True,The Celebration,nm0899121,Thomas Vinterberg,The Celebration,1998.0,Drama,5161517
+tt0170705,1998,Audience Award,Best Feature,True,True,Train of Life,nm0586123,Radu Mihaileanu,Train of Life,1999.0,Comedy,5303591
+tt0118819,1998,Audience Award,Best Feature,False,False,Live Flesh,nm0000264,Pedro Almodóvar,Live Flesh,1998.0,Drama,5648309
+tt0156794,1998,Audience Award,Best Feature,False,False,Eternity and a Day,nm0000766,Theodoros Angelopoulos,Eternity and a Day,1999.0,Drama,329592
+tt0188653,1999,International Jury Award - Honorable Mention,,True,True,Journey to the Sun,nm0882445,Yesim Ustaoglu,Journey to the Sun,2001.0,Drama,6382
+tt0200849,1999,Audience Award,Best Documentary,True,False,My Best Fiend,nm0001348,Werner Herzog,My Best Fiend,1999.0,Others,145523
+tt0209189,1999,Audience Award,Best Feature,True,False,Not One Less,nm0955443,Yimou Zhang,Not One Less,2000.0,Drama,1794243
+tt0192069,1999,Audience Award,,True,False,Gendernauts: A Journey Through Shifting Identities,nm0872331,Monika Treut,Gendernauts: A Journey Through Shifting Identities,1999.0,Others,22627
+tt0259072,2000,International Jury Award,,True,True,A Time for Drunken Horses,nm0315842,Bahman Ghobadi,A Time for Drunken Horses,2000.0,Drama,1791720
+tt0249462,2000,International Jury Award,,True,True,Billy Elliot,nm0197636,Stephen Daldry,Billy Elliot,2000.0,Drama,192689248
+tt0245712,2000,International Jury Award,,False,True,Amores perros,nm0327944,Alejandro G. Iñárritu,Amores Perros,2001.0,Drama,38017184
+tt0204709,2000,International Jury Award,,False,False,An Affair of Love,nm0285090,Frédéric Fonteyne,An Affair of Love,2000.0,Drama,1124454
+tt0208196,2000,International Jury Award,,False,False,Happy Accidents,nm0026442,Brad Anderson,Happy Accidents,2000.0,Comedy,2084723
+tt0186253,2000,International Jury Award,,False,False,Jesus' Son,nm0533744,Alison Maclean,Jesus' Son,2000.0,Drama,3851164
+tt0281094,2000,International Jury Award,,False,False,Princesa,nm0325790,Henrique Goldman,Princesa,2001.0,Drama,27787
+tt0238891,2000,Audience Award,Best Feature Film,True,False,One Hundred Steps,nm0320285,Marco Tullio Giordana,One Hundred Steps,2010.0,Others,253274
+tt0236216,2000,Audience Award,Best Foreign Documentary,True,False,The Filth and the Fury,nm0854697,Julien Temple,The Filth and the Fury,2000.0,Others,1853607
+tt0248845,2001,International Jury Award,Best Feature Film,False,False,Hedwig and the Angry Inch,nm0593463,John Cameron Mitchell,Hedwig and the Angry Inch,2001.0,Comedy,9662611
+tt0243862,2001,International Jury Award,Best Feature Film,False,False,Italian for Beginners,nm0771054,Lone Scherfig,Italian for Beginners,2002.0,Comedy,29698755
+tt0250491,2001,International Jury Award,Best Feature Film,False,False,Late Night Shopping,nm0582792,Saul Metzstein,Late Night Shopping,2002.0,Comedy,2477
+tt0283509,2001,International Jury Award,Best Feature Film,True,False,No Man's Land,nm0849786,Danis Tanovic,No Man's Land,2001.0,Drama,8443038
+tt0180093,2001,International Jury Award,Best Feature Film,False,False,Requiem for a Dream,nm0004716,Darren Aronofsky,Requiem for a Dream,2000.0,Drama,16192916
+tt0290823,2001,International Jury Award,Best Feature Film,False,True,Secret Ballot,nm0668165,Babak Payami,Secret Ballot,2002.0,Comedy,337772
+tt0243212,2001,International Jury Award,Best Feature Film,False,False,To Love Too Much,nm0727309,Ernesto Rimoch,To Love Too Much,2002.0,Drama,13123
+tt0241663,2001,Audience Award,Best Brazilian Feature Film,True,False,To the Left of the Father,nm0142461,Luiz Fernando Carvalho,To the Left of the Father,2002.0,Drama,731416
+tt0282864,2001,Audience Award,Best Foreign Documentary,True,True,Promises,nm0325148,B.Z. Goldberg,Promises,2001.0,Others,976187
+tt0340468,2002,International Jury Award,Best Documentary,True,True,Bus 174,nm0655683,José Padilha,Bus 174,2003.0,Others,618416
+tt0310622,2002,International Jury Award,Best Documentary,False,False,All About My Father,nm1135320,Even Benestad,All About My Father,2003.0,Others,567701
+tt0321376,2002,International Jury Award,Best Documentary,False,False,Cuban Rafters,nm1188723,Carles Bosch,Cuban Rafters,2003.0,Others,56709
+tt0317226,2002,International Jury Award,Best Feature Film,True,True,Marooned in Iraq,nm0315842,Bahman Ghobadi,Marooned in Iraq,2002.0,Drama,444848
+tt0279064,2002,International Jury Award,Best Feature Film,False,False,Elling,nm0639033,Petter Næss,Elling,2002.0,Comedy,3349866
+tt0317887,2002,International Jury Award,Best Feature Film,False,True,Madame Satã,nm0014694,Karim Aïnouz,Madame Satã,2002.0,Others,870181
+tt0196069,2002,International Jury Award,Best Feature Film,False,False,Samsara,nm0659023,Pan Nalin,Samsara,2002.0,Others,4731125
+tt0310001,2002,International Jury Award,Best Feature Film,False,False,Stones,nm0757749,Ramón Salazar,Stones,2003.0,Drama,1409320
+tt0304822,2002,International Jury Award,Best Feature Film,False,False,Ti voglio bene Eugenio,nm1096599,Francisco Josè Fernandez,Ti voglio bene Eugenio,2002.0,Drama,45662
+tt0310793,2002,Audience Award,Best Foreign Documentary,True,False,Bowling for Columbine,nm0601619,Michael Moore,Bowling for Columbine,2002.0,Others,112181756
+tt0292542,2002,Audience Award,Best Foreign Feature Film,True,False,Son of the Bride,nm0002728,Juan José Campanella,Son of the Bride,2002.0,Comedy,13180559
+tt0304267,2002,Critics Award,Best Film,True,True,Kedma,nm0321159,Amos Gitai,Kedma,2003.0,Drama,431765
+tt0322824,2002,Critics Award - Honorable Mention,,True,True,Japón,nm1196161,Carlos Reygadas,Japón,2003.0,Drama,321627
+tt0298228,2003,International Jury Award,Best Feature Film,True,True,Whale Rider,nm0138927,Niki Caro,Whale Rider,2003.0,Drama,85610853
+tt0305206,2003,International Jury Award,Best Feature Film,False,False,American Splendor,nm0075849,Shari Springer Berman,American Splendor,2003.0,Others,19313845
+tt0338949,2003,International Jury Award,Best Feature Film,False,False,Edi,nm0970382,Piotr Trzaskalski,Edi,2003.0,Drama,1843337
+tt0305178,2003,International Jury Award,Best Feature Film,False,False,James' Journey to Jerusalem,nm0018924,Ra'anan Alexandrowicz,James' Journey to Jerusalem,2004.0,Comedy,441813
+tt0323872,2003,International Jury Award,Best Feature Film,False,False,Kitchen Stories,nm0357584,Bent Hamer,Kitchen Stories,2004.0,Comedy,4357089
+tt0378906,2003,International Jury Award,Best Feature Film,False,False,Travelers and Magicians,nm0634897,Khyentse Norbu,Travelers and Magicians,2003.0,Others,1666319
+tt0379577,2003,International Jury Award,Best Feature Film,False,False,Vodka Lemon,nm0757954,Hiner Saleem,Vodka Lemon,2004.0,Comedy,180408
+tt0289635,2003,International Jury Award,Best Feature Film,False,False,Young Adam,nm0533284,David Mackenzie,Young Adam,2003.0,Others,4608714
+tt0368287,2003,Audience Award,Best Foreign Documentary,True,False,The Soul of a Man,nm0000694,Wim Wenders,The Soul of a Man,2003.0,Others,824806
+tt0252444,2003,Audience Award,Best Foreign Feature Film,True,False,Rabbit-Proof Fence,nm0637518,Phillip Noyce,Rabbit-Proof Fence,2003.0,Others,31527915
+tt0342172,2003,Critics Award,Best Documentary,True,True,Capturing the Friedmans,nm1285613,Andrew Jarecki,Capturing the Friedmans,2003.0,Others,9999726
+tt0335266,2003,Critics Award,Best in Competition,True,True,Lost in Translation,nm0001068,Sofia Coppola,Lost in Translation,2003.0,Drama,225532721
+tt0367195,2003,Critics Award,Best in Perspectives,True,True,Come and Go,nm0599214,João César Monteiro,Come and Go,2004.0,Comedy,45439
+tt0419987,2004,International Jury Award,Best Documentary,False,False,Música cubana,nm0469378,German Kral,Música cubana,2006.0,Others,199913
+tt0390221,2004,International Jury Award,Best Feature Film,True,True,Maria Full of Grace,nm0551358,Joshua Marston,Maria Full of Grace,2004.0,Others,25789788
+tt0384810,2004,International Jury Award,Best Feature Film,False,False,Around the Bend,nm1471001,Jordan Roberts,Around the Bend,2004.0,Comedy,1034757
+tt0347016,2004,International Jury Award,Best Feature Film,False,True,In Your Hands,nm0646299,Annette K. Olesen,In Your Hands,2005.0,Drama,13338
+tt0374583,2004,International Jury Award,Best Feature Film,False,False,Look at Me,nm0418450,Agnès Jaoui,Look at Me,2005.0,Comedy,26904917
+tt0325733,2004,International Jury Award,Best Feature Film,False,False,Love in Thoughts,nm0902022,Achim von Borries,Love in Thoughts,2004.0,Drama,1645242
+tt0359254,2004,International Jury Award,Best Feature Film,False,False,Rolling Family,nm0871086,Pablo Trapero,Rolling Family,2004.0,Comedy,168405
+tt0373861,2004,International Jury Award,Best Feature Film,False,False,The Story of the Weeping Camel,nm1389025,Byambasuren Davaa,The Story of the Weeping Camel,2004.0,Drama,14965484
+tt0424227,2004,International Jury Award,Best Feature Film,True,True,Turtles Can Fly,nm0315842,Bahman Ghobadi,Turtles Can Fly,2004.0,Drama,1785932
+tt0407926,2004,Mostra Award,Best Foreign Documentary,False,False,Kill Your Idols,nm1950479,Scott Crary,Kill Your Idols,2004.0,Others,20954
+tt0400647,2004,Audience Award,Best Foreign Documentary,True,False,Social Genocide,nm0812625,Fernando E. Solanas,Social Genocide,2004.0,Others,68454
+tt0381668,2004,Critics Award,,True,True,Tropical Malady,nm0917405,Apichatpong Weerasethakul,Tropical Malady,2004.0,Drama,125163
+tt0300270,2004,Critics Award - Honorable Mention,,True,True,The Holy Girl,nm0551506,Lucrecia Martel,The Holy Girl,2004.0,Drama,2096211
+tt0482633,2005,International Jury Award,Best Documentary,False,False,Viva Zapatero!,nm0350127,Sabina Guzzanti,Viva Zapatero!,2006.0,Others,2453896
+tt0418455,2005,International Jury Award,Best Feature Film,True,False,Adam's Apples,nm0421314,Anders Thomas Jensen,Adam's Apples,2006.0,Comedy,3098912
+tt0404030,2005,International Jury Award,Best Feature Film,False,True,Everything Is Illuminated,nm0000630,Liev Schreiber,Everything Is Illuminated,2005.0,Comedy,6817578
+tt0430224,2005,International Jury Award,Best Feature Film,False,False,Hell,nm0849786,Danis Tanovic,Hell,2005.0,Drama,770288
+tt0421068,2005,International Jury Award,Best Feature Film,False,False,Kontakt,nm1690993,Sergej Stanojkovski,Kontakt,2006.0,Drama,16216
+tt0456899,2005,International Jury Award,Best Feature Film,False,False,Lower City,nm0532509,Sérgio Machado,Lower City,2006.0,Drama,462267
+tt0445506,2005,International Jury Award,Best Feature Film,False,True,Peacock,nm0345146,Changwei Gu,Peacock,2005.0,Drama,72
+tt0361670,2005,International Jury Award,Best Feature Film,False,False,The Great Journey,nm0275044,Ismaël Ferroukhi,The Great Journey,2005.0,Drama,63246
+tt0363510,2005,Audience Award,Best Foreign Medium Length Film,True,False,The Revolution Will Not Be Televised,nm1378741,Kim Bartley,The Revolution Will Not Be Televised,2003.0,Others,426909
+tt0423176,2005,Critics Award,International,True,True,The World,nm0422605,Zhangke Jia,The World,2004.0,Drama,415889
+tt0489458,2006,International Jury Award,Best Feature Film,True,True,Drained,nm1104944,Heitor Dhalia,Drained,2007.0,Comedy,978701
+tt0414713,2006,International Jury Award,Best Feature Film,False,False,Amu,nm1773569,Shonali Bose,Amu,2006.0,Drama,131102
+tt0951297,2006,International Jury Award,Best Feature Film,False,False,How Much Further,nm0379409,Tania Hermida,How Much Further,2009.0,Drama,582829
+tt0456041,2006,International Jury Award,Best Feature Film,False,False,Libero (Along the Ridge),nm0744107,Kim Rossi Stuart,Anche libero va bene,2006.0,Drama,2466456
+tt0343221,2006,International Jury Award,Best Feature Film,False,True,Mother of Mine,nm0405605,Klaus Härö,Mother of Mine,2006.0,Drama,3667812
+tt0438329,2006,International Jury Award,Best Feature Film,False,False,Noel: The Samba Poet,nm0888036,Ricardo Van Steen,Noel: The Samba Poet,2008.0,Drama,255961
+tt0367027,2006,International Jury Award,Best Feature Film,False,False,Shortbus,nm0593463,John Cameron Mitchell,Shortbus,2006.0,Drama,9499451
+tt0451966,2006,International Jury Award,Best Feature Film,False,True,The Violin,nm0889829,Francisco Vargas,The Violin,2006.0,Drama,1584885
+tt0857355,2006,International Jury Award,Best Feature Film,False,True,The Year My Parents Went on Vacation,nm0357463,Cao Hamburger,The Year My Parents Went on Vacation,2007.0,Drama,5962149
+tt0886487,2006,Audience Award,Best Documentary,True,True,Fabricando Tom Zé,nm2296646,Décio Matos Júnior,Fabricando Tom Zé,2007.0,Others,67203
+tt0497116,2006,Audience Award,Best Foreign Documentary,True,False,An Inconvenient Truth,nm0346550,Davis Guggenheim,An Inconvenient Truth,2006.0,Others,93069740
+tt0450121,2006,Audience Award,Best Foreign Feature Film,True,False,Red Like the Sky,nm0097580,Cristiano Bortone,Red Like the Sky,2008.0,Drama,875408
+tt0482987,2006,Critics Award,International,True,True,Paraguayan Hammock,nm1885520,Paz Encina,Paraguayan Hammock,2008.0,Drama,5272
+tt0492869,2006,Petrobras Cultural de Difusão Award,Best Brazilian Feature,True,True,Antonia,nm0024015,Tata Amaral,Antonia,2007.0,Drama,8702
+tt0823668,2007,International Jury Award,Best Documentary,False,False,Screamers,nm2013302,Carla Garapedian,Screamers,2006.0,Others,131785
+tt1010399,2007,International Jury Award,Best Documentary,False,False,The Big Sellout,nm2623327,Florian Opitz,The Big Sellout,2007.0,Others,165539
+tt0482901,2007,International Jury Award,Best Feature Film,True,True,The Pope's Toilet,nm0153263,César Charlone,The Pope's Toilet,2009.0,Comedy,1353794
+tt0984175,2007,International Jury Award,Best Feature Film,False,False,Alice's House,nm0854098,Chico Teixeira,Alice's House,2007.0,Drama,317771
+tt0491747,2007,International Jury Award,Best Feature Film,False,False,Away from Her,nm0001631,Sarah Polley,Away from Her,2007.0,Drama,16916761
+tt0762110,2007,International Jury Award,Best Feature Film,False,False,Irina Palm,nm0304921,Sam Garbarski,Irina Palm,2007.0,Drama,13032314
+tt1085491,2007,International Jury Award,Best Feature Film,False,True,Postcards from Leningrad,nm0740048,Mariana Rondón,Postcards from Leningrad,2007.0,Drama,227603
+tt0464141,2007,International Jury Award,Best Feature Film,False,False,The Orphanage,nm1291105,J.A. Bayona,The Orphanage,2008.0,Drama,103875723
+tt1094278,2007,International Jury Award,Best Feature Film,False,True,Tricks,nm1435889,Andrzej Jakimowski,Tricks,2009.0,Comedy,1532045
+tt0995829,2007,International Jury Award,Best Feature Film,False,False,XXY,nm0699932,Lucía Puenzo,XXY,2008.0,Drama,3276102
+tt2333596,2007,Audience Award,Best Brazilian Documentary,True,False,Pindorama: A Verdadeira História dos Sete Anões,nm0075644,Roberto Berliner,Pindorama: A Verdadeira História dos Sete Anões,2008.0,Others,5091
+tt0758758,2007,Audience Award,Best Foreign Feature Film,True,False,Into the Wild,nm0000576,Sean Penn,Into the Wild,2007.0,Others,91254297
+tt0808417,2007,Audience Award,Best Foreign Feature Film,True,False,Persepolis,nm1749112,Vincent Paronnaud,Persepolis,2008.0,Others,32832215
+tt0765141,2007,Critics Award,,True,True,Heartbeat Detector,nm0460120,Nicolas Klotz,Heartbeat Detector,2007.0,Drama,853576
+tt1997363,2008,International Jury Award,Best Documentary,False,False,Fumando Espero,nm4649013,Adriana L. Dutra,Fumando Espero,2009.0,Others,721
+tt1329371,2008,International Jury Award,Best Documentary,False,False,Intangible Asset No. 82,nm2959179,Emma Franz,Intangible Asset No. 82,2010.0,Others,41882
+tt1194235,2008,International Jury Award,Best Feature Film,True,True,The Stranger in Me,nm1477692,Emily Atef,The Stranger in Me,2008.0,Drama,99758
+tt1130980,2008,International Jury Award,Best Feature Film,False,False,A Deal Is a Deal,nm0948719,Jonathan Gershfield,A Deal Is a Deal,2008.0,Comedy,716619
+tt1003067,2008,International Jury Award,Best Feature Film,False,False,Die Tränen meiner Mutter,nm1557731,Alejandro Cardenas Amelio,Die Tränen meiner Mutter,2008.0,Drama,53453
+tt0790709,2008,International Jury Award,Best Feature Film,False,False,Lovesickness,nm2267389,Carlitos Ruiz Ruiz,Lovesickness,2007.0,Comedy,54401
+tt1172522,2008,International Jury Award,Best Feature Film,False,False,Machan,nm0664667,Uberto Pasolini,Machan,2009.0,Others,335044
+tt0948530,2008,International Jury Award,Best Feature Film,False,False,"Moscow, Belgium",nm0739755,Christophe Van Rompaey,"Moscow, Belgium",2008.0,Comedy,42198
+tt1235058,2008,International Jury Award,Best Feature Film,False,False,The Blue Tooth Virgin,nm1831657,Russell Brown,The Blue Tooth Virgin,2008.0,Comedy,6687
+tt0977651,2008,International Jury Award,Best Feature Film,False,False,The Friend,nm1520897,Micha Lewinsky,The Friend,2008.0,Drama,244763
+tt0436854,2008,International Jury Award,Best Feature Film,False,False,Tulpan,nm0245361,Sergei Dvortsevoy,Tulpan,2008.0,Comedy,1563550
+tt1424746,2008,Audience Award,Best Brazilian Feature Film,True,True,That's It,nm3434181,Matheus Souza,That's It,2009.0,Comedy,125506
+tt1235450,2008,Audience Award,Best Foreign Documentary,True,False,Youssou Ndour: I Bring What I Love,nm1888091,Elizabeth Chai Vasarhelyi,Youssou Ndour: I Bring What I Love,2009.0,Others,428409
+tt0449994,2008,Audience Award,Best Foreign Feature Film,True,False,Jodhaa Akbar,nm0332950,Ashutosh Gowariker,Jodhaa Akbar,2008.0,Others,36669195
+tt1081929,2008,Critics Award,,True,True,Our Beloved Month of August,nm0326937,Miguel Gomes,Our Beloved Month of August,2010.0,Others,46541
+tt1392261,2008,Youth Award,,True,True,Veronica,nm0267399,Maurício Farias,Veronica,2009.0,Others,386593
+tt1149610,2008,New Directors Competition,Best Film,False,False,La virgen negra,,[],La virgen negra,2009.0,Comedy,321795
+tt1433528,2009,International Jury Award,Best Documentary,True,True,Inferno,nm1000499,Serge Bromberg,Inferno,2009.0,Others,91605
+tt1180311,2009,International Jury Award,Best Documentary,False,False,The Flower of Kim Jong II,nm2912984,N.C. Heikin,The Flower of Kim Jong II,2009.0,Others,14292
+tt1292644,2009,International Jury Award,Best Feature Film,False,False,Accomplices,nm0581081,Frédéric Mermoud,Accomplices,2009.0,Others,941379
+tt1714160,2009,International Jury Award,Best Feature Film,False,False,An Ordinary Man,nm2083118,Caio Vecchio,An Ordinary Man,2009.0,Comedy,3606
+tt1388402,2009,International Jury Award,Best Feature Film,False,False,Bad Day to Go Fishing,nm1304308,Álvaro Brechner,Bad Day to Go Fishing,2010.0,Comedy,286620
+tt0985058,2009,International Jury Award,Best Feature Film,False,False,Metropia,nm0757975,Tarik Saleh,Metropia,2010.0,Others,95231
+tt1123970,2009,International Jury Award,Best Feature Film,False,False,Phantom Pain,nm0256134,Matthias Emcke,Phantom Pain,2009.0,Drama,933341
+tt1353793,2009,International Jury Award,Best Feature Film,False,False,The Wolberg Family,nm0740612,Axelle Ropert,The Wolberg Family,2009.0,Drama,3392
+tt1519661,2009,International Jury Award,Best Feature Film,False,False,Zero,nm1555941,Pawel Borowski,Zero,2010.0,Others,1919422
+tt0842675,2009,Audience Award,Best Brazilian Feature Film,True,False,"Carmo, Hit the Road",nm1233826,Murilo Pasta,"Carmo, Hit the Road",2010.0,Others,268431
+tt0913425,2009,Audience Award,Best Foreign Feature Film,True,False,Broken Embraces,nm0000264,Pedro Almodóvar,Broken Embraces,2010.0,Drama,86654663
+tt1071812,2009,Audience Award,Best Foreign Feature Film,True,False,Mao's Last Dancer,nm0000915,Bruce Beresford,Mao's Last Dancer,2010.0,Others,31649077
+tt1209367,2009,Audience Award,Best Youth Film,True,False,The Swimsuit Issue,nm0379775,Måns Herngren,The Swimsuit Issue,2010.0,Comedy,2930912
+tt1465474,2009,Itamaraty Award,Best Brazilian Film,True,True,Before the World Ends,nm0044218,Ana Luiza Azevedo,Before the World Ends,2010.0,Drama,108785
+tt1426378,2009,Critics Award,Best Feature Film,True,True,No One Knows About Persian Cats,nm0315842,Bahman Ghobadi,No One Knows About Persian Cats,2009.0,Drama,1160975
+tt1597538,2010,International Jury Award,Best Documentary,True,True,In the Garden of Sounds,nm0069260,Nicola Bellucci,In the Garden of Sounds,2011.0,Others,5821
+tt1587707,2010,International Jury Award,Best Documentary,False,False,Exit Through the Gift Shop,nm2612991,Banksy,Exit Through the Gift Shop,2010.0,Comedy,10072872
+tt1592744,2010,International Jury Award,Best Documentary,False,False,Kinshasa Symphony,nm2312334,Claus Wischmann,Kinshasa Symphony,2010.0,Others,285352
+tt2700330,2010,International Jury Award,Best Documentary,False,False,The Two Escobars,nm1905310,Jeff Zimbalist,The Two Escobars,2010.0,Others,33845
+tt1288376,2010,International Jury Award,Best Feature Film,True,True,When We Leave,nm0770883,Feo Aladag,When We Leave,2011.0,Drama,1411169
+tt1479668,2010,International Jury Award,Best Feature Film,False,False,Abel,nm0526019,Diego Luna,Abel,2011.0,Comedy,3095250
+tt1437366,2010,International Jury Award,Best Feature Film,False,True,Beyond,nm0000278,Pernilla August,Beyond,2011.0,Drama,6150527
+tt1588358,2010,International Jury Award,Best Feature Film,False,False,Brother,nm2308899,Marcel Rasquin,Brother,2010.0,Drama,1891315
+tt1327820,2010,International Jury Award,Best Feature Film,False,False,Brotherhood,nm1645978,Nicolo Donato,Brotherhood,2010.0,Drama,292483
+tt1447508,2010,International Jury Award,Best Feature Film,False,False,Peepli (Live),nm3470556,Anusha Rizvi,Peepli (Live),2010.0,Comedy,11961847
+tt1252516,2010,International Jury Award,Best Feature Film,False,True,Rosa Morena,nm0646656,Carlos Augusto de Oliveira,Rosa Morena,2011.0,Drama,492302
+tt1467306,2010,International Jury Award,Best Feature Film,False,False,The Sea Purple,nm0537820,Donatella Maiorca,The Sea Purple,2010.0,Drama,1194697
+tt1496005,2010,International Jury Award,Best Feature Film,False,False,The Tree,nm0078465,Julie Bertuccelli,The Tree,2010.0,Drama,2676096
+tt1510906,2010,International Jury Award,Best Feature Film,False,False,Third Star,nm1463009,Hattie Dalton,Third Star,2011.0,Drama,16513
+tt1789810,2010,Audience Award,Best Brazilian Documentary,True,False,José and Pilar,nm2573954,Miguel Gonçalves Mendes,José and Pilar,2012.0,Others,17095
+tt1600731,2010,Audience Award,Best Foreign Documentary,True,False,Solutions locales pour un désordre global,nm0785684,Coline Serreau,Solutions locales pour un désordre global,2010.0,Others,126398
+tt1111876,2010,Audience Award,Best Foreign Feature Film,True,False,Balibo,nm0175352,Robert Connolly,Balibo,2010.0,Drama,1088074
+tt1268204,2010,Itamaraty Award,Best Brazilian Documentary,True,True,Waste Land,nm1013671,Lucy Walker,Waste Land,2010.0,Others,547358
+tt1236371,2010,Critics Award,,True,True,Mysteries of Lisbon,nm0749914,Raoul Ruiz,Mysteries of Lisbon,2010.0,Drama,325981
+tt0775489,2010,Youth Award,,True,True,The Illusionist,nm0158984,Sylvain Chomet,The Illusionist,2011.0,Others,12938380
+tt1613023,2011,International Jury Award,Best Documentary,True,False,"Beats, Rhymes & Life: The Travels of A Tribe Called Quest",nm0001650,Michael Rapaport,"Beats, Rhymes & Life: The Travels of A Tribe Called Quest",2011.0,Others,2785729
+tt1772925,2011,International Jury Award,Best Documentary,False,False,Jiro Dreams of Sushi,nm0312173,David Gelb,Jiro Dreams of Sushi,2011.0,Others,5938440
+tt1680679,2011,International Jury Award,Best Feature Film,True,True,Breathing,nm0548686,Karl Markovics,Breathing,2012.0,Drama,900784
+tt1890373,2011,International Jury Award,Best Feature Film,False,False,Combat Girls,nm1177494,David Wnendt,Combat Girls,2012.0,Drama,793795
+tt1564769,2011,International Jury Award,Best Feature Film,False,False,De leur vivant,nm3627713,Géraldine Doignon,De leur vivant,2012.0,Drama,4686
+tt1821406,2011,International Jury Award,Best Feature Film,False,False,Dom,nm4272919,Zuzana Liová,Dom,2012.0,Drama,167922
+tt1754946,2011,International Jury Award,Best Feature Film,False,False,Holidays by the Sea,nm3258082,Pascal Rabaté,Holidays by the Sea,2011.0,Comedy,8117
+tt1634013,2011,International Jury Award,Best Feature Film,False,False,Montevideo: Taste of a Dream,nm0081449,Dragan Bjelogrlic,Montevideo: Taste of a Dream,2010.0,Others,2240029
+tt1849759,2011,International Jury Award,Best Feature Film,False,False,The Finger,nm3061001,Sergio Teubal,The Finger,2011.0,Comedy,71804
+tt1235170,2011,International Jury Award,Best Feature Film,False,False,The Future,nm0432380,Miranda July,The Future,2011.0,Drama,1689357
+tt1695831,2011,International Jury Award,Best Feature Film,False,False,Volcano,nm1242172,Rúnar Rúnarsson,Volcano,2011.0,Drama,477924
+tt1784599,2011,Audience Award,Best Brazilian Documentary,True,True,"Raul: O Início, o Fim e o Meio",nm0142504,Walter Carvalho,"Raul: O Início, o Fim e o Meio",2012.0,Others,1013058
+tt1663321,2011,Audience Award,Best Foreign Feature Film,True,False,Chicken with Plums,nm2277869,Marjane Satrapi,Chicken with Plums,2012.0,Comedy,1868326
+tt1683526,2011,Audience Award,Best Foreign Feature Film,True,False,Detachment,nm0443411,Tony Kaye,Detachment,2011.0,Drama,2001378
+tt2359171,2011,Itamaraty Award,Best Brazilian Documentary,False,False,Marcelo Yuka no Caminho das Setas (Marcelo Yuka: Follow the Signs),nm1379432,Daniela Broitman,Marcelo Yuka no Caminho das Setas (Marcelo Yuka: Follow the Signs),2011.0,Others,1595
+tt2357958,2011,Itamaraty Award,Best Brazilian Documentary,False,False,Marighella,nm5236479,Isa Grinspum Ferraz,Marighella,2012.0,Others,38129
+tt2106411,2011,Itamaraty Award,Best Brazilian Film,True,True,I'd Receive the Worst News from Your Beautiful Lips,nm0105242,Beto Brant,I'd Receive the Worst News from Your Beautiful Lips,2012.0,Drama,323869
+tt2043879,2011,Itamaraty Award,Best Brazilian Film,False,False,Found Memories,nm0613580,Júlia Murat,Found Memories,2012.0,Drama,57132
+tt2016959,2011,Itamaraty Award,Best Brazilian Film,False,False,We 3,nm0646541,Nando Olival,We 3,2011.0,Drama,117491
+tt1827487,2011,Critics Award,,True,True,Once Upon a Time in Anatolia,nm0149196,Nuri Bilge Ceylan,Once Upon a Time in Anatolia,2011.0,Others,1499125
+tt1838560,2011,Critics Special Award,,True,True,Innocent Saturday,nm0591046,Aleksandr Mindadze,Innocent Saturday,2011.0,Drama,157860
+tt1429313,2011,Youth Award,,True,True,Africa United,nm3008980,Debs Paterson,Africa United,2011.0,Others,1367158
+tt2217022,2012,International Jury Award,Best Documentary,False,True,Francisco Brennand,nm3429386,Marianna Brennand Fortes,Francisco Brennand,2012.0,Others,28269
+tt2364366,2012,International Jury Award,Best Documentary,False,False,Pra Lá do Mundo,nm2336464,Roberto Studart,Pra Lá do Mundo,2012.0,Others,4369
+tt2147484,2012,International Jury Award,Best Documentary,False,False,Speed: In Search of Lost Time,nm2623327,Florian Opitz,Speed: In Search of Lost Time,2012.0,Others,239086
+tt2787834,2012,International Jury Award,Best Documentary,False,False,Way Beyond Weight,nm1170017,Estela Renner,Way Beyond Weight,2012.0,Others,14100
+tt2219514,2012,International Jury Award,Best Feature Film,True,True,Fill the Void,nm5112815,Rama Burshtein,Fill the Void,2012.0,Drama,5493857
+tt1954701,2012,International Jury Award,Best Feature Film,False,False,A Coffee in Berlin,nm1673756,Jan Ole Gerster,A Coffee in Berlin,2014.0,Comedy,3109928
+tt2216240,2012,International Jury Award,Best Feature Film,False,False,A Hijacking,nm2105585,Tobias Lindholm,A Hijacking,2013.0,Drama,3443351
+tt2412550,2012,International Jury Award,Best Feature Film,False,False,Colors,nm2152609,Francisco Garcia,Colors,2014.0,Drama,6687
+tt2355689,2012,International Jury Award,Best Feature Film,False,False,La Culpa del Cordero,nm4997580,Gabriel Drak,La Culpa del Cordero,2012.0,Comedy,48817
+tt1887935,2012,International Jury Award,Best Feature Film,False,False,Redemption Street,nm1204407,Miroslav Terzic,Redemption Street,2012.0,Drama,152109
+tt1927068,2012,International Jury Award,Best Feature Film,False,False,Shameless,nm1965582,Filip Marczewski,Shameless,2012.0,Drama,223089
+tt2369543,2012,International Jury Award,Best Feature Film,False,False,When I Saw You,nm1486975,Annemarie Jacir,When I Saw You,2014.0,Drama,48289
+tt1179259,2012,Audience Award,Best Brazilian Feature Film,True,True,Buddies,nm2337991,Marcelo Galvão,Buddies,2012.0,Others,945883
+tt1832370,2012,Audience Award,Best Documentary Film,True,True,I Am Eleven,nm1852072,Genevieve Bailey,I Am Eleven,2014.0,Others,1023762
+tt2229221,2012,Audience Award,Best Foreign Documentary,True,False,Il mundial dimenticato,nm4889857,Lorenzo Garzella,Il mundial dimenticato,2012.0,Others,3269
+tt2059255,2012,Audience Award,Best Foreign Feature Film,True,False,No,nm1883257,Pablo Larraín,No,2012.0,Drama,11094761
+tt2190367,2012,Itamaraty Award,Best Brazilian Film,True,True,Neighboring Sounds,nm2207625,Kleber Mendonça Filho,Neighboring Sounds,2012.0,Drama,585237
+tt2125425,2012,Itamaraty Award,Best Brazilian Film,False,False,Father's Chair,nm0609931,Luciano Moura,Father's Chair,2012.0,Drama,2074282
+tt2231208,2012,Itamaraty Award,Best Brazilian Film,False,False,Rio 2096: A Story of Love and Fury,nm0093252,Luiz Bolognesi,Rio 2096: A Story of Love and Fury,2013.0,Others,159860
+tt2925942,2012,Itamaraty Award,Best Brazilian Film,False,False,The Moving Creatures,nm1795697,Caetano Gotardo,The Moving Creatures,2015.0,Drama,1997
+tt2184227,2012,Critics Award,,True,True,Dormant Beauty,nm0069166,Marco Bellocchio,Dormant Beauty,2013.0,Drama,1257253
+tt1660302,2012,Critics Award - Honorable Mention,,True,True,Our Children,nm1050098,Joachim Lafosse,Our Children,2012.0,Drama,799197
+tt3329956,2012,Youth Award,Best Brazilian Film,False,False,Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo Com a Minha Vida,nm3434181,Matheus Souza,Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo Com a Minha Vida,2013.0,Comedy,52323
+tt2550692,2012,Youth Award,Best Brazilian Film,False,False,The Invisible Collection,nm3527520,Bernard Attal,The Invisible Collection,2013.0,Drama,25004
+tt1682181,2012,Youth Award,Best Foreign Film,False,False,Bully,nm1097276,Lee Hirsch,Bully,2011.0,Others,9719765
+tt1978480,2012,Youth Award,Best Foreign Film,False,False,Mosquita y Mari,nm1312731,Aurora Guerrero,Mosquita y Mari,2012.0,Drama,20293
+tt2234397,2012,Youth Award,Best Foreign Film,False,False,Satellite Boy,nm1642908,Catriona McKenzie,Satellite Boy,2013.0,Others,179531
+tt2679680,2013,International Jury Award,Best Documentary,True,True,Plot for Peace,nm1259337,Carlos Agulló,Plot for Peace,2014.0,Others,50437
+tt3078242,2013,International Jury Award,Best Feature Film,False,False,Miss Violence,nm3189793,Alexandros Avranas,Miss Violence,2014.0,Drama,157429
+tt2343158,2013,International Jury Award,Best Feature Film,False,False,Run & Jump,nm1576181,Steph Green,Run & Jump,2014.0,Drama,84393
+tt2395417,2013,International Jury Award,Best Feature Film,False,False,Still Life,nm0664667,Uberto Pasolini,Still Life,2013.0,Drama,2740451
+tt2261749,2013,International Jury Award,Best Feature Film,False,False,The Gilded Cage,nm0023517,Ruben Alves,The Gilded Cage,2014.0,Comedy,14007581
+tt2042583,2013,International Jury Award,Best Feature Film,False,True,The Golden Dream,nm0004033,Diego Quemada-Díez,The Golden Dream,2013.0,Drama,1117430
+tt2350496,2013,International Jury Award,Best Feature Film,False,False,The Lunchbox,nm3592235,Ritesh Batra,The Lunchbox,2013.0,Drama,17326228
+tt2178256,2013,International Jury Award,Best Feature Film,False,False,The Rocket,nm1203596,Kim Mordaunt,The Rocket,2013.0,Drama,555962
+tt2322316,2013,Audience Award,Best Brazilian Feature Film,True,False,Until Sbornia Takes Us Apart,nm0868871,Ennio Torresan,Until Sbornia Takes Us Apart,2013.0,Others,48338
+tt2316573,2013,Audience Award,Best Brazilian Feature Film,False,False,Underage,nm4700016,Caru Alves de Souza,Underage,2014.0,Drama,32461
+tt2331143,2013,Audience Award,Best Foreign Feature Film,True,False,"Like Father, Like Son",nm0466153,Hirokazu Koreeda,"Like Father, Like Son",2013.0,Drama,22170045
+tt1921129,2013,Critics Special Award,,True,True,The Militant,nm0631315,Manolo Nieto,The Militant,2014.0,Drama,5445
+tt2974644,2013,Abbracine Prize,,True,True,Riocorrente,nm0755345,Paulo Sacramento,Riocorrente,2014.0,Drama,20753
+tt3183630,2013,Youth Award,Best Brazilian Film,True,True,Boy and the World,nm0994245,Alê Abreu,Boy and the World,2014.0,Others,436787
+tt1817088,2013,Youth Award,Best Foreign Film,True,True,"Allez, Eddy!",nm0256103,Gert Embrechts,"Allez, Eddy!",2012.0,Comedy,668289
+tt3032028,2014,International Jury Award,Best Feature Film,True,True,Inbetween Worlds,nm0770883,Feo Aladag,Inbetween Worlds,2015.0,Drama,44413
+tt2823088,2014,International Jury Award,Best Feature Film,False,False,Carmina y amén.,nm1346713,Paco León,Carmina y amén.,2014.0,Comedy,3020027
+tt1863192,2014,International Jury Award,Best Feature Film,False,True,Corn Island,nm0653768,George Ovashvili,Corn Island,2014.0,Drama,40301
+tt3005486,2014,International Jury Award,Best Feature Film,False,False,Hirngespinster,nm1309080,Christian Bach,Hirngespinster,2014.0,Drama,3849
+tt2749296,2014,International Jury Award,Best Feature Film,False,False,The Beautiful Risk,nm1497931,Mark Penney,The Beautiful Risk,2014.0,Drama,43560
+tt2785032,2014,International Jury Award,Best Feature Film,False,False,The Little Death,nm0493257,Josh Lawson,The Little Death,2015.0,Comedy,663290
+tt1745787,2014,International Jury Award,Best Feature Film,False,True,The Tribe,nm2990632,Myroslav Slaboshpytskyi,The Tribe,2014.0,Others,392502
+tt3011894,2014,Audience Award,Best Foreign Feature Film,True,False,Wild Tales,nm1167933,Damián Szifron,Wild Tales,2014.0,Comedy,32353447
+tt2802154,2014,Critics Award,,True,True,Leviathan,nm1168657,Andrey Zvyagintsev,Leviathan,2014.0,Others,5943878
+tt3480158,2014,Critics Award - Honorable Mention,,True,True,Return to Ithaca,nm0134559,Laurent Cantet,Return to Ithaca,2014.0,Drama,432733
+tt3474994,2014,Abbracine Prize,,True,True,Casa Grande,nm1805204,Fellipe Barbosa,Casa Grande,2015.0,Drama,130509
+tt2825854,2014,Youth Award,Best Foreign Film,True,True,Labyrinthus,nm0098336,Douglas Boswell,Labyrinthus,2014.0,Others,320238
+tt3823018,2015,International Jury Award,Best Feature Film,True,True,Sparrows,nm1242172,Rúnar Rúnarsson,Sparrows,2015.0,Drama,135559
+tt4135844,2015,International Jury Award,Best Feature Film,False,False,Ixcanul,nm3563342,Jayro Bustamante,Ixcanul,2015.0,Drama,955834
+tt4663992,2015,International Jury Award,Best Feature Film,False,False,Land and Shade,nm6671999,César Augusto Acevedo,Land and Shade,2016.0,Drama,174858
+tt2262345,2015,International Jury Award,Best Feature Film,False,False,Long Way North,nm2916570,Rémi Chayé,Long Way North,2016.0,Others,63881
+tt3686990,2015,International Jury Award,Best Feature Film,False,False,Road to La Paz,nm1191388,Francisco Varone,Road to La Paz,2015.0,Drama,18
+tt3808342,2015,International Jury Award,Best Feature Film,False,False,Son of Saul,nm1841577,László Nemes,Son of Saul,2015.0,Drama,9060265
+tt4598764,2015,International Jury Award,Best Feature Film,False,False,"Us, Them and Me",nm1374449,Nicolás Avruj,"Us, Them and Me",2015.0,Others,2312
+tt4972904,2015,Audience Award,Best Brazilian Feature Film,True,False,The Violin Teacher,nm0532509,Sérgio Machado,The Violin Teacher,2016.0,Drama,800322
+tt4298958,2015,Audience Award,Best Foreign Feature Film,True,False,Sweet Bean,nm0442905,Naomi Kawase,Sweet Bean,2015.0,Drama,5214527
+tt3478140,2015,Critics Award,,True,True,Torneranno i prati,nm0647438,Ermanno Olmi,Torneranno i prati,2014.0,Drama,1541936
+tt2200989,2015,Youth Award,Best Foreign Film,True,True,Beatles,nm0282425,Peter Flinth,Beatles,2015.0,Drama,883420
+tt4947672,2016,International Jury Award,Best Feature Film,False,False,Caffè,nm0097580,Cristiano Bortone,Caffè,2016.0,Drama,166697
+tt6032376,2016,Abbracine Prize,,True,True,Mulher do Pai,,[],Mulher do Pai,2017.0,Drama,3168
+tt4924618,2016,Youth Award,Best Foreign Film,False,False,Il solengo,nm3971394,Matteo Zoppis,Il solengo,2016.0,Others,2078
+tt2953762,2016,New Directors Competition,Best Film,False,False,"I, Olga",nm2606827,Tomás Weinreb,"I, Olga Hepnarová",2017.0,Others,238425
+tt2545068,2016,New Directors Competition,Best Film,False,False,O Exercício do Caos,nm3692739,Frederico Machado,O Exercício do Caos,2014.0,Drama,1140
+tt4446472,2016,New Directors Competition,Best Film,False,False,Porto,nm5674075,Gabe Klinger,Porto,2017.0,Drama,128494
+tt5700224,2016,New Directors Competition,,False,False,Two Lottery Tickets,nm2735137,Paul Negoescu,Two Lottery Tickets,2017.0,Comedy,620171
+tt5598102,2017,Audience Award,Best Foreign Documentary,True,False,Faces Places,nm0889513,Agnès Varda,Faces Places,2017.0,Others,5127358
+tt3262342,2017,Audience Award,Best Foreign Feature Film,True,False,Loving Vincent,nm3699790,Dorota Kobiela,Loving Vincent,2017.0,Others,50652985
+tt6805354,2017,Critics Award,Best Brazilian Film,True,True,Gabriel and the Mountain,nm1805204,Fellipe Barbosa,Gabriel and the Mountain,2018.0,Drama,537988
+tt6002232,2017,Critics Award,Best Foreign Film,True,True,Custody,nm0499488,Xavier Legrand,Custody,2017.0,Drama,4013736
+tt6864302,2017,New Directors Competition,Best Film,False,False,Encontro Silencioso,nm2634878,Miguel Clara Vasconcelos,Encontro Silencioso,2018.0,Others,4306
+tt6278192,2017,New Directors Competition,Best Film,False,False,Körfez,,[],Körfez,2017.0,Drama,7605
+tt6796742,2017,New Directors Competition,Best Film,False,False,Valley of Shadows,nm2838316,Jonas Matzow Gulbrandsen,Valley of Shadows,2018.0,Drama,21476
+tt6544318,2017,New Directors Competition,New Director Competition,False,False,Antes Que Eu Me Esqueça,,[],Antes Que Eu Me Esqueça,2018.0,Comedy,36666
+tt7610008,2018,International Jury Award,Best Feature Film,False,False,Secret Ingredient,,[],Secret Ingredient,2018.0,Comedy,9218
+tt8267604,2018,Audience Award,Best Feature Film,True,False,Capernaum,nm1701024,Nadine Labaki,Capernaum,2018.0,Drama,66726600
+tt5265964,2018,Critics Award,Best Foreign Film,True,True,Our Time,nm1196161,Carlos Reygadas,Our Time,2019.0,Drama,46195
+tt8269552,2018,Leon Cakoff Prize,,True,True,3 Faces,nm0070159,Jafar Panahi,3 Faces,2019.0,Drama,2262523
+tt7485508,2018,New Directors Competition,Best Film,False,False,Carmen & Lola,nm0248401,Arantxa Echevarría,Carmen & Lola,2019.0,Drama,342699
+tt8159562,2018,New Directors Competition,Best Film,False,False,"Cassandro, the Exotico!",nm1633031,Marie Losier,"Cassandro, the Exotico!",2019.0,Others,17828
+tt7051048,2018,New Directors Competition,Best Film,False,False,Fugue,nm2835452,Agnieszka Smoczynska,Fugue,2018.0,Drama,1247
+tt7966920,2018,New Directors Competition,Best Film,False,False,John McEnroe: In the Realm of Perfection,nm5902249,Julien Faraut,John McEnroe: In the Realm of Perfection,2018.0,Others,208022
+tt1893269,2018,New Directors Competition,Best Film,False,False,Kusama: Infinity,nm1405022,Heather Lenz,Kusama: Infinity,2018.0,Others,918369
+tt6506276,2018,New Directors Competition,Best Film,False,False,Lemonade,nm2031842,Ioana Uricaru,Lemonade,2018.0,Drama,217705
+tt5724948,2018,New Directors Competition,Best Film,False,False,Old Boys,nm0531954,Toby MacDonald,Old Boys,2018.0,Comedy,27521
+tt6746304,2018,New Directors Competition,Best Film,False,False,Pity,nm1702672,Babis Makridis,Pity,2018.0,Drama,30912
+tt8286894,2018,New Directors Competition,Best Film,False,False,Rafiki,nm1393967,Wanuri Kahiu,Rafiki,2019.0,Drama,314618
+tt6601502,2018,New Directors Competition,Best Film,False,False,Ray & Liz,nm2843837,Richard Billingham,Ray & Liz,2019.0,Drama,58509
+tt8059764,2018,New Directors Competition,Best Film,False,False,Sal,nm5018138,William Vega,Sal,2018.0,Drama,18990
+tt8307082,2018,New Directors Competition,Best Film,False,False,Sauvage / Wild,nm1283911,Camille Vidal-Naquet,Sauvage / Wild,2019.0,Drama,379122
+tt7142506,2018,New Directors Competition,Best Film,False,False,Sir,nm1402184,Rohena Gera,Sir,2018.0,Drama,958033
+tt7740284,2018,New Directors Competition,Best Film,False,False,Slut in a Good Way,nm0520317,Sophie Lorain,Slut in a Good Way,2019.0,Comedy,81026
+tt8296592,2018,New Directors Competition,Best Film,False,False,Sofia,nm6703326,Meryem Benm'Barek-Aloïsi,Sofia,2018.0,Drama,419809
+tt8747304,2018,New Directors Competition,Best Film,False,False,Suburban Birds,nm6914513,Sheng Qiu,Suburban Birds,2019.0,Drama,20056
+tt2050452,2018,New Directors Competition,Best Film,False,False,The Dead Queen,nm0274278,António Ferreira,The Dead Queen,2019.0,Drama,213256
+tt8423962,2018,New Directors Competition,Best Film,False,False,The Dead and the Others,nm2324327,Renée Nader Messora,The Dead and the Others,2019.0,Drama,275003
+tt6742252,2018,New Directors Competition,Best Film,False,False,The Guilty,nm7546166,Gustav Möller,The Guilty,2018.0,Others,4846012
+tt8144850,2018,New Directors Competition,Best Film,False,False,The Harvesters,nm2312234,Etienne Kallos,The Harvesters,2019.0,Drama,8529
+tt6964538,2018,New Directors Competition,Best Film,False,False,The Man Who Stole Banksy,nm9036534,Marco Proserpio,The Man Who Stole Banksy,2018.0,Others,91464
+tt6257174,2018,New Directors Competition,Best Film,False,False,The Miseducation of Cameron Post,nm3034178,Desiree Akhavan,The Miseducation of Cameron Post,2018.0,Drama,2429454
+tt8116574,2018,New Directors Competition,Best Film,False,False,The Raft,nm3771479,Marcus Lindeen,The Raft,2019.0,Others,73125
+tt7158582,2018,New Directors Competition,Best Film,False,False,The Reports on Sarah and Saleem,nm3516131,Muayad Alayan,The Reports on Sarah and Saleem,2019.0,Others,684944
+tt8266010,2018,New Directors Competition,Best Film,False,False,The Snatch Thief,nm3188011,Agustín Toscano,The Snatch Thief,2018.0,Others,14319
+tt7692966,2018,New Directors Competition,Best Film,False,False,The Third Wife,nm4451190,Ash Mayfair,The Third Wife,2019.0,Drama,378797
+tt5821220,2018,New Directors Competition,Best Film,False,False,Theatre of War,nm8229588,Lola Arias,Theatre of War,2018.0,Others,600
+tt7738450,2018,New Directors Competition,Best Film,False,False,Thunder Road,nm3526993,Jim Cummings,Thunder Road,2018.0,Comedy,461109
+tt4949112,2018,New Directors Competition,Best Film,False,False,Touch Me Not,nm2924350,Adina Pintilie,Touch Me Not,2019.0,Drama,88031
+tt7186036,2018,New Directors Competition,Best Film,False,False,Volcano,nm4473366,Roman Bondarchuk,Volcano,2018.0,Comedy,14071
+tt4378628,2018,New Directors Competition,Best Film,False,False,"Westwood: Punk, Icon, Activist",nm2503036,Lorna Tucker,"Westwood: Punk, Icon, Activist",2018.0,Others,452131
+tt6846432,2018,New Directors Competition,Best Film,False,False,Yomeddine,nm3821378,A.B. Shawky,Yomeddine,2019.0,Others,87366

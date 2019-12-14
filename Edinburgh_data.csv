@@ -1,0 +1,206 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0104710,1992,Chaplin Award,Best First Feature,True,True,Leon the Pig Farmer,nm0419884,Vadim Jean,Leon the Pig Farmer,1993.0,Comedy,114868
+tt0110889,1994,Best New British Feature,,True,True,Priest,nm0000944,Antonia Bird,Priest,1995.0,Drama,14063056
+tt0114474,1995,Best New British Feature,,True,True,Small Faces,nm0533564,Gillies MacKinnon,Small Faces,1996.0,Drama,504399
+tt0112452,1995,Best Feature Documentary Award,,True,True,Ballot Measure 9,nm0531748,Heather MacDonald,Ballot Measure 9,1995.0,Others,180371
+tt0116722,1996,Best New British Feature,,True,True,Jude,nm0935863,Michael Winterbottom,Jude,1996.0,Drama,1320984
+tt0116387,1996,Channel 4 Director's Award,,True,True,Gallivant,nm0467836,Andrew Kotting,Gallivant,1997.0,Others,5764
+tt0119164,1997,Audience Award,,True,True,The Full Monty,nm0146341,Peter Cattaneo,The Full Monty,1997.0,Comedy,481750419
+tt0124185,1997,Best New British Feature,,True,True,Under the Skin,nm0012119,Carine Adler,Under the Skin,1998.0,Drama,440314
+tt0119792,1997,Channel 4 Director's Award,,True,True,Nil by Mouth,nm0000198,Gary Oldman,Nil by Mouth,1998.0,Drama,840135
+tt0119361,1997,Channel 4 Director's Award - Special Mention,,True,True,In the Company of Men,nm0001438,Neil LaBute,In the Company of Men,1997.0,Comedy,8913898
+tt0162973,1998,Audience Award,,True,True,Get Real,nm0794960,Simon Shore,Get Real,1999.0,Comedy,3581940
+tt0119577,1998,Best New British Feature,,True,True,Love Is the Devil: Study for a Portrait of Francis Bacon,nm0562266,John Maybury,Love Is the Devil: Study for a Portrait of Francis Bacon,1998.0,Others,1103231
+tt0120879,1998,Channel 4 Director's Award,,True,True,Velvet Goldmine,nm0001331,Todd Haynes,Velvet Goldmine,1998.0,Drama,3284066
+tt0186508,1999,Audience Award,,True,True,Buena Vista Social Club,nm0000694,Wim Wenders,Buena Vista Social Club,1999.0,Others,46348259
+tt0141974,1999,Best New British Feature,,True,True,The War Zone,nm0000619,Tim Roth,The War Zone,1999.0,Drama,791501
+tt0155388,1999,Best British Performance,,True,True,The Winslow Boy,nm0000562,Jeremy Northam,The Winslow Boy,1999.0,Drama,12171385
+tt0171685,1999,New Director's Award,,True,True,Ratcatcher,nm0708903,Lynne Ramsay,Ratcatcher,1999.0,Drama,660122
+tt0249462,2000,Audience Award,,True,True,Billy Elliot,nm0197636,Stephen Daldry,Billy Elliot,2000.0,Drama,192689248
+tt0258761,2000,Best New British Feature,Best Film,True,True,Last Resort,nm0423626,Rowan Joffe,Last Resort,2001.0,Drama,169378
+tt0251191,2000,Best British Newcomer,,True,True,The Low Down,nm0318821,Aidan Gillen,The Low Down,2001.0,Drama,46797
+tt0245712,2000,New Director's Award,,True,True,Amores perros,nm0327944,Alejandro G. Iñárritu,Amores Perros,2001.0,Drama,38017184
+tt0211915,2001,Audience Award,,True,True,Amélie,nm0000466,Jean-Pierre Jeunet,Amélie,2002.0,Comedy,297732450
+tt0285441,2001,New Director's Award,,True,True,Atanarjuat: The Fast Runner,nm0994348,Zacharias Kunuk,Atanarjuat: The Fast Runner,2002.0,Drama,12762122
+tt0242587,2001,New Director's Award,,True,True,L.I.E.,nm0191147,Michael Cuesta,L.I.E.,2001.0,Others,4356276
+tt0252444,2002,Audience Award,,True,True,Rabbit-Proof Fence,nm0637518,Phillip Noyce,Rabbit-Proof Fence,2003.0,Others,31527915
+tt0322824,2002,New Director's Award,,True,True,Japón,nm1196161,Carlos Reygadas,Japón,2003.0,Drama,321627
+tt0289635,2003,Best New British Feature,,True,True,Young Adam,nm0533284,David Mackenzie,Young Adam,2003.0,Others,4608714
+tt0305206,2003,New Director's Award,,True,True,American Splendor,nm0075849,Shari Springer Berman,American Splendor,2003.0,Others,19313845
+tt0351299,2003,New Director's Award - Special Mention,,True,True,Blind Shaft,nm1317258,Yang Li,Blind Shaft,2003.0,Others,137390
+tt0351461,2003,New Director's Award - Special Mention,,True,True,Noi the Albino,nm0477597,Dagur Kári,Noi the Albino,2003.0,Drama,1941617
+tt0417791,2004,Audience Award,,True,True,Rory O'Shea Was Here,nm0640740,Damien O'Donnell,Rory O'Shea Was Here,2005.0,Comedy,1675629
+tt0382189,2004,Best New British Feature,,True,True,My Summer of Love,nm0667734,Pawel Pawlikowski,My Summer of Love,2005.0,Drama,4927722
+tt0390521,2004,New Director's Award,,True,True,Super Size Me,nm1041597,Morgan Spurlock,Super Size Me,2004.0,Comedy,43346810
+tt0468565,2005,Audience Award,,True,True,Tsotsi,nm0004303,Gavin Hood,Tsotsi,2006.0,Others,16361949
+tt0424345,2006,Audience Award,,True,True,Clerks II,nm0003620,Kevin Smith,Clerks II,2006.0,Comedy,64212546
+tt0432260,2006,Best New British Feature,,True,True,Brothers of the Head,nm0298488,Keith Fulton,Brothers of the Head,2006.0,Drama,162630
+tt0490166,2006,New Director's Award,,True,True,London to Brighton,nm1440314,Paul Andrew Williams,London to Brighton,2008.0,Others,550926
+tt0455933,2006,The Michael Powell Award for Best British Feature Film,Best Film,False,False,Dead Man's Cards,nm1847908,James Marquand,Dead Man's Cards,2006.0,Others,7433
+tt0421082,2007,Best New British Feature,,True,True,Control,nm0179221,Anton Corbijn,Control,2007.0,Others,11046675
+tt0971160,2007,Best Feature Documentary Award,Best Documentary,True,True,Billy the Kid,nm1204539,Jennifer Venditti,Billy the Kid,2007.0,Others,131469
+tt0995829,2007,New Director's Award,,True,True,XXY,nm0699932,Lucía Puenzo,XXY,2008.0,Drama,3276102
+tt0834951,2007,The Michael Powell Award for Best British Feature Film,Best Film,False,False,Seachd: The Inaccessible Pinnacle,nm2126684,Simon David Miller,Seachd: The Inaccessible Pinnacle,2007.0,Drama,24434
+tt1077012,2007,The Michael Powell Award for Best British Feature Film,Best Film,False,False,Special People,nm0249210,Justin Edgar,Special People,2009.0,Drama,2810
+tt1080012,2008,Audience Award,,False,False,Faintheart,nm0733713,Vito Rocco,Faintheart,2009.0,Comedy,14224
+tt0944101,2008,New Director's Award,,True,True,Good Dick,nm0657734,Marianna Palka,Good Dick,2008.0,Comedy,81743
+tt1139797,2008,Rotten Tomatoes Critical Consensus Award,,True,True,Let the Right One In,nm0019247,Tomas Alfredson,Let the Right One In,2008.0,Drama,16227204
+tt0485601,2009,Audience Award,,True,True,The Secret of Kells,nm1119079,Tomm Moore,The Secret of Kells,2016.0,Others,1501607
+tt1182345,2009,Best New British Feature,,True,True,Moon,nm1512910,Duncan Jones,Moon,2009.0,Drama,17527256
+tt1217426,2009,Best New International Feature,,True,True,Easier with Practice,nm1547859,Kyle Patrick Alvarez,Easier with Practice,2009.0,Drama,1845
+tt1232776,2009,Best British Performance,,True,True,Fish Tank,nm3086235,Katie Jarvis,Fish Tank,2009.0,Drama,3233296
+tt1127715,2009,New Director's Award,,True,True,Sin nombre,nm1560977,Cary Joji Fukunaga,Sin Nombre,2009.0,Others,9153926
+tt1152270,2009,The Michael Powell Award for Best British Feature Film,The Michael Powell Award for Best British Feature Film,False,False,Mad Sad & Bad,nm0527449,Avie Luthra,Mad Sad & Bad,2009.0,Comedy,5348
+tt1322264,2010,Best New International Feature,,True,True,The Dry Land,,[],The Dry Land,2010.0,Drama,27778
+tt1415290,2010,Best New International Feature,,False,False,Son of Babylon,nm1865534,Mohamed Al Daradji,Son of Babylon,2010.0,Drama,56587
+tt1439572,2011,Best New British Feature,Best Film,True,True,Perfect Sense,nm0533284,David Mackenzie,Perfect Sense,2011.0,Drama,1086500
+tt1535616,2011,Best New International Feature,,False,False,The Divide,,[],The Divide,2011.0,Drama,166589
+tt1833844,2012,The Michael Powell Award for Best British Feature Film,,False,False,Berberian Sound Studio,nm3270827,Peter Strickland,Berberian Sound Studio,2012.0,Drama,387893
+tt1566503,2012,The Michael Powell Award for Best British Feature Film,,False,False,Day of the Flowers,nm0731253,John Roberts,Day of the Flowers,2013.0,Comedy,241467
+tt1495768,2012,The Michael Powell Award for Best British Feature Film,,False,False,Future My Love,nm2880284,Maja Borg,Future My Love,2013.0,Others,1774
+tt1758689,2012,The Michael Powell Award for Best British Feature Film,,False,False,Life Just Is,nm2116003,Alex Barrett,Life Just Is,2013.0,Drama,2417
+tt1921070,2012,The Michael Powell Award for Best British Feature Film,,False,False,Pusher,nm1060986,Luis Prieto,Pusher,2012.0,Others,218497
+tt1770734,2012,The Michael Powell Award for Best British Feature Film,,False,True,Shadow Dancer,nm1016428,James Marsh,Shadow Dancer,2012.0,Drama,588562
+tt1966604,2012,The Michael Powell Award for Best British Feature Film,,False,False,The Imposter,nm1717925,Bart Layton,The Imposter,2012.0,Others,3266822
+tt2050453,2012,Best International Feature Film,,False,False,A Woman's Revenge,nm0326946,Rita Azevedo Gomes,A Woman's Revenge,2012.0,Others,3744
+tt2075276,2012,Best International Feature Film,,False,False,Papirosen,nm2644707,Gastón Solnicki,Papirosen,2014.0,Others,12362
+tt2044009,2012,Best International Feature Film,,False,False,Swirl,nm1080858,Clarissa Campolina,Swirl,2012.0,Drama,16005
+tt2153963,2012,Best International Feature Film,,False,False,Tabu,nm0326937,Miguel Gomes,Tabu,2012.0,Drama,1224588
+tt2086830,2012,Best International Feature Film,,False,False,The King of Pigs,nm3613566,Sang-ho Yeon,The King of Pigs,2012.0,Others,137011
+tt2332522,2013,The Michael Powell Award for Best British Feature Film,,True,True,Leviathan,nm3626583,Lucien Castaing-Taylor,Leviathan,2012.0,Others,191100
+tt2963866,2013,The Michael Powell Award for Best British Feature Film,,False,False,Blackbird,nm3358083,Jamie Chambers,Blackbird,2014.0,Drama,80445
+tt2315628,2013,The Michael Powell Award for Best British Feature Film,,False,False,For Those in Peril,nm3591467,Paul Wright,For Those in Peril,2014.0,Drama,4174
+tt2262175,2013,The Michael Powell Award for Best British Feature Film,,False,False,Svengali,nm1034628,John Hardwick,Svengali,2014.0,Comedy,15662
+tt1754708,2013,The Michael Powell Award for Best British Feature Film,,False,False,The Sea,nm4140289,Stephen Brown,The Sea,2014.0,Drama,36364
+tt2560440,2013,Best International Feature Film,,False,False,Before Snowfall,nm2106742,Hisham Zaman,Before Snowfall,2013.0,Drama,69358
+tt2536306,2013,Best International Feature Film,,False,True,Celestial Wives of the Meadow Mari,nm1922735,Aleksey Fedorchenko,Celestial Wives of the Meadow Mari,2014.0,Drama,16973
+tt1972571,2014,Audience Award,,False,False,A Most Wanted Man,nm0179221,Anton Corbijn,A Most Wanted Man,2014.0,Others,57449599
+tt1179031,2014,Audience Award,,False,False,Cold in July,nm0585344,Jim Mickle,Cold in July,2014.0,Others,2157695
+tt2714900,2014,Audience Award,,False,False,Finding Vivian Maier,nm5525244,John Maloof,Finding Vivian Maier,2013.0,Others,4276476
+tt3186318,2014,Audience Award,,False,False,Hellion,nm0133773,Kat Candler,Hellion,2014.0,Drama,119458
+tt2382396,2014,Audience Award,,False,False,Joe,nm0337773,David Gordon Green,Joe,2014.0,Others,3023409
+tt2581244,2014,Audience Award,,False,False,Life After Beth,nm1337885,Jeff Baena,Life After Beth,2014.0,Comedy,389344
+tt3455740,2014,Audience Award,,False,False,Set Fire to the Stars,nm0323758,Andy Goddard,Set Fire to the Stars,2015.0,Others,9166
+tt2962726,2014,Audience Award,,False,False,The Anomaly,nm0164929,Noel Clarke,The Anomaly,2015.0,Others,142433
+tt2403021,2014,Audience Award,,False,False,The Green Inferno,nm0744834,Eli Roth,The Green Inferno,2015.0,Others,21327875
+tt1571249,2014,Audience Award,,False,False,The Skeleton Twins,nm2574897,Craig Johnson,The Skeleton Twins,2014.0,Comedy,12083839
+tt1837574,2014,The Michael Powell Award for Best British Feature Film,,False,False,Hyena,nm1976116,Gerard Johnson,Hyena,2015.0,Others,7508
+tt2395417,2014,The Michael Powell Award for Best British Feature Film,,False,True,Still Life,nm0664667,Uberto Pasolini,Still Life,2013.0,Drama,2740451
+tt3118696,2014,Best International Feature Film,,False,False,Club Sandwich,nm0251774,Fernando Eimbcke,Club Sandwich,2014.0,Comedy,3494
+tt3180582,2014,Best International Feature Film,,False,False,Concrete Clouds,nm0153974,Lee Chatametikool,Concrete Clouds,2014.0,Drama,16111
+tt3265462,2014,Best International Feature Film,,False,False,Han Gong-ju,nm3964742,Su-jin Lee,Han Gong-ju,2014.0,Drama,1730762
+tt3089978,2014,Best International Feature Film,,False,False,Sorrow and Joy,nm0540295,Nils Malmros,Sorrow and Joy,2015.0,Drama,2734010
+tt3465916,2014,Best International Feature Film,,False,True,Stations of the Cross,nm0117698,Dietrich Brüggemann,Stations of the Cross,2015.0,Drama,81394
+tt3103326,2014,Best Documentary Feature Film,,False,True,Manakamana,nm5856477,Stephanie Spray,Manakamana,2013.0,Others,65546
+tt3102356,2014,Best Documentary Feature Film,,False,False,What Now? Remind Me,nm0684666,Joaquim Pinto,What Now? Remind Me,2013.0,Others,6742
+tt2338864,2014,EDA Award,Best Female-Directed Narrative,True,True,Finsterworld,nm2746964,Frauke Finsterwalder,Finsterworld,2015.0,Drama,656186
+tt2403393,2015,Audience Award,,False,False,Desert Dancer,nm1995070,Richard Raymond,Desert Dancer,2015.0,Others,640963
+tt3172532,2015,Audience Award,,False,True,The Diary of a Teenage Girl,nm1716636,Marielle Heller,The Diary of a Teenage Girl,2015.0,Comedy,3487288
+tt2870648,2015,Audience Award,,False,False,Amy,nm0438090,Asif Kapadia,Amy,2015.0,Others,34392868
+tt3813310,2015,Audience Award,,False,False,Cop Car,nm1218281,Jon Watts,Cop Car,2015.0,Others,298326
+tt3062976,2015,Audience Award,,False,False,Learning to Drive,nm0170043,Isabel Coixet,Learning to Drive,2015.0,Comedy,10095933
+tt0903657,2015,Audience Award,,False,False,Love & Mercy,nm0688361,Bill Pohlad,Love & Mercy,2015.0,Others,44111748
+tt1881002,2015,Audience Award,,False,False,Maggie,nm3918746,Henry Hobson,Maggie,2015.0,Drama,1699137
+tt3844362,2015,Audience Award,,False,False,The Overnight,nm2674307,Patrick Brice,The Overnight,2015.0,Comedy,2378428
+tt0420293,2015,Audience Award,,False,True,The Stanford Prison Experiment,nm1547859,Kyle Patrick Alvarez,The Stanford Prison Experiment,2015.0,Others,1417376
+tt3623668,2015,Audience Award,,False,False,Under Milk Wood,nm0020728,Kevin Allen,Under Milk Wood,2015.0,Drama,8427
+tt3678656,2015,Audience Award,,False,False,You're Ugly Too,nm3254164,Mark Noonan,You're Ugly Too,2015.0,Comedy,94953
+tt3544082,2015,The Michael Powell Award for Best British Feature Film,,True,True,45 Years,nm0354091,Andrew Haigh,45 Years,2015.0,Drama,20059284
+tt2552394,2015,The Michael Powell Award for Best British Feature Film,,False,False,Barney Thomson,nm0001015,Robert Carlyle,Barney Thomson,2015.0,Comedy,1430845
+tt4222028,2015,The Michael Powell Award for Best British Feature Film,,False,True,Black Mountain Poets,nm2199177,Jamie Adams,Black Mountain Poets,2016.0,Comedy,25456
+tt4600312,2015,The Michael Powell Award for Best British Feature Film,,False,False,Iona,nm2989742,Scott Graham,Iona,2016.0,Drama,77524
+tt3970806,2015,The Michael Powell Award for Best British Feature Film,,False,False,The Incident,nm2121557,Jane Linfoot,The Incident,2016.0,Drama,2542
+tt3876702,2015,The Michael Powell Award for Best British Feature Film,,False,False,The Violators,nm6641253,Helen Walsh,The Violators,2016.0,Drama,1973
+tt1708135,2015,Best International Feature Film,,False,False,13 Minutes,nm0386570,Oliver Hirschbiegel,Elser,2017.0,Others,1565528
+tt3685622,2015,Best International Feature Film,,False,False,600 Miles,nm2239581,Gabriel Ripstein,600 Miles,2016.0,Drama,299969
+tt3850214,2015,Best International Feature Film,,False,False,Dope,nm0266622,Rick Famuyiwa,Dope,2015.0,Comedy,38008319
+tt4012914,2015,Best International Feature Film,,False,False,Paradise in Service,nm0633080,Doze Niu,Paradise in Service,2014.0,Drama,127873
+tt2415458,2015,Best Documentary Feature Film,,True,True,The Wolfpack,nm1145920,Crystal Moselle,The Wolfpack,2015.0,Others,2908086
+tt3249414,2015,Best Documentary Feature Film,,False,False,Above and Below,nm1348248,Nicolas Steiner,Above and Below,2016.0,Others,1269
+tt1674785,2015,Best Documentary Feature Film,,False,False,Drunk Stoned Brilliant Dead: The Story of the National Lampoon,nm0864263,Douglas Tirola,Drunk Stoned Brilliant Dead: The Story of the National Lampoon,2015.0,Others,134591
+tt2822584,2015,Best Documentary Feature Film,,False,False,Future Shock! The Story of 2000AD,nm5613749,Paul Goodwin,Future Shock! The Story of 2000AD,2014.0,Others,247
+tt3132632,2015,Best Documentary Feature Film,,False,False,Misery Loves Comedy,nm0001629,Kevin Pollak,Misery Loves Comedy,2015.0,Comedy,42412
+tt1322313,2015,Best Documentary Feature Film,,False,False,Sunshine Superman,nm3192252,Marah Strauch,Sunshine Superman,2015.0,Others,198601
+tt3892434,2015,Best Documentary Feature Film,,False,False,That Sugar Film,nm0303902,Damon Gameau,That Sugar Film,2015.0,Others,1316961
+tt3907314,2015,Best Documentary Feature Film,,False,False,The Iron Ministry,nm3723535,J.P. Sniadecki,The Iron Ministry,2015.0,Others,7747
+tt4136056,2015,Best Documentary Feature Film,,False,False,The Seven Five,nm1183164,Tiller Russell,The Seven Five,2015.0,Others,105030
+tt4698684,2016,Audience Award,,True,True,Hunt for the Wilderpeople,nm0169806,Taika Waititi,Hunt for the Wilderpeople,2016.0,Others,30281263
+tt4080728,2016,Audience Award,,False,False,A Man Called Ove,nm0391502,Hannes Holm,A Man Called Ove,2016.0,Comedy,36169514
+tt3913244,2016,Audience Award,,False,False,The Carer,nm0248953,János Edelényi,The Carer,2016.0,Comedy,296286
+tt4211044,2016,Audience Award,,False,False,Adult Life Skills,nm2074041,Rachel Tunnard,Adult Life Skills,2019.0,Comedy,103810
+tt4088268,2016,Audience Award,,False,False,Department Q: A Conspiracy of Faith,nm0596407,Hans Petter Moland,Department Q: A Conspiracy of Faith,2016.0,Drama,10233107
+tt5078326,2016,Audience Award,,False,False,Irreplaceable,nm1662707,Thomas Lilti,Irreplaceable,2017.0,Comedy,15821943
+tt4919484,2016,Audience Award,,False,False,Little Men,nm0755158,Ira Sachs,Little Men,2016.0,Drama,2924404
+tt3471098,2016,Audience Award,,False,False,Maggie's Plan,nm0589182,Rebecca Miller,Maggie's Plan,2015.0,Comedy,9923333
+tt4895790,2016,Audience Award,,False,False,Moon Dogs,nm1353167,Philip John,Moon Dogs,2017.0,Comedy,3779
+tt5519566,2016,Audience Award,,False,False,The First Monday in May,nm1427149,Andrew Rossi,The First Monday in May,2016.0,Others,1709360
+tt5535436,2016,The Michael Powell Award for Best British Feature Film,,False,False,Brakes,nm1665676,Mercedes Grower,Brakes,2017.0,Comedy,11760
+tt4528454,2016,The Michael Powell Award for Best British Feature Film,,False,False,Starfish,nm2152272,Bill Clark,Starfish,2017.0,Others,40416
+tt4211312,2016,The Michael Powell Award for Best British Feature Film,,False,False,The White King,nm2975353,Alex Helfrecht,The White King,2017.0,Drama,14589
+tt3467914,2016,The Michael Powell Award for Best British Feature Film,,False,False,Tommy's Honour,nm0001064,Jason Connery,Tommy's Honour,2017.0,Others,1327517
+tt3954660,2016,Best International Feature Film,,True,True,Suntan,nm3030296,Argyris Papadimitropoulos,Suntan,2016.0,Drama,175897
+tt4589186,2016,Best International Feature Film,,False,False,Saint Amour,nm0218022,Benoît Delépine,Saint Amour,2016.0,Comedy,3519929
+tt3823018,2016,Best International Feature Film,,False,False,Sparrows,nm1242172,Rúnar Rúnarsson,Sparrows,2015.0,Drama,135559
+tt5278832,2016,Best International Feature Film,,False,False,The Lure,nm2835452,Agnieszka Smoczynska,The Lure,2016.0,Comedy,227057
+tt5280626,2016,Best Documentary Feature Film,,False,False,Becoming Zlatan,nm0314995,Fredrik Gertten,Becoming Zlatan,2016.0,Others,1015006
+tt5497906,2016,Best Documentary Feature Film,,False,False,Bugs,nm1350736,Andreas Johnsen,Bugs,2017.0,Others,7748
+tt5378224,2016,Best Documentary Feature Film,,False,False,Gary Numan: Android in La La Land,nm5486153,Steve Read,Gary Numan: Android in La La Land,2016.0,Others,24811
+tt5746140,2016,Best Documentary Feature Film,,False,False,The Islands and the Whales,nm4571157,Mike Day,The Islands and the Whales,2017.0,Others,16520
+tt5278868,2016,Best Documentary Feature Film,,False,False,The Lovers & the Despot,nm5366685,Ross Adam,The Lovers & the Despot,2016.0,Others,159865
+tt5467140,2016,Best Documentary Feature Film,,False,False,The Pretty Ones,nm5594052,Melisa Liebenthal,Las lindas,2016.0,Drama,496
+tt5129818,2016,Best Documentary Feature Film,,False,False,Under the Sun,nm0543882,Vitaliy Manskiy,Under the Sun,2016.0,Others,441089
+tt3823098,2017,Audience Award,,False,False,Edie,nm0403038,Simon Hunter,Edie,2018.0,Drama,2692264
+tt5089534,2017,Audience Award,,False,False,Freak Show,nm0836548,Trudie Styler,Freak Show,2018.0,Comedy,41603
+tt4625324,2017,Audience Award,,False,False,Satan Said Dance,nm3106449,Katarzyna Roslaniec,Satan Said Dance,2017.0,Drama,141929
+tt2062700,2017,Audience Award,,False,False,Song to Song,nm0000517,Terrence Malick,Song to Song,2017.0,Drama,2328752
+tt4353996,2017,Audience Award,,False,False,The King's Choice,nm0691547,Erik Poppe,The King's Choice,2017.0,Others,10544361
+tt5666304,2017,Audience Award,,False,False,The Little Hours,nm1337885,Jeff Baena,The Little Hours,2017.0,Comedy,3436813
+tt3739110,2017,Audience Award,,False,False,The Yellow Birds,nm1633043,Alexandre Moors,The Yellow Birds,2018.0,Drama,58764
+tt5226984,2017,Audience Award,,False,False,Tom of Finland,nm1933648,Dome Karukoski,Tom of Finland,2017.0,Others,2272036
+tt4843762,2017,Audience Award,,False,False,Waterboys,nm0922520,Robert Jan Westdijk,Waterboys,2016.0,Comedy,224219
+tt5635086,2017,The Michael Powell Award for Best British Feature Film,Best Film,True,True,God's Own Country,nm0497274,Francis Lee,God's Own Country,2017.0,Drama,3047086
+tt3717804,2017,The Michael Powell Award for Best British Feature Film,Best Film,False,False,England Is Mine,nm4317210,Mark Gill,England Is Mine,2017.0,Others,381785
+tt4560008,2017,The Michael Powell Award for Best British Feature Film,Best Film,False,False,This Beautiful Fantastic,nm2868171,Simon Aboud,This Beautiful Fantastic,2017.0,Comedy,372324
+tt5271794,2017,The Michael Powell Award for Best British Feature Film,The Michael Powell Award for Best British Feature Film,False,False,That Good Night,nm0836557,Eric Styles,That Good Night,2017.0,Drama,83882
+tt5467554,2017,Best Performance in a British Feature Film,Best Performance,True,True,Daphne,nm2387806,Emily Beecham,Daphne,2017.0,Comedy,223092
+tt5634088,2017,Best Performance in a British Feature Film,Best Performance,True,True,Kaleidoscope,nm0717176,Anne Reid,Kaleidoscope,2017.0,Others,7235
+tt5937296,2017,Best International Feature Film,,True,True,Glory,nm1571492,Kristina Grozeva,Glory,2016.0,Drama,112210
+tt5207262,2017,Best International Feature Film,,False,False,Hostages,nm2475544,Rezo Gigineishvili,Hostages,2017.0,Others,376106
+tt4769824,2017,Best International Feature Film,,False,False,In This Corner of the World,nm0441090,Sunao Katabuchi,In This Corner of the World,2017.0,Others,20533177
+tt3721954,2017,Best International Feature Film,,False,False,Maudie,nm0909532,Aisling Walsh,Maudie,2016.0,Others,16835135
+tt6333086,2017,Best International Feature Film,,False,False,Menashe,nm2922880,Joshua Z Weinstein,Menashe,2017.0,Drama,3826445
+tt6484982,2017,Best International Feature Film,,False,False,Newton,nm3536895,Amit Masurkar,Newton,2017.0,Drama,15076
+tt4384088,2017,Best International Feature Film,,False,False,Rage,nm0498212,Sang-il Lee,Rage,2017.0,Drama,13999797
+tt6166002,2017,Best Documentary Feature Film,,True,True,Donkeyote,nm1872105,Chico Pereira,Donkeyote,2017.0,Others,44571
+tt5116402,2017,Best Documentary Feature Film,,False,False,Amazona,nm7655131,Nicolas van Hemelryck,Amazona,2017.0,Others,103652
+tt5921198,2017,Best Documentary Feature Film,,False,False,Correspondências,nm0326946,Rita Azevedo Gomes,Correspondências,2016.0,Others,2060
+tt5154310,2017,Best Documentary Feature Film,,False,False,Frágil equilibrio,nm6093163,Guillermo García López,Frágil equilibrio,2016.0,Others,99975
+tt6333074,2017,Best Documentary Feature Film,,False,False,Last Men in Aleppo,nm5926047,Feras Fayyad,Last Men in Aleppo,2017.0,Others,30539
+tt6263828,2017,Best Documentary Feature Film,,False,False,Leaning Into The Wind,nm0726123,Thomas Riedelsheimer,Leaning Into the Wind: Andy Goldsworthy,2017.0,Others,891353
+tt6760956,2017,Best Documentary Feature Film,,False,False,Pecking Order,nm5409199,Slavko Martinov,Pecking Order,2017.0,Others,411987
+tt6223974,2017,Best Documentary Feature Film,,False,False,The Farthest,nm0721707,Emer Reynolds,The Farthest,2017.0,Others,62132
+tt6433880,2018,Audience Award,,False,False,Anna and the Apocalypse,nm3781554,John McPhail,Anna and the Apocalypse,2017.0,Comedy,1259033
+tt7158430,2018,Audience Award,,False,False,Hearts Beat Loud,nm1417640,Brett Haley,Hearts Beat Loud,2018.0,Comedy,4871257
+tt5460880,2018,Audience Award,,False,False,Ideal Home,nm0281598,Andrew Fleming,Ideal Home,2018.0,Comedy,149871
+tt3906082,2018,Audience Award,,False,False,Mary Shelley,nm2223783,Haifaa Al-Mansour,Mary Shelley,2018.0,Others,2249531
+tt6982352,2018,Audience Award,,False,False,Never Leave Me,nm1548101,Aida Begic,Never Leave Me,2018.0,Drama,298666
+tt7689964,2018,Audience Award,,False,False,RBG,nm3792517,Julie Cohen,RBG,2018.0,Others,29340540
+tt5473090,2018,Audience Award,,False,False,Swinging Safari,nm0254632,Stephan Elliott,Swinging Safari,2019.0,Comedy,1236408
+tt4463816,2018,Audience Award,,False,False,Terminal,nm2389363,Vaughn Stein,Terminal,2018.0,Others,857254
+tt6987468,2018,The Michael Powell Award for Best British Feature Film,Best Film,False,False,My Friend the Polish Girl,nm0051572,Ewa Banaszkiewicz,My Friend the Polish Girl,2019.0,Drama,3129
+tt6490394,2018,Best Performance in a British Feature Film,Best Performance,True,True,Jellyfish,nm8756134,Liv Hill,Jellyfish,2018.0,Drama,40099
+tt7011436,2018,Best International Feature Film,,False,False,Diving,nm0491259,Mélanie Laurent,Diving,2018.0,Drama,184693
+tt7955712,2018,Best International Feature Film,,False,False,Girls Always Happy,nm7614958,Yang Mingming,Girls Always Happy,2018.0,Drama,20962
+tt6415416,2018,Best International Feature Film,,False,False,Mug,nm0844333,Malgorzata Szumowska,Mug,2018.0,Comedy,1067890
+tt5742932,2018,Best International Feature Film,,False,False,Thick Lashes of Lauri Mäntyvaara,nm2680737,Hannaleena Hauru,Thick Lashes of Lauri Mäntyvaara,2017.0,Comedy,44715
+tt7681824,2018,Best International Feature Film,,False,False,We the Animals,nm1476102,Jeremiah Zagar,We the Animals,2018.0,Drama,846979
+tt7213936,2018,Best International Feature Film,,False,False,What Will People Say,nm1155348,Iram Haq,What Will People Say,2018.0,Drama,2222459
+tt5176580,2018,Best International Feature Film,,False,False,Wild Nights with Emily,nm2112342,Madeleine Olnek,Wild Nights with Emily,2018.0,Comedy,1063928
+tt5740866,2018,Best Documentary Feature Film,,True,True,Whitney,nm0531817,Kevin Macdonald,Whitney,2018.0,Others,7738736
+tt7746606,2018,Best Documentary Feature Film,,False,False,Becoming Animal,nm5269570,Emma Davie,Becoming Animal,2019.0,Others,5236
+tt8106566,2018,Best Documentary Feature Film,,False,True,Island of the Hungry Ghosts,nm2835801,Gabrielle Brady,Island of the Hungry Ghosts,2019.0,Others,9305
+tt6195442,2018,Best Documentary Feature Film,,False,False,Saving Brinton,nm1894298,Tommy Haines,Saving Brinton,2017.0,Others,117298
+tt7197576,2018,Best Documentary Feature Film,,False,False,"Señorita María, la falda de la montaña",nm0579370,Rubén Mendoza,"Señorita María, la falda de la montaña",2017.0,Others,130881
+tt8371772,2018,Best Documentary Feature Film,,False,False,The Eyes of Orson Welles,nm0184108,Mark Cousins,The Eyes of Orson Welles,2019.0,Others,78581
+tt7218804,2018,Best Documentary Feature Film,,False,False,The Gospel According to André,nm1425662,Kate Novack,The Gospel According to André,2018.0,Others,868724
+tt4095988,2018,Best Documentary Feature Film,,False,False,Time Trial,nm3275161,Finlay Pretsell,Time Trial,2018.0,Others,93979

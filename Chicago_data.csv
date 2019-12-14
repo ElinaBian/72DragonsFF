@@ -1,0 +1,678 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0062315,1967,Gold Hugo,Best Feature,False,False,Sublokator,nm0538105,Janusz Majewski,Sublokator,1967.0,Comedy,14049091
+tt0063803,1967,Gold Hugo,Best Feature,False,False,Who's That Knocking at My Door,nm0000217,Martin Scorsese,Who's That Knocking at My Door,1968.0,Drama,117107
+tt0065551,1971,Gold Hugo,Best Feature,False,False,"Ciao, Federico!",nm0045477,Gideon Bachmann,"Ciao, Federico!",1970.0,Documentary,5350
+tt0065671,1971,Gold Hugo,Best Feature,False,False,Dyadya Vanya,nm0464846,Andrey Konchalovskiy,Dyadya Vanya,1971.0,Drama,12183
+tt0069293,1972,Gold Hugo,Best Feature,False,False,Solaris,nm0001789,Andrei Tarkovsky,Solaris,1972.0,Drama,474704
+tt0070460,1973,Gold Hugo,Best Feature,False,False,Day for Night,nm0000076,François Truffaut,Day for Night,1973.0,Comedy,5755
+tt0070040,1973,Gold Hugo,Best Feature,False,False,The Spirit of the Beehive,nm0258977,Víctor Erice,The Spirit of the Beehive,1973.0,Drama,733857
+tt0071219,1974,Gold Hugo,Best Feature,False,False,A Bigger Splash,nm0371883,Jack Hazan,A Bigger Splash,1973.0,Biography,959173
+tt0071521,1974,Gold Hugo,Best Feature,False,False,Freebie and the Bean,nm0750701,Richard Rush,Freebie and the Bean,1974.0,Others,14771560
+tt0073486,1975,Gold Hugo,Best Feature,False,False,One Flew Over the Cuckoo's Nest,nm0001232,Milos Forman,One Flew Over the Cuckoo's Nest,1975.0,Drama,1007306925
+tt0071691,1975,Gold Hugo,Best Feature,False,False,The Enigma of Kaspar Hauser,nm0001348,Werner Herzog,The Enigma of Kaspar Hauser,1975.0,Biography,13451
+tt0073076,1976,Gold Hugo,Best Feature,False,False,Grey Gardens,nm0563100,David Maysles,Grey Gardens,1975.0,Comedy,345626
+tt0074152,1976,Gold Hugo,Best Feature,False,False,Small Change,nm0000076,François Truffaut,Small Change,1976.0,Comedy,342540
+tt0074888,1976,Gold Hugo,Best Feature,False,False,The Best Way to Walk,nm0002218,Claude Miller,The Best Way to Walk,1976.0,Drama,60771
+tt0076446,1978,Gold Hugo,Best Feature,False,False,An Unfinished Piece for Mechanical Piano,nm0586482,Nikita Mikhalkov,Unfinished Piece for the Player Piano,1978.0,Drama,7795
+tt0077427,1978,Gold Hugo,Best Feature,False,False,Germany in Autumn,nm0116753,Alf Brustellin,Germany in Autumn,1978.0,Documentary,1294
+tt0077651,1978,Gold Hugo,Best Feature,False,False,Halloween,nm0000118,John Carpenter,Halloween,1978.0,Others,357995707
+tt0078008,1978,Gold Hugo,Best Feature,False,False,Northern Lights,nm0361301,John Hanson,Northern Lights,1978.0,Drama,71682
+tt0079010,1979,Gold Hugo,Best Feature,False,False,Christ Stopped at Eboli,nm0742940,Francesco Rosi,Christ Stopped at Eboli,1979.0,Drama,428088
+tt0079907,1979,Gold Hugo,Best Feature,False,False,Siberiade,nm0464846,Andrey Konchalovskiy,Siberiade,1979.0,Drama,5957
+tt0080913,1980,Gold Hugo,Best Feature,False,False,The Idolmaker,nm0000431,Taylor Hackford,The Idolmaker,1980.0,Biography,15695823
+tt0082095,1981,Gold Hugo,Best Feature,False,False,Das Boot ist voll,nm0408195,Markus Imhoof,Das Boot ist voll,1981.0,Drama,9854
+tt0082222,1981,Gold Hugo,Best Feature,False,False,Man of Iron,nm0906667,Andrzej Wajda,Man of Iron,1981.0,Drama,2692474
+tt0081606,1981,Gold Hugo,Best Feature,False,False,Taxi zum Klo,nm0728111,Frank Ripploh,Taxi zum Klo,1981.0,Comedy,7874
+tt0082370,1981,Gold Hugo,Best Feature,False,False,The Woman Next Door,nm0000076,François Truffaut,The Woman Next Door,1981.0,Drama,2785
+tt0082269,1981,Silver Hugo,Best First Feature Film,True,True,Diva,nm0000894,Jean-Jacques Beineix,Diva,1982.0,Others,592494
+tt0083745,1982,Gold Hugo,Best Feature,True,False,"Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",nm0000265,Robert Altman,"Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",1982.0,Comedy,4376886
+tt0083694,1982,Gold Hugo,Best Feature,False,False,Britannia Hospital,nm0000755,Lindsay Anderson,Britannia Hospital,1982.0,Comedy,1959442
+tt0083851,1982,Gold Hugo,Best Feature,False,False,The Draughtsman's Contract,nm0000425,Peter Greenaway,The Draughtsman's Contract,1982.0,Comedy,11742956
+tt0084422,1982,Gold Hugo,Best Feature,False,False,The Night of the Shooting Stars,nm0851752,Paolo Taviani,The Night of the Shooting Stars,1982.0,Drama,11784479
+tt0084740,1983,Gold Hugo,Best Feature,True,False,El sur,nm0258977,Víctor Erice,El Sur,1983.0,Drama,30198
+tt0085370,1983,Gold Hugo,Best Feature,False,False,Entre Nous,nm0476123,Diane Kurys,Entre Nous,1983.0,Biography,20114790
+tt0086377,1983,Gold Hugo,Best Feature,False,False,Streamers,nm0000265,Robert Altman,Streamers,1983.0,Others,1915102
+tt0079820,1983,Gold Hugo,Best Feature,False,False,The King and the Mockingbird,nm0342156,Paul Grimault,The King and the Mockingbird,1981.0,Others,572674
+tt0086928,1984,Gold Hugo,Best Documentary,False,False,Tosca's Kiss,nm0006357,Daniel Schmid,Tosca's Kiss,1985.0,Documentary,86459
+tt0086994,1984,Gold Hugo,Best Feature,False,False,Boy Meets Girl,nm0136021,Leos Carax,Boy Meets Girl,1984.0,Drama,61103
+tt0088357,1984,Gold Hugo,Best Feature,False,False,Long Live Life,nm0500988,Claude Lelouch,Long Live Life,1984.0,Comedy,627092
+tt0085905,1984,Gold Hugo,Best Feature,False,False,Marlene,nm0001703,Maximilian Schell,Marlene,1984.0,Biography,4138644
+tt0088275,1984,Gold Hugo,Best Feature,False,False,The Times of Harvey Milk,nm0258531,Rob Epstein,The Times of Harvey Milk,1984.0,Biography,146519
+tt0087280,1984,Silver Hugo,Best Feature Film,True,True,The Element of Crime,nm0001885,Lars von Trier,The Element of Crime,1984.0,Others,2434
+tt0089276,1985,Gold Hugo,Best Feature,True,False,The Official Story,nm0699933,Luis Puenzo,The Official Story,1985.0,Drama,232708
+tt0088652,1985,Gold Hugo,Best Feature,False,False,90 Days,nm0907761,Giles Walker,90 Days,1986.0,Comedy,13032
+tt0091375,1985,Gold Hugo,Best Feature,False,False,Lamb,nm0339567,Colin Gregg,Lamb,1985.0,Drama,23866
+tt0087869,1985,Gold Hugo,Best Feature,False,False,Padre nuestro,nm0716748,Francisco Regueiro,Padre nuestro,1985.0,Drama,1303447
+tt0090171,1985,Special Jury Prize,Special Jury Award,True,True,Tea in the Harem,nm0152831,Mehdi Charef,Tea in the Harem,1986.0,Drama,42511
+tt0091354,1986,Gold Hugo,Best Feature,False,False,Comic Magazine,nm0847690,Yôjirô Takita,Comic Magazine,1987.0,Comedy,69687
+tt0090867,1986,Gold Hugo,Best Feature,False,False,Coming Up Roses,nm0063127,Stephen Bayly,Coming Up Roses,1987.0,Comedy,19106
+tt0091528,1986,Gold Hugo,Best Feature,False,False,Miss Mary,nm0069833,María Luisa Bemberg,Miss Mary,1986.0,Drama,617477
+tt0090985,1986,Gold Hugo,Best Feature,False,False,The Decline of the American Empire,nm0000780,Denys Arcand,The Decline of the American Empire,1986.0,Comedy,8838854
+tt0089584,1986,Gold Hugo,Best Feature,False,False,The Mass Is Ended,nm0604335,Nanni Moretti,The Mass Is Ended,1988.0,Comedy,8701
+tt0093029,1987,Gold Hugo,Best Feature,False,False,Five Corners,nm0082300,Tony Bill,Five Corners,1988.0,Others,4281389
+tt0092637,1987,Gold Hugo,Best Feature,False,False,The Belly of an Architect,nm0000425,Peter Greenaway,The Belly of an Architect,1987.0,Drama,637706
+tt0093004,1987,Gold Hugo,Best Feature,False,False,The Family,nm0778633,Ettore Scola,The Family,1987.0,Drama,1535635
+tt0094176,1987,Gold Hugo,Best Feature,False,False,Travelling North,nm0776209,Carl Schultz,Travelling North,1987.0,Comedy,483451
+tt0093754,1987,Special Jury Prize,Special Jury Award,True,True,Repentance,nm0002156,Tengiz Abuladze,Repentance,1987.0,Comedy,477619
+tt0095574,1988,Gold Hugo,Best Feature,True,False,Little Vera,nm0681695,Vasili Pichul,Little Vera,1989.0,Drama,5242150
+tt0094869,1988,Gold Hugo,Best Feature,False,False,The Chocolate War,nm0330360,Keith Gordon,The Chocolate War,1988.0,Drama,1289950
+tt0097635,1989,Gold Hugo,Best Feature,False,False,Jesus of Montreal,nm0000780,Denys Arcand,Jesus of Montreal,1990.0,Drama,6335739
+tt0098368,1989,Gold Hugo,Best Feature,False,False,Speaking Parts,nm0000382,Atom Egoyan,Speaking Parts,1989.0,Drama,313236
+tt0097702,1989,Gold Hugo,Best Feature,False,False,The Icicle Thief,nm0629309,Maurizio Nichetti,The Icicle Thief,1990.0,Comedy,4783260
+tt0099902,1990,Gold Hugo,Best Feature,True,False,Ju Dou,nm0955443,Yimou Zhang,Ju Dou,1991.0,Drama,7509304
+tt0101510,1990,Gold Hugo,Best Feature,False,False,Bright Angel,nm0276317,Michael Fields,Bright Angel,1991.0,Drama,598205
+tt0099768,1990,Gold Hugo,Best Feature,False,False,Hidden Agenda,nm0516360,Ken Loach,Hidden Agenda,1991.0,Drama,3914623
+tt0100990,1990,Gold Hugo,Best Feature,False,False,"I, the Worst of All",nm0069833,María Luisa Bemberg,"I, the Worst of All",1995.0,Drama,86759
+tt0102432,1990,Gold Hugo,Best Feature,False,False,Men of Respect,nm0717768,William Reilly,Men of Respect,1991.0,Others,528392
+tt0100557,1990,Gold Hugo,Best Feature,False,False,The Nasty Girl,nm0894201,Michael Verhoeven,The Nasty Girl,1991.0,Comedy,8660605
+tt0101324,1991,Gold Hugo,Best Feature,False,False,American Friends,nm0694341,Tristram Powell,American Friends,1993.0,Comedy,81754
+tt0101658,1991,Gold Hugo,Best Feature,False,False,Danzón,nm0636979,María Novaro,Danzón,1992.0,Drama,1661250
+tt0101765,1991,Gold Hugo,Best Feature,False,False,The Double Life of Véronique,nm0001425,Krzysztof Kieslowski,The Double Life of Véronique,1991.0,Drama,7705525
+tt0102721,1991,Silver Hugo,Best First Feature Film,True,True,Proof,nm0602104,Jocelyn Moorhouse,Proof,1992.0,Drama,1925023
+tt0101773,1991,Emerging Artist Award,,False,False,Drive,nm0506461,Jefery Levy,Drive,1992.0,Others,54715
+tt0103176,1992,Gold Hugo,Best Feature,False,False,Close to Eden,nm0586482,Nikita Mikhalkov,Close to Eden,1992.0,Drama,1361836
+tt0105236,1992,Gold Hugo,Best Feature,False,False,Reservoir Dogs,nm0000233,Quentin Tarantino,Reservoir Dogs,1992.0,Others,10532387
+tt0103888,1992,Silver Hugo,Best Documentary Feature,True,True,Brother's Keeper,nm0075666,Joe Berlinger,Brother's Keeper,1992.0,Others,4723623
+tt0105488,1992,Silver Hugo,Best First Feature Film,True,True,Strictly Ballroom,nm0525303,Baz Luhrmann,Strictly Ballroom,1993.0,Comedy,41923522
+tt0103994,1992,Silver Hugo,Best Screenplay,True,True,Like Water for Chocolate,nm0000778,Alfonso Arau,Like Water for Chocolate,1993.0,Drama,76929640
+tt0104789,1992,Special Jury Prize,Documentary Film,True,True,The Magical World of Chuck Jones,nm0005062,Chuck Jones,The Magical World of Chuck Jones,1992.0,Documentary,12042
+tt0104467,1992,Special Jury Prize,Special Jury Award,True,True,Hyenas,nm0228013,Djibril Diop Mambéty,Hyenas,2019.0,Comedy,33986
+tt0106408,1993,Gold Hugo,Best Feature,False,False,Bhaji on the Beach,nm0149446,Gurinder Chadha,Bhaji on the Beach,1994.0,Comedy,2545549
+tt0107653,1993,Gold Hugo,Best Feature,False,False,Naked,nm0005139,Mike Leigh,Naked,1994.0,Comedy,6164176
+tt0107358,1993,Gold Hugo,Best Feature,False,False,The Blue Kite,nm0862514,Zhuangzhuang Tian,The Blue Kite,1994.0,Drama,617992
+tt0107472,1993,Silver Hugo,Best Documentary Feature,True,True,"The Wonderful, Horrible Life of Leni Riefenstahl",nm0166394,Dimitri de Clercq,"The Wonderful, Horrible Life of Leni Riefenstahl",1994.0,Biography,1552996
+tt0106579,1993,Silver Hugo,Best First Feature Film,True,True,"Clean, Shaven",nm0449868,Lodge Kerrigan,"Clean, Shaven",1995.0,Others,88662
+tt0108394,1993,Special Jury Prize,Special Jury Award,True,True,Three Colors: Blue,nm0001425,Krzysztof Kieslowski,Three Colors: Blue,1993.0,Drama,4667049
+tt0109934,1994,Gold Hugo,Best Documentary,True,False,A Great Day in Harlem,nm0045321,Jean Bach,A Great Day in Harlem,1995.0,Documentary,1785056
+tt0109424,1994,Gold Hugo,Best Feature,False,False,Chungking Express,nm0939182,Kar-Wai Wong,Chungking Express,1996.0,Comedy,2019948
+tt0109382,1994,Gold Hugo,Best Feature,False,False,Dear Diary,nm0604335,Nanni Moretti,Dear Diary,1994.0,Biography,808376
+tt0109738,1994,Gold Hugo,Best Feature,False,False,Ermo,nm0955777,Xiaowen Zhou,Ermo,1995.0,Comedy,96977
+tt0109759,1994,Gold Hugo,Best Feature,False,False,Exotica,nm0000382,Atom Egoyan,Exotica,1995.0,Drama,14249369
+tt0110005,1994,Gold Hugo,Best Feature,False,False,Heavenly Creatures,nm0001392,Peter Jackson,Heavenly Creatures,1994.0,Biography,10424084
+tt0111019,1994,Gold Hugo,Best Feature,False,False,Wild Reeds,nm0029242,André Téchiné,Wild Reeds,1995.0,Drama,2712553
+tt0110583,1994,Gold Hugo,Editing,True,False,Moving the Mountain,nm0744595,Susanne Rostock,Moving the Mountain,1995.0,Documentary,149554
+tt0111845,1994,Silver Hugo,Best Film,True,True,Through the Olive Trees,nm0452102,Abbas Kiarostami,Through the Olive Trees,1994.0,Drama,68932
+tt0110598,1994,Audience Choice Award,Mercedes-Benz Audience Award,True,True,Muriel's Wedding,nm0389591,P.J. Hogan,Muriel's Wedding,1995.0,Comedy,51652961
+tt0113725,1995,Gold Hugo,Best Feature,True,False,Maborosi,,[],Maborosi,1995.0,Drama,239461
+tt0113612,1995,Gold Hugo,Best Feature,False,False,Last Summer in the Hamptons,nm0415617,Henry Jaglom,Last Summer in the Hamptons,1996.0,Comedy,2597533
+tt0114266,1995,Gold Hugo,Best Feature,False,False,Rendezvous in Paris,nm0006445,Éric Rohmer,Rendezvous in Paris,1996.0,Comedy,1190653
+tt0115033,1995,Gold Hugo,Best Feature,False,False,The Young Poisoner's Handbook,nm0743239,Benjamin Ross,The Young Poisoner's Handbook,1996.0,Others,1771266
+tt0112379,1995,Silver Hugo,Best Screenplay,True,True,Antonia's Line,nm0331296,Marleen Gorris,Antonia's Line,1996.0,Comedy,13986008
+tt0112373,1995,Gold Plaque,Best Documentary,True,True,Anne Frank Remembered,nm0086282,Jon Blair,Anne Frank Remembered,1995.0,Biography,4391068
+tt0113828,1995,Audience Choice Award,Gold Plaque,True,True,Les misérables,nm0500988,Claude Lelouch,Les Misérables,1995.0,Drama,2462471
+tt0115600,1996,Gold Hugo,Best Feature,False,False,Bitter Sugar,nm0406687,Leon Ichaso,Bitter Sugar,1996.0,Drama,1484982
+tt0116714,1996,Gold Hugo,Best Feature,False,False,Johns,nm0798788,Scott Silver,Johns,1997.0,Drama,163155
+tt0116882,1996,Gold Hugo,Best Feature,False,False,Lilies,nm0340742,John Greyson,Lilies,1996.0,Others,973594
+tt0118044,1996,Gold Hugo,Best Feature,False,False,Unhook the Stars,nm0001024,Nick Cassavetes,Unhook the Stars,1997.0,Drama,872776
+tt0117991,1996,Silver Hugo,Best Ensemble Acting,True,True,Twelfth Night or What You Will,nm0638080,Trevor Nunn,Twelfth Night or What You Will,1996.0,Comedy,1900453
+tt0114374,1996,Silver Hugo,Best First Feature Film,True,True,La seconda volta,nm0130691,Mimmo Calopresti,La seconda volta,1996.0,Drama,1858111
+tt0116886,1996,Certificate of Merit,Documentary Short,True,True,The Line King: The Al Hirschfeld Story,nm0238743,Susan Warms Dryfoos,The Line King: The Al Hirschfeld Story,1996.0,Biography,163903
+tt0117666,1996,Special Jury Prize,Special Jury Award,True,True,Sling Blade,nm0000671,Billy Bob Thornton,Sling Blade,1997.0,Drama,78083077
+tt0119561,1997,Gold Hugo,Best Documentary Short,True,False,The Long Way Home,nm0365057,Mark Jonathan Harris,The Long Way Home,1997.0,Documentary,191848
+tt0120521,1997,Gold Hugo,Best Film,True,False,The Winter Guest,nm0000614,Alan Rickman,The Winter Guest,1997.0,Drama,2757605
+tt0123385,1997,Gold Hugo,Best Film,False,False,Artemisia,nm0580982,Agnès Merlet,Artemisia,1998.0,Biography,1119981
+tt0116692,1997,Gold Hugo,Best Film,False,True,Beyond Silence,nm0512862,Caroline Link,Beyond Silence,1998.0,Drama,570298
+tt0119467,1997,Gold Hugo,Best Film,False,False,Kiss or Kill,nm0071611,Bill Bennett,Kiss or Kill,1997.0,Others,2529227
+tt0119687,1997,Gold Hugo,Best Film,False,False,Suzaku,nm0442905,Naomi Kawase,Suzaku,1997.0,Drama,2799
+tt0119324,1997,Gold Hugo,Best Film,False,False,The House of Yes,nm0914134,Mark Waters,The House of Yes,1997.0,Comedy,1980044
+tt0120520,1997,Gold Hugo,Best Film,False,False,The Wings of the Dove,nm0812200,Iain Softley,The Wings of the Dove,1998.0,Drama,43146484
+tt0120490,1997,Gold Hugo,Best Film,False,False,Welcome to Sarajevo,nm0935863,Michael Winterbottom,Welcome to Sarajevo,1997.0,Drama,1058013
+tt0139057,1997,Silver Hugo,Best Documentary,True,True,Beautopia,nm0653267,Katharina Otto-Bernstein,Beautopia,1999.0,Documentary,8889
+tt0118709,1997,Gold Plaque,Best Documentary Short,True,True,Beyond Barbed Wire,nm0742091,Steve Rosen,Beyond Barbed Wire,1997.0,Documentary,9987
+tt0119574,1997,FIPRESCI Prize - Special Mention,,True,True,Love and Death on Long Island,nm0477193,Richard Kwietniowski,Love and Death on Long Island,1998.0,Comedy,8132829
+tt0144801,1998,Gold Hugo,Best Documentary,False,False,The Brandon Teena Story,nm0615767,Susan Muska,The Brandon Teena Story,1998.0,Biography,287766
+tt0180286,1998,Gold Hugo,Best Documentary,False,False,Vietnam Long Time Coming,nm0089821,Jerry Blumenthal,Vietnam Long Time Coming,1998.0,Documentary,1481
+tt0118834,1998,Gold Hugo,Best Feature,False,False,Those Who Love Me Can Take the Train,nm0161717,Patrice Chéreau,Those Who Love Me Can Take the Train,1998.0,Drama,99182
+tt0169364,1998,Silver Hugo,Jury Special Prize,True,True,Wind with the Gone,nm0002159,Alejandro Agresti,Wind with the Gone,1998.0,Comedy,127792
+tt0142231,1998,Audience Choice Award,Best Feature,True,True,Down in the Delta,nm0029723,Maya Angelou,Down in the Delta,1998.0,Drama,17690042
+tt0120684,1998,Audience Choice Award,Best Feature,True,True,Gods and Monsters,nm0174374,Bill Condon,Gods and Monsters,1998.0,Biography,20106105
+tt0165901,1998,FIPRESCI Prize,,True,True,Okraina,nm0527494,Pyotr Lutsik,Okraina,1998.0,Drama,8716
+tt0202390,1999,Gold Hugo,Best Documentary,False,False,Herr Zwilling und Frau Zuckermann,nm0462899,Volker Koepp,Herr Zwilling und Frau Zuckermann,1999.0,Documentary,5095
+tt0200849,1999,Gold Hugo,Best Documentary,False,False,My Best Fiend,nm0001348,Werner Herzog,My Best Fiend,1999.0,Biography,145523
+tt0210240,1999,Gold Hugo,Best Documentary,False,False,Public Enemy,nm0582797,Jens Meurer,Public Enemy,1999.0,Documentary,22831574
+tt0214557,1999,Gold Hugo,Best Feature,False,False,Burlesk King,nm0158029,Mel Chionglo,Burlesk King,1999.0,Drama,59307
+tt0178737,1999,Gold Hugo,Best Feature,False,False,Mansfield Park,nm0005390,Patricia Rozema,Mansfield Park,1999.0,Comedy,14503364
+tt0212423,1999,Gold Hugo,Best Feature,False,False,The Personals,nm0155295,Kuo-Fu Chen,The Personals,1998.0,Comedy,31871
+tt0172477,1999,Silver Hugo,Best Film,True,True,Not of This World,nm0681535,Giuseppe Piccioni,Not of This World,1999.0,Drama,432862
+tt0148103,1999,Silver Hugo,Best Screenplay,True,True,Set Me Free,nm0690794,Léa Pool,Set Me Free,1999.0,Drama,225015
+tt0247380,2000,Gold Hugo,Best Documentary,True,False,The Gleaners & I,nm0889513,Agnès Varda,The Gleaners & I,2000.0,Documentary,461873
+tt0240912,2000,Gold Hugo,Best Documentary,False,False,Sound and Fury,nm0036977,Josh Aronson,Sound and Fury,2000.0,Documentary,347842
+tt0199129,2000,Gold Hugo,Best Feature,False,False,The Visit,nm0908326,Jordan Walker-Pearlman,The Visit,2001.0,Drama,269335
+tt0211714,2000,Gold Hugo,Best Feature,False,False,Une pour toutes,nm0500988,Claude Lelouch,Une pour toutes,2000.0,Comedy,41174
+tt0216800,2000,Gold Hugo,Best Feature,False,False,With a Friend Like Harry...,nm0596962,Dominik Moll,With a Friend Like Harry...,2001.0,Comedy,27718290
+tt0245712,2000,Gold Hugo,Best Film,True,True,Amores perros,nm0327944,Alejandro G. Iñárritu,Amores Perros,2001.0,Drama,38017184
+tt0260332,2000,Silver Hugo,Best First Film,True,True,The Day I Became a Woman,nm0581863,Marzieh Makhmalbaf,The Day I Became a Woman,2000.0,Comedy,440514
+tt0259072,2000,Silver Hugo,Special Jury Prize,True,True,A Time for Drunken Horses,nm0315842,Bahman Ghobadi,A Time for Drunken Horses,2000.0,Drama,1791720
+tt0250478,2000,FIPRESCI Prize,,True,True,Nico and Dani,nm0310747,Cesc Gay,Nico and Dani,2001.0,Comedy,1080645
+tt0276189,2001,Gold Hugo,Best Documentary,True,False,Cool and Crazy,nm0421567,Knut Erik Jensen,Cool and Crazy,2001.0,Documentary,4501
+tt0217978,2001,Gold Hugo,Best Feature,False,False,'R Xmas,nm0001206,Abel Ferrara,'R Xmas,2001.0,Others,143708
+tt0233841,2001,Gold Hugo,Best Feature,False,False,Baran,nm0006498,Majid Majidi,Baran,2001.0,Drama,421198
+tt0247425,2001,Gold Hugo,Best Feature,False,False,In the Bedroom,nm0276062,Todd Field,In the Bedroom,2002.0,Others,115979389
+tt0243862,2001,Gold Hugo,Best Feature,False,False,Italian for Beginners,nm0771054,Lone Scherfig,Italian for Beginners,2002.0,Comedy,29698755
+tt0240419,2001,Gold Hugo,Best Feature,False,False,La Ciénaga,nm0551506,Lucrecia Martel,La Ciénaga,2001.0,Comedy,386875
+tt0299027,2001,Gold Hugo,Best Feature,False,False,Maya,nm1070317,Digvijay Singh,Maya,2001.0,Drama,23936
+tt0206963,2001,Gold Hugo,Best Feature,False,False,My First Mister,nm0001441,Christine Lahti,My First Mister,2001.0,Comedy,1673597
+tt0234041,2001,Gold Hugo,Best Feature,False,False,Roberto Succo,nm0434806,Cédric Kahn,Roberto Succo,2001.0,Biography,135765
+tt0297398,2001,Gold Hugo,Best Feature,False,False,Silence... We're Rolling,nm0149631,Youssef Chahine,Silence... We're Rolling,2001.0,Comedy,129676
+tt0243255,2001,Gold Hugo,Best Film,True,False,Fat Girl,nm0106924,Catherine Breillat,Fat Girl,2001.0,Drama,2144991
+tt0269746,2001,Silver Hugo,Grand Jury Prize,True,True,What Time Is It There?,nm0158857,Ming-liang Tsai,What Time Is It There?,2001.0,Drama,661066
+tt0283283,2001,Silver Hugo,,True,True,Millennium Mambo,nm0396284,Hsiao-Hsien Hou,Millennium Mambo,2001.0,Drama,587106
+tt0278102,2001,Gold Plaque,Best Documentary,True,True,Trembling Before G-d,nm0239552,Sandi Simcha Dubowski,Trembling Before G-d,2001.0,Documentary,2302693
+tt0278069,2001,Silver Plaque,Best Documentary,True,True,Super 8 Stories,nm0001437,Emir Kusturica,Super 8 Stories,2001.0,Documentary,286272
+tt0211915,2001,Audience Choice Award,,True,True,Amélie,nm0000466,Jean-Pierre Jeunet,Amélie,2002.0,Comedy,297732450
+tt0285848,2001,FIPRESCI Prize,,True,True,The Orphan of Anyang,nm0910852,Chao Wang,The Orphan of Anyang,2001.0,Drama,125893
+tt0303394,2002,Gold Hugo,Best Documentary,True,False,Sister Helen,nm0296638,Rob Fruchtman,Sister Helen,2002.0,Documentary,10219
+tt0303297,2002,Gold Hugo,Best Documentary,False,False,Amandla! A Revolution in Four Part Harmony,nm1097276,Lee Hirsch,Amandla! A Revolution in Four Part Harmony,2002.0,Documentary,1189390
+tt0308514,2002,Gold Hugo,Best Documentary,False,False,Lost in La Mancha,nm0298488,Keith Fulton,Lost in La Mancha,2002.0,Documentary,3025580
+tt0308672,2002,Gold Hugo,Best Documentary,False,False,Only the Strong Survive,nm0672060,D.A. Pennebaker,Only the Strong Survive,2002.0,Documentary,175116
+tt0293685,2002,Gold Hugo,Best Documentary,False,False,Venus Boyz,nm0062425,Gabriel Baur,Venus Boyz,2002.0,Documentary,67722
+tt0286261,2002,Gold Hugo,Best Feature,False,False,All or Nothing,nm0005139,Mike Leigh,All or Nothing,2002.0,Drama,4295182
+tt0291032,2002,Gold Hugo,Best Feature,False,False,Balzac and the Little Chinese Seamstress,nm0197246,Sijie Dai,Balzac and the Little Chinese Seamstress,2002.0,Biography,8282238
+tt0319193,2002,Gold Hugo,Best Feature,False,False,Dark City,nm0765250,Fernando Sariñana,Dark Cities,2002.0,Drama,424242
+tt0120679,2002,Gold Hugo,Best Feature,False,False,Frida,nm0853380,Julie Taymor,Frida,2002.0,Biography,115840167
+tt0300214,2002,Gold Hugo,Best Feature,False,False,Morvern Callar,nm0708903,Lynne Ramsay,Morvern Callar,2002.0,Drama,1466254
+tt0317965,2002,Gold Hugo,Best Feature,False,False,My Mother's Smile,nm0069166,Marco Bellocchio,My Mother's Smile,2002.0,Drama,2999327
+tt0317234,2002,Gold Hugo,Best Feature,False,False,Painted Fire,nm0407990,Kwon-taek Im,Painted Fire,2002.0,Biography,9956785
+tt0304776,2002,Gold Hugo,Best Feature,False,False,Pleasant Days,nm0610960,Kornél Mundruczó,Pleasant Days,2002.0,Drama,6528
+tt0318034,2002,Gold Hugo,Best Feature,False,False,Russian Ark,nm0812546,Aleksandr Sokurov,Russian Ark,2002.0,Drama,16546718
+tt0332831,2002,Gold Hugo,Best Feature,False,False,Springtime in a Small Town,nm0862514,Zhuangzhuang Tian,Springtime in a Small Town,2002.0,Drama,142035
+tt0322725,2002,Gold Hugo,Best Feature,False,False,The Embalmer,nm0308520,Matteo Garrone,The Embalmer,2002.0,Drama,621904
+tt0318025,2002,Gold Hugo,Best Feature,False,False,Unknown Pleasures,nm0422605,Zhangke Jia,Unknown Pleasures,2002.0,Comedy,94813
+tt0317887,2002,Gold Hugo,Best Film,True,False,Madame Satã,nm0014694,Karim Aïnouz,Madame Satã,2002.0,Biography,870181
+tt0304126,2002,Silver Hugo,Best Ensemble Playing,True,True,Grill Point,nm0478165,Steffi Kühnert,Grill Point,2002.0,Comedy,2850673
+tt0274428,2002,Silver Hugo,Special Jury Prize,True,True,Divine Intervention,nm0837839,Elia Suleiman,Divine Intervention,2002.0,Comedy,2955700
+tt0311320,2002,Gold Plaque,Best Documentary,True,True,Blind Spot. Hitler's Secretary,nm0375267,André Heller,Blind Spot. Hitler's Secretary,2002.0,Biography,1066682
+tt0291131,2002,Gold Plaque,Best Feature Film,True,True,The Devils,nm1196219,Vincent Rottiers,The Devils,2002.0,Drama,73361
+tt0317226,2002,Gold Plaque,,True,True,Marooned in Iraq,nm0315842,Bahman Ghobadi,Marooned in Iraq,2002.0,Drama,444848
+tt0310793,2002,Audience Choice Award,Audience Choice Award,True,True,Bowling for Columbine,nm0601619,Michael Moore,Bowling for Columbine,2002.0,Others,112181756
+tt0315850,2002,FIPRESCI Prize,,True,True,El bonaerense,nm0871086,Pablo Trapero,El bonaerense,2002.0,Others,591924
+tt0373175,2003,Gold Hugo,Best Documentary,True,True,My Architect,nm0434896,Nathaniel Kahn,My Architect,2003.0,Biography,7854517
+tt0373941,2003,Gold Hugo,Best Documentary,False,False,"Jesus, You Know",nm0782430,Ulrich Seidl,"Jesus, You Know",2003.0,Documentary,1668
+tt0371280,2003,Gold Hugo,Best Feature,True,False,Crimson Gold,nm0070159,Jafar Panahi,Crimson Gold,2003.0,Drama,759360
+tt0364093,2003,Gold Hugo,Best Feature,False,False,A Talking Picture,nm0210701,Manoel de Oliveira,A Talking Picture,2003.0,Comedy,859265
+tt0338706,2003,Gold Hugo,Best Feature,False,False,Alexandra's Project,nm0208854,Rolf de Heer,Alexandra's Project,2003.0,Drama,2741453
+tt0363303,2003,Gold Hugo,Best Feature,False,False,At Five in the Afternoon,nm0538533,Samira Makhmalbaf,At Five in the Afternoon,2003.0,Drama,711589
+tt0366304,2003,Gold Hugo,Best Feature,False,False,Choker Bali: A Passion Play,nm0315916,Rituparno Ghosh,Choker Bali: A Passion Play,2003.0,Drama,202686
+tt0347105,2003,Gold Hugo,Best Feature,False,False,Fuse,nm0952429,Pjer Zalica,Fuse,2003.0,Comedy,84315
+tt0365289,2003,Gold Hugo,Best Feature,False,False,Grimm,nm0912334,Alex van Warmerdam,Grimm,2003.0,Others,332394
+tt0319821,2003,Gold Hugo,Best Feature,False,False,Maria,nm0626754,Cãlin Peter Netzer,Maria,2003.0,Comedy,98562
+tt0351461,2003,Gold Hugo,Best Feature,False,False,Noi the Albino,nm0477597,Dagur Kári,Noi the Albino,2003.0,Drama,1941617
+tt0343524,2003,Gold Hugo,Best Feature,False,False,That Day,nm0749914,Raoul Ruiz,That Day,2003.0,Comedy,485416
+tt0351817,2003,Gold Hugo,Best Feature,False,False,The Twilight Samurai,nm0945282,Yôji Yamada,The Twilight Samurai,2003.0,Drama,10957530
+tt0363510,2003,Silver Hugo,Best Documentary,True,True,The Revolution Will Not Be Televised,nm1378741,Kim Bartley,The Revolution Will Not Be Televised,2003.0,Documentary,426909
+tt0335351,2003,Silver Hugo,Best Female Performance,True,True,Little Lili,nm0756203,Ludivine Sagnier,Little Lili,2003.0,Drama,4372731
+tt0329388,2003,Silver Hugo,Best Male Performance,True,True,Monsieur Ibrahim,nm1227027,Pierre Boulanger,Monsieur Ibrahim,2004.0,Comedy,19526220
+tt0346094,2003,Silver Hugo,Special Jury Prize,True,True,Distant,nm0149196,Nuri Bilge Ceylan,Distant,2003.0,Drama,569927
+tt0366943,2003,Gold Plaque,Best Cinematography,True,True,Reconstruction,nm0993994,Manuel Alberto Claro,Reconstruction,2003.0,Drama,753939
+tt0368954,2003,Gold Plaque,Best Documentary,True,True,S21: The Khmer Rouge Killing Machine,nm0659454,Rithy Panh,S21: The Khmer Rouge Killing Machine,2003.0,Documentary,63757
+tt0377031,2003,Gold Plaque,Best Documentary,True,True,The Agronomist,nm0001129,Jonathan Demme,The Agronomist,2003.0,Biography,631372
+tt0377556,2003,Gold Plaque,Best Feature,True,True,"Goodbye, Dragon Inn",nm0158857,Ming-liang Tsai,"Goodbye, Dragon Inn",2003.0,Comedy,1470800
+tt0379926,2003,Silver Plaque,Best Documentary,True,True,People Say I'm Crazy,nm1446632,John Cadigan,People Say I'm Crazy,2003.0,Documentary,43598
+tt0311648,2003,Audience Choice Award,Gold Plaque,True,True,Pieces of April,nm0373282,Peter Hedges,Pieces of April,2003.0,Comedy,8048702
+tt0296571,2003,FIPRESCI Prize,,True,True,Le chignon d'Olga,nm1062000,Jérôme Bonnell,Le chignon d'Olga,2003.0,Comedy,87136
+tt0388789,2004,Gold Hugo,Best Documentary,True,False,Born Into Brothels: Calcutta's Red Light Kids,nm1498640,Zana Briski,Born Into Brothels: Calcutta's Red Light Kids,2005.0,Documentary,9312711
+tt0402406,2004,Gold Hugo,Best Documentary,False,False,The Nomi Song,nm0394793,Andrew Horn,The Nomi Song,2004.0,Biography,199809
+tt0373024,2004,Gold Hugo,Best Feature,False,False,Imaginary Heroes,nm0003529,Dan Harris,Imaginary Heroes,2004.0,Comedy,695943
+tt0366137,2004,Gold Hugo,Best Feature,False,False,Lost Embrace,nm0122184,Daniel Burman,Lost Embrace,2004.0,Comedy,3175677
+tt0416991,2004,Gold Hugo,Best Feature,False,False,Moolaadé,nm0783733,Ousmane Sembene,Moolaadé,2004.0,Drama,956678
+tt0408664,2004,Gold Hugo,Best Feature,False,False,Nobody Knows,nm0466153,Hirokazu Koreeda,Nobody Knows,2004.0,Drama,3999697
+tt0359254,2004,Gold Hugo,Best Feature,False,False,Rolling Family,nm0871086,Pablo Trapero,Rolling Family,2004.0,Comedy,168405
+tt0423277,2004,Gold Hugo,Best Feature,False,False,Stray Dogs,nm0581863,Marzieh Makhmalbaf,Stray Dogs,2004.0,Drama,60386
+tt0423310,2004,Gold Hugo,Best Feature,False,False,The Syrian Bride,nm0726954,Eran Riklis,The Syrian Bride,2004.0,Comedy,2548079
+tt0361127,2004,Gold Hugo,Best Feature,False,False,The Woodsman,nm0975026,Nicole Kassell,The Woodsman,2004.0,Drama,8630452
+tt0381668,2004,Gold Hugo,Best Feature,False,False,Tropical Malady,nm0917405,Apichatpong Weerasethakul,Tropical Malady,2004.0,Drama,125163
+tt0360130,2004,Gold Hugo,Best Feature,False,False,Undertow,nm0337773,David Gordon Green,Undertow,2004.0,Drama,402081
+tt0373981,2004,Gold Hugo,Best Film,True,False,Kontroll,nm0030735,Nimród Antal,Kontroll,2004.0,Comedy,2038709
+tt0331370,2004,Silver Hugo,Best Feature Film,True,True,Whisky,nm0714261,Juan Pablo Rebella,Whisky,2004.0,Comedy,848383
+tt0424227,2004,Silver Hugo,Jury Special Prize,True,True,Turtles Can Fly,nm0315842,Bahman Ghobadi,Turtles Can Fly,2004.0,Drama,1785932
+tt0395421,2004,Gold Plaque,Best Documentary,True,True,The 10th Judicial Court: Judicial Hearings,nm0220019,Raymond Depardon,The 10th Judicial Court: Judicial Hearings,2004.0,Documentary,1119918
+tt0374036,2004,FIPRESCI Prize,,True,True,Campfire,nm0147737,Joseph Cedar,Campfire,2005.0,Drama,89557
+tt0444608,2005,Gold Hugo,Best Documentary,True,False,The Boys of Baraka,nm1823216,Heidi Ewing,The Boys of Baraka,2005.0,Documentary,830941
+tt0436039,2005,Gold Hugo,Best Documentary,False,False,After Innocence,nm1124618,Jessica Sanders,After Innocence,2005.0,Documentary,306239
+tt0436686,2005,Gold Hugo,Best Documentary,False,False,Protocols of Zion,nm0505660,Marc Levin,Protocols of Zion,2005.0,Documentary,479403
+tt0436864,2005,Gold Hugo,Best Documentary,False,False,Unknown White Male,nm1783716,Rupert Murray,Unknown White Male,2005.0,Biography,345856
+tt0425278,2005,Gold Hugo,Best Feature,True,False,My Nikifor,nm0470377,Krzysztof Krauze,My Nikifor,2005.0,Biography,273899
+tt0448663,2005,Gold Hugo,Best Feature,False,False,April Snow,nm0403297,Jin-ho Hur,April Snow,2005.0,Drama,31909066
+tt0443072,2005,Gold Hugo,Best Feature,False,False,Entre ses mains,nm0284774,Anne Fontaine,Entre ses mains,2005.0,Drama,3727129
+tt0475263,2005,Gold Hugo,Best Feature,False,False,Everlasting Regret,nm0477102,Stanley Kwan,Everlasting Regret,2005.0,Drama,517606
+tt0441761,2005,Gold Hugo,Best Feature,False,False,Free Zone,nm0321159,Amos Gitai,Free Zone,2006.0,Comedy,582705
+tt0435479,2005,Gold Hugo,Best Feature,False,False,Gabrielle,nm0161717,Patrice Chéreau,Gabrielle,2005.0,Drama,3987344
+tt0452778,2005,Gold Hugo,Best Feature,False,False,La febbre,nm0194920,Alessandro D'Alatri,La febbre,2005.0,Comedy,4892295
+tt0382806,2005,Gold Hugo,Best Feature,False,False,Look Both Ways,nm0915016,Sarah Watt,Look Both Ways,2005.0,Drama,3452335
+tt0426627,2005,Gold Hugo,Best Feature,False,False,Stoned,nm0941262,Stephen Woolley,Stoned,2005.0,Biography,274123
+tt0401808,2005,Gold Hugo,Best Feature,False,False,Sunflower,nm0955434,Yang Zhang,Sunflower,2007.0,Drama,63992
+tt0445760,2005,Gold Hugo,Best Feature,False,False,The Wayward Cloud,nm0158857,Ming-liang Tsai,The Wayward Cloud,2005.0,Comedy,465625
+tt0441001,2005,Silver Hugo,Best Documentary,True,True,The Devil's Miner,nm0203400,Kief Davidson,The Devil's Miner,2005.0,Documentary,37528
+tt0456149,2005,Silver Hugo,Special Jury Prize,True,True,The Death of Mr. Lazarescu,nm1090998,Cristi Puiu,The Death of Mr. Lazarescu,2005.0,Drama,382066
+tt0395972,2005,Audience Choice Award,Best Film,True,True,North Country,nm0138927,Niki Caro,North Country,2005.0,Drama,55867638
+tt0428856,2005,FIPRESCI Prize,,True,True,La moustache,nm0141127,Emmanuel Carrère,La moustache,2005.0,Drama,4220059
+tt0492466,2006,Gold Hugo,Best Documentary,True,False,Iraq in Fragments,nm1228118,James Longley,Iraq in Fragments,2006.0,Documentary,573919
+tt0795448,2006,Gold Hugo,Best Documentary,False,False,Rampage,nm1982407,George Gittoes,Rampage,2006.0,Documentary,4738
+tt0800181,2006,Gold Hugo,Best Documentary,False,False,Rock the Bells,nm1093063,Casey Suchan,Rock the Bells,2007.0,Documentary,13222
+tt0799954,2006,Gold Hugo,Best Documentary,False,False,The Bridge,nm0824414,Eric Steel,The Bridge,2006.0,Documentary,488907
+tt0845439,2006,Gold Hugo,Best Feature,True,False,Fireworks Wednesday,nm1410815,Asghar Farhadi,Fireworks Wednesday,2016.0,Drama,225787
+tt0809407,2006,Gold Hugo,Best Feature,False,False,12:08 East of Bucharest,nm1717949,Corneliu Porumboiu,12:08 East of Bucharest,2006.0,Comedy,775314
+tt0419146,2006,Gold Hugo,Best Feature,False,False,A Soap,nm0278803,Pernille Fischer Christensen,A Soap,2006.0,Comedy,247590
+tt0461169,2006,Gold Hugo,Best Feature,False,False,Cherm,nm1346477,Kongdej Jaturanrasamee,Cherm,2006.0,Others,1107796
+tt0479354,2006,Gold Hugo,Best Feature,False,False,Chronicle of an Escape,nm0128382,Israel Adrián Caetano,Chronicle of an Escape,2006.0,Others,970160
+tt0498097,2006,Gold Hugo,Best Feature,False,False,Climates,nm0149196,Nuri Bilge Ceylan,Climates,2006.0,Drama,1905900
+tt0452971,2006,Gold Hugo,Best Feature,False,False,Dark Blue Almost Black,nm0998110,Daniel Sánchez Arévalo,Dark Blue Almost Black,2007.0,Drama,4172324
+tt0461970,2006,Gold Hugo,Best Feature,False,False,Invisible Waves,nm0711579,Pen-Ek Ratanaruang,Invisible Waves,2006.0,Drama,31401
+tt0386741,2006,Gold Hugo,Best Feature,False,False,Renaissance,nm1466691,Christian Volckman,Renaissance,2006.0,Others,2395516
+tt0450506,2006,Gold Hugo,Best Feature,False,False,Suburban Mayhem,nm0325877,Paul Goldman,Suburban Mayhem,2006.0,Comedy,234149
+tt0477731,2006,Gold Hugo,Best Feature,False,False,Syndromes and a Century,nm0917405,Apichatpong Weerasethakul,Syndromes and a Century,2006.0,Drama,110582
+tt0480163,2006,Gold Hugo,Best Feature,False,False,The Collector,nm0266138,Feliks Falk,The Collector,2006.0,Drama,628681
+tt0772105,2006,Gold Hugo,Best Feature,False,False,The Family Friend,nm0815204,Paolo Sorrentino,The Family Friend,2006.0,Drama,1388481
+tt0410730,2006,Silver Hugo,Best Feature Film,True,True,Taxidermia,nm0701650,György Pálfi,Taxidermia,2006.0,Comedy,119004
+tt0444182,2006,Silver Hugo,Jury Special Prize,True,True,Days of Glory,nm0098953,Rachid Bouchareb,Days of Glory,2006.0,Drama,29326180
+tt0454931,2006,Plaque,International Film Competition,True,True,Requiem,nm0772691,Hans-Christian Schmid,Requiem,2006.0,Drama,660433
+tt0497986,2006,Plaque,International Film Competition,True,True,Time,nm1104118,Ki-duk Kim,Time,2006.0,Drama,18668
+tt0811136,2006,Special Jury Prize,DocuFest Competition,True,True,Shut Up & Sing,nm0465932,Barbara Kopple,Shut Up & Sing,2006.0,Biography,3947516
+tt0446055,2006,Special Jury Prize,DocuFest Competition,True,True,The Trials of Darryl Hunt,nm0827830,Ricki Stern,The Trials of Darryl Hunt,2006.0,Others,3136
+tt0478829,2006,Audience Choice Award,Best Feature,True,True,Vitus,nm0613833,Fredi M. Murer,Vitus,2006.0,Drama,7936216
+tt0436697,2006,Audience Choice Award,,True,True,The Queen,nm0001241,Stephen Frears,The Queen,2006.0,Biography,228060215
+tt0499455,2006,FIPRESCI Prize,,True,True,Day Night Day Night,nm0518123,Julia Loktev,Day Night Day Night,2006.0,Others,90513
+tt0854678,2007,Gold Hugo,Best Documentary,True,False,Taxi to the Dark Side,nm0316795,Alex Gibney,Taxi to the Dark Side,2007.0,Others,703478
+tt1031928,2007,Gold Hugo,Best Documentary,False,False,Her Name Is Sabine,nm0094789,Sandrine Bonnaire,Her Name Is Sabine,2007.0,Documentary,197891
+tt0841925,2007,Gold Hugo,Best Feature,True,False,Silent Light,nm1196161,Carlos Reygadas,Silent Light,2007.0,Drama,1146987
+tt1032846,2007,Gold Hugo,Best Feature,False,False,"4 Months, 3 Weeks and 2 Days",nm0612816,Cristian Mungiu,"4 Months, 3 Weeks and 2 Days",2007.0,Drama,13530041
+tt0466816,2007,Gold Hugo,Best Feature,False,False,Hallam Foe,nm0533284,David Mackenzie,Hallam Foe,2007.0,Drama,2703572
+tt0877621,2007,Gold Hugo,Best Feature,False,False,La France,nm0102516,Serge Bozon,La France,2008.0,Drama,138469
+tt0803052,2007,Gold Hugo,Best Feature,False,False,Opium: Diary of a Madwoman,nm0844444,János Szász,Opium: Diary of a Madwoman,2007.0,Drama,72815
+tt0993778,2007,Gold Hugo,Best Feature,False,False,Ploy,nm0711579,Pen-Ek Ratanaruang,Ploy,2007.0,Drama,534257
+tt0812366,2007,Gold Hugo,Best Feature,False,False,Pudor,nm1847762,David Ulloa,Pudor,2007.0,Drama,427852
+tt0488027,2007,Gold Hugo,Best Feature,False,False,Saviour Square,nm0470377,Krzysztof Krauze,Saviour Square,2007.0,Drama,778575
+tt0816672,2007,Gold Hugo,Best Feature,False,False,Tehilim,nm0618930,Raphaël Nadjari,Tehilim,2008.0,Drama,147994
+tt0488905,2007,Gold Hugo,Best Feature,False,False,The Banishment,nm1168657,Andrey Zvyagintsev,The Banishment,2018.0,Drama,660967
+tt0806686,2007,Gold Hugo,Best Feature,False,False,Yella,nm0678857,Christian Petzold,Yella,2008.0,Drama,1215307
+tt0905979,2007,Silver Hugo,Best Documentary,True,True,Chicago 10,nm0605137,Brett Morgen,Chicago 10,2007.0,Others,448158
+tt0421082,2007,Silver Hugo,Best Screenplay,True,True,Control,nm0339043,Matt Greenhalgh,Control,2007.0,Biography,11046675
+tt0445336,2007,Silver Hugo,Direction,True,True,"You, the Living",,[],"You, the Living",2007.0,Comedy,2281370
+tt0949564,2007,Silver Hugo,Special Jury Prize,True,True,Tuya's Marriage,nm0911017,Quan'an Wang,Tuya's Marriage,2007.0,Drama,3137126
+tt1040007,2007,Gold Plaque,Best Direction - Documentary,True,True,America the Beautiful,nm0730984,Darryl Roberts,America the Beautiful,2007.0,Documentary,189585
+tt0879220,2007,Gold Plaque,Best Photography - Documentary,True,True,4 Elements,,[],4 Elements,2007.0,Documentary,15015
+tt0969355,2007,Silver Plaque,Special Jury Prize - Documentary,True,True,A Walk Into the Sea: Danny Williams and the Warhol Factory,nm0732613,Esther Robinson,A Walk Into the Sea: Danny Williams and the Warhol Factory,2007.0,Documentary,610
+tt0984175,2007,Plaque,International Film,True,True,Alice's House,nm0854098,Chico Teixeira,Alice's House,2007.0,Drama,317771
+tt0984213,2007,Special Jury Prize,Documentary,True,True,Operation Filmmaker,nm0202640,Nina Davenport,Operation Filmmaker,2007.0,Documentary,28309
+tt0960792,2007,Audience Choice Award,DocuFest Competition,True,True,Spirit of the Marathon,nm1309825,Jon Dunham,Spirit of the Marathon,2008.0,Documentary,49138
+tt0792986,2008,Gold Hugo,After Dark Competition,False,False,Fear(s) of the Dark,nm2198215,Blutch,Fear(s) of the Dark,2008.0,Others,640067
+tt1013607,2008,Gold Hugo,After Dark Competition,False,False,Idiots and Angels,nm0687739,Bill Plympton,Idiots and Angels,2008.0,Others,112336
+tt1139797,2008,Gold Hugo,After Dark Competition,False,False,Let the Right One In,nm0019247,Tomas Alfredson,Let the Right One In,2008.0,Drama,16227204
+tt1046183,2008,Gold Hugo,After Dark Competition,False,False,Mirageman,nm1104993,Ernesto Díaz Espinoza,Mirageman,2007.0,Others,478030
+tt1173745,2008,Gold Hugo,After Dark Competition,False,False,Revanche,nm0818608,Götz Spielmann,Revanche,2008.0,Others,1350815
+tt0409345,2008,Gold Hugo,After Dark Competition,False,False,Surveillance,nm0528337,Jennifer Lynch,Surveillance,2008.0,Others,1361554
+tt1190539,2008,Gold Hugo,After Dark Competition,False,False,The Chaser,nm2947553,Hong-jin Na,The Chaser,2008.0,Others,42628611
+tt0480669,2008,Gold Hugo,After Dark Competition,False,False,Timecrimes,nm1443023,Nacho Vigalondo,Timecrimes,2007.0,Others,726017
+tt1176244,2008,Gold Hugo,Best Documentary,True,False,Valentino: The Last Emperor,nm2961289,Matt Tyrnauer,Valentino: The Last Emperor,2009.0,Documentary,4730268
+tt1262863,2008,Gold Hugo,Best Documentary,False,False,Boogie Man: The Lee Atwater Story,nm0285408,Stefan Forbes,Boogie Man: The Lee Atwater Story,2008.0,Biography,140940
+tt1232790,2008,Gold Hugo,Best Documentary,False,False,Of Time and the City,nm0203993,Terence Davies,Of Time and the City,2008.0,Biography,656170
+tt1185833,2008,Gold Hugo,Best Documentary,False,False,Pressure Cooker,nm0065521,Mark Becker,Pressure Cooker,2008.0,Documentary,104648
+tt1092031,2008,Gold Hugo,Best Documentary,False,False,Rain of the Children,nm0911910,Vincent Ward,Rain of the Children,2008.0,Documentary,233839
+tt1252486,2008,Gold Hugo,Best Documentary,False,False,The Garden,nm1251618,Scott Hamilton Kennedy,The Garden,2008.0,Documentary,62903
+tt0986233,2008,Gold Hugo,Best Feature,True,False,Hunger,nm2588606,Steve McQueen,Hunger,2008.0,Biography,3900326
+tt1020932,2008,Gold Hugo,Best Feature,False,False,1. Mai,nm1519279,Jan-Christoph Glaser,1. Mai,2008.0,Drama,107251
+tt1027658,2008,Gold Hugo,Best Feature,False,False,Absurdistan,nm0375691,Veit Helmer,Absurdistan,2008.0,Comedy,185174
+tt0910860,2008,Gold Hugo,Best Feature,False,False,Delta,nm0610960,Kornél Mundruczó,Delta,2010.0,Drama,38960
+tt0961066,2008,Gold Hugo,Best Feature,False,False,Everlasting Moments,nm0873296,Jan Troell,Everlasting Moments,2008.0,Biography,4712690
+tt1080857,2008,Gold Hugo,Best Feature,False,False,I'm Gonna Explode,nm1319671,Gerardo Naranjo,I'm Gonna Explode,2008.0,Drama,77115
+tt0903627,2008,Gold Hugo,Best Feature,False,False,Julia,nm0957794,Erick Zonca,Julia,2008.0,Others,1649999
+tt1172963,2008,Gold Hugo,Best Feature,False,False,Lemon Tree,nm0726954,Eran Riklis,Lemon Tree,2008.0,Drama,9389149
+tt1103275,2008,Gold Hugo,Best Feature,False,False,Two Lovers,nm0336695,James Gray,Two Lovers,2009.0,Drama,23370391
+tt1152850,2008,Gold Hugo,Best Feature,False,False,Wendy and Lucy,nm0716980,Kelly Reichardt,Wendy and Lucy,2008.0,Drama,2404638
+tt1183701,2008,Silver Hugo,Best Documentary,True,True,They Killed Sister Dorothy,nm0432616,Daniel Junge,They Killed Sister Dorothy,2008.0,Documentary,5656
+tt0929425,2008,Silver Hugo,Best Screenplay,True,True,Gomorrah,nm2828827,Maurizio Braucci,Gomorrah,2009.0,Others,83491493
+tt1087890,2008,Silver Hugo,Direction,True,True,Terribly Happy,,[],Terribly Happy,2008.0,Others,3539801
+tt1157605,2008,Silver Hugo,Docufest,True,True,Anvil: The Story of Anvil,nm0315065,Sacha Gervasi,Anvil: The Story of Anvil,2008.0,Biography,1960425
+tt0938341,2008,Silver Hugo,Grand Jury Prize,True,True,Tokyo Sonata,nm0475905,Kiyoshi Kurosawa,Tokyo Sonata,2008.0,Drama,1441799
+tt0929412,2008,Silver Plaque,Best Screenplay,True,True,Quiet Chaos,nm0604335,Nanni Moretti,Quiet Chaos,2009.0,Drama,13430590
+tt1010048,2008,Audience Choice Award,,True,True,Slumdog Millionaire,nm0000965,Danny Boyle,Slumdog Millionaire,2008.0,Drama,631163825
+tt0914798,2008,Audience Choice Award,,True,True,The Boy in the Striped Pajamas,nm0379179,Mark Herman,The Boy in the Striped Pajamas,2008.0,Drama,59503819
+tt1104814,2009,Gold Hugo,After Dark Competition,False,False,Coffin Rock,nm1514327,Rupert Glasson,Coffin Rock,2009.0,Drama,10731
+tt1216496,2009,Gold Hugo,After Dark Competition,False,False,Mother,nm0094435,Joon-ho Bong,Mother,2009.0,Others,20881299
+tt1346961,2009,Gold Hugo,After Dark Competition,False,False,The Eclipse,nm0574217,Conor McPherson,The Eclipse,2009.0,Drama,351448
+tt1172994,2009,Gold Hugo,After Dark Competition,False,False,The House of the Devil,nm1488800,Ti West,The House of the Devil,2009.0,Others,242593
+tt1436000,2009,Gold Hugo,Best Documentary,True,False,Cooking History,,[],Cooking History,2009.0,Documentary,14588
+tt1277936,2009,Gold Hugo,Best Documentary,False,False,Cropsey,nm0954722,Joshua Zeman,Cropsey,2009.0,Others,125775
+tt1433528,2009,Gold Hugo,Best Documentary,False,False,Inferno,nm1000499,Serge Bromberg,Inferno,2009.0,Documentary,91605
+tt1500516,2009,Gold Hugo,Best Documentary,False,False,Videocracy,nm0304171,Erik Gandini,Videocracy,2009.0,Documentary,1422563
+tt1233611,2009,Gold Hugo,Best Documentary,False,False,Visual Acoustics,nm0108578,Eric Bricker,Visual Acoustics,2009.0,Documentary,124044
+tt1360860,2009,Gold Hugo,Best Feature,False,False,About Elly,nm1410815,Asghar Farhadi,About Elly,2009.0,Drama,1617130
+tt1371630,2009,Gold Hugo,Best Feature,False,False,Air Doll,nm0466153,Hirokazu Koreeda,Air Doll,2009.0,Drama,1336550
+tt1263740,2009,Gold Hugo,Best Feature,False,False,Hidden Diary,nm1065892,Julie Lopes-Curval,Hidden Diary,2009.0,Drama,1471493
+tt1242545,2009,Gold Hugo,Best Feature,False,False,Looking for Eric,nm0516360,Ken Loach,Looking for Eric,2009.0,Comedy,13923489
+tt1189076,2009,Gold Hugo,Best Feature,False,False,Ricky,nm0654830,François Ozon,Ricky,2009.0,Comedy,39883
+tt1220873,2009,Gold Hugo,Best Feature,False,False,The Be All and End All,nm0916039,Bruce Webb,The Be All and End All,2009.0,Comedy,80027
+tt1152840,2009,Silver Hugo,Best Documentary,True,True,Racing Dreams,nm1903582,Marshall Curry,Racing Dreams,2010.0,Documentary,152458
+tt1232776,2009,Silver Hugo,Jury Special Prize,True,True,Fish Tank,nm0036349,Andrea Arnold,Fish Tank,2009.0,Drama,3233296
+tt1239426,2009,Gold Plaque,Best Art Direction,True,True,Hipsters,nm0865422,Valeriy Todorovskiy,Hipsters,2011.0,Drama,19301672
+tt1156173,2009,Gold Plaque,Best Cinematography,True,True,Vincere,nm0162668,Daniele Ciprì,Vincere,2009.0,Biography,7474861
+tt1257579,2009,Silver Plaque,Best Feature Film,True,True,Backyard,nm0140196,Carlos Carrera,Backyard,2009.0,Others,972840
+tt1174732,2009,Audience Choice Award,Feature Film,True,True,An Education,nm0771054,Lone Scherfig,An Education,2010.0,Drama,45595860
+tt1337205,2009,Audience Choice Award,World Cinema,True,True,Sans rancune!,nm0359321,Yves Hanchar,Sans rancune!,2009.0,Drama,249132
+tt0929632,2009,Audience Choice Award,,True,True,Precious,nm0200005,Lee Daniels,Precious,2009.0,Drama,131376168
+tt0960730,2010,Gold Hugo,Best Documentary,True,False,Beautiful Darling,nm2545456,James Rasin,Beautiful Darling,2010.0,Documentary,79933
+tt1611180,2010,Gold Hugo,Best Documentary,False,False,Thunder Soul,nm0485153,Mark Landsman,Thunder Soul,2011.0,Documentary,324346
+tt1268204,2010,Gold Hugo,Best Documentary,False,False,Waste Land,nm1013671,Lucy Walker,Waste Land,2010.0,Documentary,547358
+tt0417610,2010,Gold Hugo,Best Feature,False,False,Asleep in the Sun,nm1145057,Alejandro Chomski,Asleep in the Sun,2011.0,Others,22687
+tt1020773,2010,Gold Hugo,Best Feature,False,False,Certified Copy,nm0452102,Abbas Kiarostami,Certified Copy,2011.0,Drama,7810186
+tt1712068,2010,Gold Hugo,Best Feature,False,False,Mamas & Papas,nm0625080,Alice Nellis,Mamas & Papas,2010.0,Drama,446734
+tt1653911,2010,Gold Hugo,Best Feature,False,False,Mozart's Sister,nm0299677,René Féret,Mozart's Sister,2011.0,Biography,1802702
+tt1646114,2010,Gold Hugo,Best Feature,False,False,My Joy,nm0523665,Sergey Loznitsa,My Joy,2011.0,Others,71132
+tt1606761,2010,Gold Hugo,Best Feature,False,False,Sword of Desperation,nm0386312,Hideyuki Hirayama,Sword of Desperation,2011.0,Others,5556463
+tt1322277,2010,Gold Hugo,Best Feature,False,False,The Assailant,nm1700273,João Daniel Tikhomiroff,The Assailant,2011.0,Others,2294579
+tt1655424,2010,Gold Hugo,Best Feature,False,True,The Matchmaker,nm0626409,Avi Nesher,The Matchmaker,2012.0,Drama,3239
+tt1599975,2010,Gold Hugo,Best Feature,False,False,The Princess of Montpensier,nm0851724,Bertrand Tavernier,The Princess of Montpensier,2011.0,Others,8270847
+tt1339161,2010,Gold Hugo,Best Feature,False,False,The Robber,nm0374663,Benjamin Heisenberg,The Robber,2011.0,Biography,331699
+tt1470024,2010,Gold Hugo,Best Feature,False,False,"Tuesday, After Christmas",nm1364086,Radu Muntean,"Tuesday, After Christmas",2011.0,Drama,63812
+tt1588875,2010,Gold Hugo,Best Film,True,False,How I Ended This Summer,nm1403225,Aleksey Popogrebskiy,How I Ended This Summer,2011.0,Drama,732653
+tt1576382,2010,Silver Hugo,Best Feature Film,True,True,Brother and Sister,nm0122184,Daniel Burman,Brother and Sister,2011.0,Comedy,2693403
+tt1639901,2010,Silver Hugo,Best Screenplay,True,True,A Screaming Man,nm0757958,Mahamat-Saleh Haroun,A Screaming Man,2011.0,Drama,221510
+tt0407852,2010,Gold Plaque,"Best Direction, Feature Film",True,True,The Last Report on Anna,nm0617767,Márta Mészáros,The Last Report on Anna,2011.0,Drama,61730
+tt1680114,2011,Gold Hugo,After Dark Competition,True,False,The Snowtown Murders,nm2355933,Justin Kurzel,The Snowtown Murders,2012.0,Biography,1033501
+tt1668212,2011,Gold Hugo,After Dark Competition,False,False,Cold Sweat,nm0305563,Adrián García Bogliano,Cold Sweat,2012.0,Others,452482
+tt1900891,2011,Gold Hugo,After Dark Competition,False,False,Haunters,nm3029976,Min-suk Kim,Haunters,2010.0,Others,15701596
+tt1838571,2011,Gold Hugo,After Dark Competition,False,False,Juan of the Dead,nm1486025,Alejandro Brugués,Juan of the Dead,2012.0,Others,381925
+tt1783780,2011,Gold Hugo,After Dark Competition,False,False,Smuggler,nm0411002,Katsuhito Ishii,Smuggler,2011.0,Drama,716608
+tt1230385,2011,Gold Hugo,After Dark Competition,False,False,The Yellow Sea,nm2947553,Hong-jin Na,The Yellow Sea,2011.0,Others,17847038
+tt1737122,2011,Gold Hugo,Best Documentary,False,False,Carol Channing: Larger Than Life,nm0075225,Dori Berinstein,Carol Channing: Larger Than Life,2012.0,Biography,51275
+tt2053352,2011,Gold Hugo,Best Documentary,False,True,Diana Vreeland: The Eye Has to Travel,nm4662682,Lisa Immordino Vreeland,Diana Vreeland: The Eye Has to Travel,2011.0,Biography,3085028
+tt2548300,2011,Gold Hugo,Best Documentary,False,False,Valley of the Forgotten,nm5391136,Maria Raduan,Valley of the Forgotten,2011.0,Documentary,3081
+tt1508675,2011,Gold Hugo,Best International Feature,True,False,Le Havre,nm0442454,Aki Kaurismäki,Le Havre,2011.0,Comedy,12513748
+tt1764141,2011,Gold Hugo,Best International Feature,False,True,678,nm2559996,Mohamed Diab,678,2011.0,Drama,563925
+tt1818443,2011,Gold Hugo,Best International Feature,False,False,Chronicle of My Mother,nm0361735,Masato Harada,Chronicle of My Mother,2012.0,Drama,13667754
+tt1776143,2011,Gold Hugo,Best International Feature,False,False,Don't Go Breaking My Heart,nm0864775,Johnnie To,Don't Go Breaking My Heart,2011.0,Others,2522795
+tt1911600,2011,Gold Hugo,Best International Feature,False,False,Miss Bala,nm1319671,Gerardo Naranjo,Miss Bala,2011.0,Others,993227
+tt1736636,2011,Gold Hugo,Best International Feature,False,False,Nobody Else But You,nm0404080,Gérald Hustache-Mathieu,Nobody Else But You,2012.0,Comedy,151072
+tt1787127,2011,Gold Hugo,Best International Feature,False,True,The Forgiveness of Blood,nm0551358,Joshua Marston,The Forgiveness of Blood,2011.0,Drama,317713
+tt1756595,2011,Gold Hugo,Best International Feature,False,False,The Giants,nm0099521,Bouli Lanners,The Giants,2012.0,Others,387072
+tt1994537,2011,Gold Hugo,Best International Feature,False,False,The Mole,nm1293403,Rafael Lewandowski,The Mole,2011.0,Drama,673654
+tt1605777,2011,Gold Hugo,Best International Feature,False,False,The Woman in the Fifth,nm0667734,Pawel Pawlikowski,The Woman in the Fifth,2011.0,Drama,876600
+tt1204340,2011,Gold Hugo,Best International Feature,False,False,Tyrannosaur,nm0175916,Paddy Considine,Tyrannosaur,2011.0,Drama,810464
+tt1795702,2011,Gold Hugo,Best International Feature,False,False,Wild Bill,nm0002077,Dexter Fletcher,Wild Bill,2012.0,Drama,216230
+tt1422136,2011,Silver Hugo,After Dark Competition,True,True,A Lonely Place to Die,nm1402202,Julian Gilbey,A Lonely Place to Die,2011.0,Others,499901
+tt1381282,2011,Gold Plaque,International Film Poster Competition,True,True,Burrowing,,[],Burrowing,2009.0,Drama,66763
+tt1588895,2011,Silver Plaque,International Film Poster Competition,True,True,Uncle Boonmee Who Can Recall His Past Lives,nm1955042,Chris Ware,Uncle Boonmee Who Can Recall His Past Lives,2010.0,Drama,1540916
+tt1860355,2011,Audience Choice Award,Best Documentary Feature,True,True,Undefeated,nm2418675,Daniel Lindsay,Undefeated,2011.0,Documentary,1310591
+tt1630027,2011,Audience Choice Award,Best Narrative Feature,True,True,Almanya: Welcome to Germany,nm0759777,Yasemin Samdereli,Almanya: Welcome to Germany,2011.0,Comedy,13565484
+tt1588398,2011,Audience Choice Award,Feature Film,False,False,Sleeping Beauty,nm3772967,Julia Leigh,Sleeping Beauty,2011.0,Drama,504204
+tt1440136,2011,Honorable Mention,International Film Poster Competition,True,True,Blame,,[],Blame,2010.0,Drama,15311
+tt1655442,2011,Founder's Award,,True,True,The Artist,nm0371890,Michel Hazanavicius,The Artist,2012.0,Comedy,200799675
+tt2099556,2012,Gold Hugo,After Dark Competition,True,False,Antiviral,nm0188722,Brandon Cronenberg,Antiviral,2012.0,Others,68255
+tt1641975,2012,Gold Hugo,After Dark Competition,False,False,Citadel,nm1164602,Ciarán Foy,Citadel,2012.0,Drama,172966
+tt1935785,2012,Gold Hugo,After Dark Competition,False,False,Don't Click,nm1615927,Tae-kyeong Kim,Don't Click,2012.0,Others,4936801
+tt1790869,2012,Gold Hugo,After Dark Competition,False,False,In Their Skin,nm3134012,Jeremy Power Regimbal,In Their Skin,2012.0,Others,118681
+tt1783732,2012,Gold Hugo,After Dark Competition,False,False,John Dies at the End,nm0181741,Don Coscarelli,John Dies at the End,2013.0,Comedy,315053
+tt2103217,2012,Gold Hugo,After Dark Competition,False,False,Maniac,nm0451076,Franck Khalfoun,Maniac,2012.0,Others,2941244
+tt1437358,2012,Gold Hugo,After Dark Competition,False,True,Sleep Tight,nm0049371,Jaume Balagueró,Sleep Tight,2011.0,Drama,6978279
+tt1935896,2012,Gold Hugo,After Dark Competition,False,False,The ABCs of Death,nm1543846,Kaare Andrews,The ABCs of Death,2012.0,Comedy,50159
+tt2219470,2012,Gold Hugo,Best Documentary,False,False,El Bella Vista,nm5113033,Alicia Cano Menoni,El Bella Vista,2012.0,Comedy,23286
+tt2355144,2012,Gold Hugo,Best Documentary,False,False,Kern,nm1072411,Veronika Franz,Kern,2013.0,Documentary,624
+tt2332522,2012,Gold Hugo,Best Documentary,False,False,Leviathan,nm3626583,Lucien Castaing-Taylor,Leviathan,2012.0,Documentary,191100
+tt2327430,2012,Gold Hugo,Best Documentary,False,False,Liv & Ingmar,nm2131292,Dheeraj Akolkar,Liv & Ingmar,2012.0,Documentary,166141
+tt1844735,2012,Gold Hugo,Best Documentary,False,False,Mekong Hotel,nm0917405,Apichatpong Weerasethakul,Mekong Hotel,2016.0,Drama,5369
+tt2085910,2012,Gold Hugo,Best Documentary,False,False,Room 237,nm0038896,Rodney Ascher,Room 237,2012.0,Documentary,748345
+tt2011265,2012,Gold Hugo,Best Documentary,False,False,Tchoupitoulas,nm3226377,Bill Ross IV,Tchoupitoulas,2012.0,Documentary,43168
+tt2380247,2012,Gold Hugo,Best Documentary,False,True,The Central Park Five,nm0122741,Ken Burns,The Central Park Five,2012.0,Others,722957
+tt2318701,2012,Gold Hugo,Best Documentary,False,False,The Final Member,nm2981010,Jonah Bekhor,The Final Member,2014.0,Comedy,24637
+tt2076220,2012,Gold Hugo,Best International Feature,True,True,Holy Motors,nm0136021,Leos Carax,Holy Motors,2012.0,Drama,2865965
+tt2368749,2012,Gold Hugo,Best International Feature,False,True,After Lucia,nm1633015,Michel Franco,After Lucia,2013.0,Drama,1751902
+tt2130125,2012,Gold Hugo,Best International Feature,False,False,Bad Seeds,nm1465130,Safy Nebbou,Bad Seeds,2012.0,Drama,158078
+tt2258281,2012,Gold Hugo,Best International Feature,False,False,Beyond the Hills,nm0612816,Cristian Mungiu,Beyond the Hills,2012.0,Drama,882047
+tt2139919,2012,Gold Hugo,Best International Feature,False,False,Gimme the Loot,nm1383301,Adam Leon,Gimme the Loot,2012.0,Comedy,246449
+tt1843287,2012,Gold Hugo,Best International Feature,False,False,Like Someone in Love,nm0452102,Abbas Kiarostami,Like Someone in Love,2012.0,Drama,890682
+tt1961192,2012,Gold Hugo,Best International Feature,False,False,Marie Krøyer,nm0000806,Bille August,Marie Krøyer,2012.0,Biography,1973813
+tt1403214,2012,Gold Hugo,Best International Feature,False,False,Paradise: Love,nm0782430,Ulrich Seidl,Paradise: Love,2013.0,Drama,1904873
+tt1850419,2012,Gold Hugo,Best International Feature,False,False,Rhino Season,nm0315842,Bahman Ghobadi,Rhino Season,2012.0,Drama,421495
+tt1846472,2012,Gold Hugo,Best International Feature,False,False,Something in the Air,nm0000801,Olivier Assayas,Something in the Air,2012.0,Drama,595187
+tt2283017,2012,Gold Hugo,Best International Feature,False,False,The Land of Hope,nm0814469,Sion Sono,The Land of Hope,2012.0,Drama,41232
+tt1590013,2012,Gold Hugo,Best International Feature,False,False,The Last Sentence,nm0873296,Jan Troell,The Last Sentence,2014.0,Biography,418165
+tt1673697,2012,Gold Hugo,Best International Feature,False,False,The Sapphires,nm0992370,Wayne Blair,The Sapphires,2012.0,Biography,25260823
+tt1836202,2012,Gold Hugo,Best International Feature,False,False,The Weekend,nm0343547,Nina Grosse,The Weekend,2013.0,Drama,590196
+tt2066176,2012,Audience Choice Award,Best Narrative Feature,True,True,Any Day Now,nm0003910,Travis Fine,Any Day Now,2012.0,Drama,514396
+tt1441951,2012,Audience Choice Award,Best Narrative Feature,True,True,Quartet,nm0000163,Dustin Hoffman,Quartet,2013.0,Comedy,85533333
+tt1907668,2012,Founder's Award,,True,True,Flight,nm0000709,Robert Zemeckis,Flight,2012.0,Drama,283657658
+tt2011953,2012,Q Hugo Award,Best Feature,False,False,Keep the Lights On,nm0755158,Ira Sachs,Keep the Lights On,2012.0,Drama,715287
+tt2318625,2012,Q Hugo Award,Best Feature,False,False,Out in the Dark,nm3199492,Michael Mayer,Out in the Dark,2013.0,Drama,101480
+tt2389182,2013,Gold Hugo,After Dark Competition,True,False,Cheap Thrills,nm1414810,E.L. Katz,Cheap Thrills,2014.0,Comedy,128532
+tt2309224,2013,Gold Hugo,After Dark Competition,False,False,Big Bad Wolves,nm3522076,Aharon Keshales,Big Bad Wolves,2013.0,Drama,356588
+tt1954315,2013,Gold Hugo,After Dark Competition,False,False,Borgman,nm0912334,Alex van Warmerdam,Borgman,2013.0,Drama,1164456
+tt2281159,2013,Gold Hugo,After Dark Competition,False,False,Contracted,nm3146718,Eric England,Contracted,2013.0,Drama,68337
+tt2436516,2013,Gold Hugo,After Dark Competition,False,False,Go Goa Gone,nm1356032,Raj Nidimoru,Go Goa Gone,2013.0,Others,798427
+tt2822400,2013,Gold Hugo,After Dark Competition,False,False,Nothing Bad Can Happen,nm3299248,Katrin Gebbe,Nothing Bad Can Happen,2013.0,Others,10630
+tt2111392,2013,Gold Hugo,After Dark Competition,False,False,Raze,nm1892220,Josh C. Waller,Raze,2013.0,Others,16328
+tt2383068,2013,Gold Hugo,After Dark Competition,False,False,The Sacrament,nm1488800,Ti West,The Sacrament,2014.0,Others,19810
+tt2621714,2013,Gold Hugo,Best Documentary,False,False,American Vagabond,nm0375155,Susanna Helke,American Vagabond,2013.0,Documentary,19353
+tt2875926,2013,Gold Hugo,Best Feature,True,False,My Sweet Pepper Land,nm0757954,Hiner Saleem,My Sweet Pepper Land,2013.0,Drama,355004
+tt2359024,2013,Gold Hugo,Best Feature,False,False,Blue Ruin,nm1099918,Jeremy Saulnier,Blue Ruin,2013.0,Others,1366090
+tt2392326,2013,Gold Hugo,Best Feature,False,False,Le Week-End,nm0585011,Roger Michell,Le Week-End,2013.0,Comedy,11871394
+tt2637978,2013,Gold Hugo,Best Feature,False,False,Lifelong,nm2196871,Asli Özge,Lifelong,2013.0,Drama,17430
+tt3119416,2013,Gold Hugo,Best Feature,False,False,Stray Dogs,nm0158857,Ming-liang Tsai,Stray Dogs,2013.0,Drama,26267
+tt2395421,2013,Gold Hugo,Best Feature,False,False,The Priest's Children,nm0107655,Vinko Bresan,The Priest's Children,2013.0,Comedy,1550989
+tt1798108,2013,Gold Hugo,Best Film,False,False,Banklady,nm0023355,Christian Alvart,Banklady,2013.0,Others,79618
+tt2167715,2013,Gold Hugo,Best International Feature,False,False,It's All So Quiet,nm0007066,Nanouk Leopold,It's All So Quiet,2013.0,Drama,282945
+tt2369205,2013,Silver Hugo,Best Cinematography,True,True,Pioneer,nm0264489,Jallo Faber,Pioneer,2014.0,Others,2898191
+tt2691722,2013,Silver Hugo,Jury Special Prize,True,True,Het vonnis,nm0894178,Jan Verheyen,Het vonnis,2013.0,Drama,4475706
+tt2324384,2013,Special Mention,Acting,True,True,The Notebook,nm0844444,János Szász,The Notebook,2013.0,Drama,4317762
+tt2650954,2013,Special Mention,Special Award,True,True,A Long and Happy Life,nm1402557,Boris Khlebnikov,A Long and Happy Life,2013.0,Drama,46532
+tt2776106,2013,Audience Choice Award,Audience Choice Award,False,False,Floating Skyscrapers,nm3814074,Tomasz Wasilewski,Floating Skyscrapers,2013.0,Drama,151475
+tt2405792,2013,Audience Choice Award,Best Documentary Feature,True,True,Elaine Stritch: Shoot Me,nm0438957,Chiemi Karasawa,Elaine Stritch: Shoot Me,2013.0,Documentary,719729
+tt1196956,2013,Audience Choice Award,,True,True,One Chance,nm0291205,David Frankel,One Chance,2013.0,Biography,12038076
+tt2420006,2013,Audience Choice Award,,False,False,12 O'Clock Boys,nm5294256,Lotfy Nathan,12 O'Clock Boys,2014.0,Biography,180507
+tt2024544,2013,Audience Choice Award,,False,False,12 Years a Slave,nm2588606,Steve McQueen,12 Years a Slave,2013.0,Biography,267977546
+tt2476186,2013,Audience Choice Award,,False,False,A Memória que me Contam,nm0613582,Lúcia Murat,A Memória que me Contam,2013.0,Drama,29076
+tt2865802,2013,Audience Choice Award,,False,False,A Pact,nm0220274,Denis Dercourt,A Pact,2013.0,Drama,100266
+tt0469021,2013,Audience Choice Award,,False,False,Alan Partridge,nm0523276,Declan Lowney,Alan Partridge,2014.0,Others,10754483
+tt3091552,2013,Audience Choice Award,,False,False,At Berkeley,nm0936464,Frederick Wiseman,At Berkeley,2013.0,Documentary,69272
+tt1322269,2013,Audience Choice Award,,False,False,August: Osage County,nm0920274,John Wells,August: Osage County,2014.0,Comedy,122278561
+tt2278871,2013,Audience Choice Award,,False,False,Blue Is the Warmest Color,nm0444244,Abdellatif Kechiche,Blue Is the Warmest Color,2013.0,Drama,10467236
+tt1999987,2013,Audience Choice Award,,False,False,Breathe In,nm2035886,Drake Doremus,Breathe In,2013.0,Drama,654592
+tt2626926,2013,Audience Choice Award,,False,False,Closed Curtain,nm0070159,Jafar Panahi,Closed Curtain,2013.0,Drama,67658
+tt2396369,2013,Audience Choice Award,,False,False,Cold Harbour,nm0774760,Carey McKenzie,Cold Harbour,2013.0,Others,13570
+tt1852770,2013,Audience Choice Award,,False,False,Dracula 3D,nm0000783,Dario Argento,Dracula 3D,2013.0,Others,745430
+tt2852376,2013,Audience Choice Award,,False,False,Heli,nm1661334,Amat Escalante,Heli,2013.0,Others,402528
+tt1964773,2013,Audience Choice Award,,False,False,Hide Your Smiling Faces,nm1926336,Daniel Patrick Carbone,Hide Your Smiling Faces,2014.0,Drama,7734
+tt1894476,2013,Audience Choice Award,,False,False,How I Live Now,nm0531817,Kevin Macdonald,How I Live Now,2013.0,Others,1078862
+tt2180405,2013,Audience Choice Award,,False,False,Imbabazi,nm4851216,Joël Karekezi,Imbabazi,2013.0,Drama,9815
+tt2650642,2013,Audience Choice Award,,False,False,In the Name of,nm0844333,Malgorzata Szumowska,In the Name of,2013.0,Drama,1245237
+tt2042568,2013,Audience Choice Award,,False,False,Inside Llewyn Davis,nm0001054,Joel Coen,Inside Llewyn Davis,2014.0,Comedy,50467625
+tt1311071,2013,Audience Choice Award,,False,False,Kill Your Darlings,nm1045865,John Krokidas,Kill Your Darlings,2013.0,Biography,3227073
+tt1967545,2013,Audience Choice Award,,False,False,Labor Day,nm0718646,Jason Reitman,Labor Day,2014.0,Drama,35689036
+tt2551428,2013,Audience Choice Award,,False,False,Lasting,nm0096066,Jacek Borcuch,Lasting,2013.0,Drama,594452
+tt2331143,2013,Audience Choice Award,,False,False,"Like Father, Like Son",nm0466153,Hirokazu Koreeda,"Like Father, Like Son",2013.0,Drama,22170045
+tt2523600,2013,Audience Choice Award,,False,False,Long Live Freedom,nm0027948,Roberto Andò,Long Live Freedom,2013.0,Comedy,4177149
+tt2304771,2013,Audience Choice Award,,False,False,Mandela: Long Walk to Freedom,nm0149491,Justin Chadwick,Mandela: Long Walk to Freedom,2013.0,Biography,39099307
+tt1821549,2013,Audience Choice Award,,False,False,Nebraska,nm0668247,Alexander Payne,Nebraska,2014.0,Others,49530515
+tt2650986,2013,Audience Choice Award,,False,False,Northwest,nm1840064,Michael Noer,Northwest,2013.0,Others,1580763
+tt2719094,2013,Audience Choice Award,,False,False,Papusza,nm1732806,Joanna Kos-Krauze,Papusza,2013.0,Biography,620996
+tt2431286,2013,Audience Choice Award,,False,False,Philomena,nm0001241,Stephen Frears,Philomena,2013.0,Biography,151134205
+tt1971514,2013,Audience Choice Award,,False,False,Salvo,nm0989305,Fabio Grassadonia,Salvo,2014.0,Others,262890
+tt2191400,2013,Audience Choice Award,,False,False,"Sex, Drugs & Taxation",nm1061993,Christoffer Boe,"Sex, Drugs & Taxation",2013.0,Biography,3851210
+tt1826876,2013,Audience Choice Award,,False,False,So Much Water,nm3383582,Ana Guevara,So Much Water,2013.0,Comedy,27379
+tt2852458,2013,Audience Choice Award,,False,False,Stranger by the Lake,nm0347492,Alain Guiraudie,Stranger by the Lake,2013.0,Drama,1589541
+tt0816442,2013,Audience Choice Award,,False,False,The Book Thief,nm1093053,Brian Percival,The Book Thief,2013.0,Drama,107533898
+tt2509270,2013,Audience Choice Award,,False,False,The Don Juans,nm0579954,Jirí Menzel,The Don Juans,2013.0,Comedy,829773
+tt1837703,2013,Audience Choice Award,,False,False,The Fifth Estate,nm0174374,Bill Condon,The Fifth Estate,2013.0,Biography,12922618
+tt1847746,2013,Audience Choice Award,,False,False,The German Doctor,nm0699932,Lucía Puenzo,The German Doctor,2014.0,Drama,3704626
+tt1951181,2013,Audience Choice Award,,False,False,The Immigrant,nm0336695,James Gray,The Immigrant,2014.0,Drama,8478536
+tt2113075,2013,Audience Choice Award,,False,False,The Inevitable Defeat of Mister & Pete,nm0863387,George Tillman Jr.,The Inevitable Defeat of Mister & Pete,2013.0,Drama,1110738
+tt2550692,2013,Audience Choice Award,,False,False,The Invisible Collection,nm3527520,Bernard Attal,The Invisible Collection,2013.0,Drama,25004
+tt2340784,2013,Audience Choice Award,,False,False,The Last of the Unjust,nm0487351,Claude Lanzmann,The Last of the Unjust,2013.0,Documentary,113176
+tt2852470,2013,Audience Choice Award,,False,False,The Missing Picture,nm0659454,Rithy Panh,The Missing Picture,2014.0,Documentary,140845
+tt2215221,2013,Audience Choice Award,,False,False,The Nun,nm0630112,Guillaume Nicloux,The Nun,2015.0,Drama,550106
+tt2390962,2013,Audience Choice Award,,False,False,The Unknown Known,nm0001554,Errol Morris,The Unknown Known,2013.0,Biography,631667
+tt1951299,2013,Audience Choice Award,,False,False,Un giorno devi andare,nm2056836,Giorgio Diritti,Un giorno devi andare,2013.0,Drama,1419714
+tt2241691,2013,Audience Choice Award,,False,False,Under the Rainbow,nm0418450,Agnès Jaoui,Under the Rainbow,2013.0,Comedy,5725360
+tt2329582,2013,Audience Choice Award,,False,False,Voyage,nm2947826,Scud,Voyage,2013.0,Drama,14186
+tt2738050,2013,Audience Choice Award,,False,False,Will You Still Love Me Tomorrow?,nm1789897,Arvin Chen,Will You Still Love Me Tomorrow?,2013.0,Comedy,109155
+tt2353767,2013,Founder's Award,Best Feature,True,True,"1,000 Times Good Night",nm0691547,Erik Poppe,"1,000 Times Good Night",2014.0,Drama,2802094
+tt3907314,2014,Gold Hugo,Best Documentary,False,False,The Iron Ministry,nm3723535,J.P. Sniadecki,The Iron Ministry,2015.0,Documentary,7747
+tt3966942,2014,Gold Hugo,Best Feature,True,False,The President,nm0538532,Mohsen Makhmalbaf,The President,2014.0,Drama,24664
+tt3661798,2014,Gold Hugo,Best Feature,False,False,A Girl at My Door,nm4772133,July Jung,A Girl at My Door,2014.0,Drama,613282
+tt3469910,2014,Gold Hugo,Best Feature,False,False,"Black Coal, Thin Ice",nm0224801,Yi'nan Diao,"Black Coal, Thin Ice",2014.0,Others,18142585
+tt2121382,2014,Gold Hugo,Best Feature,False,False,Force Majeure,nm1128037,Ruben Östlund,Force Majeure,2014.0,Comedy,5935458
+tt3267784,2014,Gold Hugo,Best Feature,False,False,Paris of the North,nm2619779,Hafsteinn Gunnar Sigurðsson,Paris of the North,2014.0,Comedy,138536
+tt3509804,2014,Gold Hugo,Best Feature,False,False,The Word,nm2038130,Anna Kazejak,The Word,2014.0,Drama,676118
+tt3019620,2014,Gold Hugo,Best Feature,False,False,Titli,nm2885983,Kanu Behl,Titli,2015.0,Others,246794
+tt2465578,2014,Gold Hugo,,False,True,Human Capital,nm0899501,Paolo Virzì,Human Capital,2014.0,Drama,9995133
+tt3346824,2014,Silver Hugo,Best Cinematography,True,True,1001 Grams,nm0742645,John Christian Rosenlund,1001 Grams,2014.0,Drama,206662
+tt3062880,2014,Silver Hugo,Best Screenplay,True,True,Gett: The Trial of Viviane Amsalem,nm0253813,Ronit Elkabetz,Gett: The Trial of Viviane Amsalem,2014.0,Drama,2418768
+tt3717390,2014,Silver Hugo,Special Jury Prize,True,True,Refugiado,nm1195308,Diego Lerman,Refugiado,2014.0,Drama,188792
+tt3360038,2014,Gold Plaque,Best Costume Design,True,True,Speed Walking,nm0617102,Pia Myrdal,Speed Walking,2014.0,Drama,2372737
+tt3264102,2014,Audience Choice Award,Audience Choice Award,True,True,Red Army,nm2126907,Gabe Polsky,Red Army,2014.0,Biography,1604378
+tt2113681,2014,Audience Choice Award,Audience Choice Award,True,True,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,nm0379773,Felix Herngren,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,2015.0,Others,55959736
+tt2084970,2014,Audience Choice Award,Audience Choice Award,True,True,The Imitation Game,nm0878763,Morten Tyldum,The Imitation Game,2014.0,Biography,347061623
+tt2926810,2014,Audience Choice Award,Audience Choice Award,False,False,ABCs of Death 2,nm0038896,Rodney Ascher,ABCs of Death 2,2014.0,Comedy,15436
+tt3218580,2014,Audience Choice Award,Audience Choice Award,False,False,Alléluia,nm0239001,Fabrice du Welz,Alléluia,2014.0,Others,58789
+tt2414040,2014,Audience Choice Award,Audience Choice Award,False,False,An Eye for Beauty,nm0000780,Denys Arcand,An Eye for Beauty,2014.0,Drama,59097
+tt3904770,2014,Audience Choice Award,Audience Choice Award,False,False,August Winds,nm3486709,Gabriel Mascaro,August Winds,2014.0,Drama,10944
+tt2790236,2014,Audience Choice Award,Audience Choice Award,False,False,Beloved Sisters,nm0333705,Dominik Graf,Beloved Sisters,2014.0,Drama,2432247
+tt2656588,2014,Audience Choice Award,Audience Choice Award,False,False,Buzzard,nm1811127,Joel Potrykus,Buzzard,2015.0,Comedy,31583
+tt2713778,2014,Audience Choice Award,Audience Choice Award,False,False,Cathedrals of Culture,nm0014694,Karim Aïnouz,Cathedrals of Culture,2014.0,Documentary,91731
+tt2452254,2014,Audience Choice Award,Audience Choice Award,False,False,Clouds of Sils Maria,nm0000801,Olivier Assayas,Clouds of Sils Maria,2014.0,Drama,7081934
+tt2405182,2014,Audience Choice Award,Audience Choice Award,False,False,Concrete Night,nm0393345,Pirjo Honkasalo,Concrete Night,2014.0,Drama,47950
+tt1863192,2014,Audience Choice Award,Audience Choice Award,False,False,Corn Island,nm0653768,George Ovashvili,Corn Island,2014.0,Drama,40301
+tt2235108,2014,Audience Choice Award,Audience Choice Award,False,False,Dear White People,nm2282177,Justin Simien,Dear White People,2014.0,Comedy,9873938
+tt2835494,2014,Audience Choice Award,Audience Choice Award,False,False,Doctor Proctor's Fart Powder,nm0994299,Arild Fröhlich,Doktor Proktors prompepulver,2014.0,Others,5661389
+tt1096999,2014,Audience Choice Award,Audience Choice Award,False,False,Evolution of a Criminal,nm2346569,Darius Clark Monroe,Evolution of a Criminal,2014.0,Documentary,7717
+tt2199448,2014,Audience Choice Award,Audience Choice Award,False,False,Fair Play,nm0781365,Andrea Sedlácková,Fair Play,2014.0,Drama,345954
+tt3425034,2014,Audience Choice Award,Audience Choice Award,False,False,Fasten Your Seatbelts,nm0654858,Ferzan Ozpetek,Fasten Your Seatbelts,2014.0,Comedy,2332824
+tt2199543,2014,Audience Choice Award,Audience Choice Award,False,False,Futuro Beach,nm0014694,Karim Aïnouz,Futuro Beach,2015.0,Drama,871086
+tt3685218,2014,Audience Choice Award,Audience Choice Award,False,False,Félix & Meira,nm2113645,Maxime Giroux,Félix & Meira,2015.0,Drama,1019676
+tt3202374,2014,Audience Choice Award,Audience Choice Award,False,False,"If You Don't, I Will",nm0277230,Sophie Fillières,"If You Don't, I Will",2014.0,Comedy,20952
+tt2675914,2014,Audience Choice Award,Audience Choice Award,False,False,In Order of Disappearance,nm0596407,Hans Petter Moland,In Order of Disappearance,2014.0,Others,1029100
+tt3235888,2014,Audience Choice Award,Audience Choice Award,False,False,It Follows,nm1379002,David Robert Mitchell,It Follows,2015.0,Others,39181597
+tt2474310,2014,Audience Choice Award,Audience Choice Award,False,False,Land of Storms,nm2414670,Ádám Császi,Land of Storms,2014.0,Drama,3481
+tt1864405,2014,Audience Choice Award,Audience Choice Award,False,False,Low Down,nm0695857,Jeff Preiss,Low Down,2015.0,Biography,118204
+tt3476480,2014,Audience Choice Award,Audience Choice Award,False,False,Maestro,nm1481060,Léa Fazer,Maestro,2014.0,Comedy,385976
+tt4137324,2014,Audience Choice Award,Audience Choice Award,False,False,Magician: The Astonishing Life and Work of Orson Welles,nm0941457,Chuck Workman,Magician: The Astonishing Life and Work of Orson Welles,2014.0,Biography,35302
+tt3132714,2014,Audience Choice Award,Audience Choice Award,False,False,Marie's Story,nm0025534,Jean-Pierre Améris,Marie's Story,2014.0,Biography,1274145
+tt2667960,2014,Audience Choice Award,Audience Choice Award,False,False,Miss Julie,nm0880521,Liv Ullmann,Miss Julie,2014.0,Drama,567308
+tt2642524,2014,Audience Choice Award,Audience Choice Award,False,False,Mr. Kaplan,nm1304308,Álvaro Brechner,Mr. Kaplan,2014.0,Comedy,218497
+tt3720794,2014,Audience Choice Award,Audience Choice Award,False,False,National Gallery,nm0936464,Frederick Wiseman,National Gallery,2014.0,Documentary,655369
+tt2808680,2014,Audience Choice Award,Audience Choice Award,False,False,No Thank You,nm2043837,Samuli Valkama,No Thank You,2014.0,Comedy,1767938
+tt3074732,2014,Audience Choice Award,Audience Choice Award,False,False,Of Horses and Men,nm0259574,Benedikt Erlingsson,Of Horses and Men,2015.0,Comedy,272587
+tt2557952,2014,Audience Choice Award,Audience Choice Award,False,False,"Salaud, on t'aime",nm0500988,Claude Lelouch,"Salaud, on t'aime",2014.0,Comedy,2916015
+tt2170593,2014,Audience Choice Award,Audience Choice Award,False,False,St. Vincent,nm0577647,Theodore Melfi,St. Vincent,2014.0,Comedy,106526260
+tt3465916,2014,Audience Choice Award,Audience Choice Award,False,False,Stations of the Cross,nm0117698,Dietrich Brüggemann,Stations of the Cross,2015.0,Drama,81394
+tt2380207,2014,Audience Choice Award,Audience Choice Award,False,False,Stockholm,nm2507695,Rodrigo Sorogoyen,Stockholm,2014.0,Drama,287621
+tt2661644,2014,Audience Choice Award,Audience Choice Award,False,False,Superegos,nm0374663,Benjamin Heisenberg,Superegos,2014.0,Comedy,372629
+tt2321549,2014,Audience Choice Award,Audience Choice Award,False,False,The Babadook,nm0448768,Jennifer Kent,The Babadook,2014.0,Drama,12203220
+tt3709678,2014,Audience Choice Award,Audience Choice Award,False,False,The Kindergarten Teacher,nm2028715,Nadav Lapid,The Kindergarten Teacher,2014.0,Drama,344688
+tt2474024,2014,Audience Choice Award,Audience Choice Award,False,False,The Last Five Years,nm0481418,Richard LaGravenese,The Last Five Years,2014.0,Comedy,470899
+tt3521134,2014,Audience Choice Award,Audience Choice Award,False,False,The Look of Silence,nm1484791,Joshua Oppenheimer,The Look of Silence,2015.0,Biography,285842
+tt3504824,2014,Audience Choice Award,Audience Choice Award,False,False,The Midnight After,nm0150897,Fruit Chan,The Midnight After,2014.0,Comedy,2937745
+tt2917566,2014,Audience Choice Award,Audience Choice Award,False,False,The Other One,nm1207671,Josef Steiff,The Other One,2014.0,Drama,38217
+tt3904754,2014,Audience Choice Award,Audience Choice Award,False,False,The Princess of France,nm1446111,Matías Piñeiro,The Princess of France,2014.0,Comedy,11219
+tt2720680,2014,Audience Choice Award,Audience Choice Award,False,False,The Salvation,nm0506290,Kristian Levring,The Salvation,2015.0,Drama,1533870
+tt1702014,2014,Audience Choice Award,Audience Choice Award,False,False,The Way He Looks,nm2406154,Daniel Ribeiro,The Way He Looks,2014.0,Drama,1364470
+tt3108158,2014,Audience Choice Award,Audience Choice Award,False,False,The World of Kanako,nm0620363,Tetsuya Nakashima,The World of Kanako,2015.0,Drama,7178917
+tt2737050,2014,Audience Choice Award,Audience Choice Award,False,False,"Two Days, One Night",nm0201094,Jean-Pierre Dardenne,"Two Days, One Night",2014.0,Drama,8916961
+tt3400872,2014,Audience Choice Award,Audience Choice Award,False,False,Viktoria,nm0900035,Maya Vitkova,Viktoria,2014.0,Drama,24720
+tt2305051,2014,Audience Choice Award,Audience Choice Award,False,False,Wild,nm0885249,Jean-Marc Vallée,Wild,2014.0,Others,98363426
+tt2758880,2014,Audience Choice Award,Audience Choice Award,False,False,Winter Sleep,nm0149196,Nuri Bilge Ceylan,Winter Sleep,2014.0,Drama,4325312
+tt3509772,2014,Audience Choice Award,Audience Choice Award,False,False,ärtico,nm0892804,Gabriel Velázquez,ärtico,2015.0,Drama,2098
+tt3125324,2014,Emerging Artist Award,,True,True,Beyond the Lights,nm1813221,Gugu Mbatha-Raw,Beyond the Lights,2014.0,Drama,31638963
+tt3186946,2014,Q Hugo Award,Best Feature,True,True,Xenia,nm3267450,Panos H. Koutras,Xenia,2014.0,Drama,178381
+tt4935446,2015,Gold Hugo,Best Documentary,False,False,Heart of a Dog,nm0002173,Laurie Anderson,Heart of a Dog,2016.0,Documentary,962814
+tt4936064,2015,Gold Hugo,Best Documentary,False,False,In Jackson Heights,nm0936464,Frederick Wiseman,In Jackson Heights,2015.0,Documentary,260221
+tt4576318,2015,Gold Hugo,Best Documentary,False,False,In the Underground,nm7238769,Zhantao Song,In the Underground,2015.0,Documentary,112809
+tt4336186,2015,Gold Hugo,Best Documentary,False,False,Motley's Law,nm1567655,Nicole Nielsen Horanyi,Motley's Law,2015.0,Biography,794
+tt3790720,2015,Gold Hugo,Best Documentary,False,False,Peggy Guggenheim: Art Addict,nm4662682,Lisa Immordino Vreeland,Peggy Guggenheim: Art Addict,2015.0,Biography,1410420
+tt4897822,2015,Gold Hugo,Best Documentary,False,True,Where to Invade Next,nm0601619,Michael Moore,Where to Invade Next,2015.0,Comedy,9124353
+tt3735686,2015,Gold Hugo,Best Documentary,False,False,Women He's Undressed,nm0000788,Gillian Armstrong,Women He's Undressed,2015.0,Biography,141507
+tt3828378,2015,Gold Hugo,Best Feature,True,False,A Childhood,nm1061623,Philippe Claudel,A Childhood,2015.0,Drama,11461
+tt3544082,2015,Gold Hugo,Best Feature,False,False,45 Years,nm0354091,Andrew Haigh,45 Years,2015.0,Drama,20059284
+tt4358230,2015,Gold Hugo,Best Feature,False,False,Body,nm0844333,Malgorzata Szumowska,Body,2015.0,Comedy,2639
+tt3850496,2015,Gold Hugo,Best Feature,False,False,Chronic,nm1633015,Michel Franco,Chronic,2015.0,Drama,412310
+tt4000936,2015,Gold Hugo,Best Feature,False,False,Looking for Grace,nm0112262,Sue Brooks,Looking for Grace,2015.0,Drama,158122
+tt3013610,2015,Gold Hugo,Best Feature,False,False,Mia madre,nm0604335,Nanni Moretti,Mia Madre,2016.0,Drama,8516524
+tt3740778,2015,Gold Hugo,Best Feature,False,False,Mountains May Depart,nm0422605,Zhangke Jia,Mountains May Depart,2015.0,Drama,5690557
+tt4048050,2015,Gold Hugo,Best Feature,False,True,My Golden Days,nm0221611,Arnaud Desplechin,My Golden Days,2015.0,Drama,1912849
+tt4899406,2015,Gold Hugo,Best Feature,False,False,Neon Bull,nm3486709,Gabriel Mascaro,Neon Bull,2015.0,Drama,214841
+tt3430416,2015,Gold Hugo,Best Feature,False,False,Schneider vs. Bax,nm0912334,Alex van Warmerdam,Schneider vs. Bax,2015.0,Comedy,299409
+tt4298958,2015,Gold Hugo,Best Feature,False,False,Sweet Bean,nm0442905,Naomi Kawase,Sweet Bean,2015.0,Drama,5214527
+tt4375438,2015,Gold Hugo,Best Feature,False,True,The Club,nm1883257,Pablo Larraín,The Club,2015.0,Comedy,638527
+tt4515684,2015,Gold Hugo,Best Feature,False,False,The Treasure,nm1717949,Corneliu Porumboiu,The Treasure,2016.0,Comedy,143022
+tt4482858,2015,Gold Hugo,Best Feature,False,False,Tikkun,nm3844801,Avishai Sivan,Tikkun,2015.0,Drama,29364
+tt3409440,2015,Audience Choice Award,Audience Choice Award,False,False,The Surprise,nm0226016,Mike van Diem,The Surprise,2015.0,Comedy,1315627
+tt1895587,2015,Audience Choice Award,Best Narrative English-Language Feature,True,True,Spotlight,nm0565336,Tom McCarthy,Spotlight,2015.0,Biography,154329532
+tt3966404,2015,Audience Choice Award,Best Narrative Foreign-Language Feature,True,True,Mustang,nm2197025,Deniz Gamze Ergüven,Mustang,2015.0,Drama,6575847
+tt2402927,2015,Q Hugo Award,Best Feature,True,True,Carol,nm0001331,Todd Haynes,Carol,2016.0,Drama,57150465
+tt3185602,2015,World Cinema/Out-Look Competition,Best Film,False,False,Front Cover,,[],Front Cover,2016.0,Comedy,56041
+tt4466490,2016,Gold Hugo,Best Feature,True,False,Sieranevada,nm1090998,Cristi Puiu,Sieranevada,2016.0,Comedy,261327
+tt5369484,2016,Gold Hugo,Best Feature,False,False,24 Weeks,nm4357944,Anne Zohra Berrached,24 Weeks,2016.0,Drama,37282
+tt5294966,2016,Gold Hugo,Best Feature,False,False,After the Storm,nm0466153,Hirokazu Koreeda,After the Storm,2016.0,Comedy,5978300
+tt4666726,2016,Gold Hugo,Best Feature,False,False,Christine,nm1290515,Antonio Campos,Christine,2016.0,Biography,646975
+tt4936450,2016,Gold Hugo,Best Feature,False,True,Graduation,nm0612816,Cristian Mungiu,Graduation,2016.0,Others,2334667
+tt5712152,2016,Gold Hugo,Best Feature,False,False,Layla M.,nm0209010,Mijke de Jong,Layla M.,2016.0,Drama,281217
+tt4621872,2016,Gold Hugo,Best Feature,False,False,Like Crazy,nm0899501,Paolo Virzì,Like Crazy,2016.0,Comedy,9658821
+tt4698584,2016,Gold Hugo,Best Feature,False,False,Neruda,nm1883257,Pablo Larraín,Neruda,2016.0,Biography,5105971
+tt4551318,2016,Gold Hugo,Best Feature,False,False,Paradise,nm0464846,Andrey Konchalovskiy,Paradise,2016.0,Drama,1041957
+tt3082854,2016,Gold Hugo,Best Feature,False,False,The Commune,nm0899121,Thomas Vinterberg,The Commune,2017.0,Drama,4645685
+tt5936692,2016,Gold Hugo,Best Feature,False,True,The Last Family,nm4956873,Jan P. Matuszynski,The Last Family,2016.0,Biography,2414898
+tt5186714,2016,Gold Hugo,Best Feature,False,True,The Salesman,nm1410815,Asghar Farhadi,The Salesman,2016.0,Drama,9890509
+tt4874206,2016,Gold Hugo,Best Feature,False,False,The Student,nm1970598,Kirill Serebrennikov,The Student,2017.0,Drama,333641
+tt4120176,2016,Gold Hugo,Best Feature,False,False,Things to Come,nm0361135,Mia Hansen-Løve,Things to Come,2016.0,Drama,6379314
+tt5333110,2016,Gold Hugo,Best Feature,False,False,United States of Love,nm3814074,Tomasz Wasilewski,United States of Love,2016.0,Drama,235200
+tt5133392,2016,Gold Hugo,Best Feature,False,False,Zoology,nm6592335,Ivan I. Tverdovskiy,Zoology,2016.0,Comedy,20716
+tt4970324,2016,Gold Hugo,Documentary Competition,True,False,Samuel in the Clouds,nm4956981,Pieter Van Eecke,Samuel in the Clouds,2016.0,Documentary,1263
+tt5952526,2016,Gold Hugo,Documentary Competition,False,False,Karl Marx City,nm0258355,Petra Epperlein,Karl Marx City,2017.0,Documentary,86101
+tt5068628,2016,Gold Hugo,Documentary Competition,False,True,Where You're Meant to Be,nm5098908,Paul Fegan,Where You're Meant to Be,2016.0,Documentary,39220
+tt5804038,2016,Audience Choice Award,Best Documentary Feature,True,True,I Am Not Your Negro,nm0669704,Raoul Peck,I Am Not Your Negro,2017.0,Documentary,16227745
+tt3741834,2016,Audience Choice Award,Best Narrative Feature,True,True,Lion,nm0204628,Garth Davis,Lion,2017.0,Biography,202102882
+tt4975722,2016,Audience Choice Award,Best Narrative Feature,True,True,Moonlight,nm1503575,Barry Jenkins,Moonlight,2016.0,Drama,98365559
+tt4613254,2016,Q Hugo Award,Best Feature,True,True,Heartstone,nm2003134,Guðmundur Arnar Guðmundsson,Heartstone,2016.0,Drama,382565
+tt5096628,2016,Silver Q Hugo Award,Best Feature,True,True,Paris 05:59: Théo & Hugo,nm0239725,Olivier Ducastel,Paris 05:59: Théo & Hugo,2016.0,Drama,51509
+tt6777114,2017,Gold Hugo,Best Documentary,False,False,12 Days,nm0220019,Raymond Depardon,12 Days,2018.0,Documentary,744720
+tt7028250,2017,Gold Hugo,Best Documentary,False,False,Before Summer Ends,nm2295945,Maryam Goormaghtigh,Before Summer Ends,2017.0,Comedy,62208
+tt6220252,2017,Gold Hugo,Best Documentary,False,True,Mr Gay Syria,nm8562898,Ayse Toprak,Mr Gay Syria,2017.0,Documentary,1774
+tt6532954,2017,Gold Hugo,Best Documentary,False,False,No Intenso Agora,nm1098834,João Moreira Salles,No Intenso Agora,2018.0,Documentary,65135
+tt6116682,2017,Gold Hugo,Best Documentary,False,False,The Rape of Recy Taylor,nm1799233,Nancy Buirski,The Rape of Recy Taylor,2017.0,Documentary,8000
+tt6386168,2017,Gold Hugo,Best Feature,True,False,A Sort of Family,nm1195308,Diego Lerman,A Sort of Family,2018.0,Others,48236
+tt6776462,2017,Gold Hugo,Best Feature,False,True,A Man of Integrity,nm1488024,Mohammad Rasoulof,A Man of Integrity,2017.0,Drama,947435
+tt6952604,2017,Gold Hugo,Best Feature,False,False,Arrhythmia,nm1402557,Boris Khlebnikov,Arrhythmia,2017.0,Drama,1484996
+tt7106928,2017,Gold Hugo,Best Feature,False,False,Birds Are Singing in Kigali,nm1732806,Joanna Kos-Krauze,Birds Are Singing in Kigali,2017.0,Drama,64927
+tt5980798,2017,Gold Hugo,Best Feature,False,True,Félicité,nm0327120,Alain Gomis,Félicité,2017.0,Drama,287939
+tt5795086,2017,Gold Hugo,Best Feature,False,False,Gemini,nm1369800,Aaron Katz,Gemini,2018.0,Others,410303
+tt4432006,2017,Gold Hugo,Best Feature,False,True,Hannah,nm1761524,Andrea Pallaoro,Hannah,2018.0,Drama,161820
+tt6206880,2017,Gold Hugo,Best Feature,False,False,Praça Paris,nm0613582,Lúcia Murat,Praça Paris,2017.0,Drama,2596
+tt6134000,2017,Gold Hugo,Best Feature,False,True,The Line,nm1298152,Peter Bebjak,The Line,2017.0,Others,2219231
+tt5222918,2017,Gold Hugo,Best Feature,False,False,The Other Side of Hope,nm0442454,Aki Kaurismäki,The Other Side of Hope,2017.0,Comedy,4624892
+tt6444838,2017,Gold Hugo,Best Feature,False,False,The Workshop (L'atelier),nm0134559,Laurent Cantet,The Workshop,2017.0,Drama,1058934
+tt6304046,2017,Gold Hugo,Best Feature,False,False,Thelma,nm1258686,Joachim Trier,Thelma,2017.0,Drama,1668096
+tt5836866,2017,Audience Choice Award,Best Documentary Feature,True,True,The Work,nm0017634,Gethin Aldous,The Work,2017.0,Documentary,27679
+tt5301662,2017,Audience Choice Award,Best Narrative English-Language Feature,True,True,Marshall,nm0399737,Reginald Hudlin,Marshall,2017.0,Biography,20894959
+tt5027162,2017,Audience Choice Award,Best Narrative Foreign-Language Feature,True,True,Aurora Borealis: Északi fény,nm0617767,Márta Mészáros,Aurora Borealis: Északi fény,2017.0,Drama,305328
+tt6135348,2017,Gold Q-Hugo,,True,True,BPM (Beats Per Minute),nm0133028,Robin Campillo,BPM (Beats Per Minute),2017.0,Drama,8111584
+tt5635086,2017,Gold Q-Hugo,,False,True,God's Own Country,nm0497274,Francis Lee,God's Own Country,2017.0,Drama,3047086
+tt6012792,2017,Gold Q-Hugo,,False,False,Golden Years,nm0029242,André Téchiné,Golden Years,2017.0,Drama,1049710
+tt5517708,2017,Gold Q-Hugo,,False,False,Lola Pater,nm0596347,Nadir Moknèche,Lola Pater,2017.0,Drama,747222
+tt4830786,2017,Gold Q-Hugo,,False,False,The Cakemaker,nm3409787,Ofir Raul Graizer,The Cakemaker,2017.0,Drama,2241243
+tt8236398,2018,Gold Hugo,Best Documentary,False,False,In Search of Greatness,nm2126907,Gabe Polsky,In Search of Greatness,2018.0,Documentary,117797
+tt7364566,2018,Gold Hugo,Best Documentary,False,False,Maria by Callas,nm2360995,Tom Volf,Maria by Callas,2018.0,Biography,4606468
+tt8758548,2018,Gold Hugo,Best Documentary,False,False,The Great Buster,nm0000953,Peter Bogdanovich,The Great Buster,2018.0,Biography,239180
+tt8116574,2018,Gold Hugo,Best Documentary,False,True,The Raft,nm3771479,Marcus Lindeen,The Raft,2019.0,Documentary,73125
+tt5795282,2018,Gold Hugo,Best Documentary,False,False,This Changes Everything,nm0231999,Tom Donahue,This Changes Everything,2019.0,Documentary,129976
+tt6752992,2018,Gold Hugo,Best Feature,True,False,Happy as Lazzaro,nm3114621,Alice Rohrwacher,Happy as Lazzaro,2018.0,Drama,1816634
+tt8726008,2018,Gold Hugo,Best Feature,False,False,Alice T.,nm1364086,Radu Muntean,Alice T.,2018.0,Drama,4357
+tt7538958,2018,Gold Hugo,Best Feature,False,False,Animal,nm3174584,Armando Bo,Animal,2018.0,Drama,1423456
+tt7298400,2018,Gold Hugo,Best Feature,False,False,Ash Is Purest White,nm0422605,Zhangke Jia,Ash Is Purest White,2018.0,Others,12346927
+tt7555774,2018,Gold Hugo,Best Feature,False,True,At War,nm0110300,Stéphane Brizé,At War,2019.0,Drama,2238291
+tt6386748,2018,Gold Hugo,Best Feature,False,True,Birds of Passage,nm5305003,Cristina Gallego,Birds of Passage,2019.0,Drama,2822716
+tt5501104,2018,Gold Hugo,Best Feature,False,False,Border,nm4389150,Ali Abbasi,Border,2018.0,Drama,2846779
+tt6705860,2018,Gold Hugo,Best Feature,False,False,Diane,nm2719270,Kent Jones,Diane,2019.0,Drama,672332
+tt8462858,2018,Gold Hugo,Best Feature,False,False,Jumpman,nm6592335,Ivan I. Tverdovskiy,Jumpman,2018.0,Others,18931
+tt7377132,2018,Gold Hugo,Best Feature,False,False,Mothers' Instinct,nm0557267,Olivier Masset-Depasse,Mothers' Instinct,2018.0,Drama,56139
+tt7250056,2018,Gold Hugo,Best Feature,False,False,Non-Fiction,nm0000801,Olivier Assayas,Non-Fiction,2019.0,Comedy,4245492
+tt8696440,2018,Gold Hugo,Best Feature,False,False,Sibel,nm1597572,Guillaume Giovanetti,Sibel,2018.0,Drama,419053
+tt8726098,2018,Gold Hugo,Best Feature,False,False,Too Late to Die Young,nm3049622,Dominga Sotomayor Castillo,Too Late to Die Young,2019.0,Drama,41078
+tt6675244,2018,Gold Hugo,Best Feature,False,False,Transit,nm0678857,Christian Petzold,Transit,2019.0,Drama,1778446
+tt6433456,2018,Audience Choice Award,Best Foreign-Language Feature,True,True,Becoming Astrid,nm0278803,Pernille Fischer Christensen,Becoming Astrid,2018.0,Biography,1070406
+tt5580266,2018,Audience Choice Award,Best Narrative English-Language Feature,True,True,The Hate U Give,nm0863387,George Tillman Jr.,The Hate U Give,2018.0,Others,65334324
+tt1226837,2018,Founder's Award,Best Feature,True,True,Beautiful Boy,nm0886976,Felix van Groeningen,Beautiful Boy,2018.0,Biography,24482406
+tt6190456,2018,World Cinema/Out-Look Competition,Best Film,False,False,X - The eXploited,nm1902132,Károly Ujj Mészáros,X - The eXploited,2018.0,Others,185405
+tt7008872,2018,Gold Q-Hugo,,False,False,Boy Erased,nm0249291,Joel Edgerton,Boy Erased,2018.0,Biography,18840509
+tt6999052,2018,Gold Q-Hugo,,False,False,Mario,nm0321112,Marcel Gisler,Mario,2018.0,Drama,3461
+tt8286894,2018,Gold Q-Hugo,,False,True,Rafiki,nm1393967,Wanuri Kahiu,Rafiki,2019.0,Drama,314618
+tt8307082,2018,Gold Q-Hugo,,False,False,Sauvage / Wild,nm1283911,Camille Vidal-Naquet,Sauvage / Wild,2019.0,Drama,379122
+tt7534054,2018,Gold Q-Hugo,,False,False,Sorry Angel,nm0393394,Christophe Honoré,Sorry Angel,2019.0,Drama,1666901

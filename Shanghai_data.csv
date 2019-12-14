@@ -1,0 +1,289 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0101811,1993,Golden Goblet,Best Film,False,False,Enchanted April,nm0001565,Mike Newell,Enchanted April,1992.0,Drama,48362394
+tt0107247,1993,Golden Goblet,Best Film,False,False,Jack the Bear,nm0380980,Marshall Herskovitz,Jack the Bear,1993.0,Comedy,18263955
+tt0105436,1993,Golden Goblet,Best Film,False,False,Sofie,nm0880521,Liv Ullmann,Sofie,1993.0,Drama,511391
+tt0114887,1995,Golden Goblet,Best Film,False,False,A Walk in the Clouds,nm0000778,Alfonso Arau,A Walk in the Clouds,1995.0,Drama,167161294
+tt0114243,1995,Golden Goblet,Best Film,False,False,Red Cherry,nm0206695,Daying Ye,Red Cherry,1995.0,Drama,152499
+tt0119859,1997,Golden Goblet,Best Film,False,False,Paradise Road,nm0000915,Bruce Beresford,Paradise Road,1997.0,Drama,6403375
+tt0140379,1999,Golden Goblet,Best Film,True,False,A Midsummer Night's Dream,nm0001355,Michael Hoffman,A Midsummer Night's Dream,1999.0,Comedy,49424367
+tt0158302,1999,Golden Goblet,Best Film,False,False,Under the Sun,nm0638324,Colin Nutley,Under the Sun,1999.0,Drama,960264
+tt0218817,2001,Golden Goblet,Best Film,True,False,Antitrust,nm0398185,Peter Howitt,Antitrust,2001.0,Others,43088084
+tt0271003,2001,Golden Goblet,Best Film,False,False,Ikíngut,nm0259576,Gísli Snær Erlingsson,Ikíngut,2001.0,Others,60027
+tt0146984,2001,Golden Goblet,Best Film,True,False,The Legend of Bagger Vance,nm0000602,Robert Redford,The Legend of Bagger Vance,2000.0,Drama,103303326
+tt0242953,2002,Golden Goblet,Best Film,False,False,A Time for Dancing,nm0318201,Peter Gilbert,A Time for Dancing,2002.0,Drama,4155542
+tt0297721,2002,Golden Goblet,Best Film,True,True,All About Lily Chou-Chou,nm0412517,Shunji Iwai,All About Lily Chou-Chou,2001.0,Others,92852
+tt0245046,2002,Golden Goblet,Best Film,False,False,Charlotte Gray,nm0000788,Gillian Armstrong,Charlotte Gray,2002.0,Drama,8750827
+tt0251114,2002,Golden Goblet,Best Film,False,False,Hart's War,nm0387706,Gregory Hoblit,Hart's War,2002.0,Drama,73825323
+tt0261842,2002,Golden Goblet,Best Film,False,False,Mullet,nm0128365,David Caesar,Mullet,2001.0,Comedy,669949
+tt0294939,2002,Golden Goblet,Best Film,False,False,The Bomber,nm0638324,Colin Nutley,The Bomber,2001.0,Drama,160852
+tt0312841,2002,Golden Goblet,Best Film,False,False,The Way Home,nm1011539,Jeong-hyang Lee,The Way Home,2002.0,Drama,35799420
+tt0338309,2004,Golden Goblet,Best Cinematography,True,False,Evil,nm0596365,Peter Mokrosinski,Evil,2004.0,Drama,488110
+tt0398238,2004,Golden Goblet,Best Film,False,False,Baytong,nm0632354,Nonzee Nimibutr,Baytong,2004.0,Drama,370322
+tt0354855,2004,Golden Goblet,Best Film,False,False,Father and Sons,nm0099378,Michel Boujenah,Father and Sons,2003.0,Comedy,10480523
+tt0423360,2004,Golden Goblet,Best Film,False,False,Heaven's Bookstore,nm0793997,Tetsuo Shinohara,Heaven's Bookstore,2004.0,Drama,1647206
+tt0323298,2004,Golden Goblet,Best Film,False,False,The Mother,nm0585011,Roger Michell,The Mother,2004.0,Drama,5526882
+tt0380689,2004,Golden Goblet,Best Film,True,True,Untold Scandal,nm0497489,Je-yong Lee,Untold Scandal,2004.0,Drama,7799144
+tt0356696,2004,Asian New Talent Award,Best Film,False,False,Homerun,nm0626090,Jack Neo,Homerun,2003.0,Drama,72565
+tt0347304,2004,Asian New Talent Award,Best Film,False,False,Kal Ho Naa Ho,nm0012541,Nikkhil Advani,Kal Ho Naa Ho,2003.0,Comedy,21042422
+tt0399040,2004,Asian New Talent Award,Best Film,False,False,My Girl,nm1585207,Vijjapat Kojiw,My Girl,2003.0,Comedy,4825508
+tt0385017,2005,Golden Goblet,Best Cinematography,True,False,In My Father's Den,nm0238698,Stuart Dryburgh,In My Father's Den,2005.0,Drama,2138704
+tt0780087,2005,Golden Goblet,Best Film,True,False,Mura no shashinshuu,nm1069854,Mitsuhiro Mihara,Mura no shashinshuu,2005.0,Drama,11978
+tt0399222,2005,Golden Goblet,Best Film,False,False,Let's Be Friends,nm0619923,Olivier Nakache,Let's Be Friends,2005.0,Comedy,2875568
+tt0408067,2005,Golden Goblet,Best Film,False,False,Ora e per sempre,nm0893774,Vincenzo Verdecchi,Ora e per sempre,2004.0,Drama,88776
+tt0428940,2005,Golden Goblet,Best Film,False,False,Papa,nm0058713,Maurice Barthélémy,Papa,2005.0,Comedy,4963191
+tt0441673,2005,Golden Goblet,Best Film,False,False,Shades of Happiness,nm0648036,Claes Olsson,Shades of Happiness,2005.0,Drama,1039456
+tt0457182,2005,Golden Goblet,Best Film,False,False,Um Tiro no Escuro,nm0896662,Leonel Vieira,Um Tiro no Escuro,2005.0,Others,154246
+tt0461804,2005,Asian New Talent Award,Audience Award,True,True,Mongolian Ping Pong,nm1928500,Hao Ning,Mongolian Ping Pong,2005.0,Comedy,250890
+tt0423461,2005,Asian New Talent Award,Best Film,False,False,My Brother,nm1703596,Kwon-tae Ahn,My Brother,2004.0,Drama,44957
+tt0440595,2005,Asian New Talent Award,Best Film,False,False,Six Strong Guys,nm1205568,Barbara Wong Chun-Chun,Six Strong Guys,2004.0,Comedy,1055538
+tt0415046,2005,Asian New Talent Award,Best Film,False,False,The Overture,nm1644521,Ittisoontorn Vichailak,The Overture,2005.0,Others,1720190
+tt0470532,2005,Asian New Talent Award,Best Film,False,False,The Story of Xiao-Yan,nm1979442,Gangliang Fang,The Story of Xiao-Yan,2004.0,Others,66523
+tt0426155,2005,Asian New Talent Award,Best Film,False,False,Ushpizin,nm0200886,Gidi Dar,Ushpizin,2005.0,Drama,3835395
+tt0772203,2006,Golden Goblet,Best Cinematography,True,False,Our Land,nm0161796,Fabio Cianchetti,Our Land,2006.0,Others,3169090
+tt0461694,2006,Golden Goblet,Best Film,True,False,Four Minutes,nm0466123,Alexandra Kordes,Four Minutes,2008.0,Drama,11081036
+tt0420884,2006,Golden Goblet,Best Film,False,False,Burnt Out,nm0323937,Fabienne Godet,Burnt Out,2006.0,Drama,349260
+tt0436062,2006,Golden Goblet,Best Film,False,False,El amor y la ciudad,nm0176118,María Teresa Costantini,El amor y la ciudad,2007.0,Drama,86487
+tt0385933,2006,Golden Goblet,Best Film,False,True,Le parfum de la dame en noir,nm0687913,Bruno Podalydès,Le parfum de la dame en noir,2005.0,Comedy,3439934
+tt0756231,2006,Golden Goblet,Best Film,False,False,Ninas resa,nm0251846,Lena Einhorn,Ninas resa,2007.0,Drama,494474
+tt0388377,2006,Golden Goblet,Best Film,True,False,River Queen,nm0911910,Vincent Ward,River Queen,2008.0,Others,1101279
+tt0445736,2006,Golden Goblet,Best Film,False,False,Shop of Dreams,nm0881764,Peeter Urbla,Shop of Dreams,2006.0,Comedy,120
+tt0429177,2006,Golden Goblet,Best Film,False,False,The Thing About My Folks,nm0208343,Raymond De Felitta,The Thing About My Folks,2005.0,Comedy,2107808
+tt0479773,2006,Golden Goblet,Best Film,False,False,You Are My Sunshine,nm1252754,Jin-pyo Park,You Are My Sunshine,2005.0,Drama,22688422
+tt0428265,2006,Asian New Talent Award,Best Film,False,False,Big River,nm1164653,Atsushi Funahashi,Big River,2006.0,Drama,46853
+tt0781360,2006,Asian New Talent Award,Best Film,False,False,I'll Call You,nm1125531,Tze Chung Lam,I'll Call You,2006.0,Comedy,84232
+tt0439885,2007,Golden Goblet,Best Cinematography,True,False,The Go Master,nm0911094,Yu Wang,The Go Master,2006.0,Others,20156
+tt1037061,2007,Golden Goblet,Best Film,True,False,According to the Plan,nm0771780,Susann Schimk,According to the Plan,2008.0,Comedy,247675
+tt0907624,2007,Golden Goblet,Best Film,False,False,Bizan,nm0409459,Isshin Inudô,Bizan,2007.0,Drama,11378554
+tt0482178,2007,Golden Goblet,Best Film,False,False,Cabeza de perro,nm1163050,Santi Amodeo,Cabeza de perro,2007.0,Drama,751501
+tt0901488,2007,Golden Goblet,Best Film,False,False,Eye in the Sky,nm0946883,Nai-Hoi Yau,Eye in the Sky,2007.0,Others,2192847
+tt0816544,2007,Golden Goblet,Best Film,False,False,Jump!,nm0006774,Joshua Sinclair,Jump!,2009.0,Others,1155902
+tt0483578,2007,Golden Goblet,Best Film,True,False,Love and Honour,nm0945282,Yôji Yamada,Love and Honor,2007.0,Drama,41116463
+tt0497411,2007,Golden Goblet,Best Film,False,False,Miguel and William,nm0664194,Inés París,Miguel and William,2007.0,Comedy,321944
+tt0479299,2007,Golden Goblet,Best Film,False,False,"Olga, Victoria Olga",nm1802557,Mercedes Farriols,"Olga, Victoria Olga",2008.0,Drama,3797
+tt0891577,2007,Golden Goblet,Best Film,False,False,Radio Star,nm1045937,Joon-ik Lee,Radio Star,2006.0,Comedy,12248222
+tt0465600,2007,Golden Goblet,Best Film,False,False,Shanghai Red,nm0182724,Oscar L. Costo,Shanghai Red,2007.0,Drama,349237
+tt0924003,2007,Golden Goblet,Best Film,True,False,The Knot,nm2468656,Li Yin,The Knot,2006.0,Drama,5215934
+tt0796236,2007,Golden Goblet,Best Film,False,True,The New Man,nm0405605,Klaus Härö,The New Man,2007.0,Drama,241951
+tt1010341,2007,Asian New Talent Award,Best Film,False,False,Da-Yu: The Touch of Fate,nm2623333,Chih-yuan Pan,Da-Yu: The Touch of Fate,2007.0,Drama,5812
+tt0821463,2007,Asian New Talent Award,Best Film,False,False,For Horowitz,nm1040588,Hyeong-jin Kwon,For Horowitz,2006.0,Drama,3280737
+tt0798443,2007,Press Prize,Best Box-Office-to-be Film,True,True,The Longest Night in Shanghai,,[],The Longest Night in Shanghai,2007.0,Drama,1137293
+tt1003067,2008,Golden Goblet,Best Cinematography,True,False,Die Tränen meiner Mutter,nm0771695,Florian Schilling,Die Tränen meiner Mutter,2008.0,Drama,53453
+tt1267179,2008,Golden Goblet,Best Film,True,False,Mukha,nm0319926,Evgeniy Gindilis,Mukha,2008.0,Drama,157670
+tt0965400,2008,Golden Goblet,Best Film,False,False,8 Days to Premiere,nm0503386,Perttu Leppä,8 Days to Premiere,2008.0,Comedy,619978
+tt1232162,2008,Golden Goblet,Best Film,False,False,Forever the Moment,nm0948027,Soon-rye Yim,Forever the Moment,2008.0,Drama,33001987
+tt0196186,2008,Golden Goblet,Best Film,False,False,I Viceré,nm0264967,Roberto Faenza,I Viceré,2007.0,Drama,3142485
+tt1105732,2008,Golden Goblet,Best Film,True,False,Loss,nm2206685,Maris Martinsons,Loss,2009.0,Drama,329260
+tt1220899,2008,Golden Goblet,Best Film,False,False,Love by Accident,nm1193936,Inés Braun,Love by Accident,2008.0,Comedy,46297
+tt0869994,2008,Golden Goblet,Best Film,False,False,Paris,nm0458251,Cédric Klapisch,Paris,2008.0,Comedy,29128307
+tt1224449,2008,Golden Goblet,Best Film,False,False,Plus One,nm2294083,Oksana Bychkova,Plus One,2008.0,Comedy,1081601
+tt1210359,2008,Golden Goblet,Best Film,False,False,Second Hand Wedding,nm0614609,Paul Murphy,Second Hand Wedding,2008.0,Comedy,1570104
+tt0977651,2008,Golden Goblet,Best Film,False,False,The Friend,nm1520897,Micha Lewinsky,The Friend,2008.0,Drama,244763
+tt1178614,2008,Golden Goblet,Best Film,False,False,The Taste of Fish,nm1224394,Shingo Matsubara,The Taste of Fish,2011.0,Comedy,3284738
+tt0955352,2008,Golden Goblet,Best Film,True,False,Václav,nm1802395,Jirí Vejdelek,Václav,2009.0,Comedy,2153555
+tt1286562,2008,Asian New Talent Award,Best Film,True,True,Winds of September,nm2007568,Tom Lin,Winds of September,2008.0,Drama,252262
+tt0934427,2008,Asian New Talent Award,Best Film,False,False,Exit No. 6,nm2120452,Yu-Hsien Lin,Exit No. 6,2007.0,Drama,118959
+tt1784443,2008,Asian New Talent Award,Best Film,False,False,Ganglamedo,nm4076051,Wei Dai,Ganglamedo,2006.0,Drama,23740
+tt1060253,2008,Asian New Talent Award,Best Film,False,False,Gone Shopping,nm0917220,Li Lin Wee,Gone Shopping,2007.0,Comedy,5232
+tt6448094,2008,Asian New Talent Award,Best Film,False,False,Off Road,nm0359192,Seung-ryong Han,Off Road,2007.0,Others,4070
+tt1303882,2009,Golden Goblet,Best Cinematography,True,False,Nulle part terre promise,nm0346697,Nicolas Guicheteau,Nulle part terre promise,2009.0,Drama,161895
+tt1087861,2009,Golden Goblet,Best Film,False,False,Aching Hearts,nm0540295,Nils Malmros,Aching Hearts,2009.0,Drama,1520121
+tt1134828,2009,Golden Goblet,Best Film,False,False,Chameleon,nm0323558,Krisztina Goda,Chameleon,2010.0,Comedy,797365
+tt1362045,2009,Golden Goblet,Best Film,True,False,Empire of Silver,nm3177320,Christina Yao,Empire of Silver,2011.0,Others,28193
+tt1342408,2009,Golden Goblet,Best Film,False,False,Normal the Düsseldorf Ripper,nm1717957,Julius Sevcík,Normal the Düsseldorf Ripper,2010.0,Others,722181
+tt0884177,2009,Golden Goblet,Best Film,False,False,Romance,nm0037136,Guel Arraes,Romance,2008.0,Others,1052181
+tt1345734,2009,Golden Goblet,Best Film,True,False,Rough Cut,nm1922242,Hun Jang,Rough Cut,2008.0,Others,8412410
+tt1517211,2009,Golden Goblet,Best Film,False,False,Schemes of Affection,nm0278544,Dodo Fiori,Schemes of Affection,2009.0,Drama,5370
+tt1077252,2009,Golden Goblet,Best Film,False,False,Small Crime,nm0313788,Christos Georgiou,Small Crime,2009.0,Comedy,1675013
+tt1183672,2009,Golden Goblet,Best Film,False,False,The Girl on the Train,nm0029242,André Téchiné,The Girl on the Train,2009.0,Drama,2260204
+tt1295087,2009,Golden Goblet,Best Film,False,False,The Storm in My Heart,nm0413183,Pål Jackman,The Storm in My Heart,2009.0,Drama,881691
+tt1320297,2009,Golden Goblet,Best Film,True,False,We Can Do That,nm0542069,Giulio Manfredonia,We Can Do That,2008.0,Comedy,3270818
+tt1360795,2009,Asian New Talent Award,Best Film,True,True,Scandal Makers,nm3292009,Hyeong-Cheol Kang,Scandal Makers,2008.0,Comedy,50745158
+tt1280558,2009,Asian New Talent Award,Best Film,False,False,A Wednesday,nm3109770,Neeraj Pandey,A Wednesday,2008.0,Others,3804212
+tt1235796,2010,Golden Goblet,Best Cinematography,True,False,Ondine,nm0236313,Christopher Doyle,Ondine,2010.0,Drama,2589897
+tt1332486,2010,Golden Goblet,Best Film,True,False,Kiss Me Again,nm0610831,Gabriele Muccino,Kiss Me Again,2010.0,Drama,15448361
+tt1289383,2010,Golden Goblet,Best Film,False,False,Circuit,nm1264059,Xavier Ribera,Circuit,2010.0,Others,74445
+tt1611827,2010,Golden Goblet,Best Film,False,False,Desautorizados,nm0773790,Elia K. Schneider,Desautorizados,2010.0,Others,67742
+tt1339122,2010,Golden Goblet,Best Film,False,False,"Maria, He Doesn't Like It",nm1541888,Neele Leana Vollmar,"Maria, He Doesn't Like It",2010.0,Comedy,14800678
+tt1498858,2010,Golden Goblet,Best Film,False,True,Ocean Heaven,nm1249411,Xiaolu Xue,Ocean Heaven,2010.0,Drama,720475
+tt1467273,2010,Golden Goblet,Best Film,False,False,The First Beautiful Thing,nm0899501,Paolo Virzì,The First Beautiful Thing,2011.0,Comedy,12264533
+tt1526306,2010,Golden Goblet,Best Film,False,False,Time of Fear,nm0722109,Sergio Rezende,Time of Fear,2009.0,Others,1736753
+tt1353157,2010,Asian New Talent Award,Best Film,False,False,The Blue Mansion,nm0324380,Glen Goei,The Blue Mansion,2010.0,Comedy,171497
+tt1517257,2010,Asian New Talent Award,Best Film,False,True,The Executioner,nm3524158,Jin Ho Choi,The Executioner,2009.0,Drama,2983009
+tt1614408,2010,Asian New Talent Award,Best Film,False,False,Time Traveller,nm3832292,Masaaki Taniguchi,Time Traveller,2011.0,Others,1223031
+tt1641638,2010,China Movie Channel Media Award,Best Feature,False,True,The Legend Is Born: Ip Man,,[],The Legend Is Born: Ip Man,2010.0,Others,3175948
+tt2292693,2011,Golden Goblet,Best Cinematography,True,False,Friday Killer,nm1862104,Tiwa Moeithaisong,Friday Killer,2011.0,Others,121974
+tt2121768,2011,Golden Goblet,Best Film,True,False,Hayde bre,nm0644861,Orhan Oguz,Hayde bre,2010.0,Drama,49990
+tt1672214,2011,Golden Goblet,Best Film,False,False,Bunny Drop,nm0848992,SABU,Bunny Drop,2011.0,Comedy,6288276
+tt1605735,2011,Golden Goblet,Best Film,False,False,Ein Tick anders,nm0736623,Andi Rogenhagen,Ein Tick anders,2011.0,Comedy,304660
+tt1316616,2011,Golden Goblet,Best Film,False,False,There Be Dragons,nm0423646,Roland Joffé,There Be Dragons,2011.0,Others,6154458
+tt1606595,2011,Golden Goblet,Best Film,False,False,Tomorrow's Joe,nm1216495,Fumihiko Sori,Tomorrow's Joe,2011.0,Drama,14000143
+tt1924256,2011,Golden Goblet,Best Film,False,False,Tunnel of Bones,nm1366960,Nacho Garassino,Tunnel of Bones,2011.0,Others,105563
+tt1694115,2011,Asian New Talent Award,Best Film,True,True,Mainichi kâsan,nm2665816,Shôtarô Kobayashi,Mainichi kâsan,2011.0,Comedy,7281980
+tt1723118,2011,China Movie Channel Media Award,Best Feature,True,True,The Piano in a Factory,nm4070848,Meng Zhang,The Piano in a Factory,2011.0,Comedy,1131867
+tt1057607,2011,China Movie Channel Media Award,Best Feature,False,False,Memory of Love,nm0910852,Chao Wang,Memory of Love,2009.0,Drama,93098
+tt2318405,2012,Golden Goblet,Best Film,False,False,Belyy tigr,nm0787668,Karen Shakhnazarov,Belyy tigr,2013.0,Others,2892839
+tt1423922,2012,Golden Goblet,Best Film,True,False,De tu ventana a la mía,nm2315216,Paula Ortiz,De tu ventana a la mía,2012.0,Drama,383095
+tt1731970,2012,Golden Goblet,Best Film,False,False,Excuse Me,nm0313227,Henrik Ruben Genz,Excuse Me,2012.0,Comedy,866469
+tt1587411,2012,Golden Goblet,Best Film,False,False,"I, Anna",nm0816090,Barnaby Southcombe,"I, Anna",2012.0,Drama,434175
+tt1677557,2012,Golden Goblet,Best Film,False,False,Isztambul,nm0879559,Ferenc Török,Isztambul,2012.0,Drama,9159
+tt2078599,2012,Golden Goblet,Best Film,True,False,Key of Life,nm1932020,Kenji Uchida,Key of Life,2012.0,Comedy,4915154
+tt2082410,2012,Golden Goblet,Best Film,False,False,Rat King,nm0467870,Petri Kotwica,Rat King,2012.0,Drama,75230
+tt2142955,2012,Golden Goblet,Best Film,False,False,Stars Above,nm0134503,Saara Cantell,Stars Above,2012.0,Drama,142906
+tt2287699,2012,Golden Goblet,Best Film,False,False,The Conductor,nm0526732,Pavel Lungin,The Conductor,2012.0,Drama,415468
+tt2066857,2012,Asian New Talent Award,Best Film,False,True,Big Blue Lake,nm2543797,Tsui-shan Jessey Tsang,Big Blue Lake,2013.0,Drama,11611
+tt2072962,2012,Asian New Talent Award,Best Film,False,False,The Client,nm3649679,Young-Sung Sohn,The Client,2011.0,Drama,16694419
+tt2296692,2012,China Movie Channel Media Award,Best Feature,False,True,First Time,nm5181204,Yan Han,First Time,2012.0,Drama,11258072
+tt2070597,2012,China Movie Channel Media Award,Best Male Newcomer,True,True,Shanghai Calling,nm2024644,Daniel Henney,Shanghai Calling,2013.0,Comedy,22894
+tt2798068,2013,Golden Goblet,Best Cinematography,True,False,Förtroligheten,nm2275334,Vachan Sharma,Förtroligheten,2013.0,Drama,13979
+tt2594950,2013,Golden Goblet,Best Film,True,False,The Major,nm4021775,Yuriy Bykov,The Major,2013.0,Others,63643
+tt3457380,2013,Golden Goblet,Best Film,False,False,Amazing,nm0398903,Sherwood Hu,Amazing,2013.0,Drama,7628819
+tt2828840,2013,Golden Goblet,Best Film,False,False,Fists of Legend,nm0437652,Woo-Suk Kang,Fists of Legend,2013.0,Others,6068605
+tt1838603,2013,Golden Goblet,Best Film,False,False,Last Love,nm0626686,Sandra Nettelbeck,Last Love,2013.0,Comedy,3253294
+tt2182001,2013,Golden Goblet,Best Film,False,False,Legend No. 17,nm0495536,Nikolay Lebedev,Legend No. 17,2013.0,Others,32195170
+tt3175936,2013,Golden Goblet,Best Film,False,False,The Stolen Years,nm1205568,Barbara Wong Chun-Chun,The Stolen Years,2013.0,Others,28681831
+tt3003668,2013,Golden Goblet,Best Film,False,False,Unbeatable,nm0482592,Dante Lam,Unbeatable,2014.0,Others,27828113
+tt3004788,2013,Asian New Talent Award,Best Film,True,True,Very Ordinary Couple,nm2529884,Deok Noh,Very Ordinary Couple,2013.0,Comedy,9658037
+tt6449270,2013,Asian New Talent Award,Best Film,False,True,Chu lian wei man,nm9046285,Juan Liu,Chu lian wei man,2013.0,Drama,218794
+tt2934568,2013,Asian New Talent Award,Best Film,False,False,How to Use Guys with Secret Tips,nm5688465,Wonsuk Lee,How to Use Guys with Secret Tips,2013.0,Comedy,3234120
+tt2388819,2013,Panorama,Spectrum,False,False,Yozgat Blues,nm5035688,Halil Kardas,Yozgat Blues,2013.0,Comedy,53584
+tt3043630,2013,China Movie Channel Media Award,Best Feature,True,True,Tiny Times,,[],Tiny Times,2013.0,Drama,85046075
+tt3285802,2013,China Movie Channel Media Award,Best Feature,True,True,Young Style,,[],Young Style,2013.0,Comedy,5157354
+tt3336934,2013,China Movie Channel Media Award,Best Feature,False,False,Fall of Ming,,[],Fall of Ming,2013.0,Drama,503335
+tt2460488,2013,China Movie Channel Media Award,Best Feature,False,False,Switch,,[],Switch,2013.0,Others,51616857
+tt3835880,2013,China Movie Channel Media Award,Best Feature,False,False,Wo de ying zi zai ben pao,,[],Wo de ying zi zai ben pao,2013.0,Drama,55060
+tt3253650,2014,Golden Goblet,Best Film,True,False,Little England,,[],Little England,2014.0,Drama,3338864
+tt1980929,2014,Golden Goblet,Best Film,True,False,Begin Again,nm0138809,John Carney,Begin Again,2014.0,Comedy,85417380
+tt2232578,2014,Golden Goblet,Best Film,False,False,Canopy,nm1462005,Aaron Wilson,Canopy,2014.0,Others,18179
+tt3129564,2014,Golden Goblet,Best Film,True,False,Diplomacy,nm0772522,Volker Schlöndorff,Diplomacy,2014.0,Drama,4488582
+tt2909724,2014,Golden Goblet,Best Film,False,False,Lady Maiko,nm0839397,Masayuki Suo,Lady Maiko,2014.0,Comedy,6529291
+tt3433358,2014,Golden Goblet,Best Film,False,False,Number One Fan,nm0380831,Jeanne Herry,Number One Fan,2014.0,Comedy,3935943
+tt2397535,2014,Golden Goblet,Best Film,False,False,Predestination,nm1294961,Michael Spierig,Predestination,2015.0,Drama,5350132
+tt1772264,2014,Golden Goblet,Best Film,False,False,Stonehearst Asylum,nm0026442,Brad Anderson,Stonehearst Asylum,2014.0,Drama,2667927
+tt3634940,2014,Golden Goblet,Best Film,False,False,The Target,nm3460905,Hong-Seung Yoon,The Target,2015.0,Others,21030311
+tt3470790,2014,Golden Goblet,Best Film,False,False,The Woods Are Still Green,nm1252599,Marko Nabersnik,The Woods Are Still Green,2015.0,Drama,33289
+tt3183630,2014,Special Jury Award,Feature,True,True,Boy and the World,nm0994245,Alê Abreu,Boy and the World,2014.0,Others,436787
+tt3342430,2014,Asian New Talent Award,Best Film,False,False,Blue Sky Bones,nm0191277,Jian Cui,Blue Sky Bones,2013.0,Drama,449543
+tt3180582,2014,Asian New Talent Award,Best Film,False,False,Concrete Clouds,nm0153974,Lee Chatametikool,Concrete Clouds,2014.0,Drama,16111
+tt2994962,2014,Asian New Talent Award,Best Film,False,False,Homeland,nm5744349,Nao Kubota,Homeland,2014.0,Drama,24784
+tt1545295,2014,Panorama,Spectrum,False,False,3 Mile Limit,nm3670352,Craig Newland,3 Mile Limit,2014.0,Others,49455
+tt2749296,2014,Panorama,Spectrum,False,False,The Beautiful Risk,nm1497931,Mark Penney,The Beautiful Risk,2014.0,Drama,43560
+tt3872008,2014,China Movie Channel Media Award,Best Feature,False,False,Old Boys: The Way of the Dragon,,[],Old Boys: The Way of the Dragon,2014.0,Comedy,35181424
+tt2976864,2014,China Movie Channel Media Award,Best Feature,False,False,The Nightingale,,[],The Nightingale,2015.0,Drama,300577
+tt1865505,2015,Golden Goblet,Best Animation Film,True,False,Song of the Sea,nm1119079,Tomm Moore,Song of the Sea,2015.0,Others,5435565
+tt4838316,2015,Golden Goblet,Best Animation Film,False,False,Legend of a Rabbit: The Martial of Fire,nm7438966,Dake Dong,Legend of a Rabbit: The Martial of Fire,2018.0,Others,718485
+tt2371399,2015,Golden Goblet,Best Animation Film,False,False,Moomins on the Riviera,nm0681422,Xavier Picard,Moomins on the Riviera,2015.0,Others,2377490
+tt2872750,2015,Golden Goblet,Best Animation Film,False,False,Shaun the Sheep Movie,nm0123666,Mark Burton,Shaun the Sheep Movie,2015.0,Others,134666105
+tt4468650,2015,Golden Goblet,Best Animation Film,False,False,Yugo and Lala 2,nm5221980,Yunfei Wang,Yugo and Lala 2,2014.0,Others,9433133
+tt4119030,2015,Golden Goblet,Best Cinematography,True,False,Sunstroke,nm0649065,Vladislav Opelyants,Sunstroke,2018.0,Drama,1724080
+tt5140556,2015,Golden Goblet,Best Documentary,True,False,Wo de shi pian,nm7800441,Xiaoyu Qin,Wo de shi pian,2016.0,Others,688246
+tt2545428,2015,Golden Goblet,Best Documentary,False,False,Meru,nm3011011,Jimmy Chin,Meru,2015.0,Others,5006019
+tt3263996,2015,Golden Goblet,Best Documentary,False,False,The Overnighters,nm0608999,Jesse Moss,The Overnighters,2014.0,Others,242012
+tt3612936,2015,Golden Goblet,Best Film,True,False,The Night Watchmen,nm0427136,Pierre Jolivet,The Night Watchmen,2015.0,Drama,273172
+tt3442006,2015,Golden Goblet,Best Film,True,False,Cake,nm1400426,Daniel Barnz,Cake,2015.0,Drama,4795483
+tt4173478,2015,Golden Goblet,Best Film,False,False,Journey to the Shore,nm0475905,Kiyoshi Kurosawa,Journey to the Shore,2015.0,Drama,75496
+tt4695462,2015,Golden Goblet,Best Film,False,False,Salut d'Amour,nm0437625,Je-kyu Kang,Salut d'Amour,2015.0,Drama,8511818
+tt1798684,2015,Golden Goblet,Best Film,False,False,Southpaw,nm0298807,Antoine Fuqua,Southpaw,2015.0,Drama,154614153
+tt4079152,2015,Golden Goblet,Best Film,False,False,The Dead End,nm3148857,Baoping Cao,The Dead End,2015.0,Others,51041830
+tt3298600,2015,Golden Goblet,Best Film,False,False,The Midwife,nm0427037,Antti Jokinen,The Midwife,2015.0,Drama,2642970
+tt4636022,2015,Golden Goblet,Best Film,True,False,The Shameless,nm0644900,Seung-uk Oh,The Shameless,2015.0,Others,3013278
+tt4814380,2015,Golden Goblet,Best Film,False,False,Where the Wind Settles,nm0911042,Toon Wang,Where the Wind Settles,2015.0,Drama,294244
+tt3540136,2015,Asian New Talent Award,Best Film,False,True,Wolf Warrior,nm0943104,Jing Wu,Wolf Warrior,2015.0,Others,87434082
+tt5112400,2015,Asian New Talent Award,Best Film,False,False,Young Love Lost,nm7652502,Guoqiang Xiang,Young Love Lost,2015.0,Comedy,485412
+tt4024410,2015,Asian New Talent Award,Best Screenplay,False,False,(Sex) Appeal,nm4037634,Kun-hua Hsu,(Sex) Appeal,2014.0,Drama,3320621
+tt3431598,2015,China Movie Channel Media Award,Best Feature,True,True,12 Citizens,,[],12 Citizens,2015.0,Others,2192207
+tt4818250,2015,China Movie Channel Media Award,Best Feature,False,True,Jian Bing Man,,[],Jian Bing Man,2015.0,Comedy,199915996
+tt4344878,2015,China Movie Channel Media Award,Best Feature,False,True,Miss Granny,,[],Miss Granny,2015.0,Comedy,65203665
+tt5033038,2015,China Movie Channel Media Award,Best Female Supporting Role,False,True,Youth Never Returns,nm5325569,Yufei Shi,Youth Never Returns,2015.0,Others,8188479
+tt4481934,2015,China Movie Channel Media Award,Special Jury Award,True,True,Crazy New Year's Eve,,[],Crazy New Year's Eve,2015.0,Drama,11192517
+tt4644382,2015,China Movie Channel Media Award,Special Jury Award,True,True,Monkey King: Hero Is Back,,[],Monkey King: Hero Is Back,2016.0,Others,162563960
+tt4439784,2016,Golden Goblet,Best Animation Film,True,False,Molly Monster the Movie,nm0797041,Ted Sieger,Ted Sieger's Molly Monster - Der Kinofilm,2016.0,Others,41260
+tt3422078,2016,Golden Goblet,Best Animation Film,False,False,April and the Extraordinary World,nm2903634,Christian Desmares,April and the Extraordinary World,2016.0,Others,845237
+tt5320892,2016,Golden Goblet,Best Animation Film,False,False,Pat & Mat,nm2365242,Marek Benes,Pat & Mat,2016.0,Others,517773
+tt2822672,2016,Golden Goblet,Best Animation Film,False,False,Rock Dog,nm0105169,Ash Brannon,Rock Dog,2017.0,Others,34175653
+tt5974624,2016,Golden Goblet,Best Cinematography,True,False,Soul on a String,nm4771741,Daming Guo,Soul on a String,2016.0,Drama,523258
+tt5278932,2016,Golden Goblet,Best Documentary,True,False,When Two Worlds Collide,nm7797854,Heidi Brandenburg,When Two Worlds Collide,2016.0,Others,26060
+tt3412684,2016,Golden Goblet,Best Documentary,False,False,Mr. Gaga,nm1334259,Tomer Heymann,Mr. Gaga,2017.0,Others,880781
+tt4835086,2016,Golden Goblet,Best Documentary,False,False,We Are X,nm0452772,Stephen Kijak,We Are X,2016.0,Others,640062
+tt6067462,2016,Golden Goblet,Best Film,False,False,Cock and Bull,nm3148857,Baoping Cao,Cock and Bull,2016.0,Others,21776907
+tt5072350,2016,Golden Goblet,Best Film,False,False,Flowers of Evil,nm0427037,Antti Jokinen,Flowers of Evil,2016.0,Others,192311
+tt4171982,2016,Golden Goblet,Best Film,True,False,Hanna's Sleeping Dogs,nm0344230,Andreas Gruber,Hanna's Sleeping Dogs,2016.0,Drama,58392
+tt4196848,2016,Golden Goblet,Best Film,False,False,Mr. Church,nm0000915,Bruce Beresford,Mr. Church,2016.0,Comedy,1464924
+tt4441150,2016,Golden Goblet,Best Film,False,False,Salt and Fire,nm0001348,Werner Herzog,Salt and Fire,2017.0,Others,24964
+tt6135034,2016,Asian New Talent Award,Best Cinematography,False,False,Nirvana,nm6810912,Shan He,Nirvana,2017.0,Others,12116
+tt5502816,2016,Asian New Talent Award,Best Cinematography,False,False,The World of Us,nm6643269,Ji-hyeon Kim,The World of Us,2017.0,Drama,255780
+tt5290882,2016,Asian New Talent Award,Best Film,False,False,Detective Chinatown,,[],Detective Chinatown,2016.0,Others,136251264
+tt5462892,2016,Asian New Talent Award,Best Film,False,False,Hana's Miso Soup,,[],Hana's Miso Soup,2015.0,Drama,114196
+tt5843056,2016,Asian New Talent Award,Best Film,False,False,One Night Only,,[],One Night Only,2016.0,Drama,5682093
+tt5131124,2016,Asian New Talent Award,Best Screenplay,False,False,What's in the Darkness,nm7668148,Yichun Wang,What's in the Darkness,2016.0,Others,1110806
+tt4817256,2016,Panorama,Spectrum,False,False,The Red Spider,nm1411830,Marcin Koszalka,The Red Spider,2015.0,Others,247277
+tt5730336,2016,China Movie Channel Media Award,Best Feature,True,True,The Song of Cotton,,[],The Song of Cotton,2017.0,Drama,93236
+tt4629266,2016,China Movie Channel Media Award,Best Feature,False,False,Born in China,,[],Born in China,2017.0,Others,40710579
+tt4170472,2016,China Movie Channel Media Award,Best Feature,False,True,Mountain Cry,,[],Mountain Cry,2016.0,Others,88997
+tt4694440,2016,China Movie Channel Media Award,Best Feature,False,False,Papa,,[],Papa,2016.0,Comedy,1483835
+tt5882704,2016,China Movie Channel Media Award,Best Female Supporting Role,False,True,For a Few Bullets,nm0515043,Xiaoqing Liu,For a Few Bullets,2016.0,Others,8379840
+tt5011290,2016,China Movie Channel Media Award,Best Male Newcomer,False,False,So Young 2: Never Gone,nm6806246,Kris Wu,So Young 2: Never Gone,2016.0,Drama,52120217
+tt4379728,2016,China Movie Channel Media Award,Best Screenplay,False,False,Three,nm0946883,Nai-Hoi Yau,Three,2016.0,Others,16159582
+tt0106332,2016,China Movie Channel Media Award,Special Jury Award,True,True,Farewell My Concubine,,[],Farewell My Concubine,1993.0,Drama,18300141
+tt3262342,2017,Golden Goblet,Best Animation Film,True,False,Loving Vincent,nm3699790,Dorota Kobiela,Loving Vincent,2017.0,Others,50652985
+tt3823116,2017,Golden Goblet,Best Animation Film,False,False,A Stork's Journey,nm0312881,Toby Genkel,A Stork's Journey,2017.0,Others,15080764
+tt4730838,2017,Golden Goblet,Best Animation Film,False,False,Dyrene i Hakkebakkeskogen,nm1302411,Rasmus A. Sivertsen,Dyrene i Hakkebakkeskogen,2016.0,Others,5598305
+tt6452332,2017,Golden Goblet,Best Animation Film,False,False,Lu over the Wall,nm1482702,Masaaki Yuasa,Lu over the Wall,2017.0,Others,282184
+tt6903084,2017,Golden Goblet,Best Animation Film,False,False,Toys & Pets,nm7403142,Gary Wang,Toys & Pets,2017.0,Others,5123796
+tt5485466,2017,Golden Goblet,Best Cinematography,True,False,Kharms,nm1434556,Shandor Berkeshi,Kharms,2017.0,Others,20271
+tt3531176,2017,Golden Goblet,Best Documentary,False,False,Big Sonia,nm3864927,Todd Soliday,Big Sonia,2016.0,Others,449934
+tt5805752,2017,Golden Goblet,Best Feature Film,False,False,Brigsby Bear,nm5050824,Dave McCary,Brigsby Bear,2017.0,Comedy,1277851
+tt6104058,2017,Golden Goblet,Best Feature Film,False,False,I'm a Killer,nm1450964,Maciej Pieprzyca,I'm a Killer,2016.0,Others,612807
+tt5759434,2017,Golden Goblet,Best Feature Film,False,False,In Harm's Way,nm0000806,Bille August,In Harm's Way,2018.0,Others,4509675
+tt4687410,2017,Golden Goblet,Best Feature Film,False,False,Mad to Be Normal,nm2759405,Robert Mullan,Mad to Be Normal,2017.0,Others,85409
+tt7075594,2017,Golden Goblet,Best Feature Film,False,False,Our Time Will Come,nm0401176,Ann Hui,Our Time Will Come,2017.0,Drama,10021305
+tt5570680,2017,Golden Goblet,Best Feature Film,False,False,Reminiscence,nm0299175,Yasuo Furuhata,Reminiscence,2017.0,Drama,7377229
+tt7013194,2017,China Movie Channel Media Award,Best Feature,True,True,Our Shining Days,,[],Our Shining Days,2017.0,Drama,10387373
+tt7735492,2017,China Movie Channel Media Award,Best Feature,False,True,Battle of Xiangjiang River,,[],Battle of Xiangjiang River,2017.0,Drama,11515096
+tt4947672,2017,China Movie Channel Media Award,Best Feature,False,False,Caffè,nm0097580,Cristiano Bortone,Caffè,2016.0,Drama,166697
+tt6096894,2017,China Movie Channel Media Award,Best Feature,False,False,Strangers,,[],Strangers,2017.0,Others,2535256
+tt7345928,2017,China Movie Channel Media Award,Best Feature,False,True,The War of Loong,,[],The War of Loong,2017.0,Others,10182564
+tt6186248,2017,China Movie Channel Media Award,Best Female Supporting Role,False,False,Father and Son,nm0943180,Vivian Wu,Father and Son,2017.0,Others,19589007
+tt4662708,2017,China Movie Channel Media Award,Best Male Newcomer,True,True,Another Shot,nm1813181,Stephon Marbury,Another Shot,2017.0,Others,1378501
+tt6128782,2017,China Movie Channel Media Award,Best Male Supporting Role,True,True,Mr. No Problem,nm4109690,Chao Zhang,Mr. No Problem,2016.0,Drama,1231528
+tt7339826,2018,Golden Goblet,Best Animation Film,True,False,Maquia: When the Promised Flower Blooms,nm2584046,Mari Okada,Maquia: When the Promised Flower Blooms,2018.0,Others,4820584
+tt4155534,2018,Golden Goblet,Best Animation Film,False,False,Animal Crackers,,[],Animal Crackers,2019.0,Others,9491330
+tt1849772,2018,Golden Goblet,Best Animation Film,False,False,Hoffmaniada,nm0812474,Stanislav Sokolov,Hoffmaniada,2019.0,Others,32804
+tt5222768,2018,Golden Goblet,Best Animation Film,False,False,White Fang,nm3115348,Alexandre Espigares,White Fang,2018.0,Others,8040135
+tt7689908,2018,Golden Goblet,Best Documentary,False,False,Crime + Punishment,nm0537737,Stephen Maing,Crime + Punishment,2018.0,Others,37791
+tt9159816,2018,Golden Goblet,Best Film,True,False,Ala Changso,nm3555198,Sonthar Gyal,Ala Changso,2018.0,Drama,343249
+tt7080434,2018,Golden Goblet,Best Film,True,False,Carnivores,nm0753737,Jérémie Renier,Carnivores,2018.0,Drama,193668
+tt9034530,2018,Golden Goblet,Best Film,False,False,"Lost, Found",nm0494702,Yue Lü,"Lost, Found",2018.0,Drama,41475760
+tt4488744,2018,Golden Goblet,Best Film,False,False,Un traductor,nm3344880,Rodrigo Barriuso,Un Traductor,2018.0,Drama,94422
+tt7382828,2018,Golden Goblet,Best Film,False,False,Where I've Never Lived,nm1671980,Paolo Franchi,Where I've Never Lived,2017.0,Drama,300133
+tt8384298,2018,Asian New Talent Award,Best Cinematographer,True,True,Blue Amber,nm10352226,Ao Ieong Weng Fong,Blue Amber,2019.0,Drama,25049
+tt8286508,2018,Asian New Talent Award,Best Cinematographer,False,False,Sun Flower,nm9775787,Shaohui Huang,Sun Flower,2018.0,Drama,18710
+tt9020130,2018,Asian New Talent Award,Best Film,True,True,The Road Not Taken,nm10132283,Gaopeng Tang,The Road Not Taken,2018.0,Comedy,1092666
+tt6544318,2018,Panorama,Spectrum,False,False,Antes Que Eu Me Esqueça,,[],Antes Que Eu Me Esqueça,2018.0,Comedy,36666
+tt7610008,2018,Panorama,Spectrum,False,False,Secret Ingredient,,[],Secret Ingredient,2018.0,Comedy,9218
+tt5845758,2018,Panorama,Spectrum,False,False,Sofra sirlari,,[],Sofra sirlari,2018.0,Comedy,210191
+tt5784434,2018,China Movie Channel Media Award,Best Feature,True,True,Enter the Forbidden City,,[],Jin Huang Cheng,2017.0,Others,2204056
+tt8404272,2018,China Movie Channel Media Award,Best Feature,False,False,How Long Will I Love U,nm6050764,Lun Su,How Long Will I Love U,2018.0,Comedy,84792898
+tt8490838,2018,China Movie Channel Media Award,Best Feature,False,False,The Leakers,nm0946875,Herman Yau,The Leakers,2018.0,Others,11137339
+tt6838570,2018,China Movie Channel Media Award,Best Feature,False,True,Walking Past the Future,nm4772581,Ruijun Li,Walking Past the Future,2017.0,Drama,401733
+tt9496886,2018,China Movie Channel Media Award,Best Female Supporting Role,True,True,na xie nv ren,nm1375686,Yili Ma,na xie nv ren,2018.0,Others,725398
+tt6952604,2018,Media Choice Award for Filmmaker,The Belt and Road Film Week,True,True,Arrhythmia,nm1402557,Boris Khlebnikov,Arrhythmia,2017.0,Drama,1484996
+tt7765120,2018,Media Choice Award for Filmmaker,The Belt and Road Film Week,True,True,Daughter of Mine,nm3053575,Laura Bispuri,Daughter of Mine,2019.0,Drama,389638
+tt7955712,2018,Media Choice Award for Filmmaker,The Belt and Road Film Week,True,True,Girls Always Happy,nm7614958,Yang Mingming,Girls Always Happy,2018.0,Drama,20962
+tt7133554,2018,Media Choice Award for Filmmaker,The Belt and Road Film Week,True,True,Silent Night,nm3987270,Piotr Domalewski,Silent Night,2017.0,Comedy,1963066
+tt9193612,2019,Golden Goblet,Best Animation Film,True,False,Ride Your Wave,nm1482702,Masaaki Yuasa,Ride Your Wave,2019.0,Others,1611991
+tt7169514,2019,Golden Goblet,Best Animation Film,False,False,Dilili in Paris,nm0643664,Michel Ocelot,Dilili in Paris,2018.0,Others,4906518
+tt7533756,2019,Golden Goblet,Best Animation Film,False,False,Louis & Luca - Mission to the Moon,nm1302411,Rasmus A. Sivertsen,Louis & Luca - Mission to the Moon,2018.0,Others,4898467
+tt4523910,2019,Golden Goblet,Best Film,False,False,Chicuarotes,nm0305558,Gael García Bernal,Chicuarotes,2019.0,Drama,1213841
+tt7797962,2019,Golden Goblet,Best Film,False,False,Il grande spirito,nm0748207,Sergio Rubini,Il grande spirito,2019.0,Drama,320035
+tt8615732,2019,Golden Goblet,Best Film,True,False,Leaving Afghanistan,nm0526732,Pavel Lungin,Leaving Afghanistan,2019.0,Others,739934
+tt9496220,2019,China Movie Channel Media Award,Best Feature,True,True,Crossing the Border - Zhaoguan,nm10352194,Meng Huo,Crossing the Border - Zhaoguan,2018.0,Others,46255
+tt10394802,2019,China Movie Channel Media Award,Best Feature,False,False,Coward Hero,nm3236624,Huan Shu,Coward Hero,2019.0,Drama,177589
+tt10443760,2019,China Movie Channel Media Award,Best Feature,False,False,Fade Away Pastoral,nm10749902,Adixia Xiareheman,Fade Away Pastoral,2018.0,Drama,1323466
+tt10452036,2019,China Movie Channel Media Award,Best Feature,False,True,Love the Way You Are,nm10736351,Mengying Dai,Love the Way You Are,2019.0,Drama,2135619
+tt7014404,2019,China Movie Channel Media Award,Best Feature,False,True,The composer,nm6178819,Xierzhati Yahefu,The composer,2019.0,Drama,627716
+tt7236626,2019,China Movie Channel Media Award,Best Feature,False,False,When Africa Meets You,nm9300393,Wendy Wan,When Africa Meets You,2018.0,Others,158929
+tt10402946,2019,China Movie Channel Media Award,Best Feature,False,False,Yellow Rose,nm3153335,Jingwu Ning,Yellow Rose,2019.0,Others,11213147
+tt10217624,2019,The Belt and Road Film Week,Audience Choice Award for Film,True,True,The Sun Above Me Never Sets,nm7211303,Lyubov Borisova,The Sun Above Me Never Sets,2019.0,Comedy,161842
+tt6835498,2019,The Belt and Road Film Week,Audience Choice Award for Film,False,True,Crystal Swan,nm2660273,Darya Zhuk,Crystal Swan,2019.0,Drama,63603
+tt4026044,2019,The Belt and Road Film Week,Audience Choice Award for Film,False,True,Genezis,nm2520373,Árpád Bogdán,Genezis,2018.0,Drama,6206
+tt7147540,2019,The Belt and Road Film Week,Audience Choice Award for Film,False,False,Made in India,nm2680506,Sharat Katariya,Sui Dhaaga: Made in India,2018.0,Comedy,2414162

@@ -1,0 +1,962 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0022835,1932,Audience Referendum,Most Original Story (Fantasy),True,True,Dr. Jekyll and Mr. Hyde,nm0541149,Rouben Mamoulian,Dr. Jekyll and Mr. Hyde,1932.0,Others,216197
+tt0024184,1934,Mussolini Cup,Best Foreign Film,False,True,The Invisible Man,nm0001843,James Whale,The Invisible Man,1933.0,Others,517755
+tt0025919,1934,Mussolini Cup,Best Foreign Film,False,False,Twentieth Century,nm0001328,Howard Hawks,Twentieth Century,1934.0,Comedy,188298
+tt0026276,1935,Mussolini Cup,Best Foreign Film,False,True,The Devil Is a Woman,nm0903049,Josef von Sternberg,The Devil Is a Woman,1935.0,Comedy,43980
+tt0027951,1936,Mussolini Cup,Best Foreign Film,False,False,Mayerling,nm0514822,Anatole Litvak,Mayerling,1937.0,Drama,4200789
+tt0028950,1937,Mussolini Cup,Best Foreign Film,False,True,La grande illusion,nm0719756,Jean Renoir,La Grande Illusion,1938.0,Drama,359235
+tt0029546,1937,Mussolini Cup,Best Foreign Film,False,False,Shall We Dance,nm0762263,Mark Sandrich,Shall We Dance,1937.0,Comedy,118226
+tt0030643,1938,Mussolini Cup,Best Foreign Film,False,True,Port of Shadows,nm0138893,Marcel Carné,Port of Shadows,1939.0,Crime,1223198
+tt0029583,1938,Mussolini Cup,Best Foreign Film,False,True,Snow White and the Seven Dwarfs,nm0183183,William Cottrell,Snow White and the Seven Dwarfs,1938.0,Others,6703168524
+tt0031514,1939,Mussolini Cup,Best Foreign Film,False,False,Le Jour Se Leve,nm0138893,Marcel Carné,Le Jour Se Leve,1940.0,Crime,1289458
+tt0031424,1939,Mussolini Cup,Best Italian Film,False,False,Los hijos de la noche,nm0674398,Benito Perojo,Los hijos de la noche,1940.0,Comedy,1999010
+tt0037536,1946,International Critics Award,Best Feature Film,False,False,The Bells of St. Mary's,nm0564970,Leo McCarey,The Bells of St. Mary's,1945.0,Drama,599086877
+tt0033152,1946,International Critics Award,Best Feature Film,False,False,The Thief of Bagdad,nm0003490,Ludwig Berger,The Thief of Bagdad,1940.0,Others,4874405
+tt0037674,1946,International Critics Award - Special Mention,Feature Films,True,True,Children of Paradise,nm0138893,Marcel Carné,Children of Paradise,1946.0,Drama,957009
+tt0036910,1946,International Critics Award - Special Mention,Feature Films,True,True,Henry V,nm0000059,Laurence Olivier,Henry V,1946.0,Biography,869682
+tt0038824,1946,International Critics Award - Special Mention,Feature Films,True,True,Panique,nm0245213,Julien Duvivier,Panique,1947.0,Drama,1018674
+tt0039677,1947,Grand International Award,,False,False,Odd Man Out,nm0715346,Carol Reed,Odd Man Out,1947.0,Crime,767332
+tt0039739,1947,Grand International Award,,False,False,Quai des Orfèvres,nm0167241,Henri-Georges Clouzot,Quai des Orfèvres,1948.0,Crime,3952781
+tt0038109,1947,Grand International Award,,False,False,Spellbound,nm0000033,Alfred Hitchcock,Spellbound,1945.0,Others,266780
+tt0040897,1948,International Award,Best Score,True,True,The Treasure of the Sierra Madre,nm0000070,Max Steiner,The Treasure of the Sierra Madre,1948.0,Others,4642886
+tt0040338,1948,International Award,Best Screenplay,True,True,The Fallen Idol,nm0001294,Graham Greene,The Fallen Idol,1949.0,Drama,7669725
+tt0038499,1948,Cinecittà Cup,,True,True,Duel in the Sun,nm0006388,David O. Selznick,Duel in the Sun,1946.0,Drama,485385898
+tt0040725,1948,Grand International Award,,False,False,The Red Shoes,nm0003836,Michael Powell,The Red Shoes,1948.0,Drama,315926
+tt0040497,1949,Golden Lion,,False,True,Jour de fête,nm0004244,Jacques Tati,Jour de Fête,1952.0,Comedy,269938
+tt0041546,1949,Golden Lion,,False,True,Kind Hearts and Coronets,nm0357607,Robert Hamer,Kind Hearts and Coronets,1950.0,Comedy,1096515
+tt0040806,1949,Golden Lion,,False,True,The Snake Pit,nm0514822,Anatole Litvak,The Snake Pit,1948.0,Drama,105598347
+tt0042332,1950,Golden Lion,,False,False,Cinderella,nm0314671,Clyde Geronimi,Cinderella,1950.0,Others,2038619919
+tt0042906,1950,Golden Lion,,False,True,La ronde,nm0649097,Max Ophüls,La Ronde,1954.0,Drama,8093
+tt0042208,1950,Golden Lion,,False,False,The Asphalt Jungle,nm0001379,John Huston,The Asphalt Jungle,1950.0,Crime,320702
+tt0042477,1950,Golden Lion,,False,False,The Flowers of St. Francis,nm0744023,Roberto Rossellini,The Flowers of St. Francis,1952.0,Biography,40418
+tt0042876,1951,Golden Lion,,True,True,Rashomon,nm0000041,Akira Kurosawa,Rashomon,1951.0,Crime,902769
+tt0044081,1951,Golden Lion,,False,True,A Streetcar Named Desire,nm0001415,Elia Kazan,A Streetcar Named Desire,1951.0,Drama,419235
+tt0043338,1951,Golden Lion,,False,True,Ace in the Hole,nm0000697,Billy Wilder,Ace in the Hole,1951.0,Drama,22693451
+tt0042276,1951,Golden Lion,,False,False,Born Yesterday,nm0002030,George Cukor,Born Yesterday,1951.0,Comedy,119322023
+tt0042619,1951,Golden Lion,,False,True,Diary of a Country Priest,nm0000975,Robert Bresson,Diary of a Country Priest,1954.0,Drama,896325
+tt0044829,1951,Golden Lion,,False,True,The Lavender Hill Mob,nm0187769,Charles Crichton,The Lavender Hill Mob,1951.0,Comedy,106754
+tt0043972,1951,Golden Lion,,False,True,The River,nm0719756,Jean Renoir,The River,1951.0,Drama,522424
+tt0043686,1952,Golden Lion,,True,False,Forbidden Games,nm0167496,René Clément,Forbidden Games,1952.0,Drama,380718
+tt0043511,1952,Golden Lion,,False,True,Europe '51,nm0744023,Roberto Rossellini,Europe '51,1954.0,Drama,88383
+tt0044060,1952,Golden Lion,,False,False,Summer Interlude,nm0000005,Ingmar Bergman,Summer Interlude,1954.0,Drama,68654
+tt0045112,1952,Golden Lion,,False,True,The Life of Oharu,nm0003226,Kenji Mizoguchi,The Life of Oharu,1964.0,Drama,57237
+tt0045061,1952,Golden Lion,,False,True,The Quiet Man,nm0000406,John Ford,The Quiet Man,1952.0,Comedy,100974958
+tt0045230,1952,Golden Lion,,False,False,The Thief,nm0745866,Russell Rouse,The Thief,1952.0,Crime,9571086
+tt0046712,1953,Golden Lion,,False,False,Anatahan,nm0903049,Josef von Sternberg,Anatahan,1954.0,Drama,155247
+tt0046521,1953,Golden Lion,,False,True,I vitelloni,nm0000019,Federico Fellini,I Vitelloni,1956.0,Comedy,2260168
+tt0046004,1953,Golden Lion,,False,True,Little Fugitive,nm0039107,Ray Ashley,Little Fugitive,1953.0,Drama,1816075
+tt0044926,1953,Golden Lion,,False,True,Moulin Rouge,nm0001379,John Huston,Moulin Rouge,1952.0,Biography,30512
+tt0044391,1953,Golden Lion,,False,False,The Bad and the Beautiful,nm0591486,Vincente Minnelli,The Bad and the Beautiful,1952.0,Drama,19381
+tt0046478,1953,Golden Lion,,False,True,Ugetsu,nm0003226,Kenji Mizoguchi,Ugetsu,1954.0,Drama,344760
+tt0047528,1954,Golden Lion,,False,True,La strada,nm0000019,Federico Fellini,La Strada,1956.0,Drama,108878
+tt0047396,1954,Golden Lion,,False,False,Rear Window,nm0000033,Alfred Hitchcock,Rear Window,1954.0,Others,703675704
+tt0047445,1954,Golden Lion,,False,True,Sansho the Bailiff,nm0003226,Kenji Mizoguchi,Sansho the Bailiff,1955.0,Drama,50410
+tt0047469,1954,Golden Lion,,False,False,Senso,nm0899581,Luchino Visconti,Senso,1968.0,Drama,405991
+tt0047478,1954,Golden Lion,,False,True,Seven Samurai,nm0000041,Akira Kurosawa,Seven Samurai,1956.0,Others,5960513
+tt0046816,1954,Golden Lion,,False,False,The Caine Mutiny,nm0229424,Edward Dmytryk,The Caine Mutiny,1954.0,Drama,413246765
+tt0046451,1954,Golden Lion,,False,False,Touchez pas au grisbi,nm0065442,Jacques Becker,Touchez Pas au Grisbi,1960.0,Crime,2286859
+tt0047821,1955,Golden Lion,Best Film,False,True,Le amiche,nm0000774,Michelangelo Antonioni,Le Amiche,1962.0,Drama,1161329
+tt0048820,1955,Golden Lion,Best Film,False,False,Princess Yang Kwei-fei,nm0003226,Kenji Mizoguchi,Princess Yang Kwei-fei,1956.0,Drama,87651
+tt0048248,1955,Golden Lion,Best Film,False,False,The Kentuckian,nm0000044,Burt Lancaster,The Kentuckian,1955.0,Drama,24791970
+tt0049877,1956,Golden Lion,,False,False,Four Bags Full,nm0002193,Claude Autant-Lara,Four Bags Full,1957.0,Comedy,330442
+tt0048933,1956,Golden Lion,,False,True,Street of Shame,nm0003226,Kenji Mizoguchi,Street of Shame,1959.0,Drama,66293
+tt0049012,1956,Golden Lion,,False,True,The Burmese Harp,nm0406728,Kon Ichikawa,The Burmese Harp,1967.0,Drama,106141
+tt0050800,1956,Best Foreign Documentary,,True,True,On the Bowery,nm0737369,Lionel Rogosin,On the Bowery,1957.0,Others,768519
+tt0048956,1957,Golden Lion,,True,True,Aparajito,nm0006249,Satyajit Ray,Aparajito,1959.0,Drama,2365863
+tt0050613,1957,Golden Lion,,False,False,Throne of Blood,nm0000041,Akira Kurosawa,Throne of Blood,1961.0,Drama,797446
+tt0051579,1958,Golden Lion,,False,False,Love Is My Profession,nm0002193,Claude Autant-Lara,Love Is My Profession,1959.0,Crime,435788
+tt0050986,1958,Pasinetti Award,Parallel Sections,True,True,Wild Strawberries,nm0000005,Ingmar Bergman,Wild Strawberries,1959.0,Drama,127545
+tt0052561,1959,Golden Lion,,False,False,Anatomy of a Murder,nm0695937,Otto Preminger,Anatomy of a Murder,1959.0,Crime,104144561
+tt0053291,1959,Golden Lion,,False,False,Some Like It Hot,nm0000697,Billy Wilder,Some Like It Hot,1959.0,Comedy,735423656
+tt0054248,1960,Golden Lion,,False,True,Rocco and His Brothers,nm0899581,Luchino Visconti,Rocco and His Brothers,1961.0,Crime,97142
+tt0053604,1960,Golden Lion,,False,False,The Apartment,nm0000697,Billy Wilder,The Apartment,1960.0,Comedy,1528677
+tt0054632,1961,Golden Lion,,True,False,Last Year at Marienbad,nm0720297,Alain Resnais,Last Year at Marienbad,1962.0,Drama,3434013
+tt0055597,1961,Golden Lion,,False,False,Victim,nm0213136,Basil Dearden,Victim,1962.0,Drama,220416
+tt0055630,1961,Golden Lion,,False,False,Yojimbo,nm0000041,Akira Kurosawa,Yojimbo,1961.0,Others,797446
+tt0055320,1961,OCIC Award,,True,True,Il posto,nm0647438,Ermanno Olmi,Il Posto,1963.0,Drama,150673
+tt0055082,1961,Award of the City of Venice,,True,True,"Léon Morin, Priest",nm0578483,Jean-Pierre Melville,"Léon Morin, Priest",2009.0,Drama,172757
+tt0056111,1962,Golden Lion,,True,False,Ivan's Childhood,nm0001789,Andrei Tarkovsky,Ivan's Childhood,1963.0,Drama,645275
+tt0056193,1962,Golden Lion,,False,False,Lolita,nm0000040,Stanley Kubrick,Lolita,1962.0,Crime,39186
+tt0056215,1962,Golden Lion,,False,True,Mamma Roma,nm0001596,Pier Paolo Pasolini,Mamma Roma,1965.0,Drama,18412
+tt0056663,1962,Golden Lion,,False,True,Vivre Sa Vie,nm0000419,Jean-Luc Godard,Vivre Sa Vie,1963.0,Drama,408160
+tt0056868,1963,Golden Lion,,False,False,Billy Liar,nm0772259,John Schlesinger,Billy Liar,1963.0,Comedy,240380
+tt0057565,1963,Golden Lion,,False,False,High and Low,nm0000041,Akira Kurosawa,High and Low,1963.0,Crime,776733
+tt0057370,1963,Golden Lion,,False,False,Nunca pasa nada,nm0054219,Juan Antonio Bardem,Nunca pasa nada,1966.0,Drama,48321
+tt0057490,1963,Golden Lion,,False,False,The Servant,nm0521334,Joseph Losey,The Servant,1964.0,Drama,603109
+tt0057202,1963,Best First Work,,True,True,Le joli mai,nm0003408,Chris Marker,Le joli mai,1963.0,Others,916276
+tt0058003,1964,Golden Lion,,True,True,Red Desert,nm0000774,Michelangelo Antonioni,Red Desert,1965.0,Drama,57956
+tt0058414,1964,Golden Lion,,False,True,Nothing But a Man,nm0736394,Michael Roemer,Nothing But a Man,1964.0,Drama,214676
+tt0058715,1964,Golden Lion,,False,True,The Gospel According to St. Matthew,nm0001596,Pier Paolo Pasolini,The Gospel According to St. Matthew,1966.0,Biography,128101
+tt0059229,1965,Golden Lion,Best Film,False,False,Juliet of the Spirits,nm0000019,Federico Fellini,Juliet of the Spirits,1965.0,Comedy,633226
+tt0059592,1965,Golden Lion,,False,False,Pierrot le fou,nm0000419,Jean-Luc Godard,Pierrot le Fou,1969.0,Crime,1591669
+tt0058888,1965,Golden Lion,,False,True,Red Beard,nm0000041,Akira Kurosawa,Red Beard,1968.0,Drama,673898
+tt0058946,1966,Golden Lion,,True,True,The Battle of Algiers,nm0690597,Gillo Pontecorvo,The Battle of Algiers,1967.0,Drama,14023363
+tt0060138,1966,Golden Lion,,False,True,Balthazar,nm0000975,Robert Bresson,Balthazar,1970.0,Drama,610705
+tt0060390,1966,Golden Lion,,False,False,Fahrenheit 451,nm0000076,François Truffaut,Fahrenheit 451,1966.0,Drama,7907
+tt0060063,1966,Golden Lion,,False,True,Yesterday Girl,nm0460176,Alexander Kluge,Yesterday Girl,1967.0,Drama,3392
+tt0061395,1967,Golden Lion,,True,True,Belle de jour,nm0000320,Luis Buñuel,Belle de Jour,1968.0,Drama,61044021
+tt0061473,1967,Golden Lion,,False,True,La chinoise,nm0000419,Jean-Luc Godard,La Chinoise,1968.0,Comedy,543698
+tt0061613,1967,Golden Lion,,False,False,Oedipus Rex,nm0001596,Pier Paolo Pasolini,Oedipus Rex,1984.0,Drama,5455
+tt0062679,1968,Golden Lion,,True,False,The Artist in the Circus Dome: Clueless,nm0460176,Alexander Kluge,The Artist in the Circus Dome: Clueless,1968.0,Drama,4979
+tt0064689,1968,Golden Lion,,False,False,Monterey Pop,nm0672060,D.A. Pennebaker,Monterey Pop,1968.0,Others,10970
+tt0064940,1969,Pasinetti Award,Best Italian Film,True,True,Fellini Satyricon,nm0000019,Federico Fellini,Fellini's Satyricon,1970.0,Drama,10134
+tt0067961,1970,Pasinetti Award,Best Foreign Film,True,True,Wanda,nm0517056,Barbara Loden,Wanda,1971.0,Crime,1026258
+tt0066993,1971,Pasinetti Award,Best Foreign Film,True,True,The Devils,nm0001692,Ken Russell,The Devils,1971.0,Biography,12557641
+tt0066921,1972,Pasinetti Award,Best Foreign Film,True,True,A Clockwork Orange,nm0000040,Stanley Kubrick,A Clockwork Orange,1972.0,Crime,330752026
+tt0180901,1979,FIPRESCI Prize,,True,True,Mountain Pass,nm0836681,Jean-François Stévenin,Mountain Pass,1978.0,Comedy,6566
+tt0080388,1980,Golden Lion,,True,False,Atlantic City,nm0001501,Louis Malle,Atlantic City,1981.0,Crime,73020044
+tt0080798,1980,Golden Lion,,True,True,Gloria,nm0001023,John Cassavetes,Gloria,1980.0,Crime,24467955
+tt0079219,1980,Golden Lion,,False,False,Going in Style,nm0000976,Martin Brest,Going in Style,1979.0,Comedy,179045431
+tt0081150,1980,Golden Lion,,False,False,Melvin and Howard,nm0001129,Jonathan Demme,Melvin and Howard,1980.0,Comedy,26220989
+tt0081176,1980,AGIS Award,,True,True,My American Uncle,nm0720297,Alain Resnais,Mon oncle d'Amérique,1980.0,Comedy,113900
+tt0082945,1981,Golden Lion,,False,True,Prince of the City,nm0001486,Sidney Lumet,Prince of the City,1981.0,Crime,44986730
+tt0083232,1981,Golden Lion,,False,False,True Confessions,nm0343260,Ulu Grosbard,True Confessions,1981.0,Crime,70469148
+tt0084725,1982,Golden Lion,,True,True,The State of Things,nm0000694,Wim Wenders,The State of Things,1983.0,Drama,9658
+tt0084776,1982,Golden Lion,,False,False,Tempest,nm0005196,Paul Mazursky,Tempest,1982.0,Comedy,26130344
+tt0083851,1982,Golden Lion,,False,False,The Draughtsman's Contract,nm0000425,Peter Greenaway,The Draughtsman's Contract,1982.0,Comedy,11742956
+tt0085295,1983,Golden Lion,,False,False,"Careful, He Might Hear You",nm0776209,Carl Schultz,"Careful, He Might Hear You",1984.0,Drama,14481114
+tt0085642,1983,Golden Lion,,False,False,Hanna K.,nm0002020,Costa-Gavras,Hanna K.,1983.0,Drama,289926
+tt0086377,1983,Golden Lion,,False,True,Streamers,nm0000265,Robert Altman,Streamers,1983.0,Crime,1915102
+tt0083922,1983,FIPRESCI Prize,,True,True,Fanny and Alexander,nm0000005,Ingmar Bergman,Fanny and Alexander,1983.0,Drama,34875431
+tt0086637,1983,Pasinetti Award,Best Film,True,True,Zelig,nm0000095,Woody Allen,Zelig,1983.0,Comedy,60362617
+tt0087821,1984,Golden Lion,,False,True,Full Moon in Paris,nm0006445,Éric Rohmer,Full Moon in Paris,1984.0,Drama,76547
+tt0087365,1984,Golden Lion,,False,False,"Greystoke: The Legend of Tarzan, Lord of the Apes",nm0399853,Hugh Hudson,"Greystoke: The Legend of Tarzan, Lord of the Apes",1984.0,Others,228441794
+tt0089469,1985,Golden Lion,,False,False,Legend,nm0000631,Ridley Scott,Legend,1986.0,Others,72956422
+tt0089841,1985,Golden Lion,,False,True,Prizzi's Honor,nm0001379,John Huston,Prizzi's Honor,1985.0,Comedy,126622295
+tt0088933,1985,Young Venice Award,,True,True,Cocoon,nm0000165,Ron Howard,Cocoon,1985.0,Comedy,383384338
+tt0088763,1985,Young Venice Award - Special Mention,,True,True,Back to the Future,nm0000709,Robert Zemeckis,Back to the Future,1985.0,Others,1421195513
+tt0090022,1985,Young Venice Award - Special Mention,,True,True,Silverado,nm0001410,Lawrence Kasdan,Silverado,1985.0,Others,152629812
+tt0091830,1986,Golden Lion,,True,True,Summer,nm0006445,Éric Rohmer,Summer,1986.0,Drama,249202
+tt0090557,1986,Golden Lion,,False,True,'Round Midnight,nm0851724,Bertrand Tavernier,'Round Midnight,1986.0,Drama,15164181
+tt0091867,1986,Golden Lion,,False,False,A Room with a View,nm0412465,James Ivory,A Room with a View,1986.0,Drama,98492351
+tt0091712,1986,Golden Lion,,False,False,Oviri,nm0137830,Henning Carlsen,Oviri,1987.0,Biography,2621949
+tt0091528,1986,Venice Authors Prize,,True,True,Miss Mary,nm0069833,María Luisa Bemberg,Miss Mary,1986.0,Drama,617477
+tt0094332,1987,Golden Lion,Best Film,False,False,The Witches of Eastwick,nm0004305,George Miller,The Witches of Eastwick,1987.0,Comedy,287143684
+tt0092593,1987,Golden Lion,,True,True,Au revoir les enfants,nm0001501,Louis Malle,Au Revoir les Enfants,1988.0,Drama,20087918
+tt0093223,1987,Golden Lion,,False,True,House of Games,nm0000519,David Mamet,House of Games,1987.0,Crime,11461489
+tt0093467,1987,Golden Lion,,False,False,Made in Heaven,nm0748928,Alan Rudolph,Made in Heaven,1987.0,Comedy,20252710
+tt0093512,1987,Golden Lion,,False,True,Maurice,nm0412465,James Ivory,Maurice,1987.0,Drama,11152716
+tt0092558,1987,Golden Lion,,False,True,Motherland Hotel,nm0442693,Ömer Kavur,Motherland Hotel,1987.0,Crime,27394
+tt0095280,1988,Golden Lion,,False,False,Haunted Summer,nm0664852,Ivan Passer,Haunted Summer,1988.0,Drama,42037
+tt0095564,1988,Golden Lion,,False,False,Madame Sousatzka,nm0772259,John Schlesinger,Madame Sousatzka,1988.0,Drama,15087273
+tt0096336,1988,Golden Lion,,False,True,Story of Women,nm0001031,Claude Chabrol,Story of Women,1990.0,Drama,875417
+tt0095649,1988,Golden Lion,,False,False,The Moderns,nm0748928,Alan Rudolph,The Moderns,1988.0,Comedy,8749515
+tt0096259,1988,Golden Lion,,False,False,Things Change,nm0000519,David Mamet,Things Change,1988.0,Comedy,15000735
+tt0095675,1988,Golden Lion,,False,True,Women on the Verge of a Nervous Breakdown,nm0000264,Pedro Almodóvar,Women on the Verge of a Nervous Breakdown,1988.0,Comedy,30832131
+tt0095302,1988,FIPRESCI Prize,Parallel Sections,True,True,High Hopes,nm0005139,Mike Leigh,High Hopes,1989.0,Comedy,5011439
+tt0095574,1988,FIPRESCI Prize,Parallel Sections,True,True,Little Vera,nm0681695,Vasili Pichul,Little Vera,1989.0,Drama,5242150
+tt0095497,1988,"Filmcritica ""Bastone Bianco"" Award",,True,True,The Last Temptation of Christ,nm0000217,Martin Scorsese,The Last Temptation of Christ,1988.0,Drama,37020716
+tt0094737,1988,Children and Cinema Award - Special Mention,,True,True,Big,nm0001508,Penny Marshall,Big,1988.0,Comedy,577446543
+tt0095050,1988,Children and Cinema Award - Special Mention,,True,True,Dominick and Eugene,nm0950001,Robert M. Young,Dominick and Eugene,1988.0,Drama,13494825
+tt0096438,1988,Children and Cinema Award - Special Mention,,True,True,Who Framed Roger Rabbit,nm0000709,Robert Zemeckis,Who Framed Roger Rabbit,1988.0,Others,1053066373
+tt0095515,1988,Cinecritica Award,,True,True,Let's Get Lost,nm0916510,Bruce Weber,Let's Get Lost,1989.0,Biography,1125696
+tt0096908,1989,Golden Lion,,True,True,A City of Sadness,nm0396284,Hsiao-Hsien Hou,A City of Sadness,1989.0,Drama,5568
+tt0097964,1989,Golden Lion,,False,False,New Year's Day,nm0415617,Henry Jaglom,New Year's Day,1990.0,Comedy,144169
+tt0098175,1989,Golden Lion,,False,True,Recollections of the Yellow House,nm0599214,João César Monteiro,Recollections of the Yellow House,1994.0,Comedy,2407
+tt0100519,1990,Golden Lion,,True,False,Rosencrantz & Guildenstern Are Dead,nm0001779,Tom Stoppard,Rosencrantz & Guildenstern Are Dead,1991.0,Comedy,2802322
+tt0099040,1990,Golden Lion,,False,True,An Angel at My Table,nm0001005,Jane Campion,An Angel at My Table,1990.0,Biography,4040210
+tt0099685,1990,Golden Lion,,False,True,Goodfellas,nm0000217,Martin Scorsese,Goodfellas,1990.0,Biography,180473980
+tt0100115,1990,Golden Lion,,False,True,Martha et moi,nm0919041,Jirí Weiss,Martha et moi,1992.0,Drama,89748
+tt0100168,1990,Golden Lion,,False,True,Mo' Better Blues,nm0000490,Spike Lee,Mo' Better Blues,1990.0,Drama,62735841
+tt0100200,1990,Golden Lion,,False,True,Mr. & Mrs. Bridge,nm0412465,James Ivory,Mr. & Mrs. Bridge,1990.0,Drama,29405247
+tt0099436,1990,FIPRESCI Prize,Critics Week,True,True,La discrète,nm0898603,Christian Vincent,La discrète,1992.0,Drama,419794
+tt0100990,1990,OCIC Award - Honorable Mention,,True,True,"I, the Worst of All",nm0069833,María Luisa Bemberg,"I, the Worst of All",1995.0,Drama,86759
+tt0103176,1991,Golden Lion,,True,True,Close to Eden,nm0586482,Nikita Mikhalkov,Close to Eden,1992.0,Drama,1361836
+tt0101798,1991,Golden Lion,,False,False,Edward II,nm0418746,Derek Jarman,Edward II,1992.0,Drama,2578218
+tt0102137,1991,Golden Lion,,False,True,J'entends plus la guitare,nm0308042,Philippe Garrel,J'entends plus la guitare,2008.0,Drama,30819
+tt0102428,1991,Golden Lion,,False,True,Meeting Venus,nm0843640,István Szabó,Meeting Venus,1991.0,Comedy,3707569
+tt0102456,1991,Golden Lion,,False,True,Mississippi Masala,nm0619762,Mira Nair,Mississippi Masala,1992.0,Drama,26951596
+tt0102494,1991,Golden Lion,,False,False,My Own Private Idaho,nm0001814,Gus Van Sant,My Own Private Idaho,1991.0,Drama,23846189
+tt0102566,1991,Golden Lion,,False,False,Night and Day,nm0001901,Chantal Akerman,Night and Day,1992.0,Drama,23040
+tt0102722,1991,Golden Lion,,False,False,Prospero's Books,nm0000425,Peter Greenaway,Prospero's Books,1991.0,Drama,6520202
+tt0101640,1991,Golden Lion,,False,True,Raise the Red Lantern,nm0955443,Yimou Zhang,Raise the Red Lantern,1992.0,Drama,9550711
+tt0101889,1991,Golden Lion,,False,True,The Fisher King,nm0000416,Terry Gilliam,The Fisher King,1991.0,Comedy,156068643
+tt0101773,1991,FIPRESCI Prize,Critics Week,True,True,Drive,nm0506461,Jefery Levy,Drive,1992.0,Others,54715
+tt0105197,1992,Golden Lion,,True,True,The Story of Qiu Ju,nm0955443,Yimou Zhang,The Story of Qiu Ju,1993.0,Comedy,6709011
+tt0104348,1992,Golden Lion,,False,False,Glengarry Glen Ross,nm0001226,James Foley,Glengarry Glen Ross,1992.0,Crime,38657412
+tt0104373,1992,Golden Lion,,False,True,Guelwaar,nm0783733,Ousmane Sembene,Guelwaar,1995.0,Drama,110455
+tt0104503,1992,Golden Lion,,False,False,In the Soup,nm0734319,Alexandre Rockwell,In the Soup,1992.0,Comedy,948355
+tt0104545,1992,Golden Lion,,False,True,"Jamón, Jamón",nm0000940,Bigas Luna,"Jamón, Jamón",1994.0,Comedy,1634798
+tt0104658,1992,Golden Lion,,False,False,L.627,nm0851724,Bertrand Tavernier,L.627,1994.0,Crime,98292
+tt0102583,1992,Golden Lion,,False,False,"Olivier, Olivier",nm0002140,Agnieszka Holland,"Olivier, Olivier",1993.0,Drama,4108969
+tt0107756,1992,Golden Lion,,False,True,Orlando,nm0006845,Sally Potter,Orlando,1993.0,Biography,19033876
+tt0105217,1992,Golden Lion,,False,False,Raising Cain,nm0000361,Brian De Palma,Raising Cain,1992.0,Crime,106173236
+tt0105682,1992,Golden Lion,,False,True,Un coeur en hiver,nm0767110,Claude Sautet,Un Coeur en Hiver,1993.0,Drama,5682357
+tt0104710,1992,FIPRESCI Prize,,True,True,Leon the Pig Farmer,nm0419884,Vadim Jean,Leon the Pig Farmer,1993.0,Comedy,114868
+tt0108122,1993,Golden Lion,,True,True,Short Cuts,nm0000265,Robert Altman,Short Cuts,1993.0,Comedy,21436492
+tt0108394,1993,Golden Lion,,True,True,Three Colors: Blue,nm0001425,Krzysztof Kieslowski,Three Colors: Blue,1993.0,Drama,4667049
+tt0106489,1993,Golden Lion,,False,False,A Bronx Tale,nm0000134,Robert De Niro,A Bronx Tale,1993.0,Crime,60643620
+tt0106660,1993,Golden Lion,,False,False,Dangerous Game,nm0001206,Abel Ferrara,Dangerous Game,1993.0,Drama,2252049
+tt0106834,1993,Golden Lion,,False,False,Even Cowgirls Get the Blues,nm0001814,Gus Van Sant,Even Cowgirls Get the Blues,1994.0,Comedy,5921343
+tt0106678,1993,Golden Lion,,False,False,I Don't Want to Talk About It,nm0069833,María Luisa Bemberg,I Don't Want to Talk About It,1994.0,Drama,426534
+tt0106226,1993,Elvira Notari Prize,,True,True,The Age of Innocence,nm0000217,Martin Scorsese,The Age of Innocence,1993.0,Drama,113147744
+tt0109688,1994,Golden Lion,Best Film,False,True,Ashes of Time,nm0939182,Kar-Wai Wong,Ashes of Time,1995.0,Others,3496840
+tt0110882,1994,Golden Lion,,True,True,Before the Rain,nm0541391,Milcho Manchevski,Before the Rain,1995.0,Drama,2587138
+tt0110005,1994,Golden Lion,,False,True,Heavenly Creatures,nm0001392,Peter Jackson,Heavenly Creatures,1994.0,Biography,10424084
+tt0110299,1994,Golden Lion,,False,True,Lamerica,nm0002167,Gianni Amelio,Lamerica,1995.0,Drama,8690317
+tt0110365,1994,Golden Lion,,False,True,Little Odessa,nm0336695,James Gray,Little Odessa,1995.0,Crime,3680042
+tt0110632,1994,Golden Lion,,False,True,Natural Born Killers,nm0000231,Oliver Stone,Natural Born Killers,1994.0,Crime,172478661
+tt0111237,1994,Golden Lion,,False,False,Somebody to Love,nm0734319,Alexandre Rockwell,Somebody to Love,1996.0,Comedy,58662
+tt0111048,1994,FIPRESCI Prize,Parallel Sections,False,False,S.F.W.,,[],S.F.W.,1995.0,Comedy,215976
+tt0110729,1994,Anicaflash Prize,,True,True,Once Were Warriors,nm0848414,Lee Tamahori,Once Were Warriors,1995.0,Crime,5430209
+tt0112767,1995,Golden Lion,,True,True,Cyclo,nm0870841,Anh Hung Tran,Cyclo,1996.0,Crime,925015
+tt0113403,1995,Golden Lion,,False,False,A Midwinter's Tale,nm0000110,Kenneth Branagh,A Midwinter's Tale,1996.0,Comedy,1549359
+tt0112688,1995,Golden Lion,,False,False,Clockers,nm0000490,Spike Lee,Clockers,1995.0,Crime,43608358
+tt0109949,1995,Golden Lion,,False,False,Guantanamera,nm0349425,Tomás Gutiérrez Alea,Guantanamera,1997.0,Comedy,2878186
+tt0112769,1995,Golden Lion,,False,False,La cérémonie,nm0001031,Claude Chabrol,La Cérémonie,1996.0,Crime,2813915
+tt0113725,1995,Golden Lion,,False,True,Maborosi,nm0466153,Hirokazu Koreeda,Maborosi,1995.0,Drama,239461
+tt0114007,1995,Golden Lion,,False,True,Nothing Personal,nm0642823,Thaddeus O'Sullivan,Nothing Personal,1997.0,Drama,128807
+tt0112744,1995,Golden Lion,,False,False,The Crossing Guard,nm0000576,Sean Penn,The Crossing Guard,1995.0,Drama,2891482
+tt0114808,1995,Golden Lion,,False,True,The Star Maker,nm0868153,Giuseppe Tornatore,The Star Maker,1996.0,Drama,1220045
+tt0114086,1995,FIPRESCI Prize,,True,True,Beyond the Clouds,nm0000774,Michelangelo Antonioni,Beyond the Clouds,1996.0,Drama,102795
+tt0117039,1996,Golden Lion,,True,False,Michael Collins,nm0001403,Neil Jordan,Michael Collins,1996.0,Biography,35883849
+tt0115632,1996,Golden Lion,,False,False,Basquiat,nm0773603,Julian Schnabel,Basquiat,1996.0,Biography,9783914
+tt0115738,1996,Golden Lion,,False,False,Box of Moonlight,nm0001139,Tom DiCillo,Box of Moonlight,1997.0,Comedy,2492241
+tt0115832,1996,Golden Lion,,False,True,Carla's Song,nm0516360,Ken Loach,Carla's Song,1997.0,Drama,82506
+tt0116334,1996,Golden Lion,,False,True,For Ever Mozart,nm0000419,Jean-Luc Godard,For Ever Mozart,1997.0,Comedy,79609
+tt0117359,1996,Golden Lion,,False,True,Ponette,nm0230695,Jacques Doillon,Ponette,1997.0,Drama,4153859
+tt0116378,1996,Golden Lion,,False,True,The Funeral,nm0001206,Abel Ferrara,The Funeral,1996.0,Crime,3955109
+tt0118043,1996,Golden Lion,,False,True,The Ogre,nm0772522,Volker Schlöndorff,The Ogre,1996.0,Drama,164451
+tt0116790,1996,Honorable Mention,,True,True,Kolya,nm0841232,Jan Sverák,Kolya,1997.0,Comedy,18536478
+tt0116844,1996,OCIC Award - Honorable Mention,,True,True,Lea,nm0299697,Ivan Fíla,Lea,1997.0,Drama,49594
+tt0117669,1996,CICT-IFTC Award,,True,True,Small Wonders,nm5850281,Allan Miller,Small Wonders,1995.0,Biography,70795
+tt0117364,1996,Pasinetti Award,Best Film,True,True,The Portrait of a Lady,nm0001005,Jane Campion,The Portrait of a Lady,1997.0,Drama,11862939
+tt0119250,1997,Golden Lion,,True,False,Fireworks,nm0001429,Takeshi Kitano,Fireworks,1998.0,Crime,1575511
+tt0118851,1997,Golden Lion,,False,True,Chinese Box,nm0911061,Wayne Wang,Chinese Box,1998.0,Drama,6850762
+tt0119773,1997,Golden Lion,,False,True,Dry Cleaning,nm0284774,Anne Fontaine,Dry Cleaning,1999.0,Comedy,46409
+tt0119780,1997,Golden Lion,,False,False,"Niagara, Niagara",nm0331606,Bob Gosse,"Niagara, Niagara",1998.0,Drama,676401
+tt0119832,1997,Golden Lion,,False,False,One Night Stand,nm0001214,Mike Figgis,One Night Stand,1997.0,Drama,8364198
+tt0124115,1997,Golden Lion,,False,False,Seventh Heaven,nm0415245,Benoît Jacquot,Seventh Heaven,1998.0,Drama,249935
+tt0124207,1997,Golden Lion,,False,True,The Thief,nm0161056,Pavel Chukhray,The Thief,1998.0,Crime,3527896
+tt0120521,1997,Golden Lion,,False,True,The Winter Guest,nm0000614,Alan Rickman,The Winter Guest,1997.0,Drama,2757605
+tt0120391,1997,FIPRESCI Prize,,True,True,TwentyFourSeven,nm0276349,Shane Meadows,Twenty Four Seven,1998.0,Comedy,288213
+tt0119237,1997,FIPRESCI Prize - Honorable Mention,,True,True,Gummo,nm0005101,Harmony Korine,Gummo,1997.0,Comedy,371240
+tt0139951,1998,Golden Lion,,True,True,Così ridevano,nm0002167,Gianni Amelio,Così ridevano,2001.0,Drama,164245
+tt0137439,1998,Golden Lion,,False,True,Autumn Tale,nm0006445,Éric Rohmer,Autumn Tale,1998.0,Comedy,6897890
+tt0118843,1998,Golden Lion,,False,True,"Black Cat, White Cat",nm0001437,Emir Kusturica,"Black Cat, White Cat",1998.0,Comedy,1095263
+tt0118798,1998,Golden Lion,,False,False,Bulworth,nm0000886,Warren Beatty,Bulworth,1998.0,Comedy,87481346
+tt0120643,1998,Golden Lion,,False,False,Dancing at Lughnasa,nm0640466,Pat O'Connor,Dancing at Lughnasa,1998.0,Drama,7129845
+tt0150915,1998,Golden Lion,,False,False,Hilary and Jackie,nm0875793,Anand Tucker,Hilary and Jackie,1999.0,Biography,15264191
+tt0119336,1998,Golden Lion,,False,False,Hurlyburly,nm0237292,Anthony Drazan,Hurlyburly,1998.0,Comedy,5623718
+tt0133363,1998,Golden Lion,,False,False,Lovers of the Arctic Circle,nm0575523,Julio Medem,Lovers of the Arctic Circle,1999.0,Drama,1037830
+tt0133122,1998,Golden Lion,,False,True,New Rose Hotel,nm0001206,Abel Ferrara,New Rose Hotel,1998.0,Drama,67068
+tt0119901,1998,Golden Lion,,False,False,Place Vendôme,nm0305368,Nicole Garcia,Place Vendôme,1999.0,Crime,2726823
+tt0128442,1998,Golden Lion,,False,False,Rounders,nm0001093,John Dahl,Rounders,1998.0,Crime,71579710
+tt0152438,1998,Golden Lion,,False,True,The Silence,nm0538532,Mohsen Makhmalbaf,The Silence,1999.0,Drama,49952
+tt0169145,1998,FIPRESCI Prize,Best Film,True,True,Cabaret Balkan,nm0664607,Goran Paskaljevic,Cabaret Balkan,1999.0,Drama,165719
+tt0170705,1998,FIPRESCI Prize,Best First Work,True,True,Train of Life,nm0586123,Radu Mihaileanu,Train of Life,1999.0,Comedy,5303591
+tt0119842,1998,Isvema Award,,True,True,Orphans,nm0611932,Peter Mullan,Orphans,2000.0,Comedy,163461
+tt0127536,1998,Max Factor Award,,True,True,Elizabeth,nm0794246,Jenny Shircore,Elizabeth,1999.0,Biography,174352619
+tt0209189,1999,Golden Lion,,True,True,Not One Less,nm0955443,Yimou Zhang,Not One Less,2000.0,Drama,1794243
+tt0204709,1999,Golden Lion,,False,False,An Affair of Love,nm0285090,Frédéric Fonteyne,An Affair of Love,2000.0,Drama,1124454
+tt0142201,1999,Golden Lion,,False,False,Crazy in Alabama,nm0000104,Antonio Banderas,Crazy in Alabama,1999.0,Comedy,6094986
+tt0144715,1999,Golden Lion,,False,True,Holy Smoke,nm0001005,Jane Campion,Holy Smoke,2000.0,Comedy,5314269
+tt0186253,1999,Golden Lion,,False,True,Jesus' Son,nm0533744,Alison Maclean,Jesus' Son,2000.0,Drama,3851164
+tt0119603,1999,Golden Lion,,False,False,Mal,nm0763961,Alberto Seixas Santos,Mal,2000.0,Drama,540
+tt0124315,1999,Golden Lion,,False,False,The Cider House Rules,nm0002120,Lasse Hallström,The Cider House Rules,2000.0,Drama,221167383
+tt0209463,1999,Golden Lion,,False,True,The Wind Will Carry Us,nm0452102,Abbas Kiarostami,The Wind Will Carry Us,2000.0,Drama,767560
+tt0151568,1999,Golden Lion,,False,False,Topsy-Turvy,nm0005139,Mike Leigh,Topsy-Turvy,2000.0,Biography,18687656
+tt0120601,1999,FIPRESCI Prize,Parallel Sections,True,True,Being John Malkovich,nm0005069,Spike Jonze,Being John Malkovich,1999.0,Comedy,69801596
+tt0120663,1999,"Filmcritica ""Bastone Bianco"" Award",,True,True,Eyes Wide Shut,nm0000040,Stanley Kubrick,Eyes Wide Shut,1999.0,Drama,333856393
+tt0181396,1999,Rota Soundtrack Award,,True,True,But Forever in My Mind,nm0120667,Paolo Buonvino,But Forever in My Mind,2000.0,Comedy,35469
+tt0255094,2000,Golden Lion,,True,True,The Circle,nm0070159,Jafar Panahi,The Circle,2000.0,Drama,1889650
+tt0247196,2000,Golden Lion,,False,True,Before Night Falls,nm0773603,Julian Schnabel,Before Night Falls,2001.0,Biography,18670332
+tt0254325,2000,Golden Lion,,False,False,Comedy of Innocence,nm0749914,Raoul Ruiz,Comedy of Innocence,2000.0,Drama,49633
+tt0205271,2000,Golden Lion,,False,False,Dr. T & the Women,nm0000265,Robert Altman,Dr. T & the Women,2000.0,Comedy,52809334
+tt0255327,2000,Golden Lion,,False,False,Durian Durian,nm0150897,Fruit Chan,Durian Durian,2001.0,Drama,6162
+tt0255321,2000,Golden Lion,,False,True,Liam,nm0001241,Stephen Frears,Liam,2001.0,Drama,4259195
+tt0239381,2000,Golden Lion,,False,False,O Fantasma,nm0735134,João Pedro Rodrigues,O Fantasma,2001.0,Drama,364035
+tt0238891,2000,Golden Lion,,False,True,One Hundred Steps,nm0320285,Marco Tullio Giordana,One Hundred Steps,2010.0,Biography,253274
+tt0250809,2000,Golden Lion,,False,True,Our Lady of the Assassins,nm0775447,Barbet Schroeder,Our Lady of the Assassins,2000.0,Crime,1691670
+tt0255589,2000,Golden Lion,,False,True,The Isle,nm1104118,Ki-duk Kim,The Isle,2002.0,Drama,64529
+tt0206917,2000,Golden Lion,,False,False,The Man Who Cried,nm0006845,Sally Potter,The Man Who Cried,2001.0,Drama,2976630
+tt0200257,2000,Golden Lion,,False,True,Word and Utopia,nm0210701,Manoel de Oliveira,Word and Utopia,2000.0,Biography,5656
+tt0262826,2000,FIPRESCI Prize,Best First Feature,True,True,Thomas in Love,nm0719348,Pierre-Paul Renders,Thomas in Love,2000.0,Comedy,228787
+tt0260332,2000,UNESCO Award,,True,True,The Day I Became a Woman,nm0581863,Marzieh Makhmalbaf,The Day I Became a Woman,2000.0,Comedy,440514
+tt0251433,2000,Future Film Festival Digital Award,,True,True,Time and Tide,nm0007139,Hark Tsui,Time and Tide,2001.0,Others,366349
+tt0265343,2001,Golden Lion,,True,True,Monsoon Wedding,nm0619762,Mira Nair,Monsoon Wedding,2002.0,Comedy,63493760
+tt0291003,2001,Golden Lion,,False,True,Behind the Sun,nm0758574,Walter Salles,Behind the Sun,2001.0,Drama,1194026
+tt0242193,2001,Golden Lion,,False,False,Bully,nm0164187,Larry Clark,Bully,2001.0,Biography,1702149
+tt0290661,2001,Golden Lion,,False,True,Dog Days,nm0782430,Ulrich Seidl,Dog Days,2002.0,Drama,805384
+tt0290654,2001,Golden Lion,,False,False,Hollywood Hong-Kong,nm0150897,Fruit Chan,Hollywood Hong-Kong,2002.0,Comedy,60848
+tt0256084,2001,Golden Lion,,False,False,How Harry Became a Tree,nm0664607,Goran Paskaljevic,How Harry Became a Tree,2001.0,Drama,164853
+tt0282701,2001,Golden Lion,,False,True,Light of My Eyes,nm0681535,Giuseppe Piccioni,Light of My Eyes,2002.0,Drama,369
+tt0290823,2001,Golden Lion,,False,True,Secret Ballot,nm0668165,Babak Payami,Secret Ballot,2002.0,Comedy,337772
+tt0290423,2001,Golden Lion,,False,False,The Afternoon of a Torturer,nm0684596,Lucian Pintilie,The Afternoon of a Torturer,2002.0,Biography,17973
+tt0279977,2001,Golden Lion,,False,True,The Navigators,nm0516360,Ken Loach,The Navigators,2003.0,Comedy,2527200
+tt0230600,2001,Golden Lion,,False,False,The Others,nm0024622,Alejandro Amenábar,The Others,2001.0,Others,441226619
+tt0253840,2001,Golden Lion,,False,False,The Triumph of Love,nm0672543,Clare Peploe,The Triumph of Love,2002.0,Comedy,1348390
+tt0243017,2001,Golden Lion,,False,True,Waking Life,nm0000500,Richard Linklater,Waking Life,2001.0,Others,8870955
+tt0290841,2001,Golden Lion,,False,True,Wild Innocence,nm0308042,Philippe Garrel,Wild Innocence,2001.0,Comedy,31909
+tt0245574,2001,Golden Lion,,False,True,Y tu mamá también,nm0190859,Alfonso Cuarón,Y Tu Mamá También,2002.0,Drama,67449250
+tt0288092,2001,Luigi De Laurentiis Award,,True,True,Bread and Milk,nm0194156,Jan Cvitkovic,Bread and Milk,2002.0,Drama,4759
+tt0296210,2001,Cinema of the Present - Special Jury Award,,True,True,Deep Breath,nm0640913,Damien Odoul,Deep Breath,2001.0,Drama,37647
+tt0298238,2001,Netpac Award,,True,True,Quitting,nm0955434,Yang Zhang,Quitting,2002.0,Biography,63848
+tt0279065,2001,Don Quixote Award,,True,True,Time Out,nm0134559,Laurent Cantet,Time Out,2001.0,Drama,2390754
+tt0296809,2001,UNESCO Award,,True,True,Porto of My Childhood,nm0210701,Manoel de Oliveira,Porto of My Childhood,2002.0,Biography,55607
+tt0212720,2001,Future Film Festival Digital Award,,True,True,A.I. Artificial Intelligence,nm0000229,Steven Spielberg,A.I. Artificial Intelligence,2001.0,Others,451578068
+tt0295959,2001,'CinemAvvenire' Award,Cinema for Peace Award,True,True,Sons and Daughters,nm0065009,Marco Bechis,Sons and Daughters,2002.0,Drama,417251
+tt0318411,2002,Golden Lion,,True,False,The Magdalene Sisters,nm0611932,Peter Mullan,The Magdalene Sisters,2003.0,Drama,35990538
+tt0296145,2002,Golden Lion,,False,False,A Scandalous Journey,nm0686375,Michele Placido,A Scandalous Journey,2003.0,Biography,9406146
+tt0318780,2002,Golden Lion,,False,False,Almost Peaceful,nm0222545,Michel Deville,Almost Peaceful,2004.0,Comedy,930697
+tt0283915,2002,Golden Lion,,False,False,Bear's Kiss,nm0091076,Sergei Bodrov,Bear's Kiss,2002.0,Drama,295829
+tt0301199,2002,Golden Lion,,False,True,Dirty Pretty Things,nm0001241,Stephen Frears,Dirty Pretty Things,2003.0,Crime,30380379
+tt0330229,2002,Golden Lion,,False,False,Dolls,nm0001429,Takeshi Kitano,Dolls,2003.0,Drama,7493016
+tt0297884,2002,Golden Lion,,False,True,Far from Heaven,nm0001331,Todd Haynes,Far from Heaven,2003.0,Drama,63190484
+tt0120679,2002,Golden Lion,,False,True,Frida,nm0853380,Julie Taymor,Frida,2002.0,Biography,115840167
+tt0329106,2002,Golden Lion,,False,False,Führer Ex,nm0094280,Winfried Bonengel,Führer Ex,2003.0,Drama,72813
+tt0332605,2002,Golden Lion,,False,True,House of Fools,nm0464846,Andrey Konchalovskiy,House of Fools,2003.0,Drama,303050
+tt0246719,2002,Golden Lion,,False,False,Julie Walking Home,nm0002140,Agnieszka Holland,Julie Walking Home,2003.0,Drama,1254
+tt0301414,2002,Golden Lion,,False,True,Man on the Train,nm0496312,Patrice Leconte,Man on the Train,2003.0,Crime,14286657
+tt0329731,2002,Golden Lion,,False,True,Maximum Velocity (V-Max),nm0895835,Daniele Vicari,Maximum Velocity (V-Max),2002.0,Drama,538150
+tt0296099,2002,Golden Lion,,False,True,My Voice My Voice,nm0326884,Flora Gomes,My Voice My Voice,2003.0,Others,18974
+tt0300237,2002,Golden Lion,,False,False,Naked,nm0246903,Doris Dörrie,Naked,2002.0,Comedy,8111133
+tt0290435,2002,Golden Lion,,False,False,Nearest to Heaven,nm0551217,Tonie Marshall,Nearest to Heaven,2002.0,Drama,765428
+tt0320193,2002,Golden Lion,,False,True,Oasis,nm0496969,Chang-dong Lee,Oasis,2004.0,Drama,9064124
+tt0257044,2002,Golden Lion,,False,False,Road to Perdition,nm0005222,Sam Mendes,Road to Perdition,2002.0,Crime,405040373
+tt0329095,2002,Golden Lion,,False,False,The Power of the Past,nm0310802,Piergiorgio Gay,The Power of the Past,2004.0,Drama,170290
+tt0212132,2002,Golden Lion,,False,True,The Tracker,nm0208854,Rolf de Heer,The Tracker,2003.0,Drama,1023433
+tt0299117,2002,Luigi De Laurentiis Award,,True,True,Roger Dodger,nm1071898,Dylan Kidd,Roger Dodger,2002.0,Comedy,4512367
+tt0332831,2002,San Marco Prize,,True,True,Springtime in a Small Town,nm0862514,Zhuangzhuang Tian,Springtime in a Small Town,2002.0,Drama,142035
+tt0332817,2002,San Marco Prize - Special Mention,,True,True,The Virgin of Lust,nm0728149,Arturo Ripstein,The Virgin of Lust,2002.0,Drama,91131
+tt0328802,2002,FIPRESCI Prize,Best Short Film,True,True,September 11,nm0516360,Ken Loach,September 11,2003.0,Drama,1935853
+tt0328831,2002,Wella Prize,,True,True,Soul Mate,nm0148982,Valentina Cervi,Soul Mate,2003.0,Comedy,1463683
+tt0309377,2002,Future Film Festival Digital Award,,True,True,Blood Work,nm0000142,Clint Eastwood,Blood Work,2002.0,Others,82066403
+tt0280970,2002,Future Film Festival Digital Award - Special Mention,,True,True,My Name Is Tanino,nm0899501,Paolo Virzì,My Name Is Tanino,2003.0,Comedy,1533606
+tt0118926,2002,Rota Soundtrack Award,,True,True,The Dancer Upstairs,nm0407076,Alberto Iglesias,The Dancer Upstairs,2003.0,Crime,10590544
+tt0376968,2003,Golden Lion,,True,True,The Return,nm1168657,Andrey Zvyagintsev,The Return,2004.0,Drama,12418693
+tt0315733,2003,Golden Lion,,False,True,21 Grams,nm0327944,Alejandro G. Iñárritu,21 Grams,2004.0,Crime,105859675
+tt0372782,2003,Golden Lion,,False,False,A Good Lawyer's Wife,nm0407992,Sang-soo Im,A Good Lawyer's Wife,2004.0,Drama,110021
+tt0364093,2003,Golden Lion,,False,True,A Talking Picture,nm0210701,Manoel de Oliveira,A Talking Picture,2003.0,Comedy,859265
+tt0349079,2003,Golden Lion,,False,False,Alila,nm0321159,Amos Gitai,Alila,2004.0,Comedy,335349
+tt0345061,2003,Golden Lion,,False,False,Code 46,nm0935863,Michael Winterbottom,Code 46,2004.0,Drama,1607952
+tt0329584,2003,Golden Lion,,False,False,Feelings,nm0527852,Noémie Lvovsky,Feelings,2003.0,Drama,11614476
+tt0377569,2003,Golden Lion,,False,True,"Good Morning, Night",nm0069166,Marco Bellocchio,"Good Morning, Night",2004.0,Drama,5834250
+tt0377556,2003,Golden Lion,,False,True,"Goodbye, Dragon Inn",nm0158857,Ming-liang Tsai,"Goodbye, Dragon Inn",2003.0,Comedy,1470800
+tt0314197,2003,Golden Lion,,False,False,Imagining Argentina,nm0358960,Christopher Hampton,Imagining Argentina,2004.0,Drama,528076
+tt0357037,2003,Golden Lion,,False,False,Pornography,nm0464383,Jan Jakub Kolski,Pornography,2003.0,Drama,52261
+tt0339558,2003,Golden Lion,,False,True,Raja,nm0230695,Jacques Doillon,Raja,2003.0,Drama,380756
+tt0298131,2003,Golden Lion,,False,True,Rosenstrasse,nm0903137,Margarethe von Trotta,Rosenstrasse,2004.0,Drama,9183718
+tt0378725,2003,Golden Lion,,False,False,Secret File,nm0073047,Paolo Benvenuti,Secret File,2003.0,Drama,395050
+tt0363226,2003,Golden Lion,,False,True,The Blind Swordsman: Zatoichi,nm0001429,Takeshi Kitano,The Blind Swordsman: Zatoichi,2004.0,Others,48729478
+tt0377923,2003,Golden Lion,,False,False,The Floating Landscape,nm0481674,Miu-Suet Lai,The Floating Landscape,2003.0,Others,563084
+tt0378362,2003,Golden Lion,,False,True,The Miracle,nm0935529,Edoardo Winspeare,The Miracle,2003.0,Drama,708272
+tt0315110,2003,Golden Lion,,False,False,Twentynine Palms,nm0241622,Bruno Dumont,Twentynine Palms,2004.0,Drama,302473
+tt0389778,2003,Luigi De Laurentiis Award - Special Mention,,True,True,Three-Step Dance,nm1503387,Salvatore Mereu,Three-Step Dance,2004.0,Drama,409906
+tt0379577,2003,San Marco Prize,,True,True,Vodka Lemon,nm0757954,Hiner Saleem,Vodka Lemon,2004.0,Comedy,180408
+tt0388395,2003,San Marco Special Jury Award,,True,True,Schultze Gets the Blues,nm1491557,Michael Schorr,Schultze Gets the Blues,2004.0,Comedy,6197009
+tt0384708,2003,UNESCO Award,,True,True,Mud,nm0952077,Dervis Zaim,Mud,2003.0,Drama,20431
+tt0358676,2003,Pasinetti Award - Special Mention,,True,True,Il ritorno di Cagliostro,nm0123309,Luigi Maria Burruano,Il ritorno di Cagliostro,2003.0,Comedy,311405
+tt0306734,2003,Wella Prize,,True,True,The Divorce,nm0412465,James Ivory,The Divorce,2003.0,Comedy,30556471
+tt0335266,2003,Lina Mangiacapre Award,,True,True,Lost in Translation,nm0001068,Sofia Coppola,Lost in Translation,2003.0,Drama,225532721
+tt0318988,2003,'Cult Network Italia' Prize - Special Mention,,True,True,Ana and the Others,nm0613851,Celina Murga,Ana and the Others,2004.0,Drama,23391
+tt0374574,2003,Rota Soundtrack Award,,True,True,"The Dog, the General, and the Birds",nm0345991,Andrea Guerra,"The Dog, the General, and the Birds",2004.0,Others,322416
+tt0330252,2003,Special Pasinetti Award,,True,True,The Water... the Fire,nm0256488,Luciano Emmer,The Water... the Fire,2003.0,Others,72232
+tt0383694,2004,Golden Lion,,True,False,Vera Drake,nm0005139,Mike Leigh,Vera Drake,2005.0,Crime,22707734
+tt0423866,2004,Golden Lion,,False,True,3-Iron,nm1104118,Ki-duk Kim,3-Iron,2005.0,Crime,4297855
+tt0354356,2004,Golden Lion,,False,False,5x2,nm0654830,François Ozon,5x2,2005.0,Drama,10149098
+tt0388526,2004,Golden Lion,,False,False,Another Life,nm0686375,Michele Placido,Another Life,2005.0,Drama,3586943
+tt0337876,2004,Golden Lion,,False,False,Birth,nm0322242,Jonathan Glazer,Birth,2004.0,Drama,38848289
+tt0412596,2004,Golden Lion,,False,False,Café Lumière,nm0396284,Hsiao-Hsien Hou,Café Lumière,2004.0,Drama,194196
+tt0347149,2004,Golden Lion,,False,True,Howl's Moving Castle,nm0594503,Hayao Miyazaki,Howl's Moving Castle,2005.0,Others,317466163
+tt0344273,2004,Golden Lion,,False,False,Kings & Queen,nm0221611,Arnaud Desplechin,Kings & Queen,2004.0,Comedy,1219674
+tt0362004,2004,Golden Lion,,False,False,Palindromes,nm0001754,Todd Solondz,Palindromes,2004.0,Comedy,1834258
+tt0424365,2004,Golden Lion,,False,True,Promised Land,nm0321159,Amos Gitai,Promised Land,2005.0,Drama,32496
+tt0423277,2004,Golden Lion,,False,True,Stray Dogs,nm0581863,Marzieh Makhmalbaf,Stray Dogs,2004.0,Drama,60386
+tt0422491,2004,Golden Lion,,False,False,The Intruder,nm0219136,Claire Denis,The Intruder,2005.0,Drama,108017
+tt0345032,2004,Golden Lion,,False,True,The Keys to the House,nm0002167,Gianni Amelio,The Keys to the House,2004.0,Drama,6074052
+tt0369702,2004,Golden Lion,,False,True,The Sea Inside,nm0024622,Alejandro Amenábar,The Sea Inside,2005.0,Biography,53788446
+tt0423176,2004,Golden Lion,,False,False,The World,nm0422605,Zhangke Jia,The World,2004.0,Drama,415889
+tt0241025,2004,Golden Lion,,False,False,Vanity Fair,nm0619762,Mira Nair,Vanity Fair,2004.0,Drama,47906383
+tt0422621,2004,Golden Lion,,False,True,Working Slowly (Radio Alice),nm0157337,Guido Chiesa,Working Slowly (Radio Alice),2004.0,Drama,1520157
+tt0361670,2004,Luigi De Laurentiis Award,,True,True,The Great Journey,nm0275044,Ismaël Ferroukhi,The Great Journey,2005.0,Drama,63246
+tt0385889,2004,Venice Horizons Award,Best Film,False,True,A Less Bad World,nm0002159,Alejandro Agresti,A Less Bad World,2004.0,Drama,13669
+tt0369672,2004,Venice Horizons Award,Best Film,False,False,A Love Song for Bobby Long,nm0300015,Shainee Gabel,A Love Song for Bobby Long,2005.0,Drama,2953253
+tt0389738,2004,Venice Horizons Award,Best Film,False,False,Agnes and His Brothers,nm0753912,Oskar Roehler,Agnes and His Brothers,2006.0,Comedy,1959411
+tt0362526,2004,Venice Horizons Award,Best Film,False,False,Criminal,nm0414423,Gregory Jacobs,Criminal,2004.0,Comedy,3131823
+tt0382691,2004,Venice Horizons Award,Best Film,False,True,Gilles' Wife,nm0285090,Frédéric Fonteyne,Gilles' Wife,2005.0,Drama,388237
+tt0432131,2004,Venice Horizons Award,Best Film,False,False,I Can See It in Your Eyes,nm0763460,Valia Santella,I Can See It in Your Eyes,2004.0,Drama,297695
+tt0424272,2004,Venice Horizons Award,Best Film,False,True,Melancholian 3 huonetta,nm0393345,Pirjo Honkasalo,Melancholian 3 huonetta,2005.0,Others,51771
+tt0370986,2004,Venice Horizons Award,Best Film,False,False,Mysterious Skin,nm0000777,Gregg Araki,Mysterious Skin,2005.0,Drama,2951181
+tt0359254,2004,Venice Horizons Award,Best Film,False,False,Rolling Family,nm0871086,Pablo Trapero,Rolling Family,2004.0,Comedy,168405
+tt0424536,2004,Venice Horizons Award,Best Film,False,True,Vento di terra,nm0550059,Vincenzo Marra,Vento di terra,2005.0,Drama,61814
+tt0419279,2004,Venice Horizons Award,Best Film,False,True,Yesterday,nm0740213,Darrell Roodt,Yesterday,2005.0,Drama,323789
+tt0445071,2004,Pasinetti Award - Special Mention,,True,True,How We Got the Italian Movie Business Into Trouble: The True Story of Franco and Ciccio,nm0162668,Daniele Ciprì,How We Got the Italian Movie Business Into Trouble: The True Story of Franco and Ciccio,2004.0,Others,28083
+tt0424024,2004,Label Europa Cinemas,,True,True,Darwin's Nightmare,nm0767012,Hubert Sauper,Darwin's Nightmare,2005.0,Others,4182824
+tt0369339,2004,Future Film Festival Digital Award,,True,True,Collateral,nm0000520,Michael Mann,Collateral,2004.0,Crime,429737269
+tt0308644,2004,Laterna Magica Prize,,True,True,Finding Neverland,nm0286975,Marc Forster,Finding Neverland,2004.0,Biography,226046811
+tt0388795,2005,Golden Lion,,True,False,Brokeback Mountain,nm0000487,Ang Lee,Brokeback Mountain,2006.0,Drama,336486379
+tt0443446,2005,Golden Lion,,False,True,Don't Tell,nm0173724,Cristina Comencini,Don't Tell,2006.0,Drama,7613271
+tt0435479,2005,Golden Lion,,False,False,Gabrielle,nm0161717,Patrice Chéreau,Gabrielle,2005.0,Drama,3987344
+tt0433383,2005,Golden Lion,,False,True,"Good Night, and Good Luck.",nm0000123,George Clooney,"Good Night, and Good Luck.",2005.0,Biography,111477892
+tt0381690,2005,Golden Lion,,False,True,Heading South,nm0134559,Laurent Cantet,Heading South,2006.0,Drama,5264816
+tt0474694,2005,Golden Lion,,False,False,I giorni dell'abbandono,nm0264967,Roberto Faenza,I giorni dell'abbandono,2005.0,Drama,5018456
+tt0474917,2005,Golden Lion,,False,False,La seconda notte di nozze,nm0002194,Pupi Avati,La seconda notte di nozze,2005.0,Comedy,5887065
+tt0451094,2005,Golden Lion,,False,True,Lady Vengeance,nm0661791,Chan-wook Park,Lady Vengeance,2005.0,Crime,30878079
+tt0425236,2005,Golden Lion,,False,True,Mary,nm0001206,Abel Ferrara,Mary,2006.0,Drama,1093266
+tt0377107,2005,Golden Lion,,False,False,Proof,nm0006960,John Madden,Proof,2005.0,Drama,27870628
+tt0443844,2005,Golden Lion,,False,True,Regular Lovers,nm0308042,Philippe Garrel,Regular Lovers,2005.0,Drama,161171
+tt0368222,2005,Golden Lion,,False,False,Romance & Cigarettes,nm0001806,John Turturro,Romance & Cigarettes,2007.0,Comedy,4281048
+tt0478044,2005,Golden Lion,,False,False,Takeshis',nm0001429,Takeshi Kitano,Takeshis',2005.0,Comedy,1643366
+tt0355295,2005,Golden Lion,,False,False,The Brothers Grimm,nm0000416,Terry Gilliam,The Brothers Grimm,2005.0,Others,186368572
+tt0387131,2005,Golden Lion,,False,True,The Constant Gardener,nm0576987,Fernando Meirelles,The Constant Gardener,2005.0,Drama,150995124
+tt0475169,2005,Luigi De Laurentiis Award,,True,True,13 Tzameti,nm1201875,Géla Babluani,13 Tzameti,2006.0,Crime,1172365
+tt0446685,2005,Venice Horizons Award,Best Film,False,False,Drawing Restraint 9,nm0056030,Matthew Barney,Drawing Restraint 9,2006.0,Others,642090
+tt0404030,2005,Venice Horizons Award,Best Film,False,True,Everything Is Illuminated,nm0000630,Liev Schreiber,Everything Is Illuminated,2005.0,Comedy,6817578
+tt0478160,2005,Venice Horizons Award,Best Film,False,False,Into Great Silence,nm0344973,Philip Gröning,Into Great Silence,2006.0,Others,7260498
+tt0480126,2005,Venice Horizons Award,Best Film,False,True,La dignidad de los nadies,nm0812625,Fernando E. Solanas,La dignidad de los nadies,2006.0,Others,7603
+tt0430576,2005,Venice Horizons Award,Best Film,False,True,The Secret Life of Words,nm0170043,Isabel Coixet,The Secret Life of Words,2006.0,Drama,8143516
+tt0443693,2005,Venice Horizons Award,Best Film,False,True,The Wild Blue Yonder,nm0001348,Werner Herzog,The Wild Blue Yonder,2006.0,Others,8735
+tt0478331,2005,Venice Horizons Award,Best Film,False,False,Workingman's Death,nm0322198,Michael Glawogger,Workingman's Death,2006.0,Others,5694
+tt0477806,2005,UNESCO Award,,True,True,La passione di Giosué l'Ebreo,nm0778465,Pasquale Scimeca,La passione di Giosué l'Ebreo,2005.0,Others,29384
+tt0446602,2005,Pasinetti Award,Horizons,True,True,Texas,nm0661001,Fausto Paravidino,Texas,2005.0,Drama,246462
+tt0431979,2005,Label Europa Cinemas,,True,True,Le petit lieutenant,nm0064741,Xavier Beauvois,Le petit lieutenant,2006.0,Crime,5373144
+tt0475263,2005,Open Prize,,True,True,Everlasting Regret,nm0477102,Stanley Kwan,Everlasting Regret,2005.0,Drama,517606
+tt0121164,2005,Future Film Festival Digital Award,,True,True,Corpse Bride,nm0425843,Mike Johnson,Corpse Bride,2005.0,Others,219239323
+tt0859765,2006,Golden Lion,,True,False,Still Life,nm0422605,Zhangke Jia,Still Life,2007.0,Drama,3191720
+tt0389557,2006,Golden Lion,,False,True,Black Book,nm0000682,Paul Verhoeven,Black Book,2007.0,Drama,38301164
+tt0308055,2006,Golden Lion,,False,True,Bobby,nm0000389,Emilio Estevez,Bobby,2006.0,Biography,40534363
+tt0206634,2006,Golden Lion,,False,True,Children of Men,nm0190859,Alfonso Cuarón,Children of Men,2007.0,Drama,133384284
+tt0825241,2006,Golden Lion,,False,True,Dry Season,nm0757958,Mahamat-Saleh Haroun,Dry Season,2007.0,Drama,63741
+tt0847877,2006,Golden Lion,,False,True,Euphoria,nm2196782,Ivan Vyrypaev,Euphoria,2007.0,Drama,470440
+tt0796212,2006,Golden Lion,,False,False,Exiled,nm0864775,Johnnie To,Exiled,2007.0,Others,1595485
+tt0832347,2006,Golden Lion,,False,False,Falling,nm0016475,Barbara Albert,Falling,2006.0,Drama,32916
+tt0465188,2006,Golden Lion,,False,True,Golden Door,nm0187740,Emanuele Crialese,Golden Door,2006.0,Drama,10509433
+tt0427969,2006,Golden Lion,,False,False,Hollywoodland,nm0002339,Allen Coulter,Hollywoodland,2006.0,Biography,39329314
+tt0855824,2006,Golden Lion,,False,True,I Don't Want to Sleep Alone,nm0158857,Ming-liang Tsai,I Don't Want to Sleep Alone,2007.0,Drama,301470
+tt0862946,2006,Golden Lion,,False,False,Mushi-Shi: The Movie,nm0960028,Katsuhiro Ôtomo,Mushi-Shi: The Movie,2007.0,Others,5371237
+tt0851578,2006,Golden Lion,,False,False,Paprika,nm0464804,Satoshi Kon,Paprika,2007.0,Others,2241076
+tt0498120,2006,Golden Lion,,False,True,Private Fears In Public Places (Coeurs),nm0720297,Alain Resnais,Private Fears in Public Places,2006.0,Drama,8851648
+tt0855895,2006,Golden Lion,,False,True,Private Property,nm1050098,Joachim Lafosse,Private Property,2007.0,Drama,747624
+tt0815227,2006,Golden Lion,,False,False,Quei loro incontri,nm0833708,Jean-Marie Straub,Quei loro incontri,2006.0,Drama,3666
+tt0477731,2006,Golden Lion,,False,False,Syndromes and a Century,nm0917405,Apichatpong Weerasethakul,Syndromes and a Century,2006.0,Drama,110582
+tt0387877,2006,Golden Lion,,False,False,The Black Dahlia,nm0000361,Brian De Palma,The Black Dahlia,2006.0,Crime,90528441
+tt0414993,2006,Golden Lion,,False,False,The Fountain,nm0004716,Darren Aronofsky,The Fountain,2006.0,Drama,33129207
+tt0448131,2006,Golden Lion,,False,True,The Missing Star,nm0002167,Gianni Amelio,The Missing Star,2006.0,Drama,3647381
+tt0436697,2006,Golden Lion,,False,True,The Queen,nm0001241,Stephen Frears,The Queen,2006.0,Biography,228060215
+tt0475241,2006,Luigi De Laurentiis Award,,True,True,Khadak,nm0112456,Peter Brosens,Khadak,2007.0,Drama,50048
+tt0874959,2006,Venice Horizons Award,Best Film,False,True,Don't Make Any Plans for Tonight,nm0851611,Gianluca Maria Tavarelli,Don't Make Any Plans for Tonight,2007.0,Drama,51505
+tt0462230,2006,Venice Horizons Award,Best Film,False,False,El cobrador: In God We Trust,nm0496694,Paul Leduc,El cobrador: In God We Trust,2007.0,Drama,140494
+tt0420609,2006,Venice Horizons Award,Best Film,False,False,Infamous,nm0569790,Douglas McGrath,Infamous,2006.0,Biography,4767840
+tt0841175,2006,Venice Horizons Award,Best Film,False,False,Love for Sale,nm0014694,Karim Aïnouz,Love for Sale,2007.0,Drama,34105
+tt0844742,2006,Venice Horizons Award,Best Film,False,False,Requiem from Java,nm0637838,Garin Nugroho,Requiem from Java,2008.0,Others,34415
+tt0963792,2006,Venice Horizons Award,Best Film,False,False,Roma wa la n'touma,nm1094802,Hala Abdallah,Roma wa la n'touma,2007.0,Drama,31517
+tt0496319,2006,Venice Horizons Award,Best Film,False,False,The Hottest State,nm0000160,Ethan Hawke,The Hottest State,2007.0,Drama,206738
+tt0478049,2006,Venice Horizons Award,Best Film,False,False,The U.S. vs. John Lennon,nm0494938,David Leaf,The U.S. vs. John Lennon,2006.0,Biography,3170370
+tt1064775,2006,Venice Horizons Award,,True,True,Courthouse on Horseback,nm0514952,Jie Liu,Courthouse on Horseback,2007.0,Drama,409931
+tt0473488,2006,Critics' Week Award,,True,True,A Guide to Recognizing Your Saints,nm1996918,Dito Montiel,A Guide to Recognizing Your Saints,2006.0,Crime,3233324
+tt0452971,2006,Label Europa Cinemas,,True,True,Dark Blue Almost Black,nm0998110,Daniel Sánchez Arévalo,Dark Blue Almost Black,2007.0,Drama,4172324
+tt0421238,2006,Gucci Prize,,True,True,The Proposition,nm0147022,Nick Cave,The Proposition,2006.0,Crime,8756048
+tt0460829,2006,Future Film Festival Digital Award,,True,True,Inland Empire,nm0000186,David Lynch,Inland Empire,2006.0,Drama,6179168
+tt0465676,2006,Future Film Festival Digital Award - Special Mention,,True,True,The Banquet,nm0271815,Xiaogang Feng,The Banquet,2007.0,Others,28530704
+tt0449607,2006,Award of the City of Rome,Best Film,True,True,Lettere dal Sahara,nm0211548,Vittorio De Seta,Lettere dal Sahara,2006.0,Drama,19217
+tt0778641,2006,Venice Authors Prize,,False,False,Chicha tu madre,nm1386928,Gianfranco Quattrini,Chicha tu madre,2006.0,Drama,8762
+tt0797025,2006,Venice Authors Prize,,False,False,Mientras tanto,nm1195308,Diego Lerman,Mientras tanto,2007.0,Drama,17396
+tt0808357,2007,Golden Lion,,True,True,"Lust, Caution",nm0000487,Ang Lee,"Lust, Caution",2007.0,Drama,87691918
+tt0488478,2007,Golden Lion,,False,False,12,nm0586482,Nikita Mikhalkov,12,2009.0,Crime,9205793
+tt0783233,2007,Golden Lion,,False,True,Atonement,nm0942504,Joe Wright,Atonement,2008.0,Drama,218154223
+tt1085799,2007,Golden Lion,,False,False,"Chaos, This Is",nm0149631,Youssef Chahine,"Chaos, This Is",2008.0,Crime,172764
+tt1094267,2007,Golden Lion,,False,False,Fallen Heroes,nm1671980,Paolo Franchi,Fallen Heroes,2008.0,Crime,98037
+tt1076251,2007,Golden Lion,,False,False,"Help Me, Eros",nm0497642,Kang-sheng Lee,"Help Me, Eros",2008.0,Drama,95966
+tt0368794,2007,Golden Lion,,False,True,I'm Not There,nm0001331,Todd Haynes,I'm Not There,2007.0,Biography,19235999
+tt1071785,2007,Golden Lion,,False,False,Il dolce e l'amaro,nm0691794,Andrea Porporati,Il dolce e l'amaro,2007.0,Drama,1807009
+tt0809425,2007,Golden Lion,,False,False,In the City of Sylvia,nm0346360,José Luis Guerín,In the City of Sylvia,2007.0,Drama,390205
+tt0478134,2007,Golden Lion,,False,True,In the Valley of Elah,nm0353673,Paul Haggis,In the Valley of Elah,2007.0,Crime,44517163
+tt0807054,2007,Golden Lion,,False,True,It's a Free World...,nm0516360,Ken Loach,It's a Free World...,2008.0,Drama,8021642
+tt0969269,2007,Golden Lion,,False,False,Mad Detective,nm0864775,Johnnie To,Mad Detective,2008.0,Others,2515723
+tt0465538,2007,Golden Lion,,False,False,Michael Clayton,nm0006904,Tony Gilroy,Michael Clayton,2007.0,Crime,173710552
+tt0446750,2007,Golden Lion,,False,True,Nightwatching,nm0000425,Peter Greenaway,Nightwatching,2008.0,Biography,845705
+tt0937237,2007,Golden Lion,,False,True,Redacted,nm0000361,Brian De Palma,Redacted,2007.0,Crime,1039618
+tt0857265,2007,Golden Lion,,False,True,Sleuth,nm0000110,Kenneth Branagh,Sleuth,2007.0,Crime,6385660
+tt0906665,2007,Golden Lion,,False,False,Sukiyaki Western Django,nm0586281,Takashi Miike,Sukiyaki Western Django,2008.0,Others,3237906
+tt0443680,2007,Golden Lion,,False,False,The Assassination of Jesse James by the Coward Robert Ford,nm0231596,Andrew Dominik,The Assassination of Jesse James by the Coward Robert Ford,2007.0,Biography,23129805
+tt0838221,2007,Golden Lion,,False,True,The Darjeeling Limited,nm0027572,Wes Anderson,The Darjeeling Limited,2007.0,Others,57462870
+tt0823240,2007,Golden Lion,,False,False,The Romance of Astrea and Celadon,nm0006445,Éric Rohmer,The Romance of Astrea and Celadon,2008.0,Comedy,450965
+tt0487419,2007,Golden Lion,,False,True,The Secret of the Grain,nm0444244,Abdellatif Kechiche,The Secret of the Grain,2008.0,Drama,304952
+tt0769507,2007,Golden Lion,,False,False,The Sun Also Rises,nm0422638,Wen Jiang,The Sun Also Rises,2007.0,Drama,2786557
+tt1086355,2007,Golden Lion,,False,False,The Trial Begins,nm0550059,Vincenzo Marra,The Trial Begins,2010.0,Drama,223437
+tt1039652,2007,Luigi De Laurentiis Award,,True,True,The Zone,nm0687751,Rodrigo Plá,The Zone,2008.0,Drama,3298465
+tt1094235,2007,Venice Horizons Award,Best Film,False,False,Anabazys,nm1070064,Joel Pizzini,Anabazys,2007.0,Others,1660
+tt1093836,2007,Venice Horizons Award,Best Film,False,False,Berlin,nm0773603,Julian Schnabel,Berlin,2008.0,Others,176165
+tt2015288,2007,Venice Horizons Award,Best Film,False,False,Drifter,nm1097048,Cao Guimarães,Drifter,2007.0,Others,3762
+tt0913958,2007,Venice Horizons Award,Best Film,False,True,Jimmy Carter Man from Plains,nm0001129,Jonathan Demme,Jimmy Carter Man from Plains,2007.0,Biography,278950
+tt0915749,2007,Venice Horizons Award,Best Film,False,False,Sad Vacation,nm0031888,Shinji Aoyama,Sad Vacation,2007.0,Drama,33722
+tt1094277,2007,Venice Horizons Award,Best Film,False,False,Staub,nm0084478,Hartmut Bitomsky,Staub,2008.0,Others,16478
+tt1079450,2007,Venice Horizons Award,Best Film,False,False,The Silence Before Bach,nm0691908,Pere Portabella,The Silence Before Bach,2008.0,Others,516297
+tt1051905,2007,Venice Horizons Award,Best Film,False,False,The Story of Richard O,nm0640913,Damien Odoul,The Story of Richard O,2007.0,Drama,87467
+tt1094635,2007,Venice Horizons Award,Best Film,False,True,With the Girl of Black Soil,nm0421817,Soo-il Jeon,With the Girl of Black Soil,2008.0,Drama,97537
+tt1094286,2007,Venice Horizons Award,Best Film,False,True,Wuyong,nm0422605,Zhangke Jia,Wuyong,2007.0,Others,21735
+tt0834170,2007,Venice Horizons Award,,True,True,Autumn Ball,nm1803711,Veiko Õunpuu,Autumn Ball,2007.0,Drama,20758
+tt1093382,2007,Pasinetti Award,Best Film,True,True,Non pensarci,nm0952820,Gianni Zanasi,Non pensarci,2008.0,Comedy,4212363
+tt1094291,2007,Critics' Week Award,,True,True,The Most Distant Course,nm0510905,Jing-Jie Lin,The Most Distant Course,2007.0,Drama,117438
+tt0770829,2007,Isvema Award,,True,True,The Girl by the Lake,nm0596403,Andrea Molaioli,The Girl by the Lake,2008.0,Drama,5813991
+tt0935030,2007,Queer Lion,,False,False,24 Bars,nm0504267,Jalil Lespert,24 Bars,2007.0,Drama,158188
+tt1093812,2007,Queer Lion,,False,False,Callas assoluta,nm1197963,Philippe Kohly,Callas assoluta,2007.0,Others,53400
+tt1094278,2007,Label Europa Cinemas,,True,True,Tricks,nm1435889,Andrzej Jakimowski,Tricks,2009.0,Comedy,1532045
+tt1094275,2007,Young Cinema Award,Alternatives,True,True,Under the Bombs,nm2127004,Philippe Aractingi,Under the Bombs,2008.0,Drama,591081
+tt1087869,2007,Brian Award,,True,True,Le ragioni dell'aragosta,nm0350127,Sabina Guzzanti,Le ragioni dell'aragosta,2007.0,Comedy,752859
+tt0901485,2007,"Filmcritica ""Bastone Bianco"" Award",,True,True,A Girl Cut in Two,nm0001031,Claude Chabrol,A Girl Cut in Two,2007.0,Drama,10883313
+tt0855805,2007,Venice Authors Prize,,False,False,Falkenberg Farewell,nm2376562,Jesper Ganslandt,Falkenberg Farewell,2007.0,Drama,652200
+tt1125849,2008,Golden Lion,,True,False,The Wrestler,nm0004716,Darren Aronofsky,The Wrestler,2009.0,Drama,85861937
+tt1056067,2008,Golden Lion,,False,False,A Perfect Day,nm0654858,Ferzan Ozpetek,A Perfect Day,2008.0,Drama,5174623
+tt1217243,2008,Golden Lion,,False,False,Achilles and the Tortoise,nm0001429,Takeshi Kitano,Achilles and the Tortoise,2008.0,Comedy,1114616
+tt1054674,2008,Golden Lion,,False,False,Birdwatchers,nm0065009,Marco Bechis,Birdwatchers,2009.0,Drama,980687
+tt1284577,2008,Golden Lion,,False,True,Gabbla,nm1589701,Tariq Teguia,Gabbla,2009.0,Drama,18869
+tt1249306,2008,Golden Lion,,False,True,Giovanna's Father,nm0002194,Pupi Avati,Giovanna's Father,2011.0,Drama,5511161
+tt1275799,2008,Golden Lion,,False,False,Il seme della discordia,nm0181109,Pappi Corsicato,Il seme della discordia,2008.0,Comedy,1742837
+tt0818110,2008,Golden Lion,,False,False,Inju: The Beast in the Shadow,nm0775447,Barbet Schroeder,Inju: The Beast in the Shadow,2009.0,Others,801023
+tt1224153,2008,Golden Lion,,False,False,Jerichow,nm0678857,Christian Petzold,Jerichow,2009.0,Drama,1158821
+tt1284591,2008,Golden Lion,,False,False,Milk,nm0969427,Semih Kaplanoglu,Milk,2009.0,Drama,70759
+tt1284576,2008,Golden Lion,,False,True,Paper Soldier,nm1531700,Aleksey German Jr.,Paper Soldier,2008.0,Drama,342840
+tt1054119,2008,Golden Lion,,False,False,Plastic City,nm0950454,Nelson Lik-wai Yu,Plastic City,2009.0,Others,95541
+tt0876563,2008,Golden Lion,,False,True,Ponyo,nm0594503,Hayao Miyazaki,Ponyo,2009.0,Others,258287166
+tt1084950,2008,Golden Lion,,False,False,Rachel Getting Married,nm0001129,Jonathan Demme,Rachel Getting Married,2008.0,Drama,35392184
+tt1284592,2008,Golden Lion,,False,True,Teza,nm0314340,Haile Gerima,Teza,2009.0,Drama,78295
+tt1068641,2008,Golden Lion,,False,True,The Burning Plain,nm0037247,Guillermo Arriaga,The Burning Plain,2008.0,Crime,6894690
+tt0887912,2008,Golden Lion,,False,True,The Hurt Locker,nm0000941,Kathryn Bigelow,The Hurt Locker,2009.0,Drama,78614415
+tt1171704,2008,Golden Lion,,False,False,The Other One,nm0076349,Patrick-Mario Bernard,The Other One,2009.0,Drama,984947
+tt1056437,2008,Golden Lion,,False,True,The Sky Crawlers,nm0651900,Mamoru Oshii,The Sky Crawlers,2009.0,Others,6985120
+tt1206485,2008,Golden Lion,,False,False,This Night,nm0775573,Werner Schroeter,This Night,2009.0,Drama,49111
+tt1277728,2008,Luigi De Laurentiis Award,,True,True,Mid-August Lunch,nm0223924,Gianni Di Gregorio,Mid-August Lunch,2009.0,Comedy,12058628
+tt1314197,2008,Luigi De Laurentiis Award,,False,False,Iki Çizgi,nm3146722,Selim Evci,Iki Çizgi,2009.0,Drama,19060
+tt1095442,2008,Venice Horizons Award,Best Film,False,True,Goodbye Solo,nm1023919,Ramin Bahrani,Goodbye Solo,2009.0,Drama,2183417
+tt1099226,2008,Venice Horizons Award,Best Film,False,True,Pa-ra-da,nm0690602,Marco Pontecorvo,Pa-ra-da,2009.0,Drama,373991
+tt0814759,2008,Venice Horizons Award,Best Film,False,False,Parc,nm0220774,Arnaud des Pallières,Parc,2008.0,Crime,55256
+tt1270680,2008,Venice Horizons Award,Best Film,False,False,Puisque nous sommes nés,nm0004202,Jean-Pierre Duret,Puisque nous sommes nés,2009.0,Others,87293
+tt1270678,2008,Venice Horizons Award,Best Film,False,False,The First Day of Winter,nm2361011,Mirko Locatelli,The First Day of Winter,2009.0,Drama,4936
+tt1270631,2008,Venice Horizons Award,Best Film,False,False,The Herb of the Rat,nm0107788,Júlio Bressane,The Herb of the Rat,2009.0,Drama,2460
+tt1270702,2008,Venice Horizons Award,Best Film,False,True,Un lac,nm0334930,Philippe Grandrieux,Un lac,2009.0,Drama,46847
+tt1252383,2008,Venice Horizons Award,Best Film,False,False,Wild Field,nm0435564,Mikheil Kalatozishvili,Wild Field,2008.0,Drama,65750
+tt1270707,2008,Venice Horizons Award,Best Film,False,False,Z32,nm0595783,Avi Mograbi,Z32,2009.0,Others,66652
+tt1270494,2008,Venice Horizons Award,Best Film,False,False,Zero Bridge,nm2522141,Tariq Tapa,Zero Bridge,2011.0,Drama,23918
+tt1080857,2008,Venice Horizons Award,,False,False,I'm Gonna Explode,nm1319671,Gerardo Naranjo,I'm Gonna Explode,2008.0,Drama,77115
+tt0996912,2008,International Critics' Week Award,,True,True,The Apprentice,nm1848357,Samuel Collardey,The Apprentice,2009.0,Drama,820152
+tt1172522,2008,FEDIC Award,,True,True,Machan,nm0664667,Uberto Pasolini,Machan,2009.0,Biography,335044
+tt1327908,2008,Queer Lion,,True,True,One Day in a Life,nm0876545,Stefano Tummolini,One Day in a Life,2008.0,Drama,515817
+tt1056231,2008,Queer Lion,,False,False,Angling,nm1138158,Adrian Sitaru,Hooked,2009.0,Drama,271487
+tt1234240,2008,Queer Lion,,False,False,Antarctica,nm1937252,Yair Hochner,Antarctica,2008.0,Drama,50636
+tt0870089,2008,Queer Lion,,False,False,Ciao,nm1315989,Yen Tan,Ciao,2008.0,Drama,118467
+tt1105734,2008,Queer Lion,,False,False,Cold Lunch,nm1576066,Eva Sørhaug,Cold Lunch,2008.0,Drama,1402068
+tt1289430,2008,Queer Lion,,False,False,La rabbia di Pasolini,nm0001596,Pier Paolo Pasolini,La rabbia di Pasolini,2009.0,Others,148932
+tt1288482,2008,Queer Lion,,False,False,Landscape No.2,nm1628186,Vinko Moderndorfer,Landscape No.2,2009.0,Crime,35581
+tt1129435,2008,Queer Lion,,False,False,The Beaches of Agnès,nm0889513,Agnès Varda,The Beaches of Agnès,2009.0,Biography,2969688
+tt1284526,2008,Queer Lion,,False,False,The Country Teacher,nm0805246,Bohdan Sláma,The Country Teacher,2009.0,Drama,2029288
+tt1176244,2008,Queer Lion,,False,False,Valentino: The Last Emperor,nm2961289,Matt Tyrnauer,Valentino: The Last Emperor,2009.0,Others,4730268
+tt1286172,2008,Young Cinema Award,Alternatives,True,True,Sell Out!,nm2373086,Joon Han Yeo,Sell Out!,2009.0,Others,70930
+tt0986233,2008,Gucci Prize,,True,True,Hunger,nm2588606,Steve McQueen,Hunger,2008.0,Biography,3900326
+tt0862467,2009,Golden Lion,Best Film,False,False,Valhalla Rising,nm0716347,Nicolas Winding Refn,Valhalla Rising,2010.0,Others,360324
+tt1483831,2009,Golden Lion,,True,True,Lebanon,nm1413443,Samuel Maoz,Lebanon,2009.0,Drama,1929109
+tt1315981,2009,Golden Lion,,False,True,A Single Man,nm1053530,Tom Ford,A Single Man,2010.0,Drama,40253741
+tt1202514,2009,Golden Lion,,False,False,Accident,nm1110912,Soi Cheang,Accident,2010.0,Others,1433182
+tt1239285,2009,Golden Lion,,False,False,Around a Small Mountain,nm0729626,Jacques Rivette,Around a Small Mountain,2009.0,Comedy,233992
+tt1081935,2009,Golden Lion,,False,False,Baarìa,nm0868153,Giuseppe Tornatore,Baarìa,2009.0,Comedy,18844800
+tt1095217,2009,Golden Lion,,False,True,Bad Lieutenant: Port of Call New Orleans,nm0001348,Werner Herzog,Bad Lieutenant: Port of Call New Orleans,2009.0,Crime,14559863
+tt1232207,2009,Golden Lion,,False,True,Capitalism: A Love Story,nm0601619,Michael Moore,Capitalism: A Love Story,2009.0,Crime,37591429
+tt1496792,2009,Golden Lion,,False,False,Grandmother,nm1137289,Brillante Mendoza,Grandmother,2010.0,Drama,53656
+tt0808526,2009,Golden Lion,,False,True,Life During Wartime,nm0001754,Todd Solondz,Life During Wartime,2009.0,Comedy,1270105
+tt1371700,2009,Golden Lion,,False,True,Lo spazio bianco,nm0173726,Francesca Comencini,Lo spazio bianco,2009.0,Drama,1712581
+tt1405809,2009,Golden Lion,,False,True,Lourdes,nm0369618,Jessica Hausner,Lourdes,2010.0,Drama,3457984
+tt0485947,2009,Golden Lion,,False,True,Mr. Nobody,nm0233757,Jaco Van Dormael,Mr. Nobody,2013.0,Drama,3877315
+tt1233219,2009,Golden Lion,,False,False,"My Son, My Son, What Have Ye Done",nm0001348,Werner Herzog,"My Son, My Son, What Have Ye Done",2009.0,Drama,79752
+tt1303230,2009,Golden Lion,,False,False,Persécution,nm0161717,Patrice Chéreau,Persécution,2009.0,Drama,976046
+tt1498834,2009,Golden Lion,,False,False,Prince of Tears,nm0948523,Yonfan,Prince of Tears,2010.0,Drama,155184
+tt1244668,2009,Golden Lion,,False,True,Soul Kitchen,nm0015359,Fatih Akin,Soul Kitchen,2010.0,Comedy,22541155
+tt1134854,2009,Golden Lion,,False,False,Survival of the Dead,nm0001681,George A. Romero,Survival of the Dead,2010.0,Comedy,571815
+tt1194231,2009,Golden Lion,,False,True,The Big Dream,nm0686375,Michele Placido,The Big Dream,2010.0,Drama,5579683
+tt1379222,2009,Golden Lion,,False,True,The Double Hour,nm3321297,Giuseppe Capotondi,The Double Hour,2011.0,Crime,4885228
+tt0898367,2009,Golden Lion,,False,False,The Road,nm0384825,John Hillcoat,The Road,2009.0,Others,42308276
+tt1135952,2009,Golden Lion,,False,False,White Material,nm0219136,Claire Denis,White Material,2009.0,Drama,1509919
+tt1498887,2009,Golden Lion,,False,True,Women Without Men,nm1252622,Shirin Neshat,Women Without Men,2010.0,Drama,1150577
+tt1332054,2009,Controcampo Italiano Prize,,True,True,Cosmonaut,nm1339604,Susanna Nicchiarelli,Cosmonaut,2010.0,Comedy,556459
+tt1364481,2009,Controcampo Italiano Prize,,False,False,Ten Winters,nm2307631,Valerio Mieli,Ten Winters,2011.0,Others,795161
+tt1295083,2009,Venice Horizons Award,Best Film,False,False,Bets & Wedding Dresses,nm0855733,Vincenzo Terracciano,Bets & Wedding Dresses,2009.0,Comedy,222317
+tt1337140,2009,Venice Horizons Award,Best Film,False,False,Buried Secrets,nm1075853,Raja Amari,Anonymes,2010.0,Drama,26939489
+tt1226236,2009,Venice Horizons Award,Best Film,False,False,I Am Love,nm0345174,Luca Guadagnino,I Am Love,2010.0,Drama,18651757
+tt1433911,2009,Venice Horizons Award,Best Film,False,False,Pepperminta,nm0728409,Pipilotti Rist,Pepperminta,2010.0,Drama,16515
+tt1085779,2009,3-D Award,,True,True,The Hole,nm0001102,Joe Dante,The Hole,2009.0,Others,12250095
+tt1383242,2009,International Critics' Week Award,,False,False,"Good Morning, Aman",nm2620255,Claudio Noce,"Good Morning, Aman",2009.0,Drama,49651
+tt1500701,2009,Queer Lion,,False,False,Domain,nm1194101,Patric Chiha,Domain,2012.0,Drama,25847
+tt1166810,2009,Queer Lion,,False,False,Fat People,nm0998110,Daniel Sánchez Arévalo,Fat People,2010.0,Comedy,3162917
+tt1353168,2009,Queer Lion,,False,False,Francesca,nm2097361,Bobby Paunescu,Francesca,2009.0,Drama,545146
+tt1445683,2009,Queer Lion,,False,False,Great Directors,nm3472577,Angela Ismailos,Great Directors,2010.0,Others,42013
+tt1486815,2009,Queer Lion,,False,False,Silent Voice,nm1864602,Léa Fehner,Silent Voice,2009.0,Drama,25024
+tt1239446,2009,Label Europa Cinemas,,True,True,The Last Days of Emma Blank,nm0912334,Alex van Warmerdam,The Last Days of Emma Blank,2009.0,Comedy,420072
+tt1473149,2009,Lina Mangiacapre Award,,True,True,"Scheherazade, Tell Me a Story",nm0621915,Yusri Nasrullah,"Scheherazade, Tell Me a Story",2011.0,Drama,363250
+tt0985058,2009,Future Film Festival Digital Award,,True,True,Metropia,nm0757975,Tarik Saleh,Metropia,2010.0,Others,95231
+tt1049413,2009,Future Film Festival Digital Award - Special Mention,,True,True,Up,nm0230032,Pete Docter,Up,2009.0,Others,1228535689
+tt1421051,2010,Golden Lion,,True,False,Somewhere,nm0001068,Sofia Coppola,Somewhere,2011.0,Comedy,18244539
+tt1436045,2010,Golden Lion,,False,True,13 Assassins,nm0586281,Takashi Miike,13 Assassins,2011.0,Others,20993388
+tt1517177,2010,Golden Lion,,False,False,3,nm0878756,Tom Tykwer,3,2011.0,Comedy,3024511
+tt1691323,2010,Golden Lion,,False,True,Attenberg,nm0718125,Athina Rachel Tsangari,Attenberg,2011.0,Drama,109074
+tt1423894,2010,Golden Lion,,False,True,Barney's Version,nm0003557,Richard J. Lewis,Barney's Version,2011.0,Comedy,14892096
+tt0947798,2010,Golden Lion,,False,True,Black Swan,nm0004716,Darren Aronofsky,Black Swan,2010.0,Drama,508757982
+tt1401643,2010,Golden Lion,,False,True,Black Venus,nm0444244,Abdellatif Kechiche,Black Venus,2010.0,Drama,1553623
+tt1123373,2010,Golden Lion,,False,False,Detective Dee: Mystery of the Phantom Flame,nm0007139,Hark Tsui,Detective Dee: The Mystery of the Phantom Flame,2011.0,Others,58774520
+tt1561768,2010,Golden Lion,,False,True,Essential Killing,nm0804592,Jerzy Skolimowski,Essential Killing,2010.0,Others,384377
+tt1528750,2010,Golden Lion,,False,False,Four Lovers,nm0179576,Antony Cordier,Four Lovers,2012.0,Others,87923
+tt1680096,2010,Golden Lion,,False,False,La pecora nera,nm2141178,Ascanio Celestini,La pecora nera,2010.0,Comedy,958274
+tt1518812,2010,Golden Lion,,False,True,Meek's Cutoff,nm0716980,Kelly Reichardt,Meek's Cutoff,2010.0,Drama,2550711
+tt1366409,2010,Golden Lion,,False,True,Miral,nm0773603,Julian Schnabel,Miral,2010.0,Drama,1488655
+tt1270842,2010,Golden Lion,,False,False,Norwegian Wood,nm0870841,Anh Hung Tran,Norwegian Wood,2011.0,Drama,20014193
+tt1714886,2010,Golden Lion,,False,False,Post mortem,nm1883257,Pablo Larraín,Post Mortem,2012.0,Drama,293104
+tt1521848,2010,Golden Lion,,False,False,Potiche,nm0654830,François Ozon,Potiche,2011.0,Comedy,28172250
+tt1504319,2010,Golden Lion,,False,False,Road to Nowhere,nm0375494,Monte Hellman,Road to Nowhere,2011.0,Others,234300
+tt1693830,2010,Golden Lion,,False,True,Silent Souls,nm1922735,Aleksey Fedorchenko,Silent Souls,2010.0,Drama,659292
+tt1572491,2010,Golden Lion,,False,True,The Last Circus,nm0407067,Álex de la Iglesia,The Last Circus,2010.0,Comedy,3812897
+tt1441373,2010,Golden Lion,,False,False,The Solitude of Prime Numbers,nm0182459,Saverio Costanzo,The Solitude of Prime Numbers,2010.0,Drama,6011755
+tt1365490,2010,Golden Lion,,False,False,We Believed,nm0554280,Mario Martone,We Believed,2010.0,Others,2388405
+tt1714014,2010,Luigi De Laurentiis Award,,True,True,Majority,nm4043787,Seren Yüce,Majority,2011.0,Drama,165470
+tt1538221,2010,Luigi De Laurentiis Award,,False,False,Angel & Tony,nm1768263,Alix Delaporte,Angel & Tony,2011.0,Drama,1202320
+tt1517805,2010,Controcampo Italiano Prize,,True,True,20 Cigarettes,nm3476645,Aureliano Amadei,20 Cigarettes,2010.0,Drama,389518
+tt1719496,2010,Controcampo Italiano Prize,,False,False,Into Paradiso,nm2113581,Paola Randi,Into Paradiso,2010.0,Comedy,186555
+tt1529273,2010,Controcampo Italiano Prize,,False,True,Lost Kisses,nm0868404,Roberta Torre,Lost Kisses,2011.0,Drama,175748
+tt1724553,2010,Controcampo Italiano Prize,,False,False,The First Assignment,nm0147662,Giorgia Cecere,The First Assignment,2011.0,Drama,294372
+tt1706675,2010,Venice Horizons Award,Best Film,False,False,Caracremada,nm3121098,Lluís Galter,Caracremada,2010.0,Drama,24175
+tt1760956,2010,Venice Horizons Award,Best Film,False,True,"El Sicario, Room 164",nm0742941,Gianfranco Rosi,"El Sicario, Room 164",2011.0,Others,13867
+tt1692848,2010,Venice Horizons Award,Best Film,False,False,Guest,nm0346360,José Luis Guerín,Guest,2011.0,Others,10551
+tt1714878,2010,Venice Horizons Award,Best Film,False,False,Oki's Movie,nm0393254,Sang-soo Hong,Oki's Movie,2012.0,Comedy,273116
+tt1714893,2010,Venice Horizons Award,Best Film,False,False,Robinson in Ruins,nm0445084,Patrick Keiller,Robinson in Ruins,2012.0,Others,25756
+tt1772382,2010,Venice Horizons Award,Best Film,False,True,The Forgotten Space,nm0120814,Noël Burch,The Forgotten Space,2012.0,Others,19088
+tt1706441,2010,Venice Horizons Award,Best Film,False,False,The House by the Medlar Tree,nm0778465,Pasquale Scimeca,The House by the Medlar Tree,2011.0,Drama,2224
+tt1706701,2010,Venice Horizons Award,Best Film,False,False,The Nine Muses,nm0015497,John Akomfrah,The Nine Muses,2011.0,Others,12558
+tt0499549,2010,3-D Award,Most Creative 3D Film Stereoscopic Film of the Year,True,True,Avatar,nm0000116,James Cameron,Avatar,2009.0,Others,4201533797
+tt0892769,2010,3-D Award,Most Creative 3D Film Stereoscopic Film of the Year,True,True,How to Train Your Dragon,nm0761498,Chris Sanders,How to Train Your Dragon,2010.0,Others,836589114
+tt1437366,2010,International Critics' Week Award,,True,True,Beyond,nm0000278,Pernilla August,Beyond,2011.0,Drama,6150527
+tt1614981,2010,International Critics' Week Award,,False,False,Afraid of the Dark (Bruises),nm1734676,Massimo Coppola,Afraid of the Dark (Bruises),2011.0,Drama,41208
+tt1438493,2010,FEDIC Award,,True,True,Dark Love,nm0135724,Antonio Capuano,Dark Love,2010.0,Drama,60134
+tt1706679,2010,Queer Lion,,False,False,Et in terra pax,nm2733360,Matteo Botrugno,Et in terra pax,2010.0,Crime,39784
+tt1517214,2010,Label Europa Cinemas,,True,True,The Clink of Ice,nm0088397,Bertrand Blier,The Clink of Ice,2010.0,Comedy,6528495
+tt1356864,2010,Biografilm Award,Documentary,True,True,I'm Still Here,nm0000729,Casey Affleck,I'm Still Here,2010.0,Comedy,1144082
+tt1407085,2010,Award of the City of Rome,Best Film,True,True,Passione,nm0001806,John Turturro,Passione,2011.0,Others,1111773
+tt1437357,2011,Golden Lion,,True,True,Faust,nm0812546,Aleksandr Sokurov,Faust,2013.0,Drama,127477
+tt1707391,2011,Golden Lion,,False,False,4:44 Last Day on Earth,nm0001206,Abel Ferrara,4:44 Last Day on Earth,2011.0,Drama,100056
+tt1740053,2011,Golden Lion,,False,False,A Burning Hot Summer,nm0308042,Philippe Garrel,A Burning Hot Summer,2012.0,Drama,303439
+tt1571222,2011,Golden Lion,,False,False,A Dangerous Method,nm0000343,David Cronenberg,A Dangerous Method,2011.0,Biography,37356137
+tt2008006,2011,Golden Lion,,False,True,A Simple Life,nm0401176,Ann Hui,A Simple Life,2012.0,Drama,3503434
+tt1859446,2011,Golden Lion,,False,True,Alps,nm0487166,Yorgos Lanthimos,Alps,2012.0,Drama,243015
+tt1692486,2011,Golden Lion,,False,True,Carnage,nm0000591,Roman Polanski,Carnage,2011.0,Comedy,33958463
+tt1663321,2011,Golden Lion,,False,False,Chicken with Plums,nm2277869,Marjane Satrapi,Chicken with Plums,2012.0,Comedy,1868326
+tt1690455,2011,Golden Lion,,False,False,Dark Horse,nm0001754,Todd Solondz,Dark Horse,2012.0,Comedy,560564
+tt1900893,2011,Golden Lion,,False,True,Himizu,nm0814469,Sion Sono,Themis,2014.0,Crime,511386
+tt1726669,2011,Golden Lion,,False,True,Killer Joe,nm0001243,William Friedkin,Killer Joe,2012.0,Crime,6297384
+tt1371585,2011,Golden Lion,,False,False,Life Without Principle,nm0864775,Johnnie To,Life Without Principle,2012.0,Crime,618099
+tt1723811,2011,Golden Lion,,False,True,Shame,nm2588606,Steve McQueen,Shame,2011.0,Drama,24381664
+tt1641410,2011,Golden Lion,,False,True,Terraferma,nm0187740,Emanuele Crialese,Terraferma,2011.0,Drama,2669566
+tt1389127,2011,Golden Lion,,False,False,Texas Killing Fields,nm0542642,Ami Canaan Mann,Texas Killing Fields,2011.0,Crime,1131698
+tt1124035,2011,Golden Lion,,False,True,The Ides of March,nm0000123,George Clooney,The Ides of March,2011.0,Drama,132000867
+tt2006781,2011,Golden Lion,,False,True,The Last Man on Earth,nm4577814,Gian Alfonso Pacinotti,The Last Man on Earth,2011.0,Drama,180036
+tt1340800,2011,Golden Lion,,False,False,Tinker Tailor Soldier Spy,nm0019247,Tomas Alfredson,Tinker Tailor Soldier Spy,2012.0,Drama,118131690
+tt2007993,2011,Golden Lion,,False,False,Warriors of the Rainbow: Seediq Bale I,nm0917669,Te-Sheng Wei,Warriors of the Rainbow: Seediq Bale I,2011.0,Others,5424923
+tt1680139,2011,Golden Lion,,False,False,When the Night,nm0173724,Cristina Comencini,When the Night,2011.0,Drama,746513
+tt1181614,2011,Golden Lion,,False,True,Wuthering Heights,nm0036349,Andrea Arnold,Wuthering Heights,2012.0,Drama,2077992
+tt2087864,2011,Luigi De Laurentiis Award,,True,True,Là-bas: A Criminal Education,nm3552090,Guido Lombardi,Là-bas: A Criminal Education,2012.0,Crime,39270
+tt2056681,2011,Controcampo Italiano Prize,Documentary,True,True,Pugni chiusi,nm0408646,Fiorella Infascelli,Pugni chiusi,2011.0,Others,21745
+tt1821597,2011,Controcampo Italiano Prize,,True,True,Easy!,nm0116263,Francesco Bruni,Easy!,2011.0,Comedy,2849399
+tt2019999,2011,Controcampo Italiano Prize,,False,False,Horses,nm2099475,Michele Rho,Horses,2011.0,Drama,21400
+tt1734442,2011,Controcampo Italiano Prize,,False,True,Maternity Blues,nm2038684,Fabrizio Cattani,Maternity Blues,2012.0,Drama,48199
+tt1900959,2011,Controcampo Italiano Prize,,False,False,Scattered Cloud,nm0223664,Saverio Di Biagio,Scattered Cloud,2012.0,Comedy,96320
+tt1712502,2011,Controcampo Italiano Prize,,False,False,The Arrival of Wang,nm0542023,Antonio Manetti,The Arrival of Wang,2012.0,Others,12109
+tt2015340,2011,Controcampo Italiano Prize,,False,False,Things from Another World,nm1391054,Francesco Patierno,Things from Another World,2011.0,Comedy,6179130
+tt2044070,2011,Controcampo Italiano Prize,,False,False,Tutta colpa della musica,nm0865573,Ricky Tognazzi,Tutta colpa della musica,2011.0,Comedy,167813
+tt2215273,2011,Venice Horizons Award,Best Film,False,False,Louyre: This Our Still Life,nm0467836,Andrew Kotting,Louyre: This Our Still Life,2011.0,Others,655
+tt2055711,2011,Venice Horizons Award,Best Film,False,False,Photographic Memory,nm0568478,Ross McElwee,Photographic Memory,2012.0,Others,17282
+tt1794943,2011,Venice Horizons Award,Best Film,False,False,Sal,nm0290556,James Franco,Sal,2013.0,Biography,15093
+tt2044009,2011,Venice Horizons Award,Best Film,False,False,Swirl,nm1080858,Clarissa Campolina,Swirl,2012.0,Drama,16005
+tt1964853,2011,Venice Horizons Award,Best Film,False,False,The Bird,nm0146568,Yves Caumon,L'oiseau,2012.0,Drama,6372
+tt1772947,2011,Venice Horizons Award,Best Film,False,False,The Invader,nm1721091,Nicolas Provost,The Invader,2011.0,Drama,33020
+tt1846783,2011,Venice Horizons Award,Best Film,False,True,The Orator,nm4044077,Tusi Tamasese,The Orator,2012.0,Drama,836394
+tt2359417,2011,Venice Horizons Award,Best Film,False,True,Two Years at Sea,nm4234237,Ben Rivers,Two Years at Sea,2012.0,Others,31330
+tt1327628,2011,Venice Horizons Award,Best Film,False,False,Whores' Glory,nm0322198,Michael Glawogger,Whores' Glory,2012.0,Others,254733
+tt2044012,2011,CICT-IFTC Award,,True,True,"Tahrir 2011: The Good, the Bad, and the Politician",nm3663323,Ayten Amin,"Tahrir 2011: The Good, the Bad, and the Politician",2012.0,Others,1163
+tt2036388,2011,FEDIC Award,,True,True,Shun Li and the Poet,nm3113346,Andrea Segre,Shun Li and the Poet,2012.0,Drama,991120
+tt1582244,2011,Label Europa Cinemas,,True,True,Guilty,nm1202716,Vincent Garenq,Guilty,2012.0,Biography,1304462
+tt1161864,2011,L'Oreal Paris Award,,False,False,The Rite,nm3068922,Marta Gastini,The Rite,2011.0,Drama,149802868
+tt1650831,2011,Premio Laguna Sud (Venice Days),,False,False,Love and Bruises,nm0521601,Ye Lou,Love and Bruises,2011.0,Drama,119276
+tt2299842,2012,Golden Lion,,True,True,Pieta,nm1104118,Ki-duk Kim,Pieta,2013.0,Crime,4012548
+tt2299792,2012,Golden Lion,,False,False,A Special Day,nm0173726,Francesca Comencini,A Special Day,2012.0,Drama,300755
+tt1937449,2012,Golden Lion,,False,False,At Any Price,nm1023919,Ramin Bahrani,At Any Price,2012.0,Drama,959169
+tt2299954,2012,Golden Lion,,False,False,Betrayal,nm1970598,Kirill Serebrennikov,Betrayal,2013.0,Drama,676705
+tt1724962,2012,Golden Lion,,False,False,Beyond Outrage,nm0001429,Takeshi Kitano,Beyond Outrage,2012.0,Others,17911820
+tt2184227,2012,Golden Lion,,False,True,Dormant Beauty,nm0069166,Marco Bellocchio,Dormant Beauty,2013.0,Drama,1257253
+tt2219514,2012,Golden Lion,,False,True,Fill the Void,nm5112815,Rama Burshtein,Fill the Void,2012.0,Drama,5493857
+tt1891788,2012,Golden Lion,,False,True,It Was the Son,nm0162668,Daniele Ciprì,It Was the Son,2013.0,Comedy,1178342
+tt2298820,2012,Golden Lion,,False,True,La cinquième saison,nm0112456,Peter Brosens,La cinquième saison,2013.0,Drama,43576
+tt2371824,2012,Golden Lion,,False,True,Paradise: Faith,nm0782430,Ulrich Seidl,Paradise: Faith,2013.0,Drama,688169
+tt1829012,2012,Golden Lion,,False,False,Passion,nm0000361,Brian De Palma,Passion,2013.0,Drama,880462
+tt1846472,2012,Golden Lion,,False,True,Something in the Air,nm0000801,Olivier Assayas,Something in the Air,2012.0,Drama,595187
+tt2101441,2012,Golden Lion,,False,True,Spring Breakers,nm0005101,Harmony Korine,Spring Breakers,2013.0,Comedy,50334488
+tt1849111,2012,Golden Lion,,False,False,Superstar,nm0316306,Xavier Giannoli,Superstar,2012.0,Drama,1569059
+tt1560747,2012,Golden Lion,,False,True,The Master,nm0000759,Paul Thomas Anderson,The Master,2012.0,Drama,49291811
+tt1595656,2012,Golden Lion,,False,True,To the Wonder,nm0000517,Terrence Malick,To the Wonder,2013.0,Drama,3724218
+tt2216240,2012,Venice Horizons Award,Best Film,False,False,A Hijacking,nm2105585,Tobias Lindholm,A Hijacking,2013.0,Drama,3443351
+tt2249712,2012,Venice Horizons Award,Best Film,False,False,Araf/Somewhere in Between,nm0882445,Yesim Ustaoglu,Araf/Somewhere in Between,2012.0,Drama,199053
+tt2370096,2012,Venice Horizons Award,Best Film,False,False,Balancing Act,nm0210193,Ivano De Matteo,Balancing Act,2012.0,Drama,482746
+tt1964570,2012,Venice Horizons Award,Best Film,False,False,Boxing Day,nm0741262,Bernard Rose,Boxing Day,2013.0,Drama,13999
+tt2300438,2012,Venice Horizons Award,Best Film,False,False,Fly with the Crane,nm4772581,Ruijun Li,Fly with the Crane,2012.0,Drama,10046
+tt2384642,2012,Venice Horizons Award,Best Film,False,True,Pretty Butterflies,nm1503387,Salvatore Mereu,Pretty Butterflies,2013.0,Drama,263691
+tt2370034,2012,Venice Horizons Award,Best Film,False,True,Tango libre,nm0285090,Frédéric Fonteyne,Tango libre,2012.0,Drama,679745
+tt2290934,2012,Venice Horizons Award,Best Film,False,True,The Interval,nm0182450,Leonardo di Costanzo,The Interval,2013.0,Crime,280242
+tt2258858,2012,Venice Horizons Award,Best Film,False,True,Wadjda,nm2223783,Haifaa Al-Mansour,Wadjda,2012.0,Comedy,8665527
+tt2456536,2012,Venice Horizons Award,Best Film,False,False,Ya tozhe khochu,nm0049326,Aleksey Balabanov,Ya tozhe khochu,2012.0,Drama,212174
+tt2085002,2012,International Critics' Week Award,,True,True,Eat Sleep Die,nm3307527,Gabriela Pichler,Eat Sleep Die,2012.0,Drama,64382
+tt2373862,2012,Pasinetti Award,Best Documentary,True,True,The Human Cargo,nm0895835,Daniele Vicari,The Human Cargo,2012.0,Others,58016
+tt1959438,2012,Queer Lion,,False,False,Kiss of the Damned,nm0144018,Xan Cassavetes,Kiss of the Damned,2013.0,Drama,32390
+tt1906347,2012,Queer Lion,,False,False,Looking for Hortense,nm0094726,Pascal Bonitzer,Looking for Hortense,2012.0,Comedy,3667003
+tt1854236,2012,Queer Lion,,False,False,Love Is All You Need,nm0081540,Susanne Bier,Love Is All You Need,2013.0,Comedy,12778928
+tt2042443,2012,Queer Lion,,False,False,Steel,nm0603299,Stefano Mordini,Steel,2012.0,Drama,286509
+tt2290918,2012,Young Cinema Award,Best Italian Film,True,True,The Ideal City,nm0516222,Luigi Lo Cascio,The Ideal City,2013.0,Drama,1025637
+tt1381404,2012,Open Prize,,True,True,The Company You Keep,nm0000602,Robert Redford,The Company You Keep,2013.0,Drama,27217513
+tt2302334,2012,Lina Mangiacapre Award,,True,True,Queen of Montreuil,nm0030681,Sólveig Anspach,Queen of Montreuil,2013.0,Comedy,284582
+tt2358838,2012,Silver Mouse,,True,True,Anton's Right Here,nm1108349,Lyubov Arkus,Anton's Right Here,2013.0,Others,14585
+tt3172520,2013,Golden Lion,,True,True,Sacro GRA,nm0742941,Gianfranco Rosi,Sacro GRA,2014.0,Others,1468343
+tt1966637,2013,Golden Lion,,False,True,A Street in Palermo,nm3061633,Emma Dante,A Street in Palermo,2014.0,Comedy,580997
+tt3092086,2013,Golden Lion,,False,True,Ana Arabia,nm0321159,Amos Gitai,Ana Arabia,2013.0,Drama,69339
+tt1951095,2013,Golden Lion,,False,False,Child of God,nm0290556,James Franco,Child of God,2013.0,Crime,85835
+tt2511670,2013,Golden Lion,,False,False,Jealousy,nm0308042,Philippe Garrel,Jealousy,2014.0,Drama,137407
+tt2382396,2013,Golden Lion,,False,True,Joe,nm0337773,David Gordon Green,Joe,2014.0,Crime,3023409
+tt3074784,2013,Golden Lion,,False,True,L'intrepido,nm0002167,Gianni Amelio,L'intrepido,2015.0,Comedy,1660130
+tt3078242,2013,Golden Lion,,False,True,Miss Violence,nm3189793,Alexandros Avranas,Miss Violence,2014.0,Drama,157429
+tt2043933,2013,Golden Lion,,False,False,Night Moves,nm0716980,Kelly Reichardt,Night Moves,2014.0,Others,1218354
+tt2345112,2013,Golden Lion,,False,False,Parkland,nm1481618,Peter Landesman,Parkland,2013.0,Drama,2260450
+tt2431286,2013,Golden Lion,,False,True,Philomena,nm0001241,Stephen Frears,Philomena,2013.0,Biography,151134205
+tt3119416,2013,Golden Lion,,False,True,Stray Dogs,nm0158857,Ming-liang Tsai,Stray Dogs,2013.0,Drama,26267
+tt2390962,2013,Golden Lion,,False,False,The Unknown Known,nm0001554,Errol Morris,The Unknown Known,2013.0,Biography,631667
+tt2013293,2013,Golden Lion,,False,False,The Wind Rises,nm0594503,Hayao Miyazaki,The Wind Rises,2014.0,Others,276026229
+tt2333804,2013,Golden Lion,,False,True,The Zero Theorem,nm0000416,Terry Gilliam,The Zero Theorem,2014.0,Comedy,1167394
+tt2427892,2013,Golden Lion,,False,True,Tom at the Farm,nm0230859,Xavier Dolan,Tom at the Farm,2015.0,Drama,737216
+tt2167266,2013,Golden Lion,,False,False,Tracks,nm0192845,John Curran,Tracks,2013.0,Others,5887523
+tt1441395,2013,Golden Lion,,False,False,Under the Skin,nm0322242,Jonathan Glazer,Under the Skin,2013.0,Drama,8735271
+tt3077150,2013,Luigi De Laurentiis Award,,True,True,White Shadow,nm1068981,Noaz Deshe,White Shadow,2015.0,Drama,1664
+tt2991092,2013,Venice Horizons Award,Best Film,True,True,Eastern Boys,nm0133028,Robin Campillo,Eastern Boys,2014.0,Crime,197870
+tt3081374,2013,Venice Horizons Award,Best Film,False,False,First Snowfall,nm3113346,Andrea Segre,First Snowfall,2014.0,Drama,612395
+tt2390630,2013,Venice Horizons Award,Best Film,False,True,Medeas,nm1761524,Andrea Pallaoro,Medeas,2014.0,Drama,12880
+tt2325761,2013,Venice Horizons Award,Best Film,False,False,My Name Is Hmmm...,nm0044577,Agnès B.,My Name Is Hmmm...,2013.0,Drama,15105
+tt2479800,2013,Venice Horizons Award,Best Film,False,False,Palo Alto,nm0178886,Gia Coppola,Palo Alto,2014.0,Drama,1812492
+tt2972058,2013,Venice Horizons Award,Best Film,False,False,Some Girls,nm1172960,Santiago Palavecino,Some Girls,2014.0,Others,3893
+tt2383068,2013,Venice Horizons Award,Best Film,False,False,The Sacrament,nm1488800,Ti West,The Sacrament,2014.0,Others,19810
+tt2759292,2013,Venice Horizons Award,Best Film,False,True,The Third Half,nm3474435,Enrico Maria Artale,The Third Half,2013.0,Drama,148646
+tt2364975,2013,Venice Horizons Award,Best Film,False,False,We Are the Best!,nm0600546,Lukas Moodysson,We Are the Best!,2014.0,Drama,1913704
+tt2409302,2013,Venice Horizons Award,Best Film,False,False,Why Don't You Play in Hell?,nm0814469,Sion Sono,Why Don't You Play in Hell?,2014.0,Others,1360321
+tt2402091,2013,FIPRESCI Prize,Parallel Sections,True,True,The Reunion,nm5058908,Anna Odell,The Reunion,2013.0,Drama,2628753
+tt2395417,2013,C.I.C.A.E. Award,,True,True,Still Life,nm0664667,Uberto Pasolini,Still Life,2013.0,Drama,2740451
+tt2113820,2013,Pasinetti Award - Special Mention,,True,True,Walesa: Man of Hope,nm0648282,Maria Rosaria Omaggio,Walesa: Man of Hope,2014.0,Biography,5659788
+tt3078718,2013,Audience Award (Critics' Week),Best Film (International Film Critics Week),True,True,"Zoran, My Nephew the Idiot",nm2663031,Matteo Oleotto,"Zoran, My Nephew the Idiot",2013.0,Comedy,911841
+tt2990836,2013,FEDIC Award - Special Mention,,True,True,L'arte della felicità,nm5739362,Alessandro Rak,L'arte della felicità,2013.0,Others,262432
+tt1815717,2013,Queer Lion,,False,False,Gerontophilia,nm0478418,Bruce La Bruce,Gerontophilia,2014.0,Comedy,91256
+tt1311071,2013,Queer Lion,,False,False,Kill Your Darlings,nm1045865,John Krokidas,Kill Your Darlings,2013.0,Biography,3227073
+tt3016266,2013,Queer Lion,,False,False,Salvation Army,nm1655391,Abdellah Taia,Salvation Army,2015.0,Drama,61714
+tt2418440,2013,Queer Lion,,False,False,Three Many Weddings,nm1027519,Javier Ruiz Caldera,Three Many Weddings,2013.0,Comedy,2226877
+tt1454468,2013,Future Film Festival Digital Award,,True,True,Gravity,nm0190859,Alfonso Cuarón,Gravity,2013.0,Drama,1091238094
+tt3091552,2013,Silver Mouse,,True,True,At Berkeley,nm0936464,Frederick Wiseman,At Berkeley,2013.0,Others,69272
+tt2915160,2013,Fedeora Award,Best Film (Venice Days),True,True,Bethlehem,nm2113089,Yuval Adler,Bethlehem,2013.0,Drama,642924
+tt2492664,2013,Fedeora Award,Best Film (Venice Days),False,False,May in the Summer,nm1435062,Cherien Dabis,May in the Summer,2013.0,Comedy,274388
+tt2771800,2013,Fedeora Award,Best Film (Venice Days),False,False,Rigor Mortis,nm1474034,Juno Mak,Rigor Mortis,2014.0,Others,3244690
+tt2932606,2013,Fedeora Award,Best Film (Venice Days),False,False,Siddharth,nm1416352,Richie Mehta,Siddharth,2013.0,Drama,142382
+tt2718462,2013,Fedeora Award,Best Film (Venice Days),False,False,The Reconstruction,nm0850307,Juan Taratuto,The Reconstruction,2014.0,Drama,674743
+tt1240899,2013,Ambiente WWF Award,,True,True,Amazonia,nm2177685,Thierry Ragobert,Amazonia,2013.0,Others,5442338
+tt1883180,2014,Golden Lion,,True,False,A Pigeon Sat on a Branch Reflecting on Existence,nm0027815,Roy Andersson,A Pigeon Sat on a Branch Reflecting on Existence,2015.0,Comedy,1834927
+tt2822742,2014,Golden Lion,,False,False,3 Hearts,nm0415245,Benoît Jacquot,3 Hearts,2015.0,Drama,3505393
+tt2891174,2014,Golden Lion,,False,True,99 Homes,nm1023919,Ramin Bahrani,99 Homes,2015.0,Drama,3481429
+tt2562232,2014,Golden Lion,,False,True,Birdman or (The Unexpected Virtue of Ignorance),nm0327944,Alejandro G. Iñárritu,Birdman or (The Unexpected Virtue of Ignorance),2014.0,Comedy,157511363
+tt3894190,2014,Golden Lion,,False,True,Black Souls,nm0613359,Francesco Munzi,Black Souls,2015.0,Crime,1492955
+tt2936180,2014,Golden Lion,,False,True,Far from Men,nm1190532,David Oelhoffen,Far from Men,2015.0,Drama,1097177
+tt3297330,2014,Golden Lion,,False,False,Good Kill,nm0629272,Andrew Niccol,Good Kill,2015.0,Drama,1924568
+tt3344922,2014,Golden Lion,,False,True,Hungry Hearts,nm0182459,Saverio Costanzo,Hungry Hearts,2015.0,Drama,601333
+tt3152602,2014,Golden Lion,,False,True,Leopardi,nm0554280,Mario Martone,Leopardi,2014.0,Biography,8249548
+tt2893490,2014,Golden Lion,,False,False,Manglehorn,nm0337773,David Gordon Green,Manglehorn,2015.0,Drama,652333
+tt3125652,2014,Golden Lion,,False,False,Pasolini,nm0001206,Abel Ferrara,Pasolini,2019.0,Biography,580643
+tt3890278,2014,Golden Lion,,False,False,Red Amnesia,nm0911075,Xiaoshuai Wang,Red Amnesia,2014.0,Crime,5947
+tt2245171,2014,Golden Lion,,False,True,The Cut,nm0015359,Fatih Akin,The Cut,2015.0,Others,1361134
+tt3227712,2014,Golden Lion,,False,True,The Last Hammer Blow,nm1768263,Alix Delaporte,The Last Hammer Blow,2015.0,Drama,310884
+tt3521134,2014,Golden Lion,,False,True,The Look of Silence,nm1484791,Joshua Oppenheimer,The Look of Silence,2015.0,Biography,285842
+tt3591984,2014,Golden Lion,,False,True,The Postman's White Nights,nm0464846,Andrey Konchalovskiy,The Postman's White Nights,2015.0,Drama,45894
+tt3194410,2014,Golden Lion,,False,False,The Price of Fame,nm0064741,Xavier Beauvois,The Price of Fame,2015.0,Comedy,192305
+tt3717068,2014,Luigi De Laurentiis Award,,True,True,Court,nm4058904,Chaitanya Tamhane,Court,2015.0,Drama,86922
+tt3922200,2014,Venice Horizons Award,Best Film,False,True,Belluscone. Una storia siciliana,nm0546510,Franco Maresco,Belluscone. Una storia siciliana,2015.0,Others,229685
+tt3093522,2014,Venice Horizons Award,Best Film,False,False,Cymbeline,nm0021899,Michael Almereyda,Cymbeline,2015.0,Drama,70187
+tt3086442,2014,Venice Horizons Award,Best Film,False,False,Goodnight Mommy,nm1072411,Veronika Franz,Goodnight Mommy,2015.0,Others,3621103
+tt3687186,2014,Venice Horizons Award,Best Film,False,True,Heaven Knows What,nm1343394,Josh Safdie,Heaven Knows What,2015.0,Drama,177473
+tt3270108,2014,Venice Horizons Award,Best Film,False,False,Jackie & Ryan,nm0542642,Ami Canaan Mann,Jackie & Ryan,2015.0,Drama,20671
+tt2392672,2014,Venice Horizons Award,Best Film,False,False,Reality,nm1189197,Quentin Dupieux,Reality,2015.0,Comedy,455225
+tt3966942,2014,Venice Horizons Award,Best Film,False,False,The President,nm0538532,Mohsen Makhmalbaf,The President,2014.0,Drama,24664
+tt3170902,2014,Venice Horizons Award,Best Film,False,False,Theeb,nm3578681,Naji Abu Nowar,Theeb,2015.0,Others,1149738
+tt3561348,2014,Pasinetti Award - Special Mention,,True,True,The Dinner,nm0210193,Ivano De Matteo,The Dinner,2015.0,Drama,1117524
+tt4076818,2014,FEDIC Award,,True,True,On the Bride's Side,nm4276208,Antonio Augugliaro,On the Bride's Side,2014.0,Others,259909
+tt3163304,2014,Queer Lion,,False,True,The Farewell Party,nm2318954,Tal Granit,The Farewell Party,2015.0,Comedy,1208283
+tt2176690,2014,Queer Lion,,False,False,The Smell of Us,nm0164187,Larry Clark,The Smell of Us,2015.0,Drama,94949
+tt3984304,2014,"Premio Cinematografico ""Civitas Vitae prossima"" Award",,True,True,Dancing with Maria,nm4522231,Ivan Gergolet,Dancing with Maria,2014.0,Others,4366
+tt3480158,2014,Venezia Classici Award,Venice Days Award,True,True,Return to Ithaca,nm0134559,Laurent Cantet,Return to Ithaca,2014.0,Drama,432733
+tt3060492,2014,Venezia Classici Award,Venice Days Award,False,False,Before I Disappear,nm0159900,Shawn Christensen,Before I Disappear,2014.0,Drama,21811
+tt2986768,2014,Venezia Classici Award,Venice Days Award,False,False,El Cinco,nm2254150,Adrián Biniez,El Cinco,2015.0,Comedy,81079
+tt3538766,2014,Venezia Classici Award,Venice Days Award,False,False,Messi,nm0407067,Álex de la Iglesia,Messi,2015.0,Biography,36114
+tt2967988,2014,Venezia Classici Award,Venice Days Award,False,False,They Have Escaped,nm1672969,J.-P. Valkeapää,They Have Escaped,2014.0,Drama,10098
+tt4078856,2014,AKAI International Film Fest Award,Best Revelation,True,True,Deep in the Heart,nm6810894,Yukun Xin,Deep in the Heart,2015.0,Drama,741481
+tt4721400,2015,Golden Lion,,True,False,From Afar,nm1729237,Lorenzo Vigas,From Afar,2015.0,Drama,194471
+tt3865478,2015,Golden Lion,,False,True,11 Minutes,nm0804592,Jerzy Skolimowski,11 Minutes,2016.0,Drama,610613
+tt2056771,2015,Golden Lion,,False,True,A Bigger Splash,nm0345174,Luca Guadagnino,A Bigger Splash,2016.0,Drama,10180110
+tt4898888,2015,Golden Lion,,False,False,Anna,nm0309959,Giuseppe M. Gaudino,Anna,2015.0,Drama,430097
+tt2401878,2015,Golden Lion,,False,True,Anomalisa,nm0442109,Charlie Kaufman,Anomalisa,2015.0,Others,10115351
+tt1365050,2015,Golden Lion,,False,True,Beasts of No Nation,nm1560977,Cary Joji Fukunaga,Beasts of No Nation,2015.0,Drama,195072
+tt2922590,2015,Golden Lion,,False,True,Blood of My Blood,nm0069166,Marco Bellocchio,Blood of My Blood,2015.0,Drama,457067
+tt4216908,2015,Golden Lion,,False,True,Courted,nm0898603,Christian Vincent,Courted,2016.0,Comedy,7719005
+tt3289728,2015,Golden Lion,,False,True,Equals,nm2035886,Drake Doremus,Equals,2016.0,Drama,2252940
+tt3451720,2015,Golden Lion,,False,True,Francofonia,nm0812546,Aleksandr Sokurov,Francofonia,2016.0,Drama,1404722
+tt4895740,2015,Golden Lion,,False,True,Frenzy,nm1625220,Emin Alper,Frenzy,2016.0,Drama,66548
+tt4935446,2015,Golden Lion,,False,True,Heart of a Dog,nm0002173,Laurie Anderson,Heart of a Dog,2016.0,Others,962814
+tt3715122,2015,Golden Lion,,False,True,L'attesa,nm3137132,Piero Messina,L'attesa,2016.0,Drama,1139173
+tt4000936,2015,Golden Lion,,False,False,Looking for Grace,nm0112262,Sue Brooks,Looking for Grace,2015.0,Drama,158122
+tt4428788,2015,Golden Lion,,False,True,Marguerite,nm0316306,Xavier Giannoli,Marguerite,2016.0,Comedy,9938347
+tt4935282,2015,Golden Lion,,False,True,"Rabin, the Last Day",nm0321159,Amos Gitai,"Rabin, the Last Day",2016.0,Drama,61290
+tt3704050,2015,Golden Lion,,False,True,Remember,nm0000382,Atom Egoyan,Remember,2015.0,Drama,5856479
+tt4411504,2015,Golden Lion,,False,False,The Clan,nm0871086,Pablo Trapero,The Clan,2015.0,Biography,22115899
+tt0810819,2015,Golden Lion,,False,True,The Danish Girl,nm0393799,Tom Hooper,The Danish Girl,2016.0,Biography,81227863
+tt4467154,2015,Golden Lion,,False,False,The Endless River,nm3564996,Oliver Hermanus,The Endless River,2016.0,Drama,5860
+tt2815902,2015,Luigi De Laurentiis Award,,True,True,The Childhood of a Leader,nm1227232,Brady Corbet,The Childhood of a Leader,2016.0,Drama,260770
+tt4569240,2015,Venice Horizons Award,Best Film,False,False,A Monster with a Thousand Heads,nm0687751,Rodrigo Plá,A Monster with a Thousand Heads,2015.0,Drama,55567
+tt3830162,2015,Venice Horizons Award,Best Film,False,False,A War,nm2105585,Tobias Lindholm,A War,2016.0,Crime,1334891
+tt3583538,2015,Venice Horizons Award,Best Film,False,False,Kill Me Please,nm5121300,Anita Rocha da Silveira,Kill Me Please,2017.0,Drama,20774
+tt2461520,2015,Venice Horizons Award,Best Film,False,False,Man Down,nm1996918,Dito Montiel,Man Down,2016.0,Drama,176854
+tt4899406,2015,Venice Horizons Award,Best Film,False,True,Neon Bull,nm3486709,Gabriel Mascaro,Neon Bull,2015.0,Drama,214841
+tt4213764,2015,Venice Horizons Award,Best Film,False,False,Taj Mahal,nm0754256,Nicolas Saada,Taj Mahal,2015.0,Others,115243
+tt4923042,2015,Venice Horizons Award,Best Film,False,False,Tharlo,nm2120871,Pema Tseden,Tharlo,2016.0,Drama,188749
+tt4991384,2015,Venice Horizons Award,Best Film,False,True,Visaaranai,nm4274575,Vetrimaaran,Visaaranai,2016.0,Crime,2094
+tt4944924,2015,Venice Horizons Award,Best Film,False,True,"Wednesday, May 9",nm7522225,Vahid Jalilvand,"Wednesday, May 9",2016.0,Drama,600
+tt4239726,2015,International Critics' Week Award,,True,True,Tanna,nm0212707,Bentley Dean,Tanna,2016.0,Others,158372
+tt4886070,2015,International Critics' Week Award,,False,False,Ana Yurdu,nm4127109,Senem Tüzen,Ana Yurdu,2016.0,Drama,15801
+tt4881642,2015,International Critics' Week Award,,False,False,Banat (Il Viaggio),nm2384515,Adriano Valerio,Banat (Il Viaggio),2016.0,Drama,1147
+tt4059128,2015,International Critics' Week Award,,False,False,Light Years,nm1918304,Esther May Campbell,Light Years,2016.0,Drama,2704
+tt2662716,2015,International Critics' Week Award,,False,False,Montanha,nm0757651,João Salaviza,Montanha,2015.0,Drama,28587
+tt4991660,2015,International Critics' Week Award,,False,True,The Black Hen,nm5336883,Min Bahadur Bham,The Black Hen,2016.0,Others,7179
+tt1167611,2015,Pasinetti Award,Best Film,True,True,Don't Be Bad,nm0129997,Claudio Caligari,Don't Be Bad,2015.0,Crime,711637
+tt3530970,2015,Pasinetti Award - Special Mention,,True,True,La prima luce,nm0550059,Vincenzo Marra,La prima luce,2015.0,Drama,87149
+tt4935084,2015,Queer Lion,,False,False,Bleak Street,nm0728149,Arturo Ripstein,Bleak Street,2016.0,Crime,8508
+tt3327994,2015,Queer Lion,,False,False,Human,nm0037867,Yann Arthus-Bertrand,Human,2015.0,Others,86358
+tt4936064,2015,Queer Lion,,False,False,In Jackson Heights,nm0936464,Frederick Wiseman,In Jackson Heights,2015.0,Others,260221
+tt3707114,2015,Queer Lion,,False,False,Janis: Little Girl Blue,nm1332844,Amy Berg,Janis: Little Girl Blue,2015.0,Biography,2205317
+tt1895587,2015,Queer Lion,,False,True,Spotlight,nm0565336,Tom McCarthy,Spotlight,2015.0,Biography,154329532
+tt4400174,2015,Label Europa Cinemas,,True,True,As I Open My Eyes,nm3960987,Leyla Bouzid,As I Open My Eyes,2016.0,Drama,87272
+tt4679144,2015,Laterna Magica Prize,,True,True,Blanka,nm0367959,Kohki Hasei,Blanka,2017.0,Drama,2142
+tt4935954,2015,Venezia Classici Award,Best Documentary on Cinema,False,False,A Flickering Truth,nm2027586,Pietra Brettkelly,A Flickering Truth,2017.0,Others,6290
+tt2721510,2015,Venezia Classici Award,Best Documentary on Cinema,False,False,Behind the White Glasses,nm4877401,Valerio Ruiz,Behind the White Glasses,2016.0,Biography,7469
+tt4000670,2015,Venezia Classici Award,Best Documentary on Cinema,False,False,Mifune: The Last Samurai,nm0645574,Steven Okazaki,Mifune: The Last Samurai,2016.0,Others,131883
+tt0073650,2015,Venezia Classici Award,Best Restored Film,True,True,"Salò, or the 120 Days of Sodom",nm0001596,Pier Paolo Pasolini,"Salò, or the 120 Days of Sodom",1977.0,Drama,91337
+tt4341864,2015,Fedeora Award,Best Film (Venice Days),False,False,The Memory of Water,nm1498570,Matías Bize,The Memory of Water,2016.0,Drama,472452
+tt5843990,2016,Golden Lion,Best Film,True,False,The Woman Who Left,nm0225010,Lav Diaz,The Woman Who Left,2016.0,Drama,8837
+tt5078134,2016,Golden Lion,Best Film,False,True,A Woman's Life,nm0110300,Stéphane Brizé,A Woman's Life,2017.0,Drama,979347
+tt2543164,2016,Golden Lion,Best Film,False,True,Arrival,nm0898288,Denis Villeneuve,Arrival,2016.0,Drama,321809999
+tt1895315,2016,Golden Lion,Best Film,False,False,Brimstone,nm0465551,Martin Koolhoven,Brimstone,2017.0,Drama,2252987
+tt5247192,2016,Golden Lion,Best Film,False,True,Feather,nm1495139,Roan Johnson,Feather,2017.0,Drama,356697
+tt5029608,2016,Golden Lion,Best Film,False,False,Frantz,nm0654830,François Ozon,Frantz,2017.0,Drama,8762007
+tt1619029,2016,Golden Lion,Best Film,False,True,Jackie,nm1883257,Pablo Larraín,Jackie,2016.0,Biography,40466063
+tt3783958,2016,Golden Lion,Best Film,False,False,La La Land,nm3227090,Damien Chazelle,La La Land,2016.0,Comedy,632110793
+tt4550098,2016,Golden Lion,Best Film,False,True,Nocturnal Animals,nm1053530,Tom Ford,Nocturnal Animals,2016.0,Drama,43370944
+tt2800340,2016,Golden Lion,Best Film,False,True,On the Milky Road,nm0001437,Emir Kusturica,On the Milky Road,2016.0,Comedy,1138125
+tt4551318,2016,Golden Lion,Best Film,False,False,Paradise,nm0464846,Andrey Konchalovskiy,Paradise,2016.0,Drama,1041957
+tt4334266,2016,Golden Lion,Best Film,False,True,The Bad Batch,nm3235877,Ana Lily Amirpour,The Bad Batch,2017.0,Drama,399292
+tt4715652,2016,Golden Lion,Best Film,False,False,The Beautiful Days of Aranjuez,nm0000694,Wim Wenders,The Beautiful Days of Aranjuez,2016.0,Drama,97105
+tt4562518,2016,Golden Lion,Best Film,False,True,The Distinguished Citizen,nm1286935,Mariano Cohn,The Distinguished Citizen,2017.0,Comedy,4685710
+tt2547584,2016,Golden Lion,Best Film,False,False,The Light Between Oceans,nm0161834,Derek Cianfrance,The Light Between Oceans,2016.0,Drama,40774549
+tt5265960,2016,Golden Lion,Best Film,False,False,The Untamed,nm1661334,Amat Escalante,The Untamed,2017.0,Drama,92747
+tt5784568,2016,Golden Lion,Best Film,False,False,These Days,nm0681535,Giuseppe Piccioni,These Days,2016.0,Drama,262861
+tt5325492,2016,Luigi De Laurentiis Award,,False,False,Are We Not Cats,nm3545127,Xander Robin,Are We Not Cats,2018.0,Comedy,11326
+tt5154288,2016,Luigi De Laurentiis Award,,False,False,Prevenge,nm1546686,Alice Lowe,Prevenge,2017.0,Comedy,108890
+tt6034940,2016,Venice Horizons Award,Best Film,False,True,Big Big World,nm0258732,Reha Erdem,Big Big World,2016.0,Drama,25888
+tt5215486,2016,Venice Horizons Award,Best Film,False,False,Dawson City: Frozen Time,nm0994484,Bill Morrison,Dawson City: Frozen Time,2016.0,Others,279872
+tt5560592,2016,Venice Horizons Award,Best Film,False,False,Gukoroku - Traces of Sin,nm2502457,Kei Ishikawa,Gukoroku - Traces of Sin,2017.0,Drama,24228
+tt5096536,2016,Venice Horizons Award,Best Film,False,False,Heal the Living,nm1580395,Katell Quillévéré,Heal the Living,2017.0,Drama,2327092
+tt4818804,2016,Venice Horizons Award,Best Film,False,False,King of the Belgians,nm0112456,Peter Brosens,King of the Belgians,2017.0,Comedy,216554
+tt6069442,2016,Venice Horizons Award,Best Film,False,True,Kékszakállú,nm2644707,Gastón Solnicki,Kékszakállú,2017.0,Drama,1345
+tt4895668,2016,Venice Horizons Award,Best Film,False,False,Saint George,nm0554076,Marco Martins,Saint George,2016.0,Crime,270931
+tt4771896,2016,Venice Horizons Award,Best Film,False,False,The Fury of a Patient Man,nm1666855,Raúl Arévalo,The Fury of a Patient Man,2017.0,Drama,2456678
+tt5991206,2016,Venice Horizons Award,Best Film,False,False,The Wedding Plan,nm5112815,Rama Burshtein,The Wedding Plan,2016.0,Comedy,3127558
+tt3638644,2016,Venice Horizons Award,Best Film,False,True,White Sun,nm3581951,Deepak Rauniyar,White Sun,2017.0,Others,193514
+tt5259496,2016,Pasinetti Award,Best Film,True,True,Indivisible,nm2395887,Edoardo De Angelis,Indivisible,2017.0,Drama,327062
+tt5450328,2016,FEDIC Award,Best Food Scene,True,True,Orecchie,nm1192470,Alessandro Aronadio,Orecchie,2017.0,Comedy,57045
+tt4613254,2016,Queer Lion,,True,True,Heartstone,nm2003134,Guðmundur Arnar Guðmundsson,Heartstone,2016.0,Drama,382565
+tt5048406,2016,Queer Lion,,False,False,4 Days in France,nm2908724,Jérôme Reybaud,4 Days in France,2017.0,Comedy,25548
+tt5287168,2016,Label Europa Cinemas,,True,True,Sami Blood,nm1840544,Amanda Kernell,Sami Blood,2017.0,Drama,461548
+tt5281134,2016,Laterna Magica Prize,,True,True,Dark Night,nm4991744,Tim Sutton,Dark Night,2016.0,Drama,391
+tt4411618,2016,Fondazione Mimmo Rotella Award,,True,True,In Dubious Battle,nm0290556,James Franco,In Dubious Battle,2017.0,Drama,224474
+tt4823592,2016,Venezia Classici Award,Best Documentary on Cinema,True,True,The Competition,nm0800098,Claire Simon,The Competition,2019.0,Others,102478
+tt1691152,2016,Venezia Classici Award,Best Documentary on Cinema,False,False,David Lynch: The Art Life,nm4302809,Olivia Neergaard-Holm,David Lynch: The Art Life,2016.0,Biography,511289
+tt5580390,2017,Golden Lion,Best Film,True,True,The Shape of Water,nm0868219,Guillermo del Toro,The Shape of Water,2017.0,Others,268587349
+tt7205208,2017,Golden Lion,Best Film,False,False,Angels Wear White,nm2735954,Vivian Qu,Angels Wear White,2018.0,Drama,3428371
+tt6002232,2017,Golden Lion,Best Film,False,True,Custody,nm0499488,Xavier Legrand,Custody,2017.0,Drama,4013736
+tt1389072,2017,Golden Lion,Best Film,False,False,Downsizing,nm0668247,Alexander Payne,Downsizing,2017.0,Drama,82362041
+tt6209282,2017,Golden Lion,Best Film,False,True,Ex Libris: The New York Public Library,nm0936464,Frederick Wiseman,Ex Libris: The New York Public Library,2017.0,Others,369036
+tt6053438,2017,Golden Lion,Best Film,False,True,First Reformed,nm0001707,Paul Schrader,First Reformed,2018.0,Drama,7425825
+tt6896536,2017,Golden Lion,Best Film,False,True,Foxtrot,nm1413443,Samuel Maoz,Foxtrot,2017.0,Drama,2044891
+tt4432006,2017,Golden Lion,Best Film,False,True,Hannah,nm1761524,Andrea Pallaoro,Hannah,2018.0,Drama,161820
+tt6573444,2017,Golden Lion,Best Film,False,True,Human Flow,nm2675885,Weiwei Ai,Human Flow,2017.0,Others,2393049
+tt5340300,2017,Golden Lion,Best Film,False,False,Lean on Pete,nm0354091,Andrew Haigh,Lean on Pete,2018.0,Others,3678644
+tt7204006,2017,Golden Lion,Best Film,False,True,Love and Bullets,nm0542023,Antonio Manetti,Love and Bullets,2017.0,Comedy,1728862
+tt6121444,2017,Golden Lion,Best Film,False,True,"Mektoub, My Love: Canto Uno",nm0444244,Abdellatif Kechiche,"Mektoub, My Love: Canto Uno",2018.0,Comedy,1229218
+tt5109784,2017,Golden Lion,Best Film,False,False,Mother!,nm0004716,Darren Aronofsky,Mother!,2017.0,Drama,64520905
+tt0491175,2017,Golden Lion,Best Film,False,True,Suburbicon,nm0000123,George Clooney,Suburbicon,2017.0,Comedy,19194196
+tt6958212,2017,Golden Lion,Best Film,False,True,Sweet Country,nm0861610,Warwick Thornton,Sweet Country,2018.0,Others,1990960
+tt7219324,2017,Golden Lion,Best Film,False,True,The House by the Sea,nm0350168,Robert Guédiguian,The House by the Sea,2018.0,Drama,5898082
+tt7048622,2017,Golden Lion,Best Film,False,False,The Insult,nm0234780,Ziad Doueiri,The Insult,2019.0,Crime,4602908
+tt3741632,2017,Golden Lion,Best Film,False,False,The Leisure Seeker,nm0899501,Paolo Virzì,The Leisure Seeker,2017.0,Others,14192058
+tt6410564,2017,Golden Lion,Best Film,False,False,The Third Murder,nm0466153,Hirokazu Koreeda,The Third Murder,2018.0,Crime,13673845
+tt5027774,2017,Golden Lion,Best Film,False,True,"Three Billboards Outside Ebbing, Missouri",nm1732981,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri",2017.0,Crime,221547257
+tt6256056,2017,Golden Lion,Best Film,False,False,Una famiglia,nm2526956,Sebastiano Riso,Una famiglia,2017.0,Drama,50276
+tt6278192,2017,Luigi De Laurentiis Award,,False,False,Körfez,nm4404267,Emre Yeksan,Körfez,2017.0,Drama,7605
+tt6567012,2017,Luigi De Laurentiis Award,,False,False,West of Sunshine,nm2174264,Jason Raftopoulos,West of Sunshine,2018.0,Crime,25094
+tt7186092,2017,Venice Horizons Award,Best Film,True,True,"Nico, 1988",nm1339604,Susanna Nicchiarelli,"Nico, 1988",2018.0,Biography,158978
+tt5432712,2017,Venice Horizons Award,Best Film,False,False,Cinderella the Cat,nm5549531,Ivan Cappiello,Cinderella the Cat,2017.0,Others,372558
+tt5539466,2017,Venice Horizons Award,Best Film,False,False,Endangered Species,nm0099841,Gilles Bourdos,Endangered Species,2017.0,Drama,115708
+tt6207878,2017,Venice Horizons Award,Best Film,False,False,"No Date, No Signature",nm7522225,Vahid Jalilvand,"No Date, No Signature",2018.0,Drama,145752
+tt5989394,2017,Venice Horizons Award,Best Film,False,True,Reinventing Marvin,nm0284774,Anne Fontaine,Reinventing Marvin,2018.0,Drama,832980
+tt7279296,2017,Venice Horizons Award,Best Film,False,False,The Ark of Disperata,nm0935529,Edoardo Winspeare,The Ark of Disperata,2018.0,Comedy,79229
+tt7336012,2017,Venice Horizons Award,Best Film,False,False,The Night I Swam,nm6431477,Kohei Igarashi,The Night I Swam,2018.0,Drama,20848
+tt6116682,2017,Venice Horizons Award,Best Film,False,True,The Rape of Recy Taylor,nm1799233,Nancy Buirski,The Rape of Recy Taylor,2017.0,Others,8000
+tt6856132,2017,Venice Horizons Award,Best Film,False,False,The Testament,nm8971343,Amichai Greenberg,The Testament,2017.0,Drama,15010
+tt5450524,2017,Venice Horizons Award,Best Film,False,False,Ugly Nasty People,nm0326995,Cosimo Gomez,Ugly Nasty People,2017.0,Comedy,595877
+tt6223806,2017,Venice Horizons Award,Best Film,False,False,Under the Tree,nm2619779,Hafsteinn Gunnar Sigurðsson,Under the Tree,2018.0,Comedy,1026819
+tt5903232,2017,Audience Award (Critics' Week),Best Film (International Film Critics Week),True,True,Hunting Season,nm4407467,Natalia Garagiola,Hunting Season,2017.0,Drama,14358
+tt6473838,2017,Queer Lion,,False,False,Tainted Souls,nm2733360,Matteo Botrugno,Tainted Souls,2017.0,Crime,162365
+tt7340764,2017,Human Rights Film Network Award - Special Mention,,True,True,The Order of Things,nm3113346,Andrea Segre,The Order of Things,2018.0,Drama,204990
+tt6264954,2017,Fondazione Mimmo Rotella Award,,True,True,My Generation,nm0000323,Michael Caine,My Generation,2018.0,Others,553552
+tt0091251,2017,Venezia Classici Award,Best Restored Film,True,True,Come and See,,[],Come and See,1985.0,Drama,227825
+tt7264116,2017,Fedeora Award,Best Film (Venice Days),True,True,Candelaria,nm2255818,Jhonny Hendrix,Candelaria,2018.0,Drama,135070
+tt7263736,2017,Fedeora Award,Best Film (Venice Days),False,False,Equilibrium,nm0550059,Vincenzo Marra,Equilibrium,2017.0,Drama,65827
+tt4702752,2017,Fedeora Award,Best Film (Venice Days),False,False,Eye on Juliet,nm1243740,Kim Nguyen,Eye on Juliet,2018.0,Drama,21562
+tt5545984,2017,Fedeora Award,Best Film (Venice Days),False,True,Longing,nm0300076,Savi Gabizon,Longing,2018.0,Drama,38812
+tt5137242,2017,Fedeora Award,Best Film (Venice Days),False,False,M,nm1271759,Sara Forestier,M,2018.0,Drama,72736
+tt7022720,2017,Fedeora Award,Best Film (Venice Days),False,False,The Taste of Rice Flower,nm5879608,Peng Fei Song,The Taste of Rice Flower,2018.0,Drama,352978
+tt6155172,2018,Golden Lion,Best Film,True,True,Roma,nm0190859,Alfonso Cuarón,Roma,2018.0,Drama,1164019
+tt6938828,2018,Golden Lion,Best Film,False,True,At Eternity's Gate,nm0773603,Julian Schnabel,At Eternity's Gate,2018.0,Biography,13473896
+tt7188002,2018,Golden Lion,Best Film,False,True,Capri-Revolution,nm0554280,Mario Martone,Capri-Revolution,2018.0,Drama,842590
+tt6527586,2018,Golden Lion,Best Film,False,False,Close Enemies,nm1190532,David Oelhoffen,Close Enemies,2018.0,Drama,1306148
+tt1213641,2018,Golden Lion,Best Film,False,False,First Man,nm3227090,Damien Chazelle,First Man,2018.0,Biography,152211329
+tt5311542,2018,Golden Lion,Best Film,False,True,Never Look Away,nm0003697,Florian Henckel von Donnersmarck,Never Look Away,2018.0,Drama,6264530
+tt7250056,2018,Golden Lion,Best Film,False,False,Non-Fiction,nm0000801,Olivier Assayas,Non-Fiction,2019.0,Comedy,4245492
+tt5265964,2018,Golden Lion,Best Film,False,False,Our Time,nm1196161,Carlos Reygadas,Our Time,2019.0,Drama,46195
+tt4614612,2018,Golden Lion,Best Film,False,True,Peterloo,nm0005139,Mike Leigh,Peterloo,2019.0,Drama,2150742
+tt5855772,2018,Golden Lion,Best Film,False,True,Sunset,nm1841577,László Nemes,Sunset,2019.0,Drama,1248205
+tt1034415,2018,Golden Lion,Best Film,False,True,Suspiria,nm0345174,Luca Guadagnino,Suspiria,2018.0,Others,10569125
+tt7952000,2018,Golden Lion,Best Film,False,False,The Accused,nm1886112,Gonzalo Tobal,The Accused,2019.0,Crime,1589812
+tt5083738,2018,Golden Lion,Best Film,False,True,The Favourite,nm0487166,Yorgos Lanthimos,The Favourite,2018.0,Biography,132523180
+tt7950334,2018,Golden Lion,Best Film,False,True,The Mountain,nm3687830,Rick Alverson,The Mountain,2019.0,Drama,44132
+tt4971344,2018,Golden Lion,Best Film,False,False,The Sisters Brothers,nm0002191,Jacques Audiard,The Sisters Brothers,2018.0,Others,16457612
+tt5960374,2018,Golden Lion,Best Film,False,False,Vox Lux,nm1227232,Brady Corbet,Vox Lux,2018.0,Drama,2083629
+tt8747596,2018,Golden Lion,Best Film,False,True,What You Gonna Do When the World's on Fire?,nm1667635,Roberto Minervini,What You Gonna Do When the World's on Fire?,2019.0,Others,29318
+tt6792282,2018,Venice Horizons Award,Best Film,False,False,A Twelve-Year Night,nm1304308,Álvaro Brechner,A Twelve-Year Night,2018.0,Biography,817524
+tt7491144,2018,Venice Horizons Award,Best Film,False,True,Amanda,nm1492984,Mikhaël Hers,Amanda,2018.0,Drama,2131782
+tt1759744,2018,Venice Horizons Award,Best Film,False,False,Charlie Says,nm0366004,Mary Harron,Charlie Says,2019.0,Biography,114445
+tt8836292,2018,Venice Horizons Award,Best Film,False,True,Jinpa,nm2120871,Pema Tseden,Jinpa,2019.0,Drama,1520781
+tt7660450,2018,Venice Horizons Award,Best Film,False,False,La profezia dell'armadillo,nm1723252,Emanuele Scaringi,La profezia dell'armadillo,2018.0,Drama,338067
+tt7121252,2018,Venice Horizons Award,Best Film,False,True,On My Skin: The Last Seven Days of Stefano Cucchi,nm0187373,Alessio Cremonini,On My Skin: The Last Seven Days of Stefano Cucchi,2018.0,Biography,665790
+tt5791098,2018,Venice Horizons Award,Best Film,False,True,Tel Aviv on Fire,nm2108295,Sameh Zoabi,Tel Aviv on Fire,2019.0,Comedy,958257
+tt8751804,2018,Venice Horizons Award,Best Film,False,True,The Announcement,nm5035688,Halil Kardas,The Announcement,2019.0,Comedy,22193
+tt8900172,2018,Venice Horizons Award,Best Film,False,False,The Man Who Surprised Everyone,nm5689944,Aleksey Chupov,The Man Who Surprised Everyone,2019.0,Drama,113717
+tt7111818,2018,Venice Horizons Award,Best Film,False,False,The River,nm5028357,Emir Baigazin,The River,2019.0,Drama,748
+tt8589792,2018,Venice Horizons Award,Best Film,False,False,Un giorno all'improvviso,nm3318452,Ciro D'Emilio,Un giorno all'improvviso,2019.0,Drama,31298
+tt6256546,2018,FEDIC Award - Special Mention,,True,True,Ricordi?,nm2307631,Valerio Mieli,Ricordi?,2019.0,Drama,348965
+tt7397338,2018,Queer Lion,,False,True,C'est ça l'amour,nm2439357,Claire Burger,C'est ça l'amour,2019.0,Comedy,665603
+tt7658384,2018,Queer Lion,,False,False,The Quietude,nm0871086,Pablo Trapero,The Quietude,2018.0,Drama,336108
+tt8892188,2018,Human Rights Film Network Award - Special Mention,,True,True,1938 - Diversi,nm0872372,Giorgio Treves,1938 - Diversi,2018.0,Others,28912
+tt8758548,2018,Venezia Classici Award,Best Documentary on Cinema,True,True,The Great Buster,nm0000953,Peter Bogdanovich,The Great Buster,2018.0,Biography,239180
+tt8003558,2018,Fedeora Award,Best Film (Venice Days),False,False,Keep Going,nm1050098,Joachim Lafosse,Keep Going,2019.0,Drama,247793
+tt8896640,2018,UNIMED Award,,True,True,A Tramway in Jerusalem,nm0321159,Amos Gitai,A Tramway in Jerusalem,2019.0,Drama,79507
+tt1517451,2018,Smithers Foundation Award,Collateral Award,True,True,A Star Is Born,nm0177896,Bradley Cooper,A Star Is Born,2018.0,Drama,657024414

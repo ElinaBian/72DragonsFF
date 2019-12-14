@@ -1,0 +1,167 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0234288,2001,Prix UIP,,True,True,Divided We Fall,nm0398575,Jan Hrebejk,Divided We Fall,2000.0,Comedy,4962662
+tt0286499,2002,Prix UIP,,True,True,Bend It Like Beckham,nm0149446,Gurinder Chadha,Bend It Like Beckham,2003.0,Comedy,151067881
+tt0334405,2003,Audience Award,Best Documentary,True,True,Spellbound,nm0998825,Jeffrey Blitz,Spellbound,2002.0,Comedy,18846366
+tt0283900,2003,Audience Award,Best Feature-Length Fiction Film,True,True,L'auberge espagnole,nm0458251,Cédric Klapisch,L'auberge espagnole,2003.0,Comedy,51708661
+tt0303297,2003,FIPRESCI Prize,,True,True,Amandla! A Revolution in Four Part Harmony,nm1097276,Lee Hirsch,Amandla! A Revolution in Four Part Harmony,2002.0,Others,1189390
+tt0391024,2004,FIPRESCI Prize,,True,True,Control Room,nm0636675,Jehane Noujaim,Control Room,2004.0,Others,7159172
+tt0424024,2005,FIPRESCI Prize,,True,True,Darwin's Nightmare,nm0767012,Hubert Sauper,Darwin's Nightmare,2005.0,Others,4182824
+tt0455949,2006,Sydney Film Prize,Best Documentary,True,False,Favela Rising,nm1905310,Jeff Zimbalist,Favela Rising,2005.0,Others,51952
+tt0452644,2007,Audience Award,Best Feature,True,True,Lucky Miles,,[],Lucky Miles,2007.0,Others,722359
+tt1045670,2008,Sydney Film Prize,Best Film,False,False,Happy-Go-Lucky,nm0005139,Mike Leigh,Happy-Go-Lucky,2008.0,Comedy,26717043
+tt0780536,2008,Sydney Film Prize,Best Film,False,False,In Bruges,nm1732981,Martin McDonagh,In Bruges,2008.0,Comedy,49729406
+tt1101675,2008,Sydney Film Prize,Best Film,False,False,Lake Tahoe,nm0251774,Fernando Eimbcke,Lake Tahoe,2009.0,Drama,264039
+tt1093842,2008,Sydney Film Prize,Best Film,False,False,My Winnipeg,nm0534665,Guy Maddin,My Winnipeg,2008.0,Comedy,566363
+tt0929412,2008,Sydney Film Prize,Best Film,False,False,Quiet Chaos,nm0342096,Antonello Grimaldi,Quiet Chaos,2009.0,Drama,13430590
+tt1092031,2008,Sydney Film Prize,Best Film,False,False,Rain of the Children,nm0911910,Vincent Ward,Rain of the Children,2008.0,Others,233839
+tt0841925,2008,Sydney Film Prize,Best Film,False,False,Silent Light,nm1196161,Carlos Reygadas,Silent Light,2007.0,Drama,1146987
+tt0489281,2008,Sydney Film Prize,Best Film,False,False,Stop-Loss,nm0005303,Kimberly Peirce,Stop-Loss,2008.0,Drama,26476416
+tt1085507,2008,Sydney Film Prize,Best Film,False,False,The Square,nm0003482,Nash Edgerton,The Square,2009.0,Others,1363608
+tt0938341,2008,Sydney Film Prize,Best Film,False,False,Tokyo Sonata,nm0475905,Kiyoshi Kurosawa,Tokyo Sonata,2008.0,Drama,1441799
+tt0986233,2008,Sydney Film Prize,,True,False,Hunger,nm2588606,Steve McQueen,Hunger,2008.0,Others,3900326
+tt1157605,2008,Audience Award,Audience Award: Documentary at Satellite Venues,True,True,Anvil: The Story of Anvil,,[],Anvil: The Story of Anvil,2008.0,Others,1960425
+tt0874317,2008,Audience Award,Best Australian Documentary,True,True,Salute,nm1254704,Matt Norman,Salute,2008.0,Others,200261
+tt0450121,2008,Audience Award,Best Film,True,True,Red Like the Sky,nm0097580,Cristiano Bortone,Red Like the Sky,2008.0,Drama,875408
+tt1172570,2009,Sydney Film Prize,Best Film,True,False,Bronson,nm0716347,Nicolas Winding Refn,Bronson,2009.0,Others,2863214
+tt1318022,2009,Sydney Film Prize,Best Film,False,False,Altiplano,nm0112456,Peter Brosens,Altiplano,2010.0,Drama,188176
+tt1209377,2009,Sydney Film Prize,Best Film,False,False,Beautiful Kate,nm0001829,Rachel Ward,Beautiful Kate,2010.0,Drama,1256772
+tt0327597,2009,Sydney Film Prize,Best Film,False,False,Coraline,nm0783139,Henry Selick,Coraline,2009.0,Others,240722387
+tt0445953,2009,Sydney Film Prize,Best Film,False,False,Disgrace,nm0414646,Steve Jacobs,Disgrace,2009.0,Drama,849376
+tt1132594,2009,Sydney Film Prize,Best Film,False,False,Louise-Michel,nm0218022,Benoît Delépine,Louise-Michel,2009.0,Comedy,6070376
+tt1284576,2009,Sydney Film Prize,Best Film,False,False,Paper Soldier,nm1531700,Aleksey German Jr.,Paper Soldier,2008.0,Drama,342840
+tt1103982,2009,Sydney Film Prize,Best Film,False,False,The Girlfriend Experience,nm0001752,Steven Soderbergh,The Girlfriend Experience,2009.0,Drama,2062124
+tt1187044,2009,Sydney Film Prize,Best Film,False,False,The Maid,nm2928364,Sebastián Silva,The Maid,2009.0,Comedy,2744574
+tt1313104,2009,Audience Award,Best Documentary,True,True,The Cove,nm3174775,Louie Psihoyos,The Cove,2009.0,Others,2391006
+tt1229345,2009,Audience Award,Best Fiction Feature at Satellite Venues,True,True,Cedar Boys,nm1313865,Serhat Caradee,Cedar Boys,2009.0,Others,202612
+tt1600524,2010,Sydney Film Prize,Best Film,True,False,Heartbeats,nm0230859,Xavier Dolan,Heartbeats,2010.0,Drama,767780
+tt1341167,2010,Sydney Film Prize,Best Film,False,False,Four Lions,nm0606439,Christopher Morris,Four Lions,2010.0,Comedy,5854080
+tt1496792,2010,Sydney Film Prize,Best Film,False,False,Grandmother,nm1137289,Brillante Mendoza,Grandmother,2010.0,Drama,53656
+tt1588875,2010,Sydney Film Prize,Best Film,False,False,How I Ended This Summer,nm1403225,Aleksey Popogrebskiy,How I Ended This Summer,2011.0,Drama,732653
+tt1590024,2010,Sydney Film Prize,Best Film,False,False,"If I Want to Whistle, I Whistle",nm2758521,Florin Serban,"If I Want to Whistle, I Whistle",2010.0,Drama,285233
+tt0808526,2010,Sydney Film Prize,Best Film,False,False,Life During Wartime,nm0001754,Todd Solondz,Life During Wartime,2009.0,Comedy,1270105
+tt0954947,2010,Sydney Film Prize,Best Film,False,False,The Killer Inside Me,nm3196780,Michael Higgenbottom,The Killer Inside Me,2010.0,Others,4949130
+tt1496005,2010,Sydney Film Prize,Best Film,False,False,The Tree,nm0078465,Julie Bertuccelli,The Tree,2010.0,Drama,2676096
+tt1588895,2010,Sydney Film Prize,Best Film,False,False,Uncle Boonmee Who Can Recall His Past Lives,nm0917405,Apichatpong Weerasethakul,Uncle Boonmee Who Can Recall His Past Lives,2010.0,Drama,1540916
+tt1647483,2010,Sydney Film Prize,Best Film,False,False,Wasted on the Young,nm2279930,Ben C. Lucas,Wasted on the Young,2013.0,Drama,59112
+tt1498887,2010,Sydney Film Prize,Best Film,False,False,Women Without Men,nm1252622,Shirin Neshat,Women Without Men,2010.0,Drama,1150577
+tt1560139,2010,Audience Award,Best Feature Film,True,True,Boy,nm0169806,Taika Waititi,Boy,2010.0,Comedy,51663849
+tt1832382,2011,Sydney Film Prize,Best Film,True,False,A Separation,nm1410815,Asghar Farhadi,A Separation,2011.0,Drama,30408318
+tt1764141,2011,Sydney Film Prize,Best Film,False,False,678,nm2559996,Mohamed Diab,678,2011.0,Drama,563925
+tt1477171,2011,Sydney Film Prize,Best Film,False,False,Amador,nm0508208,Fernando León de Aranoa,Amador,2011.0,Drama,979936
+tt1691323,2011,Sydney Film Prize,Best Film,False,False,Attenberg,nm0718125,Athina Rachel Tsangari,Attenberg,2011.0,Drama,109074
+tt1270842,2011,Sydney Film Prize,Best Film,False,False,Norwegian Wood,nm0870841,Anh Hung Tran,Norwegian Wood,2011.0,Drama,20014193
+tt1588398,2011,Sydney Film Prize,Best Film,False,False,Sleeping Beauty,nm3772967,Julia Leigh,Sleeping Beauty,2011.0,Drama,504204
+tt1675192,2011,Sydney Film Prize,Best Film,False,False,Take Shelter,nm2158772,Jeff Nichols,Take Shelter,2011.0,Drama,5604306
+tt1772980,2011,Sydney Film Prize,Best Film,False,False,Target,nm0954483,Aleksandr Zeldovich,Target,2011.0,Drama,82819
+tt1787127,2011,Sydney Film Prize,Best Film,False,False,The Forgiveness of Blood,nm0551358,Joshua Marston,The Forgiveness of Blood,2011.0,Drama,317713
+tt1235170,2011,Sydney Film Prize,Best Film,False,False,The Future,nm0432380,Miranda July,The Future,2011.0,Drama,1689357
+tt0478304,2011,Sydney Film Prize,Best Film,False,False,The Tree of Life,nm0000517,Terrence Malick,The Tree of Life,2011.0,Drama,76457936
+tt1859446,2012,Sydney Film Prize,,True,False,Alps,nm0487166,Yorgos Lanthimos,Alps,2012.0,Drama,243015
+tt2125435,2012,Sydney Film Prize,,False,False,Beasts of the Southern Wild,nm1022455,Benh Zeitlin,Beasts of the Southern Wild,2012.0,Others,38223676
+tt2177511,2012,Sydney Film Prize,,False,False,Caesar Must Die,nm0851752,Paolo Taviani,Caesar Must Die,2012.0,Drama,1815779
+tt2091880,2012,Sydney Film Prize,,False,False,Dead Europe,nm1097974,Tony Krawitz,Dead Europe,2013.0,Drama,2287
+tt1954470,2012,Sydney Film Prize,,False,False,Gangs of Wasseypur,nm0440604,Anurag Kashyap,Gangs of Wasseypur,2014.0,Others,715
+tt1996310,2012,Sydney Film Prize,,False,False,Lore,nm0795153,Cate Shortland,Lore,2012.0,Drama,3681414
+tt2011971,2012,Sydney Film Prize,,False,True,Monsieur Lazhar,nm0265852,Philippe Falardeau,Monsieur Lazhar,2011.0,Comedy,9696641
+tt2190367,2012,Sydney Film Prize,,False,False,Neighboring Sounds,nm2207625,Kleber Mendonça Filho,Neighboring Sounds,2012.0,Drama,585237
+tt0337692,2012,Sydney Film Prize,,False,False,On the Road,nm0758574,Walter Salles,On the Road,2012.0,Others,10526758
+tt2153963,2012,Sydney Film Prize,,False,False,Tabu,nm0326937,Miguel Gomes,Tabu,2012.0,Drama,1224588
+tt2086830,2012,Sydney Film Prize,,False,False,The King of Pigs,nm3613566,Sang-ho Yeon,The King of Pigs,2012.0,Others,137011
+tt1602613,2013,Sydney Film Prize,Best Film,True,False,Only God Forgives,nm0716347,Nicolas Winding Refn,Only God Forgives,2013.0,Others,12491884
+tt1954701,2013,Sydney Film Prize,Best Film,False,False,A Coffee in Berlin,nm1673756,Jan-Ole Gerster,A Coffee in Berlin,2014.0,Comedy,3109928
+tt1954315,2013,Sydney Film Prize,Best Film,False,False,Borgman,nm0912334,Alex van Warmerdam,Borgman,2013.0,Drama,1164456
+tt2187115,2013,Sydney Film Prize,Best Film,False,False,Child's Pose,nm0626754,Cãlin Peter Netzer,Child's Pose,2013.0,Drama,1196549
+tt2315628,2013,Sydney Film Prize,Best Film,False,False,For Those in Peril,nm3591467,Paul Wright,For Those in Peril,2014.0,Drama,4174
+tt2366450,2013,Sydney Film Prize,Best Film,False,False,Stories We Tell,nm0001631,Sarah Polley,Stories We Tell,2012.0,Others,4683651
+tt2375605,2013,Sydney Film Prize,Best Film,False,False,The Act of Killing,nm1484791,Joshua Oppenheimer,The Act of Killing,2012.0,Others,1345790
+tt2024519,2013,Sydney Film Prize,Best Film,False,False,The Broken Circle Breakdown,nm0886976,Felix van Groeningen,The Broken Circle Breakdown,2013.0,Drama,6209390
+tt2178256,2013,Sydney Film Prize,Best Film,False,True,The Rocket,nm1203596,Kim Mordaunt,The Rocket,2013.0,Drama,555962
+tt2258858,2013,Sydney Film Prize,Best Film,False,False,Wadjda,nm2223783,Haifaa Al-Mansour,Wadjda,2012.0,Comedy,8665527
+tt2737050,2014,Sydney Film Prize,Best Film,True,False,"Two Days, One Night",nm0201094,Jean-Pierre Dardenne,"Two Days, One Night",2014.0,Drama,8916961
+tt2920540,2014,Sydney Film Prize,Best Film,False,False,"20,000 Days on Earth",nm3558632,Iain Forsyth,"20,000 Days on Earth",2014.0,Others,2581024
+tt3469910,2014,Sydney Film Prize,Best Film,False,False,"Black Coal, Thin Ice",nm0224801,Yi'nan Diao,"Black Coal, Thin Ice",2014.0,Others,18142585
+tt1065073,2014,Sydney Film Prize,Best Film,False,False,Boyhood,nm0000500,Richard Linklater,Boyhood,2014.0,Drama,75044165
+tt3263614,2014,Sydney Film Prize,Best Film,False,False,"Kumiko, the Treasure Hunter",nm0954655,David Zellner,"Kumiko, the Treasure Hunter",2014.0,Drama,1489053
+tt2692904,2014,Sydney Film Prize,Best Film,False,False,Locke,nm1140275,Steven Knight,Locke,2014.0,Drama,7064372
+tt1706620,2014,Sydney Film Prize,Best Film,False,False,Snowpiercer,nm0094435,Bong Joon Ho,Snowpiercer,2014.0,Others,97952982
+tt3504542,2014,Sydney Film Prize,Best Film,False,False,The Kidnapping of Michel Houellebecq,nm0630112,Guillaume Nicloux,The Kidnapping of Michel Houellebecq,2015.0,Comedy,128994
+tt2345737,2014,Sydney Film Prize,Best Film,False,False,The Rover,nm2391575,David Michôd,The Rover,2014.0,Others,3655988
+tt2758880,2014,Audience Award,Best Narrative Feature,True,True,Winter Sleep,nm0149196,Nuri Bilge Ceylan,Winter Sleep,2014.0,Drama,4325312
+tt3284178,2015,Sydney Film Prize,Best Film,True,False,Arabian Nights: Volume 1 - The Restless One,nm0326937,Miguel Gomes,Arabian Nights: Volume 1 - The Restless One,2015.0,Drama,43501
+tt1883180,2015,Sydney Film Prize,Best Film,False,False,A Pigeon Sat on a Branch Reflecting on Existence,nm0027815,Roy Andersson,A Pigeon Sat on a Branch Reflecting on Existence,2015.0,Comedy,1834927
+tt3894190,2015,Sydney Film Prize,Best Film,False,False,Black Souls,nm0613359,Francesco Munzi,Black Souls,2015.0,Others,1492955
+tt2582496,2015,Sydney Film Prize,Best Film,False,True,Me and Earl and the Dying Girl,nm0004234,Alfonso Gomez-Rejon,Me and Earl and the Dying Girl,2015.0,Comedy,16953973
+tt3746250,2015,Sydney Film Prize,Best Film,False,False,Sherpa,nm2636350,Jennifer Peedom,Sherpa,2016.0,Others,1063832
+tt2325977,2015,Sydney Film Prize,Best Film,False,False,Strangerland,nm2040537,Kim Farrant,Strangerland,2015.0,Drama,137680
+tt3824458,2015,Sydney Film Prize,Best Film,False,False,Tangerine,nm0048918,Sean Baker,Tangerine,2015.0,Comedy,1639621
+tt4359416,2015,Sydney Film Prize,Best Film,False,False,Taxi Tehran,nm0070159,Jafar Panahi,Taxi,2015.0,Comedy,4540643
+tt3922816,2015,Sydney Film Prize,Best Film,False,False,The Daughter,nm1404307,Simon Stone,The Daughter,2017.0,Drama,1611977
+tt4226388,2015,Sydney Film Prize,Best Film,False,False,Victoria,nm0771923,Sebastian Schipper,Victoria,2015.0,Others,3447613
+tt3636528,2015,Sydney Film Prize,Best Film,False,False,Vincent,nm1167415,Thomas Salvador,Vincent,2015.0,Comedy,3893
+tt4085484,2015,Audience Award,Best Documentary,True,True,Wide Open Sky,nm6816444,Lisa Nicol,Wide Open Sky,2016.0,Others,31512
+tt3898028,2015,Audience Award,Best Documentary,False,False,Gayby Baby,nm4181560,Maya Newell,Gayby Baby,2016.0,Others,9396
+tt3680410,2015,Audience Award,Best Narrative Feature,False,False,Last Cab to Darwin,nm0801327,Jeremy Sims,Last Cab to Darwin,2016.0,Comedy,5913457
+tt1863192,2015,Audience Award,Best Narrative Feature,False,False,Corn Island,nm0653768,George Ovashvili,Corn Island,2014.0,Drama,40301
+tt1865505,2015,Audience Award,Best Narrative Feature,False,False,Song of the Sea,nm1119079,Tomm Moore,Song of the Sea,2015.0,Others,5435565
+tt5221584,2016,Sydney Film Prize,Best Film,True,False,Aquarius,nm2207625,Kleber Mendonça Filho,Aquarius,2016.0,Drama,3564669
+tt4660736,2016,Sydney Film Prize,Best Film,False,False,Apprentice,nm3008853,Junfeng Boo,Apprentice,2017.0,Drama,66381
+tt4468634,2016,Sydney Film Prize,Best Film,False,False,Certain Women,nm0716980,Kelly Reichardt,Certain Women,2016.0,Drama,2819880
+tt4911996,2016,Sydney Film Prize,Best Film,False,False,Goldstone,nm0784008,Ivan Sen,Goldstone,2016.0,Others,769654
+tt4645368,2016,Sydney Film Prize,Best Film,False,False,It's Only the End of the World,nm0230859,Xavier Dolan,It's Only the End of the World,2017.0,Drama,9631050
+tt3841424,2016,Sydney Film Prize,Best Film,False,False,Land of Mine,nm1324710,Martin Zandvliet,Land of Mine,2016.0,Drama,3888316
+tt4704422,2016,Sydney Film Prize,Best Film,False,False,Letters from War,nm0274337,Ivo Ferreira,Letters from War,2016.0,Drama,187762
+tt5117222,2016,Sydney Film Prize,Best Film,False,False,Notes on Blindness,nm3730725,Peter Middleton,Notes on Blindness,2016.0,Others,112409
+tt5662932,2016,Sydney Film Prize,Best Film,False,False,Raman Raghav 2.0,nm0440604,Anurag Kashyap,Raman Raghav 2.0,2016.0,Others,8070
+tt2815902,2016,Sydney Film Prize,Best Film,False,False,The Childhood of a Leader,nm1227232,Brady Corbet,The Childhood of a Leader,2016.0,Drama,260770
+tt4467154,2016,Sydney Film Prize,Best Film,False,False,The Endless River,nm3564996,Oliver Hermanus,The Endless River,2016.0,Drama,5860
+tt4334482,2016,Sydney Film Prize,Best Film,False,False,Viva,nm0106456,Paddy Breathnach,Viva,2015.0,Drama,646518
+tt3549206,2016,Audience Award,Best Documentary,False,False,The Music of Strangers,nm1365879,Morgan Neville,The Music of Strangers,2016.0,Others,2614555
+tt3966404,2016,Audience Award,Best Narrative Feature,True,True,Mustang,nm2197025,Deniz Gamze Ergüven,Mustang,2015.0,Drama,6575847
+tt4331970,2016,Audience Award,Best Narrative Feature,False,False,Being 17,nm0029242,André Téchiné,Being 17,2016.0,Drama,2230289
+tt3638396,2016,Audience Award,Best Narrative Feature,False,False,Closet Monster,nm2997306,Stephen Dunn,Closet Monster,2016.0,Drama,90279
+tt5607714,2017,Sydney Film Prize,Best Film,True,False,On Body and Soul,nm0258221,Ildikó Enyedi,On Body and Soul,2018.0,Drama,2187363
+tt5980798,2017,Sydney Film Prize,Best Film,False,False,Félicité,nm0327120,Alain Gomis,Félicité,2017.0,Drama,287939
+tt5304464,2017,Sydney Film Prize,Best Film,False,False,Happy End,nm0359734,Michael Haneke,Happy End,2017.0,Drama,3019124
+tt5804038,2017,Sydney Film Prize,Best Film,False,False,I Am Not Your Negro,nm0669704,Raoul Peck,I Am Not Your Negro,2017.0,Others,16227745
+tt5791536,2017,Sydney Film Prize,Best Film,False,False,My Happy Family,nm2206574,Nana Ekvtimishvili,My Happy Family,2017.0,Drama,444152
+tt3740066,2017,Sydney Film Prize,Best Film,False,False,Pop Aye,nm3562611,Kirsten Tan,Pop Aye,2017.0,Drama,297221
+tt5592248,2017,Sydney Film Prize,Best Film,False,False,The Beguiled,nm0001068,Sofia Coppola,The Beguiled,2017.0,Drama,39755603
+tt5222918,2017,Sydney Film Prize,Best Film,False,False,The Other Side of Hope,nm0442454,Aki Kaurismäki,The Other Side of Hope,2017.0,Comedy,4624892
+tt5265960,2017,Sydney Film Prize,Best Film,False,False,The Untamed,nm1661334,Amat Escalante,The Untamed,2017.0,Drama,92747
+tt2315582,2017,Sydney Film Prize,Best Film,False,False,Una,nm4970700,Benedict Andrews,Una,2016.0,Drama,562038
+tt5433330,2017,Audience Award,Best Documentary,False,False,It's Not Yet Dark,nm5942839,Frankie Fenton,It's Not Yet Dark,2017.0,Others,6761
+tt6333080,2017,Audience Award,Best Documentary,False,False,Rumble: The Indians Who Rocked the World,nm2313220,Catherine Bainbridge,Rumble: The Indians Who Rocked the World,2017.0,Others,471884
+tt6223974,2017,Audience Award,Best Documentary,False,False,The Farthest,nm0721707,Emer Reynolds,The Farthest,2017.0,Others,62132
+tt2782692,2017,Audience Award,Best Narrative Feature,True,True,Ali's Wedding,nm0907835,Jeffrey Walker,Ali's Wedding,2018.0,Comedy,940949
+tt5726616,2017,Audience Award,Best Narrative Feature,False,False,Call Me by Your Name,nm0345174,Luca Guadagnino,Call Me by Your Name,2018.0,Drama,61842081
+tt6262764,2017,Audience Award,Best Narrative Feature,False,False,Rip Tide,nm6026437,Rhiannon Bannenberg,Rip Tide,2017.0,Others,203528
+tt5805752,2017,Audience Award,Best Narrative Feature,False,False,Brigsby Bear,nm5050824,Dave McCary,Brigsby Bear,2017.0,Comedy,1277851
+tt5635086,2017,Audience Award,Best Narrative Feature,False,False,God's Own Country,nm0497274,Francis Lee,God's Own Country,2017.0,Drama,3047086
+tt5287168,2017,Audience Award,Best Narrative Feature,False,False,Sami Blood,nm1840544,Amanda Kernell,Sami Blood,2017.0,Drama,461548
+tt4738802,2017,Audience Award,Best Narrative Feature,False,False,That's Not Me,nm3768714,Gregory Erdstein,That's Not Me,2017.0,Comedy,70872
+tt5843990,2017,Audience Award,Best Narrative Feature,False,False,The Woman Who Left,nm0225010,Lav Diaz,The Woman Who Left,2016.0,Drama,8837
+tt6333070,2017,Audience Award,Best Narrative Feature,False,False,The Wound,nm1626716,John Trengove,The Wound,2017.0,Drama,256476
+tt7875464,2018,Sydney Film Prize,Best Film,True,False,The Heiresses,nm3308584,Marcelo Martinessi,The Heiresses,2019.0,Drama,889248
+tt7349662,2018,Sydney Film Prize,Best Film,False,False,BlacKkKlansman,nm0000490,Spike Lee,BlacKkKlansman,2018.0,Others,144503314
+tt7765120,2018,Sydney Film Prize,Best Film,False,False,Daughter of Mine,nm3053575,Laura Bispuri,Daughter of Mine,2019.0,Drama,389638
+tt7083846,2018,Sydney Film Prize,Best Film,False,False,Jirga,nm2947014,Benjamin Gilmour,Jirga,2019.0,Drama,110056
+tt3892172,2018,Sydney Film Prize,Best Film,False,False,Leave No Trace,nm0335138,Debra Granik,Leave No Trace,2018.0,Drama,14154472
+tt3041550,2018,Sydney Film Prize,Best Film,False,False,Matangi/Maya/M.I.A.,nm3010986,Steve Loveridge,Matangi/Maya/M.I.A.,2018.0,Others,708921
+tt8274146,2018,Sydney Film Prize,Best Film,False,False,One Day,nm2931674,Zsófia Szilágyi,One Day,2018.0,Drama,87986
+tt6257174,2018,Sydney Film Prize,Best Film,False,False,The Miseducation of Cameron Post,nm3034178,Desiree Akhavan,The Miseducation of Cameron Post,2018.0,Drama,2429454
+tt6675244,2018,Sydney Film Prize,Best Film,False,False,Transit,nm0678857,Christian Petzold,Transit,2019.0,Drama,1778446
+tt6695212,2018,Sydney Film Prize,Best Film,False,False,Wajib,nm1486975,Annemarie Jacir,Wajib - The Wedding Invitation,2018.0,Drama,596004
+tt8887720,2018,Audience Award,Best Documentary,True,True,Backtrack Boys,nm1789490,Catherine Scott,Backtrack Boys,2018.0,Others,111179
+tt8027180,2018,Audience Award,Best Documentary,False,False,Jill Bilcock: Dancing the Invisible,nm0341865,Axel Grigor,Jill Bilcock: Dancing the Invisible,2017.0,Others,11798
+tt7048622,2018,Audience Award,Best Narrative Feature,True,True,The Insult,nm0234780,Ziad Doueiri,The Insult,2019.0,Others,4602908
+tt7668870,2018,Audience Award,Best Narrative Feature,False,False,Searching,nm3792134,Aneesh Chaganty,Searching,2018.0,Drama,102852221
+tt8286894,2018,Audience Award,Best Narrative Feature,False,False,Rafiki,nm1393967,Wanuri Kahiu,Rafiki,2019.0,Drama,314618
+tt8020896,2018,Audience Award,Best Narrative Feature,False,False,An Elephant Sitting Still,nm9636804,Bo Hu,An Elephant Sitting Still,2019.0,Drama,72155
+tt6751668,2019,Sydney Film Prize,Best Film,True,False,Parasite,nm0094435,Bong Joon Ho,Parasite,2019.0,Comedy,87154337
+tt7334342,2019,Sydney Film Prize,Best Film,False,False,Dirty God,nm2383508,Sacha Polak,Dirty God,2019.0,Drama,204591
+tt8054608,2019,Sydney Film Prize,Best Film,False,False,"God Exists, Her Name Is Petrunija",nm0835294,Teona Strugar Mitevska,"God Exists, Her Name Is Petrunija",2019.0,Drama,76672
+tt5311542,2019,Sydney Film Prize,Best Film,False,False,Never Look Away,nm0003697,Florian Henckel von Donnersmarck,Never Look Away,2018.0,Drama,6264530
+tt8291806,2019,Sydney Film Prize,Best Film,False,False,Pain & Glory,nm0000264,Pedro Almodóvar,Pain and Glory,2019.0,Drama,21044420
+tt7016254,2019,Sydney Film Prize,Best Film,False,False,Synonymes,nm2028715,Nadav Lapid,Synonyms,2019.0,Drama,253942
+tt6920356,2019,Sydney Film Prize,Best Film,False,False,The Souvenir,nm0389712,Joanna Hogg,The Souvenir,2019.0,Drama,2073474
+tt8991268,2019,Audience Award,Best Documentary,False,False,Honeyland,nm9393813,Tamara Kotevska,Honeyland,2019.0,Others,88312

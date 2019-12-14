@@ -1,0 +1,471 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0037635,1946,Prize,Most Interesting Screenplay,True,True,Dead of Night,nm0146709,Alberto Cavalcanti,Dead of Night,1946.0,Others,26224
+tt0039966,1947,Prize,Best Screenplay,True,True,To Live in Peace,nm0147599,Suso Cecchi D'Amico,To Live in Peace,1947.0,Comedy,24337904
+tt0039628,1948,Prize,"Best Screenplay, Adapted",True,True,Miracle on 34th Street,nm0780833,George Seaton,Miracle on 34th Street,1947.0,Comedy,30781918
+tt0040522,1949,Special Prize of the Jury,,True,True,Bicycle Thieves,nm0001120,Vittorio De Sica,Bicycle Thieves,1949.0,Drama,8663607
+tt0040978,1949,Special Prize,,True,True,Yellow Sky,nm0920074,William A. Wellman,Yellow Sky,1949.0,Others,59627866
+tt0043129,1950,Grand Prix,,True,True,When Willie Comes Marching Home,nm0000406,John Ford,When Willie Comes Marching Home,1950.0,Comedy,19030170
+tt0045935,1954,Prize,,True,True,Gate of Hell,nm0455938,Teinosuke Kinugasa,Gate of Hell,1954.0,Drama,70586
+tt0050083,1957,Special Mention,,True,True,12 Angry Men,nm0001486,Sidney Lumet,12 Angry Men,1957.0,Drama,5275
+tt0069704,1973,Bronze Leopard,,True,True,American Graffiti,nm0000184,George Lucas,American Graffiti,1973.0,Comedy,1303238137
+tt0128142,1973,Special Prize of the Jury,,True,True,Cousin Jules,nm0071165,Dominique Benicheti,Cousin Jules,2012.0,Others,64820
+tt0071219,1974,Silver Leopard,,True,True,A Bigger Splash,nm0371883,Jack Hazan,A Bigger Splash,1973.0,Others,959173
+tt0071381,1974,Special Prize of the Jury,,True,True,Celine and Julie Go Boating,nm0729626,Jacques Rivette,Celine and Julie Go Boating,1974.0,Comedy,314579
+tt0088184,1984,Golden Leopard,,True,True,Stranger Than Paradise,nm0000464,Jim Jarmusch,Stranger Than Paradise,1984.0,Comedy,11857427
+tt0089015,1985,Bronze Leopard,,True,True,Desert Hearts,nm0001726,Helen Shaver,Desert Hearts,1986.0,Drama,11706766
+tt0091375,1986,Bronze Leopard,,True,True,Lamb,nm0339567,Colin Gregg,Lamb,1985.0,Drama,23866
+tt0091355,1987,Silver Leopard,,True,True,The Terrorizers,nm0945981,Edward Yang,The Terrorizers,1986.0,Others,2740
+tt0095037,1988,Golden Leopard,,True,False,"Distant Voices, Still Lives",nm0203993,Terence Davies,"Distant Voices, Still Lives",1988.0,Drama,3125680
+tt0094596,1988,Golden Leopard,,False,False,36 fillette,nm0106924,Catherine Breillat,36 fillette,1989.0,Drama,865421
+tt0093342,1989,Golden Leopard,,False,True,Where Is the Friend's House?,nm0452102,Abbas Kiarostami,Where Is the Friend's House?,1993.0,Drama,8067
+tt0099763,1990,Golden Leopard,,False,False,Henry: Portrait of a Serial Killer,nm0573796,John McNaughton,Henry: Portrait of a Serial Killer,1990.0,Others,2349189
+tt0100470,1990,Golden Leopard,,False,True,Journey of Hope,nm0002699,Xavier Koller,Journey of Hope,1991.0,Drama,989371
+tt0100142,1990,Golden Leopard,,False,True,Metropolitan,nm0001775,Whit Stillman,Metropolitan,1990.0,Comedy,11497687
+tt0100469,1990,Golden Leopard,,False,True,The Reflecting Skin,nm0726000,Philip Ridley,The Reflecting Skin,1991.0,Drama,64044
+tt0104567,1991,Golden Leopard,,True,False,Johnny Suede,nm0001139,Tom DiCillo,Johnny Suede,1992.0,Comedy,326793
+tt0102620,1991,Golden Leopard,,False,False,"Hey, Lads and Lasses",nm0090442,Lidiya Bobrova,"Hey, Lads and Lasses",1992.0,Drama,6620
+tt0102687,1991,Golden Leopard,,False,False,Poison,nm0001331,Todd Haynes,Poison,1991.0,Drama,2989417
+tt0102116,1991,Golden Leopard,,False,False,The Indian Runner,nm0000576,Sean Penn,The Indian Runner,1991.0,Drama,711976
+tt0105885,1992,Golden Leopard,,False,True,Zebrahead,nm0237292,Anthony Drazan,Zebrahead,1992.0,Drama,5614742
+tt0106408,1993,Golden Leopard,,False,True,Bhaji on the Beach,nm0149446,Gurinder Chadha,Bhaji on the Beach,1994.0,Comedy,2545549
+tt0106677,1993,Golden Leopard,,False,False,Dazed and Confused,nm0000500,Richard Linklater,Dazed and Confused,1993.0,Comedy,28290929
+tt0109424,1994,Golden Leopard,,False,False,Chungking Express,nm0939182,Kar-Wai Wong,Chungking Express,1996.0,Comedy,2019948
+tt0109738,1994,Golden Leopard,,False,True,Ermo,nm0955777,Xiaowen Zhou,Ermo,1995.0,Comedy,96977
+tt0110816,1994,Golden Leopard,,False,True,Personne ne m'aime,nm0894742,Marion Vernoux,Personne ne m'aime,1995.0,Comedy,249758
+tt0109906,1994,Golden Leopard,,False,False,The Glass Shield,nm0122344,Charles Burnett,The Glass Shield,1995.0,Others,11030165
+tt0114084,1995,Golden Leopard,,False,True,Panther,nm0005522,Mario Van Peebles,Panther,1995.0,Drama,22950712
+tt0115033,1995,Golden Leopard,,False,False,The Young Poisoner's Handbook,nm0743239,Benjamin Ross,The Young Poisoner's Handbook,1996.0,Others,1771266
+tt0117214,1996,Golden Leopard,,False,True,A Moment of Innocence,nm0538532,Mohsen Makhmalbaf,A Moment of Innocence,1999.0,Comedy,57089
+tt0115925,1996,Golden Leopard,,False,False,Color of a Brisk and Leaping Day,nm0618405,Christopher Munch,Color of a Brisk and Leaping Day,1997.0,Drama,29368
+tt0116882,1996,Golden Leopard,,False,False,Lilies,nm0340742,John Greyson,Lilies,1996.0,Others,973594
+tt0116989,1996,Golden Leopard,,False,True,Marian,nm0904605,Petr Václav,Marian,1998.0,Drama,5351
+tt0117056,1997,Golden Leopard,,True,False,The Mirror,nm0070159,Jafar Panahi,The Mirror,1998.0,Drama,217885
+tt0119819,1997,Golden Leopard,,False,False,Office Killer,nm0792398,Cindy Sherman,Office Killer,1997.0,Comedy,240985
+tt0120522,1997,Golden Leopard,,False,False,Winter Sleepers,nm0878756,Tom Tykwer,Winter Sleepers,2000.0,Drama,964398
+tt0122082,1997,Silver Leopard,,True,True,The Crazy Stranger,nm0309697,Tony Gatlif,The Crazy Stranger,1998.0,Comedy,1052771
+tt0166695,1998,Golden Leopard,,False,False,Luminous Motion,nm0330028,Bette Gordon,Luminous Motion,2000.0,Drama,76560
+tt0162426,1998,Golden Leopard,,False,True,Short Sharp Shock,nm0015359,Fatih Akin,Short Sharp Shock,1999.0,Others,30738
+tt0127319,1998,Golden Leopard,,False,True,Titanic Town,nm0585011,Roger Michell,Titanic Town,1999.0,Drama,202325
+tt0203584,1998,Youth on Youth Award - Special Mention,New Italian Talents,True,True,A Neapolitan Spell,nm0002645,Paolo Genovese,A Neapolitan Spell,2002.0,Comedy,873751
+tt0156901,1998,FIPRESCI Prize - Special Mention,,True,True,The Apple,nm0538533,Samira Makhmalbaf,The Apple,1999.0,Drama,47247
+tt0237993,2000,Golden Leopard,,False,True,101 Reykjavík,nm0466349,Baltasar Kormákur,101 Reykjavík,2000.0,Comedy,988211
+tt0171359,2000,Golden Leopard,,False,False,Hamlet,nm0021899,Michael Almereyda,Hamlet,2000.0,Drama,5371429
+tt0139500,2000,Golden Leopard,,False,True,In Vanda's Room,nm0182276,Pedro Costa,In Vanda's Room,2001.0,Drama,4223
+tt0234116,2000,Golden Leopard,,False,True,Little Cheung,nm0150897,Fruit Chan,Little Cheung,1999.0,Drama,44294
+tt0249380,2000,Golden Leopard,,False,False,Rape Me,nm0221591,Virginie Despentes,Rape Me,2001.0,Others,1966329
+tt0257939,2000,Golden Leopard,,False,True,The Guava House,nm0199470,Dang Nhat Minh,The Guava House,2001.0,Drama,60861
+tt0251191,2000,Golden Leopard,,False,False,The Low Down,nm0861899,Jamie Thraves,The Low Down,2001.0,Drama,46797
+tt0164052,2000,Audience Award,,True,True,Hollow Man,nm0000682,Paul Verhoeven,Hollow Man,2000.0,Others,389566946
+tt0274323,2001,Golden Leopard,,True,True,Alla rivoluzione sulla due cavalli,nm0778420,Maurizio Sciarra,Alla rivoluzione sulla due cavalli,2002.0,Comedy,2896
+tt0255819,2001,Golden Leopard,,False,True,Baby Boy,nm0005436,John Singleton,Baby Boy,2001.0,Others,83435274
+tt0293082,2001,Golden Leopard,,False,True,Delbaran,nm0416119,Abolfazl Jalili,Delbaran,2002.0,Drama,37197
+tt0276276,2001,Golden Leopard,,False,True,Lawless Heart,nm0402980,Neil Hunter,Lawless Heart,2002.0,Comedy,1249947
+tt0263671,2001,Golden Leopard,,False,True,Love the Hard Way,nm0782266,Peter Sehr,Love the Hard Way,2002.0,Others,219521
+tt0169102,2001,Audience Award,,True,True,Lagaan: Once Upon a Time in India,nm0332950,Ashutosh Gowariker,Lagaan: Once Upon a Time in India,2001.0,Others,3781319
+tt0293685,2001,Critics Week Award,,True,True,Venus Boyz,nm0062425,Gabriel Baur,Venus Boyz,2002.0,Others,67722
+tt0282864,2001,Prize of the Ecumenical Jury,,True,True,Promises,nm0035184,Justine Shapiro,Promises,2001.0,Others,976187
+tt0294279,2002,Golden Leopard,,False,False,A Loving Father,nm0074213,Jacob Berger,A Loving Father,2003.0,Drama,109328
+tt0302674,2002,Golden Leopard,,False,False,Gerry,nm0001814,Gus Van Sant,Gerry,2002.0,Others,734994
+tt0304363,2002,Golden Leopard,,False,False,My Life on Ice,nm0553303,Jacques Martineau,My Life on Ice,2003.0,Comedy,107975
+tt0291395,2002,Golden Leopard,,False,True,Okay,nm0630861,Jesper W. Nielsen,Okay,2002.0,Comedy,296797
+tt0265459,2002,Golden Leopard,,False,False,One Hour Photo,nm0738796,Mark Romanek,One Hour Photo,2002.0,Drama,118343342
+tt0295238,2002,Golden Leopard,,False,False,Personal Velocity,nm0589182,Rebecca Miller,Personal Velocity,2002.0,Drama,2404045
+tt0304776,2002,Golden Leopard,,False,True,Pleasant Days,nm0610960,Kornél Mundruczó,Pleasant Days,2002.0,Drama,6528
+tt0306009,2002,Golden Leopard,,False,False,René,nm0146760,Alain Cavalier,René,2002.0,Drama,26973
+tt0274812,2002,Golden Leopard,,False,False,Secretary,nm0787601,Steven Shainberg,Secretary,2002.0,Comedy,18837381
+tt0324158,2002,Golden Leopard,,False,True,Suddenly,nm1195308,Diego Lerman,Suddenly,2003.0,Comedy,276842
+tt0296547,2002,Golden Leopard,,False,True,The Cage,nm0710639,Alain Raoust,The Cage,2002.0,Drama,28735
+tt0286499,2002,Audience Award,,True,True,Bend It Like Beckham,nm0149446,Gurinder Chadha,Bend It Like Beckham,2003.0,Comedy,151067881
+tt0329094,2002,Critics Week Award,,True,True,Forget Baghdad: Jews and Arabs - The Iraqi Connection,nm0759848,Samir,Forget Baghdad: Jews and Arabs - The Iraqi Connection,2003.0,Others,13775
+tt0357283,2003,Golden Leopard,,True,True,Silent Waters,nm0838526,Sabiha Sumar,Silent Waters,2004.0,Drama,19769
+tt0331338,2003,Golden Leopard,,False,False,16 Years of Alcohol,nm0423428,Richard Jobson,16 Years of Alcohol,2003.0,Others,22228
+tt0366304,2003,Golden Leopard,,False,False,Choker Bali: A Passion Play,nm0315916,Rituparno Ghosh,Choker Bali: A Passion Play,2003.0,Drama,202686
+tt0372814,2003,Golden Leopard,,False,False,Free Radicals,nm0016475,Barbara Albert,Free Radicals,2003.0,Drama,113012
+tt0347105,2003,Golden Leopard,,False,True,Fuse,nm0952429,Pjer Zalica,Fuse,2003.0,Comedy,84315
+tt0376958,2003,Golden Leopard,,False,False,Il vestito da sposa,nm0408646,Fiorella Infascelli,Il vestito da sposa,2004.0,Others,52875
+tt0319821,2003,Golden Leopard,,False,True,Maria,nm0626754,Cãlin Peter Netzer,Maria,2003.0,Comedy,98562
+tt0366854,2003,Golden Leopard,,False,False,Now or Never,nm0670990,Lucio Pellegrini,Ora o mai più,2004.0,Comedy,448145
+tt0374546,2003,Golden Leopard,,False,True,"Spring, Summer, Fall, Winter... and Spring",nm1104118,Ki-duk Kim,"Spring, Summer, Fall, Winter... and Spring",2004.0,Drama,18070955
+tt0347131,2003,Golden Leopard,,False,False,The Magic Gloves,nm0718736,Martín Rejtman,The Magic Gloves,2003.0,Comedy,46593
+tt0376968,2003,Golden Leopard,,False,False,The Return,nm1168657,Andrey Zvyagintsev,The Return,2004.0,Drama,12418693
+tt0328538,2003,Golden Leopard,,False,True,Thirteen,nm0362566,Catherine Hardwicke,Thirteen,2003.0,Drama,20325177
+tt0376961,2003,Golden Leopard,,False,False,"Work Hard, Play Hard",nm0610182,Jean-Marc Moutout,"Work Hard, Play Hard",2004.0,Comedy,1187520
+tt0326429,2003,Audience Award,,True,True,The Miracle of Bern,nm0941811,Sönke Wortmann,The Miracle of Bern,2003.0,Drama,34279891
+tt0343168,2003,Critics Week Award,,True,True,The Weather Underground,nm0338316,Sam Green,The Weather Underground,2002.0,Others,1591732
+tt0420090,2004,Golden Leopard,,True,True,Private,nm0182459,Saverio Costanzo,Private,2005.0,Drama,12430170
+tt0419449,2004,Golden Leopard,,False,False,Antares,nm0818608,Götz Spielmann,Antares,2004.0,Drama,87165
+tt0400234,2004,Golden Leopard,,False,False,Black Friday,nm0440604,Anurag Kashyap,Black Friday,2005.0,Others,2161385
+tt0419954,2004,Golden Leopard,,False,False,"McDull, Prince de la Bun",nm1211088,Toe Yuen,"McDull, Prince de la Bun",2004.0,Others,815718
+tt0297389,2004,Golden Leopard,,False,False,Poster Boy,nm1576746,Zak Tucker,Poster Boy,2004.0,Drama,167740
+tt0420318,2004,Golden Leopard,,False,True,The Wedding,nm1500530,Wojciech Smarzowski,The Wedding,2004.0,Comedy,938332
+tt0420260,2004,Golden Leopard,,False,True,Tony Takitani,nm0406722,Jun Ichikawa,Tony Takitani,2005.0,Drama,919344
+tt0423310,2004,Audience Award,,True,True,The Syrian Bride,nm0726954,Eran Riklis,The Syrian Bride,2004.0,Comedy,2548079
+tt0389828,2004,Golden Leopard - Video,,False,False,C.S.A.: The Confederate States of America,nm0932551,Kevin Willmott,C.S.A.: The Confederate States of America,2004.0,Comedy,1954308
+tt0363579,2004,Golden Leopard - Video,,False,False,Down to the Bone,nm0335138,Debra Granik,Down to the Bone,2004.0,Drama,83456
+tt0424509,2004,Critics Week Award,,True,True,Touch the Sound: A Sound Journey with Evelyn Glennie,nm0726123,Thomas Riedelsheimer,Touch the Sound: A Sound Journey with Evelyn Glennie,2005.0,Others,471127
+tt0420015,2005,Golden Leopard,,True,True,Nine Lives,nm0528724,Julie Lynn,Nine Lives,2005.0,Drama,2774381
+tt0421528,2005,Golden Leopard,,False,False,20 Centimeters,nm0757749,Ramón Salazar,20 Centimeters,2006.0,Comedy,575101
+tt0470951,2005,Golden Leopard,,False,True,A Perfect Couple,nm0840485,Nobuhiro Suwa,A Perfect Couple,2006.0,Drama,15062
+tt0475265,2005,Golden Leopard,,False,False,Face Addict,nm0078166,Edo Bertoglio,Face Addict,2008.0,Others,19278
+tt0425979,2005,Golden Leopard,,False,False,Familia,nm0033596,Louise Archambault,Familia,2006.0,Drama,2964
+tt0470702,2005,Golden Leopard,,False,True,Fratricide,nm0037576,Yilmaz Arslan,Fratricide,2006.0,Drama,13605
+tt0429216,2005,Golden Leopard,,False,False,Friday or Another Day,nm0494467,Yvan Le Moine,Friday or Another Day,2005.0,Others,428
+tt0420897,2005,Golden Leopard,,False,True,Mario's War,nm0135724,Antonio Capuano,Mario's War,2006.0,Drama,348949
+tt0366780,2005,Golden Leopard,,False,True,Mirrormask,nm0571098,Dave McKean,Mirrormask,2005.0,Others,2323648
+tt0434345,2005,Golden Leopard,,False,False,Snow White,nm0759848,Samir,Snow White,2007.0,Drama,21530
+tt0342882,2005,Golden Leopard,,False,True,The Piano Tuner of EarthQuakes,nm0703028,Stephen Quay,The Piano Tuner of EarthQuakes,2006.0,Drama,73864
+tt0436982,2005,Audience Award,,True,True,Zaina: Rider of the Atlas,nm0345909,Bourlem Guerdjou,Zaina: Rider of the Atlas,2005.0,Others,525089
+tt0477999,2005,Golden Leopard - Video,,True,True,The Masseur,nm1137289,Brillante Mendoza,The Masseur,2005.0,Drama,13855
+tt0378407,2005,Critics Week Award - Special Mention,,True,True,My Date with Drew,nm0348197,Jon Gunn,My Date with Drew,2004.0,Others,603271
+tt0469692,2005,FIPRESCI Prize,,True,True,A Perfect Day,nm0352858,Joana Hadjithomas,A Perfect Day,2006.0,Drama,6929
+tt0346457,2005,Netpac Special Jury Award,,True,True,Mangal Pandey: The Rising,nm0576559,Ketan Mehta,Mangal Pandey: The Rising,2005.0,Others,11835598
+tt0476999,2006,Golden Leopard,,True,True,Fraulein,nm0821620,Andrea Staka,Fraulein,2007.0,Drama,14223
+tt0496269,2006,Golden Leopard,,False,True,Body Rice,nm0196248,Hugo Vieira da Silva,Body Rice,2007.0,Drama,6862
+tt0498103,2006,Golden Leopard,,False,True,Demented,nm0009765,Laurent Achard,Demented,2007.0,Drama,607
+tt0496348,2006,Golden Leopard,,False,False,Der Mann von der Botschaft,nm0875030,Dito Tsintsadze,Der Mann von der Botschaft,2007.0,Drama,18440
+tt0845439,2006,Golden Leopard,,False,False,Fireworks Wednesday,nm1410815,Asghar Farhadi,Fireworks Wednesday,2016.0,Drama,225787
+tt0468489,2006,Golden Leopard,,False,True,Half Nelson,nm0281396,Ryan Fleck,Half Nelson,2006.0,Drama,9267763
+tt0861781,2006,Golden Leopard,,False,True,Jimmy della collina,nm2382597,Enrico Pau,Jimmy della collina,2006.0,Drama,90044
+tt0483812,2006,Golden Leopard,,False,False,Stephanie Daley,nm0112668,Hilary Brougher,Stephanie Daley,2006.0,Drama,66370
+tt0447918,2006,Golden Leopard,,False,False,The Dark Sea,nm0868404,Roberta Torre,The Dark Sea,2006.0,Drama,218382
+tt0819895,2006,Golden Leopard,,False,False,The Paper Will Be Blue,nm1364086,Radu Muntean,The Paper Will Be Blue,2006.0,Others,22058
+tt0405094,2006,Audience Award,,True,True,The Lives of Others,nm0003697,Florian Henckel von Donnersmarck,The Lives of Others,2007.0,Drama,110310857
+tt0487339,2006,Golden Leopard - Filmmakers of the Present,,False,True,L'année suivante,nm0350597,Isabelle Czajka,L'année suivante,2007.0,Drama,15856
+tt0796839,2006,Golden Leopard - Filmmakers of the Present,,False,False,La vraie vie est ailleurs,nm1003260,Frédéric Choffat,La vraie vie est ailleurs,2009.0,Comedy,1258
+tt0430768,2006,Golden Leopard - Filmmakers of the Present,,False,False,Wild Tigers I Have Known,nm1502072,Cam Archer,Wild Tigers I Have Known,2006.0,Drama,49145
+tt1050272,2006,Critics Week Award,,True,True,The Time of Closure,nm2022196,Mehdi Sahebi,The Time of Closure,2007.0,Others,2047
+tt0466227,2006,Swiss Film Score Award,,True,True,Jeune homme,nm0045491,Balz Bachmann,Jeune homme,2007.0,Comedy,4122
+tt0922617,2007,Golden Leopard,,False,True,Beneath the Rooftops of Paris,nm0757954,Hiner Saleem,Beneath the Rooftops of Paris,2007.0,Others,133431
+tt0994998,2007,Golden Leopard,,False,True,Boys of Tomorrow,nm1825148,Dong-seok No,Boys of Tomorrow,2007.0,Drama,27431
+tt0824298,2007,Golden Leopard,,False,True,Capitaine Achab,nm0708763,Philippe Ramos,Capitaine Achab,2009.0,Others,392262
+tt0892408,2007,Golden Leopard,,False,False,Free to Leave,nm0668199,Peter Payer,Free to Leave,2008.0,Drama,83004
+tt1073118,2007,Golden Leopard,,False,True,Haïti chérie,nm0215779,Claudio Del Punta,Haïti chérie,2008.0,Drama,82810
+tt0808331,2007,Golden Leopard,,False,False,Joshua,nm0711807,George Ratliff,Joshua,2007.0,Drama,1475049
+tt0815462,2007,Golden Leopard,,False,False,Lo mejor de mí,nm0013607,Roser Aguilar,Lo mejor de mí,2008.0,Drama,480184
+tt1297290,2007,Golden Leopard,,False,True,Memories,nm0337833,Eugène Green,Memories,2007.0,Others,2359
+tt0474988,2007,Golden Leopard,,False,True,Possible Lives,nm0346598,Sandra Gugliotta,Possible Lives,2008.0,Others,23983
+tt0499570,2007,Golden Leopard,,False,True,Slipstream,nm0000164,Anthony Hopkins,Slipstream,2007.0,Comedy,45142
+tt0839967,2007,Golden Leopard,,False,False,The Rest is Silence,nm0135952,Nae Caranfil,The Rest is Silence,2008.0,Comedy,123621
+tt1251827,2007,Golden Leopard,,False,True,The Yellow House,nm3063985,Amor Hakkar,The Yellow House,2008.0,Drama,46775
+tt0815457,2007,Golden Leopard,,False,True,Thieves,nm0549954,Jaime Marques,Thieves,2007.0,Drama,1609668
+tt0795368,2007,Audience Award,,True,True,Death at a Funeral,nm0000568,Frank Oz,Death at a Funeral,2007.0,Comedy,67867294
+tt0450385,2007,Audience Award,,False,False,1408,nm0405632,Mikael Håfström,1408,2007.0,Others,250233500
+tt0905979,2007,Audience Award,,False,False,Chicago 10,nm0605137,Brett Morgen,Chicago 10,2007.0,Others,448158
+tt0826711,2007,Audience Award,,False,False,Flight of the Red Balloon,nm0396284,Hsiao-Hsien Hou,Flight of the Red Balloon,2007.0,Drama,2369876
+tt0427327,2007,Audience Award,,False,False,Hairspray,nm0788202,Adam Shankman,Hairspray,2007.0,Comedy,394329048
+tt0478311,2007,Audience Award,,False,False,Knocked Up,nm0031976,Judd Apatow,Knocked Up,2007.0,Comedy,451169968
+tt1077258,2007,Audience Award,,False,False,Planet Terror,nm0001675,Robert Rodriguez,Planet Terror,2007.0,Others,13297686
+tt0824412,2007,Audience Award,,False,False,That Day,nm0074213,Jacob Berger,That Day,2009.0,Drama,5151
+tt0440963,2007,Audience Award,,False,False,The Bourne Ultimatum,nm0339030,Paul Greengrass,The Bourne Ultimatum,2007.0,Others,823850862
+tt0473308,2007,Audience Award,,False,False,Waitress,nm0791248,Adrienne Shelly,Waitress,2007.0,Comedy,50697218
+tt0807000,2007,Golden Leopard - Filmmakers of the Present,,False,False,About Crying,nm1498570,Matías Bize,About Crying,2008.0,Drama,13483
+tt1438492,2007,Golden Leopard - Filmmakers of the Present,,False,False,Behave,nm1512437,Maria Ramos,Behave,2007.0,Others,91152
+tt1006873,2007,Golden Leopard - Filmmakers of the Present,,False,False,Estrellas,nm2614029,Marcos Martínez,Estrellas,2007.0,Others,17551
+tt0464098,2007,Golden Leopard - Filmmakers of the Present,,False,False,Loren Cass,nm1950782,Chris Fuller,Loren Cass,2006.0,Drama,20366
+tt1175523,2007,Netpac Award,,True,True,Little Moth,nm2897919,Tao Peng,Little Moth,2007.0,Drama,61472
+tt1183942,2008,Golden Leopard,,True,True,Parque vía,nm2737486,Enrique Rivero,Parque vía,2009.0,Drama,37729
+tt1263736,2008,Golden Leopard,,False,True,33 Scenes from Life,nm0844333,Malgorzata Szumowska,33 Scenes from Life,2009.0,Drama,1040211
+tt1280553,2008,Golden Leopard,,False,False,Another Man,nm0047049,Lionel Baier,Another Man,2009.0,Drama,21796
+tt1330591,2008,Golden Leopard,,False,True,Autumn,nm3213296,Özcan Alper,Autumn,2009.0,Drama,886378
+tt1277938,2008,Golden Leopard,,False,True,Daytime Drinking,nm3104439,Young-seok Noh,Daytime Drinking,2009.0,Comedy,180428
+tt1283896,2008,Golden Leopard,,False,False,Gods,nm0579062,Josué Méndez,Gods,2008.0,Drama,344597
+tt1270799,2008,Golden Leopard,,False,True,Katia's Sister,nm0209010,Mijke de Jong,Katia's Sister,2009.0,Drama,7998
+tt0975684,2008,Golden Leopard,,False,False,Kisses,nm0198472,Lance Daly,Kisses,2009.0,Drama,248982
+tt1267406,2008,Golden Leopard,,False,True,Mar nero,nm0094137,Federico Bondi,Mar nero,2009.0,Drama,179002
+tt1281962,2008,Golden Leopard,,False,True,March,nm0405551,Klaus Händl,March,2008.0,Drama,28144
+tt1303882,2008,Golden Leopard,,False,False,Nulle part terre promise,nm0277933,Emmanuel Finkiel,Nulle part terre promise,2009.0,Drama,161895
+tt1235072,2008,Golden Leopard,,False,True,Sleep Furiously,nm3016675,Gideon Koppel,Sleep Furiously,2009.0,Others,144812
+tt1270275,2008,Golden Leopard,,False,False,Story of Jen,nm2029182,François Rotger,Story of Jen,2009.0,Drama,42804
+tt1286165,2008,Golden Leopard,,False,False,The Market: A Tale of Trade,nm0394114,Ben Hopkins,The Market: A Tale of Trade,2009.0,Drama,118536
+tt1227796,2008,Golden Leopard,,False,True,Yuri's Day,nm1970598,Kirill Serebrennikov,Yuri's Day,2008.0,Drama,85675
+tt0845046,2008,Audience Award,,True,True,Son of Rambow,nm1134029,Garth Jennings,Son of Rambow,2008.0,Others,14930147
+tt1323518,2008,Golden Leopard - Filmmakers of the Present,,True,True,The Fortress,nm0577663,Fernand Melgar,The Fortress,2009.0,Others,139454
+tt1298734,2008,Golden Leopard - Filmmakers of the Present,,False,True,Alicia in the Land,nm0488578,Esteban Larraín,Alicia in the Land,2008.0,Others,3743
+tt1368047,2008,Golden Leopard - Filmmakers of the Present,,False,False,Beket,nm0544305,Davide Manuli,Beket,2009.0,Drama,19322
+tt1341166,2008,Golden Leopard - Filmmakers of the Present,,False,False,FilmeFobia,nm1463602,Kiko Goifman,FilmeFobia,2009.0,Drama,14464
+tt1221144,2008,Golden Leopard - Filmmakers of the Present,,False,False,La orilla que se abisma,nm1181219,Gustavo Fontán,La orilla que se abisma,2008.0,Others,2975
+tt1000769,2008,Golden Leopard - Filmmakers of the Present,,False,True,Prince of Broadway,nm0048918,Sean Baker,Prince of Broadway,2010.0,Drama,23924
+tt1064928,2008,Variety Piazza Grande Award,,True,True,Back Soon,nm0030681,Sólveig Anspach,Back Soon,2009.0,Comedy,503629
+tt0211946,2008,Variety Piazza Grande Award,,False,False,Berlin Calling,nm0836708,Hannes Stöhr,Berlin Calling,2009.0,Comedy,719509
+tt0412536,2008,Variety Piazza Grande Award,,False,False,Brideshead Revisited,nm0418982,Julian Jarrold,Brideshead Revisited,2008.0,Drama,23192599
+tt0460745,2008,Variety Piazza Grande Award,,False,False,Chaos Theory,nm0796864,Marcos Siega,Chaos Theory,2008.0,Comedy,688663
+tt1024715,2008,Variety Piazza Grande Award,,False,False,Choke,nm0163988,Clark Gregg,Choke,2008.0,Comedy,8070038
+tt1188993,2008,Variety Piazza Grande Award,,False,False,Dead in 3 Days 2,nm0698283,Andreas Prochaska,Dead in 3 Days 2,2008.0,Others,947759
+tt1280566,2008,Variety Piazza Grande Award,,False,False,Khamsa,nm0237876,Karim Dridi,Khamsa,2009.0,Drama,322025
+tt0929441,2008,Variety Piazza Grande Award,,False,False,Lecture 21,nm0054621,Alessandro Baricco,Lezione 21,2008.0,Drama,399561
+tt1069235,2008,Variety Piazza Grande Award,,False,False,Marcello Marcello,nm0704710,Denis Rabaglia,Marcello Marcello,2009.0,Comedy,874648
+tt0844457,2008,Variety Piazza Grande Award,,False,False,North Face,nm0836715,Philipp Stölzl,North Face,2009.0,Others,1941996
+tt1180346,2008,Variety Piazza Grande Award,,False,False,One Day You'll Understand,nm0321159,Amos Gitai,One Day You'll Understand,2008.0,Drama,402376
+tt0462465,2008,Variety Piazza Grande Award,,False,False,Outlander,nm0564586,Howard McCain,Outlander,2009.0,Others,8713835
+tt1139800,2008,Variety Piazza Grande Award,,False,False,The Girl from Monaco,nm0321159,Amos Gitai,The Girl from Monaco,2009.0,Comedy,18084534
+tt1389374,2009,Golden Leopard,,True,False,"She, a Chinese",nm1802151,Xiaolu Guo,"She, a Chinese",2010.0,Drama,81577
+tt1292644,2009,Golden Leopard,,False,False,Accomplices,nm0581081,Frédéric Mermoud,Accomplices,2009.0,Others,941379
+tt1483799,2009,Golden Leopard,,False,True,At the End of Daybreak,nm1012525,Yuhang Ho,At the End of Daybreak,2010.0,Drama,16057
+tt1320352,2009,Golden Leopard,,False,True,Nothing Personal,nm1773563,Urszula Antoniak,Nothing Personal,2010.0,Drama,1136842
+tt1334313,2009,Golden Leopard,,False,True,Plato's Academy,nm0875072,Filippos Tsitos,Plato's Academy,2010.0,Comedy,718286
+tt1483507,2009,Golden Leopard,,False,False,Shirley Adams,nm3564996,Oliver Hermanus,Shirley Adams,2010.0,Drama,7070
+tt1474276,2009,Golden Leopard,,False,False,Summer Wars,nm0396074,Mamoru Hosoda,Summer Wars,2010.0,Others,21633551
+tt1435475,2009,Golden Leopard,,False,True,"Tambourine, Drum",nm2462311,Aleksey Mizgiryov,"Tambourine, Drum",2009.0,Drama,17513
+tt1483795,2009,Golden Leopard,,False,False,The Famous and the Dead,nm2296828,Esmir Filho,The Famous and the Dead,2010.0,Drama,27167
+tt1483774,2009,Golden Leopard,,False,False,The Tango Singer,nm1222038,Diego Martínez Vignatti,The Tango Singer,2010.0,Drama,38198
+tt1425926,2009,Audience Award,,True,True,Julia's Disappearance,nm0770257,Christoph Schaub,Julia's Disappearance,2010.0,Comedy,2396381
+tt1288642,2009,Golden Leopard - Filmmakers of the Present,,False,False,Greetings from the Woods,nm3125234,Mikel Cee Karlsson,Greetings from the Woods,2009.0,Others,5557
+tt1261397,2009,Golden Leopard - Filmmakers of the Present,,False,False,Men on the Bridge,nm2196871,Asli Özge,Men on the Bridge,2012.0,Drama,30694
+tt1326831,2009,Golden Leopard - Filmmakers of the Present,,False,False,October Country,nm2664000,Donal Mosher,October Country,2009.0,Others,62046
+tt1331115,2009,Critics Week Award,,True,True,Pianomania,nm0290437,Lilian Franck,Pianomania,2011.0,Others,387136
+tt1087526,2009,Swiss Film Score Award,,True,True,Tandoori Love,nm1026561,Marcel Vaid,Tandoori Love,2010.0,Comedy,190336
+tt1368443,2009,Variety Piazza Grande Award,,True,True,Same Same But Different,nm0118345,Detlev Buck,Same Same But Different,2010.0,Drama,1508856
+tt1022603,2009,Variety Piazza Grande Award,,False,False,500 Days of Summer,nm1989536,Marc Webb,500 Days of Summer,2009.0,Comedy,110247338
+tt1078588,2009,Variety Piazza Grande Award,,False,False,My Sister's Keeper,nm0001024,Nick Cassavetes,My Sister's Keeper,2009.0,Drama,171692012
+tt1257569,2009,Variety Piazza Grande Award,,False,False,Petit indi,nm0714437,Marc Recha,Petit indi,2009.0,Drama,55576
+tt1483797,2009,Variety Piazza Grande Award,,False,False,Redline,nm1238086,Takeshi Koike,Redline,2010.0,Others,199993
+tt1298617,2009,Variety Piazza Grande Award,,False,False,Saviors in the Night,nm0091253,Ludi Boeken,Saviors in the Night,2011.0,Drama,1127260
+tt1468721,2010,Golden Leopard,,False,False,At Ellen's Age,nm1110037,Pia Marais,At Ellen's Age,2011.0,Drama,8816
+tt1648174,2010,Golden Leopard,,False,False,Beyond the Steppes,nm1533498,Vanja d'Alcantara,Beyond the Steppes,2010.0,Drama,40276
+tt1497874,2010,Golden Leopard,,False,False,Cold Weather,nm1369800,Aaron Katz,Cold Weather,2010.0,Comedy,335140
+tt1720215,2010,Golden Leopard,,False,False,Hair,nm0685333,Tayfun Pirselimoglu,Hair,2011.0,Drama,1041
+tt1701995,2010,Golden Leopard,,False,False,Man at Bath,nm0393394,Christophe Honoré,Man at Bath,2010.0,Drama,5004
+tt1567130,2010,Golden Leopard,,False,True,Morgen,nm2118162,Anca Puiu,Morgen,2012.0,Drama,23823
+tt1646221,2010,Golden Leopard,,False,False,Outbound,nm3054794,Bogdan George Apetri,Outbound,2011.0,Others,12210
+tt1401669,2010,Golden Leopard,,False,False,The Little Bedroom,nm1425885,Véronique Reymond,The Little Bedroom,2014.0,Drama,62119
+tt1450635,2010,Golden Leopard,,False,True,White White World,nm0637176,Oleg Novkovic,White White World,2010.0,Drama,739
+tt1216520,2010,Golden Leopard,,False,True,Womb,nm1212903,Benedek Fliegauf,Womb,2011.0,Drama,42072
+tt1311075,2010,Audience Award,,True,True,The Human Resources Manager,nm0726954,Eran Riklis,The Human Resources Manager,2011.0,Comedy,543855
+tt1365491,2010,Golden Leopard - Filmmakers of the Present,,False,False,Norberto's Deadline,nm0376655,Daniel Hendler,Norberto's Deadline,2012.0,Comedy,44171
+tt1703919,2010,Golden Leopard - Filmmakers of the Present,,False,False,Pulsar,nm0830879,Alex Stockman,Pulsar,2011.0,Drama,34609
+tt1703914,2010,Golden Leopard - Filmmakers of the Present,,False,False,The Fourth Portrait,nm3010935,Mong-Hong Chung,The Fourth Portrait,2011.0,Drama,10418
+tt1703237,2010,Golden Leopard - Filmmakers of the Present,,False,False,The Life Sublime,nm2175682,Daniel V. Villamediana,The Life Sublime,2011.0,Drama,3551
+tt1516593,2010,Golden Leopard - Filmmakers of the Present,,False,False,Tilva Rosh,nm3116547,Nikola Lezaic,Tilva Rosh,2011.0,Drama,22183
+tt1584813,2010,Critics Week Award,,True,True,Reindeerspotting - Escape from Santaland,nm3762202,Joonas Neuvonen,Reindeerspotting - Escape from Santaland,2011.0,Others,741537
+tt1401143,2010,Variety Piazza Grande Award,,True,True,Rare Exports: A Christmas Tale,nm1118351,Jalmari Helander,Rare Exports: A Christmas Tale,2010.0,Others,4973732
+tt2023367,2011,Golden Leopard,,True,True,Back to Stay,nm1436684,Milagros Mumenthaler,Back to Stay,2012.0,Drama,63396
+tt1549572,2011,Golden Leopard,,False,True,Another Earth,nm2648685,Mike Cahill,Another Earth,2011.0,Drama,3595086
+tt1618447,2011,Golden Leopard,,False,True,Goodbye First Love,nm0361135,Mia Hansen-Løve,Goodbye First Love,2011.0,Drama,686952
+tt1978447,2011,Golden Leopard,,False,True,Policeman,nm2028715,Nadav Lapid,Policeman,2011.0,Drama,55897
+tt1841830,2011,Golden Leopard,,False,True,Seven Acts of Mercy,nm2401073,Massimiliano De Serio,Seven Acts of Mercy,2012.0,Drama,56735
+tt1687281,2011,Golden Leopard,,False,False,Terri,nm0414337,Azazel Jacobs,Terri,2011.0,Comedy,1521992
+tt1695405,2011,Golden Leopard,,False,False,The Loneliest Planet,nm0518123,Julia Loktev,The Loneliest Planet,2011.0,Others,449776
+tt2024396,2011,Golden Leopard,,False,True,The Year of the Tiger,nm0133326,Sebastián Lelio,The Year of the Tiger,2012.0,Drama,18517
+tt1783792,2011,Golden Leopard,,False,True,Tokyo Park,nm0031888,Shinji Aoyama,Tokyo Park,2011.0,Drama,13342
+tt2011971,2011,Audience Award,,True,True,Monsieur Lazhar,nm0265852,Philippe Falardeau,Monsieur Lazhar,2011.0,Comedy,9696641
+tt2075234,2011,Golden Leopard - Filmmakers of the Present,,True,True,Summer of Giacomo,nm4704895,Alessandro Comodin,Summer of Giacomo,2012.0,Comedy,28195
+tt2075276,2011,Golden Leopard - Filmmakers of the Present,,False,False,Papirosen,nm2644707,Gastón Solnicki,Papirosen,2014.0,Others,12362
+tt1734548,2011,Golden Leopard - Filmmakers of the Present,,False,False,The Color Wheel,nm3504405,Alex Ross Perry,The Color Wheel,2012.0,Comedy,42257
+tt2099612,2011,Critics Week Award,,False,False,Evolution of Violence,nm4236974,Fritz Ofner,Evolution of Violence,2011.0,Others,6651
+tt1674057,2011,Variety Piazza Grande Award,,False,False,All Together,nm1416796,Stéphane Robelin,All Together,2012.0,Comedy,8014271
+tt1478964,2011,Variety Piazza Grande Award,,False,False,Attack the Block,nm0180428,Joe Cornish,Attack the Block,2011.0,Others,7831501
+tt0409847,2011,Variety Piazza Grande Award,,False,False,Cowboys & Aliens,nm0269463,Jon Favreau,Cowboys & Aliens,2011.0,Others,311132903
+tt0780504,2011,Variety Piazza Grande Award,,False,False,Drive,nm0716347,Nicolas Winding Refn,Drive,2011.0,Others,125288325
+tt1614989,2011,Variety Piazza Grande Award,,False,False,Headhunters,nm0878763,Morten Tyldum,Headhunters,2012.0,Others,18826676
+tt1508675,2011,Variety Piazza Grande Award,,False,False,Le Havre,nm0442454,Aki Kaurismäki,Le Havre,2011.0,Comedy,12513748
+tt0873886,2011,Variety Piazza Grande Award,,False,False,Red State,nm0003620,Kevin Smith,Red State,2011.0,Others,3457013
+tt1650062,2011,Variety Piazza Grande Award,,False,False,Super 8,nm0009190,J.J. Abrams,Super 8,2011.0,Others,438250028
+tt1700467,2011,Variety Piazza Grande Award,,False,False,The Art of Love,nm0609981,Emmanuel Mouret,The Art of Love,2012.0,Comedy,1272550
+tt1472464,2012,Golden Leopard,,False,True,A Lady in Paris,nm0704664,Ilmar Raag,A Lady in Paris,2012.0,Drama,1010737
+tt1833844,2012,Golden Leopard,,False,True,Berberian Sound Studio,nm3270827,Peter Strickland,Berberian Sound Studio,2012.0,Drama,387893
+tt1971352,2012,Golden Leopard,,False,False,Compliance,nm0957505,Craig Zobel,Compliance,2012.0,Others,1027537
+tt2333238,2012,Golden Leopard,,False,True,Der Glanz des Tages,nm2021063,Tizza Covi,Der Glanz des Tages,2013.0,Drama,21839
+tt0850677,2012,Golden Leopard,,False,False,Jack & Diane,nm0336486,Bradley Rust Gray,Jack & Diane,2012.0,Drama,2536
+tt2332522,2012,Golden Leopard,,False,True,Leviathan,nm3626583,Lucien Castaing-Taylor,Leviathan,2012.0,Others,191100
+tt2112204,2012,Golden Leopard,,False,False,Mobile Home,nm1950921,François Pirot,Mobile Home,2012.0,Comedy,86804
+tt2268732,2012,Golden Leopard,,False,True,Museum Hours,nm0169486,Jem Cohen,Museum Hours,2013.0,Drama,1319416
+tt2014346,2012,Golden Leopard,,False,True,Somebody Up There Likes Me,nm0125887,Bob Byington,Somebody Up There Likes Me,2013.0,Comedy,196371
+tt2035630,2012,Golden Leopard,,False,True,Starlet,nm0048918,Sean Baker,Starlet,2012.0,Drama,261164
+tt2176504,2012,Golden Leopard,,False,True,The End of Time,nm0582650,Peter Mettler,The End of Time,2013.0,Others,9631
+tt2226407,2012,Golden Leopard,,False,False,The Landlords,nm0299998,Edoardo Gabbriellini,The Landlords,2012.0,Drama,225102
+tt1843840,2012,Golden Leopard,,False,True,The Last Time I Saw Macao,nm0735134,João Pedro Rodrigues,The Last Time I Saw Macao,2012.0,Others,13466
+tt1996310,2012,Audience Award,,True,True,Lore,nm0795153,Cate Shortland,Lore,2012.0,Drama,3681414
+tt2333254,2012,Golden Leopard - Filmmakers of the Present,,False,False,Arraianos,nm1644561,Eloy Enciso,Arraianos,2013.0,Drama,12138
+tt2332712,2012,Golden Leopard - Filmmakers of the Present,,False,True,"Boa Sorte, Meu Amor",nm1409790,Daniel Aragão,"Boa Sorte, Meu Amor",2013.0,Drama,12294
+tt2389530,2012,Critics Week Award,,True,True,Vergiss mein nicht,nm1855384,David Sieveking,Vergiss mein nicht,2013.0,Others,592466
+tt2552316,2012,Critics Week Award,,False,False,Sagrada: The Mystery of Creation,nm0369442,Stefan Haupt,Sagrada: The Mystery of Creation,2013.0,Others,151203
+tt2253939,2012,Variety Piazza Grande Award,,True,True,Camille Rewinds,nm0527852,Noémie Lvovsky,Camille Rewinds,2012.0,Comedy,7694124
+tt1899270,2012,Variety Piazza Grande Award,,False,False,A Few Hours of Spring,nm0110300,Stéphane Brizé,A Few Hours of Spring,2013.0,Drama,1452507
+tt1972819,2012,Variety Piazza Grande Award,,False,False,And While We Were Here,nm0192478,Kat Coiro,And While We Were Here,2013.0,Drama,16936
+tt1920849,2012,Variety Piazza Grande Award,,False,False,Bachelorette,nm2853516,Leslye Headland,Bachelorette,2012.0,Comedy,13975468
+tt2235164,2012,Variety Piazza Grande Award,,False,False,Lullaby Ride,nm0770257,Christoph Schaub,Lullaby Ride,2012.0,Drama,32462
+tt1915581,2012,Variety Piazza Grande Award,,False,False,Magic Mike,nm0001752,Steven Soderbergh,Magic Mike,2012.0,Comedy,312859873
+tt2263058,2012,Variety Piazza Grande Award,,False,False,More Than Honey,nm0408195,Markus Imhoof,More Than Honey,2013.0,Others,1870622
+tt1740002,2012,Variety Piazza Grande Award,,False,False,Motorway,nm1110912,Soi Cheang,Motorway,2013.0,Others,2139806
+tt2059255,2012,Variety Piazza Grande Award,,False,False,No,nm1883257,Pablo Larraín,No,2012.0,Drama,11094761
+tt1839492,2012,Variety Piazza Grande Award,,False,False,Ruby Sparks,nm0206760,Jonathan Dayton,Ruby Sparks,2012.0,Comedy,13283477
+tt2023690,2012,Variety Piazza Grande Award,,False,False,Sightseers,nm1296554,Ben Wheatley,Sightseers,2013.0,Others,2396674
+tt0857190,2012,Variety Piazza Grande Award,,False,False,The Sweeney,nm0522393,Nick Love,The Sweeney,2013.0,Others,6939252
+tt1901040,2012,Variety Piazza Grande Award,,False,False,Wrong,nm1189197,Quentin Dupieux,Wrong,2013.0,Comedy,167799
+tt3102458,2013,Golden Leopard,,True,False,Story of My Death,nm2247200,Albert Serra,Story of My Death,2014.0,Drama,83
+tt2700582,2013,Golden Leopard,,False,False,Another Life,nm0609981,Emmanuel Mouret,Another Life,2014.0,Comedy,354617
+tt2436452,2013,Golden Leopard,,False,False,Exhibition,nm0389712,Joanna Hogg,Exhibition,2013.0,Drama,31427
+tt1555069,2013,Golden Leopard,,False,False,Mary Queen of Scots,nm0408101,Thomas Imbach,Mary Queen of Scots,2013.0,Others,11224
+tt2942512,2013,Golden Leopard,,False,True,Our Sunhi,nm0393254,Sang-soo Hong,Our Sunhi,2013.0,Comedy,305399
+tt2280964,2013,Golden Leopard,,False,False,Real,nm0475905,Kiyoshi Kurosawa,Real,2013.0,Drama,4160153
+tt3102382,2013,Golden Leopard,,False,True,Sentimental Education,nm0107788,Júlio Bressane,Sentimental Education,2016.0,Drama,3628
+tt2370248,2013,Golden Leopard,,False,True,Short Term 12,nm2308774,Destin Daniel Cretton,Short Term 12,2013.0,Drama,2904578
+tt3102838,2013,Golden Leopard,,False,True,Tableau noir,nm0947681,Yves Yersin,Tableau noir,2014.0,Others,3576
+tt2733258,2013,Golden Leopard,,False,False,The Strange Color of Your Body's Tears,nm1732946,Hélène Cattet,The Strange Color of Your Body's Tears,2013.0,Others,15676
+tt2847090,2013,Golden Leopard,,False,True,Tonnerre,nm2145328,Guillaume Brac,Tonnerre,2014.0,Comedy,164522
+tt2524674,2013,Golden Leopard,,False,False,Wetlands,nm1177494,David Wnendt,Wetlands,2014.0,Comedy,11602886
+tt3102356,2013,Golden Leopard,,False,True,What Now? Remind Me,nm0684666,Joaquim Pinto,What Now? Remind Me,2013.0,Others,6742
+tt3106846,2013,Audience Award,,True,True,Gabrielle,nm0033596,Louise Archambault,Gabrielle,2013.0,Drama,255546
+tt3103326,2013,Golden Leopard - Filmmakers of the Present,,True,True,Manakamana,nm5856477,Stephanie Spray,Manakamana,2013.0,Others,65546
+tt2414046,2013,Golden Leopard - Filmmakers of the Present,,False,True,The Amazing Catfish,nm2404755,Claudia Sainte-Luce,The Amazing Catfish,2014.0,Comedy,345741
+tt3129484,2013,Critics Week Award,,True,True,Master of the Universe,nm1519249,Marc Bauder,Master of the Universe,2014.0,Others,63113
+tt2789532,2013,Critics Week Award,,False,False,Big Men,nm1354496,Rachel Boynton,Big Men,2014.0,Others,121745
+tt1272878,2013,Variety Piazza Grande Award,,True,True,2 Guns,nm0466349,Baltasar Kormákur,2 Guns,2013.0,Others,226784682
+tt2194499,2013,Variety Piazza Grande Award,,False,False,About Time,nm0193485,Richard Curtis,About Time,2013.0,Comedy,112301882
+tt2359024,2013,Variety Piazza Grande Award,,False,False,Blue Ruin,nm1099918,Jeremy Saulnier,Blue Ruin,2013.0,Others,1366090
+tt2438644,2013,Variety Piazza Grande Award,,False,False,Department Q: The Keeper of Lost Causes,nm1031708,Mikkel Nørgaard,Department Q: The Keeper of Lost Causes,2016.0,Others,14479667
+tt2425486,2013,Variety Piazza Grande Award,,False,False,Gloria,nm0133326,Sebastián Lelio,Gloria,2013.0,Comedy,9509790
+tt1838603,2013,Variety Piazza Grande Award,,False,False,Last Love,nm0626686,Sandra Nettelbeck,Last Love,2013.0,Comedy,3253294
+tt3013258,2013,Variety Piazza Grande Award,,False,False,Sur le chemin de l'école,nm1306200,Pascal Plisson,Sur le chemin de l'école,2014.0,Others,8557740
+tt2406992,2013,Variety Piazza Grande Award,,False,False,The Human Factor,nm0647240,Bruno Oliviero,The Human Factor,2014.0,Others,227612
+tt2203898,2013,Variety Piazza Grande Award,,False,False,Vijay and I,nm0304921,Sam Garbarski,Vijay and I,2013.0,Comedy,117528
+tt1723121,2013,Variety Piazza Grande Award,,False,False,We're the Millers,nm1098493,Rawson Marshall Thurber,We're the Millers,2013.0,Comedy,459341335
+tt3813916,2014,Golden Leopard,,False,False,A Blast,nm1253546,Syllas Tzoumerkas,A Blast,2015.0,Drama,289
+tt3904770,2014,Golden Leopard,,False,True,August Winds,nm3486709,Gabriel Mascaro,August Winds,2014.0,Drama,10944
+tt1554929,2014,Golden Leopard,,False,False,Cure: The Life of Another,nm0821620,Andrea Staka,Cure: The Life of Another,2015.0,Drama,1309
+tt3800010,2014,Golden Leopard,,False,True,Fidelio: Alice's Odyssey,nm1656178,Lucie Borleteau,Fidelio: Alice's Odyssey,2015.0,Drama,26408
+tt3675906,2014,Golden Leopard,,False,False,Gyeongju,nm2209378,Lu Zhang,Gyeongju,2014.0,Drama,308938
+tt3907156,2014,Golden Leopard,,False,True,Horse Money,nm0182276,Pedro Costa,Horse Money,2014.0,Drama,15889
+tt3093546,2014,Golden Leopard,,False,True,Listen Up Philip,nm3504405,Alex Ross Perry,Listen Up Philip,2014.0,Comedy,446092
+tt3182590,2014,Golden Leopard,,False,False,Sapience,nm0337833,Eugène Green,Sapience,2014.0,Drama,290711
+tt3907314,2014,Golden Leopard,,False,False,The Iron Ministry,nm3723535,J.P. Sniadecki,The Iron Ministry,2015.0,Others,7747
+tt3904754,2014,Golden Leopard,,False,False,The Princess of France,nm1446111,Matías Piñeiro,The Princess of France,2014.0,Comedy,11219
+tt3907212,2014,Audience Award,,True,True,Schweizer Helden,nm1280221,Peter Luisi,Schweizer Helden,2015.0,Comedy,6809
+tt2656588,2014,Golden Leopard - Filmmakers of the Present,,False,True,Buzzard,nm1811127,Joel Potrykus,Buzzard,2015.0,Comedy,31583
+tt3894188,2014,Golden Leopard - Filmmakers of the Present,,False,False,"Christmas, Again",nm2972085,Charles Poekel,"Christmas, Again",2015.0,Drama,18735
+tt3577190,2014,Golden Leopard - Filmmakers of the Present,,False,False,Exit,nm1250957,Hsiang Chienn,Exit,2015.0,Comedy,9434
+tt3907370,2014,Golden Leopard - Filmmakers of the Present,,False,False,Los enemigos del dolor,nm1473216,Arauco Hernández Holz,Los enemigos del dolor,2016.0,Others,5736
+tt3132714,2014,Variety Piazza Grande Award,,True,True,Marie's Story,nm0025534,Jean-Pierre Améris,Marie's Story,2014.0,Others,1274145
+tt2452254,2014,Variety Piazza Grande Award,,False,False,Clouds of Sils Maria,nm0000801,Olivier Assayas,Clouds of Sils Maria,2014.0,Drama,7081934
+tt2841572,2014,Variety Piazza Grande Award,,False,False,Dancing Arabs,nm0726954,Eran Riklis,Dancing Arabs,2014.0,Drama,1302706
+tt3565174,2014,Variety Piazza Grande Award,,False,False,Geronimo,nm0309697,Tony Gatlif,Geronimo,2014.0,Others,205965
+tt3283556,2014,Variety Piazza Grande Award,,False,False,Land Ho!,nm1369800,Aaron Katz,Land Ho!,2014.0,Others,1589760
+tt3034418,2014,Variety Piazza Grande Award,,False,False,Love Island,nm1120092,Jasmila Zbanic,Love Island,2015.0,Comedy,2278
+tt2872732,2014,Variety Piazza Grande Award,,False,False,Lucy,nm0000108,Luc Besson,Lucy,2014.0,Others,628039055
+tt2980648,2014,Variety Piazza Grande Award,,False,False,The Hundred-Foot Journey,nm0002120,Lasse Hallström,The Hundred-Foot Journey,2014.0,Comedy,153769778
+tt3198638,2014,Variety Piazza Grande Award,,False,False,To Life,nm0956454,Jean-Jacques Zilbermann,To Life,2015.0,Drama,413575
+tt3273636,2014,Variety Piazza Grande Award,,False,False,Tour de Force,nm0959255,Christian Zübert,Tour de Force,2015.0,Comedy,2483294
+tt4768776,2015,Golden Leopard,,True,True,"Right Now, Wrong Then",nm0393254,Sang-soo Hong,"Right Now, Wrong Then",2015.0,Drama,757708
+tt3526706,2015,Golden Leopard,,False,False,Chevalier,nm0718125,Athina Rachel Tsangari,Chevalier,2015.0,Comedy,110976
+tt4035268,2015,Golden Leopard,,False,True,Cosmos,nm0958558,Andrzej Zulawski,Cosmos,2016.0,Drama,64933
+tt3343784,2015,Golden Leopard,,False,True,Entertainment,nm3687830,Rick Alverson,Entertainment,2015.0,Drama,119530
+tt4780662,2015,Golden Leopard,,False,True,Happy Hour,nm3152327,Ryûsuke Hamaguchi,Happy Hour,2015.0,Drama,497042
+tt4863784,2015,Golden Leopard,,False,False,I Promise You Anarchy,nm2785946,Julio Hernández Cordón,I Promise You Anarchy,2016.0,Drama,6721
+tt4288636,2015,Golden Leopard,,False,True,James White,nm1317614,Josh Mond,James White,2015.0,Drama,218292
+tt2188860,2015,Golden Leopard,,False,True,Lost and Beautiful,nm2754122,Pietro Marcello,Lost and Beautiful,2016.0,Drama,16687
+tt4881016,2015,Golden Leopard,,False,False,No Home Movie,nm0001901,Chantal Akerman,No Home Movie,2015.0,Others,70392
+tt4881032,2015,Golden Leopard,,False,False,On Football,nm1137549,Sergio Oksman,On Football,2016.0,Others,640
+tt3430416,2015,Golden Leopard,,False,False,Schneider vs. Bax,nm0912334,Alex van Warmerdam,Schneider vs. Bax,2015.0,Comedy,299409
+tt4881172,2015,Golden Leopard,,False,False,The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers,nm4234237,Ben Rivers,The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers,2015.0,Drama,6970
+tt4482858,2015,Golden Leopard,,False,True,Tikkun,nm3844801,Avishai Sivan,Tikkun,2015.0,Drama,29364
+tt4880956,2015,Golden Leopard,,False,False,Winter Song,nm0409646,Otar Iosseliani,Winter Song,2016.0,Comedy,16676
+tt4193400,2015,Audience Award,,True,True,The People vs. Fritz Bauer,nm0470081,Lars Kraume,The People vs. Fritz Bauer,2016.0,Others,3602026
+tt4613272,2015,Golden Leopard - Filmmakers of the Present,,False,True,Kaili Blues,nm7267981,Gan Bi,Kaili Blues,2016.0,Drama,1038151
+tt4042814,2015,Golden Leopard - Filmmakers of the Present,,False,True,Keeper,nm1879267,Guillaume Senez,Keeper,2016.0,Drama,33367
+tt4333408,2015,Golden Leopard - Filmmakers of the Present,,False,False,Le grand jeu,nm3033662,Nicolas Pariser,Le grand jeu,2015.0,Drama,244941
+tt4160256,2015,Golden Leopard - Filmmakers of the Present,,False,True,Olmo & the Seagull,nm3525467,Petra Costa,Olmo & the Seagull,2016.0,Others,6841
+tt4881328,2015,Golden Leopard - Filmmakers of the Present,,False,False,Siembra,nm7472574,Ángela Maria Osorio Rojas,Siembra,2016.0,Drama,15563
+tt4691974,2015,Golden Leopard - Filmmakers of the Present,,False,False,The Movement,nm3028737,Benjamín Naishtat,The Movement,2016.0,Drama,4659
+tt4952502,2015,Critics Week Award,,False,True,Lampedusa in Winter,nm4272229,Jakob Brossmann,Lampedusa in Winter,2016.0,Others,14987
+tt4417022,2015,Critics Week Award,,False,False,The Ground We Won,nm1495963,Christopher Pryor,The Ground We Won,2015.0,Others,228578
+tt4074502,2015,Swiss Film Score Award,,True,True,Dark Star: H.R. Giger's World,nm0771034,Peter Scherer,Dark Star: H.R. Giger's World,2015.0,Others,132633
+tt4080768,2015,Variety Piazza Grande Award,,True,True,Summertime,nm0181117,Catherine Corsini,Summertime,2016.0,Drama,4093219
+tt3774092,2015,Variety Piazza Grande Award,,False,False,Amnesia,nm0775447,Barbet Schroeder,Amnesia,2017.0,Drama,18164
+tt2979920,2015,Variety Piazza Grande Award,,False,False,Bombay Velvet,nm0440604,Anurag Kashyap,Bombay Velvet,2015.0,Others,1299388
+tt4163636,2015,Variety Piazza Grande Award,,False,False,Florida,nm0494355,Philippe Le Guay,Florida,2015.0,Comedy,3134509
+tt2582496,2015,Variety Piazza Grande Award,,False,False,Me and Earl and the Dying Girl,nm0004234,Alfonso Gomez-Rejon,Me and Earl and the Dying Girl,2015.0,Comedy,16953973
+tt4116116,2015,Variety Piazza Grande Award,,False,False,My Internship in Canada,nm0265852,Philippe Falardeau,My Internship in Canada,2016.0,Comedy,176373
+tt3623726,2015,Variety Piazza Grande Award,,False,False,Ricki and the Flash,nm0001129,Jonathan Demme,Ricki and the Flash,2015.0,Comedy,73075035
+tt1798684,2015,Variety Piazza Grande Award,,False,False,Southpaw,nm0298807,Antoine Fuqua,Southpaw,2015.0,Drama,154614153
+tt4972904,2015,Variety Piazza Grande Award,,False,False,The Violin Teacher,nm0532509,Sérgio Machado,The Violin Teacher,2016.0,Drama,800322
+tt3152624,2015,Variety Piazza Grande Award,,False,False,Trainwreck,nm0031976,Judd Apatow,Trainwreck,2015.0,Comedy,268777051
+tt4466946,2015,Variety Piazza Grande Award,,False,False,Vanity,nm0047049,Lionel Baier,Vanity,2016.0,Drama,32372
+tt4413794,2015,Doc Alliance Selection Award,,True,True,Homeland (Iraq Year Zero),nm3035371,Abbas Fahdel,Homeland (Iraq Year Zero),2016.0,Others,5266
+tt5451054,2016,Golden Leopard,Best Film,True,True,Godless,nm2432218,Ralitza Petrova,Godless,2016.0,Drama,7160
+tt5974374,2016,Golden Leopard,Best Film,False,False,"Brooks, Meadows and Lovely Faces",nm0621915,Yusri Nasrullah,"Brooks, Meadows and Lovely Faces",2016.0,Drama,45422
+tt5921198,2016,Golden Leopard,Best Film,False,False,Correspondências,nm0326946,Rita Azevedo Gomes,Correspondências,2016.0,Others,2060
+tt5937296,2016,Golden Leopard,Best Film,False,True,Glory,nm1571492,Kristina Grozeva,Glory,2016.0,Drama,112210
+tt5880296,2016,Golden Leopard,Best Film,False,False,Hermia & Helena,nm1446111,Matías Piñeiro,Hermia & Helena,2016.0,Comedy,92299
+tt5204020,2016,Golden Leopard,Best Film,False,True,Scarred Hearts,nm1257492,Radu Jude,Scarred Hearts,2018.0,Others,14041
+tt5078100,2016,Golden Leopard,Best Film,False,False,The Apple of My Eye,nm0740612,Axelle Ropert,The Apple of My Eye,2016.0,Comedy,22994
+tt5541206,2016,Golden Leopard,Best Film,False,False,The Idea of a Lake,nm1436684,Milagros Mumenthaler,The Idea of a Lake,2017.0,Drama,10143
+tt5936692,2016,Golden Leopard,Best Film,False,True,The Last Family,nm4956873,Jan P. Matuszynski,The Last Family,2016.0,Others,2414898
+tt4929038,2016,Golden Leopard,Best Film,False,True,The Ornithologist,nm0735134,João Pedro Rodrigues,The Ornithologist,2016.0,Others,132383
+tt5168192,2016,Audience Award,,True,True,"I, Daniel Blake",nm0516360,Ken Loach,"I, Daniel Blake",2017.0,Drama,16747629
+tt6041312,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,True,True,The Human Surge,nm4369743,Eduardo Williams,The Human Surge,2016.0,Drama,801
+tt5820148,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,Afterlov,nm4091941,Stergios Paschos,Afterlov,2017.0,Comedy,14216
+tt5986738,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,Dark Skull,nm4576903,Kiro Russo,Dark Skull,2017.0,Others,9371
+tt4442604,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,Donald Cried,nm2858296,Kris Avedisian,Donald Cried,2016.0,Comedy,131793
+tt5943708,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,The Challenge,nm4150219,Yuri Ancarani,The Challenge,2017.0,Others,23150
+tt6060960,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,The Future Perfect,nm3396820,Nele Wohlatz,The Future Perfect,2017.0,Drama,119
+tt5795752,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,This Time Tomorrow,nm1883647,Lina Rodriguez,This Time Tomorrow,2017.0,Drama,5472
+tt5929472,2016,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,Withered Green,nm7627626,Mohammed Hammad,Withered Green,2018.0,Drama,1745
+tt5072406,2016,Variety Piazza Grande Award,,True,True,Moka,nm0581081,Frédéric Mermoud,Moka,2017.0,Drama,1694318
+tt4467194,2016,Variety Piazza Grande Award,,False,False,Ceasefire,nm0183686,Emmanuel Courcol,Ceasefire,2017.0,Drama,314661
+tt4451458,2016,Variety Piazza Grande Award,,False,False,Endless Poetry,nm0423524,Alejandro Jodorowsky,Endless Poetry,2017.0,Others,743792
+tt5766118,2016,Variety Piazza Grande Award,,False,False,Heaven Will Wait,nm1310723,Marie-Castille Mention-Schaar,Heaven Will Wait,2016.0,Drama,2094732
+tt5029642,2016,Variety Piazza Grande Award,,False,False,Into the Forest,nm0545382,Gilles Marchand,Into the Forest,2017.0,Drama,72709
+tt4196776,2016,Variety Piazza Grande Award,,False,False,Jason Bourne,nm0339030,Paul Greengrass,Jason Bourne,2016.0,Others,613752877
+tt3859980,2016,Variety Piazza Grande Award,,False,False,Mohenjo Daro,nm0332950,Ashutosh Gowariker,Mohenjo Daro,2016.0,Others,3071225
+tt3397160,2016,Variety Piazza Grande Award,,False,False,Stefan Zweig: Farewell to Europe,nm0775056,Maria Schrader,Stefan Zweig: Farewell to Europe,2017.0,Others,1544681
+tt4547056,2016,Variety Piazza Grande Award,,False,False,The Girl with All the Gifts,nm1142073,Colm McCarthy,The Girl with All the Gifts,2017.0,Drama,4299942
+tt4524676,2016,Variety Piazza Grande Award,,False,False,The Train of Salt and Sugar,nm0044242,Licínio Azevedo,The Train of Salt and Sugar,2018.0,Others,2364
+tt5910280,2016,Variety Piazza Grande Award,,False,False,Tunnel,nm1826454,Seong-hun Kim,Tunnel,2016.0,Others,56248561
+tt7128066,2017,Golden Leopard,Best Film,False,False,Charleston,nm3202398,Andrei Cretulescu,Charleston,2017.0,Comedy,21000
+tt6370614,2017,Golden Leopard,Best Film,False,False,Did You Wonder Who Fired the Gun?,nm1288933,Travis Wilkerson,Did You Wonder Who Fired the Gun?,2017.0,Others,43703
+tt6144092,2017,Golden Leopard,Best Film,False,False,En el séptimo día,nm0570995,Jim McKay,En el séptimo día,2018.0,Drama,162030
+tt5795086,2017,Golden Leopard,Best Film,False,False,Gemini,nm1369800,Aaron Katz,Gemini,2018.0,Others,410303
+tt5480782,2017,Golden Leopard,Best Film,False,True,Good Manners,nm1824290,Marco Dutra,Good Manners,2018.0,Others,67831
+tt5859238,2017,Golden Leopard,Best Film,False,True,Lucky,nm0002253,John Carroll Lynch,Lucky,2017.0,Comedy,2917340
+tt5338644,2017,Golden Leopard,Best Film,False,True,Mrs. Hyde,nm0102516,Serge Bozon,Mrs. Hyde,2018.0,Comedy,812676
+tt0100275,2017,Golden Leopard,Best Film,False,False,The Wandering Soap Opera,nm0749914,Raoul Ruiz,The Wandering Soap Opera,2019.0,Comedy,6900
+tt6695212,2017,Golden Leopard,Best Film,False,True,Wajib,nm1486975,Annemarie Jacir,Wajib - The Wedding Invitation,2018.0,Drama,596004
+tt5323760,2017,Golden Leopard,Best Film,False,True,Winter Brothers,nm6249843,Hlynur Palmason,Winter Brothers,2018.0,Drama,12864
+tt5462602,2017,Audience Award,,True,True,The Big Sick,nm0795290,Michael Showalter,The Big Sick,2017.0,Comedy,103649757
+tt6303866,2017,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,Beach Rats,nm2151374,Eliza Hittman,Beach Rats,2017.0,Drama,1010656
+tt6097278,2017,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,Damned Summer,nm4297908,Pedro Cabeleira,Damned Summer,2017.0,Drama,4176
+tt4653492,2017,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,Easy,nm1841031,Andrea Magnani,Easy,2018.0,Comedy,320492
+tt7162416,2017,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,Milla,nm2244088,Valérie Massadian,Milla,2018.0,Drama,3348
+tt5247026,2017,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,Person to Person,nm1037451,Dustin Guy Defa,Person to Person,2017.0,Comedy,101262
+tt5485522,2017,Variety Piazza Grande Award,,True,True,Three Peaks,nm2215563,Jan Zabeil,Three Peaks,2019.0,Drama,31007
+tt2406566,2017,Variety Piazza Grande Award,,False,False,Atomic Blonde,nm0500610,David Leitch,Atomic Blonde,2017.0,Others,158483881
+tt5907748,2017,Variety Piazza Grande Award,,False,False,Der Mann aus dem Eis,nm0709726,Felix Randau,Der Mann aus dem Eis,2019.0,Drama,8857
+tt4846232,2017,Variety Piazza Grande Award,,False,False,Good Time,nm1509478,Benny Safdie,Good Time,2017.0,Others,5526766
+tt5827212,2017,Variety Piazza Grande Award,,False,False,Let the Corpses Tan,nm1732946,Hélène Cattet,Let the Corpses Tan,2018.0,Others,189131
+tt5517708,2017,Variety Piazza Grande Award,,False,False,Lola Pater,nm0596347,Nadir Moknèche,Lola Pater,2017.0,Drama,747222
+tt7133340,2017,Variety Piazza Grande Award,,False,False,Stories of Love That Cannot Belong to This World,nm0173726,Francesca Comencini,Stories of Love That Cannot Belong to This World,2017.0,Comedy,385143
+tt5178120,2017,Variety Piazza Grande Award,,False,False,The Song of Scorpions,nm0802084,Anup Singh,The Song of Scorpions,2017.0,Drama,4652
+tt5057904,2017,Variety Piazza Grande Award,,False,False,Tomorrow and Thereafter,nm0527852,Noémie Lvovsky,Tomorrow and Thereafter,2017.0,Drama,250754
+tt1536537,2017,Variety Piazza Grande Award,,False,False,What Happened to Monday,nm2482088,Tommy Wirkola,What Happened to Monday,2017.0,Others,29118173
+tt5356274,2017,Best First Feature,,False,False,The Prince of Nothingwood,nm0472196,Sonia Kronlund,The Prince of Nothingwood,2017.0,Others,134481
+tt5708028,2017,Signs of Life Section,Best Film,True,True,Cocote,nm4981904,Nelson Carlo de Los Santos Arias,Cocote,2018.0,Drama,8250
+tt6855898,2017,Signs of Life Section,Best Film,False,False,The Dead Nation,nm1257492,Radu Jude,The Dead Nation,2017.0,Others,9121
+tt8726008,2018,Golden Leopard,Best Film,False,True,Alice T.,nm1364086,Radu Muntean,Alice T.,2018.0,Drama,4357
+tt6705860,2018,Golden Leopard,Best Film,False,True,Diane,nm2719270,Kent Jones,Diane,2019.0,Drama,672332
+tt8287690,2018,Golden Leopard,Best Film,False,False,Genesis,nm3679540,Philippe Lesage,Genesis,2019.0,Drama,7072
+tt8725958,2018,Golden Leopard,Best Film,False,True,Hotel by the River,nm0393254,Sang-soo Hong,Hotel by the River,2019.0,Drama,94316
+tt8300036,2018,Golden Leopard,Best Film,False,False,Menocchio the Heretic,nm1743991,Alberto Fasulo,Menocchio the Heretic,2018.0,Drama,57125
+tt6601502,2018,Golden Leopard,Best Film,False,True,Ray & Liz,nm2843837,Richard Billingham,Ray & Liz,2019.0,Drama,58509
+tt8696440,2018,Golden Leopard,Best Film,False,True,Sibel,nm1597572,Guillaume Giovanetti,Sibel,2018.0,Drama,419053
+tt8726098,2018,Golden Leopard,Best Film,False,True,Too Late to Die Young,nm3049622,Dominga Sotomayor Castillo,Too Late to Die Young,2019.0,Drama,41078
+tt7349662,2018,Audience Award,,True,True,BlacKkKlansman,nm0000490,Spike Lee,BlacKkKlansman,2018.0,Others,144503314
+tt8890690,2018,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,A Family Submerged,nm1600662,María Alche,A Family Submerged,2018.0,Drama,11686
+tt7776430,2018,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,All is Well,nm1690765,Eva Trobisch,Alles ist gut,2019.0,Drama,84399
+tt8769528,2018,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,Dead Horse Nebula,nm8550161,Tarik Aktas,Dead Horse Nebula,2019.0,Drama,1233
+tt7374968,2018,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,Likemeback,nm2990576,Leonardo Guerra Seràgnoli,Likemeback,2019.0,Drama,3015
+tt8747304,2018,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,False,Suburban Birds,nm6914513,Sheng Qiu,Suburban Birds,2019.0,Drama,20056
+tt8731156,2018,Golden Leopard - Filmmakers of the Present,Golden Leopard,False,True,The Dive,nm4452063,Yona Rozenkier,The Dive,2019.0,Drama,38688
+tt7049420,2018,Variety Piazza Grande Award,,True,True,The Wind Turns,nm0643282,Bettina Oberli,The Wind Turns,2018.0,Drama,63545
+tt6386748,2018,Variety Piazza Grande Award,,False,False,Birds of Passage,nm5305003,Cristina Gallego,Birds of Passage,2019.0,Drama,2822716
+tt6443294,2018,Variety Piazza Grande Award,,False,False,Blaze,nm0000160,Ethan Hawke,Blaze,2018.0,Others,1428932
+tt8826496,2018,Variety Piazza Grande Award,,False,False,Chacun pour tous,nm5099330,Vianney Lebasque,Chacun pour tous,2018.0,Comedy,2220891
+tt7205630,2018,Variety Piazza Grande Award,,False,False,I Feel Good,nm0218022,Benoît Delépine,I Feel Good,2018.0,Comedy,4057926
+tt6532192,2018,Variety Piazza Grande Award,,False,False,My Beloved Enemy,nm0704710,Denis Rabaglia,My Beloved Enemy,2018.0,Comedy,385687
+tt6241872,2018,Variety Piazza Grande Award,,False,False,"Ruben Brandt, Collector",nm0472425,Milorad Krstic,"Ruben Brandt, Collector",2019.0,Others,704167
+tt7668870,2018,Variety Piazza Grande Award,,False,False,Searching,nm3792134,Aneesh Chaganty,Searching,2018.0,Drama,102852221
+tt3766354,2018,Variety Piazza Grande Award,,False,False,The Equalizer 2,nm0298807,Antoine Fuqua,The Equalizer 2,2018.0,Others,296595453
+tt8837842,2018,Best First Feature,,False,True,Acid Forest,nm10045529,Rugile Barzdziukaite,Acid Forest,2018.0,Others,12754
+tt7931968,2018,Best First Feature,,False,False,Narcissister Organ Player,nm9172283,Narcissister,Narcissister Organ Player,2018.0,Others,31095
+tt4353250,2019,Golden Leopard,Best Film,False,False,The Last Black Man in San Francisco,nm7050300,Joe Talbot,The Last Black Man in San Francisco,2019.0,Drama,8331294
+tt5433114,2019,Variety Piazza Grande Award,,False,False,Diego Maradona,nm0438090,Asif Kapadia,Diego Maradona,2019.0,Others,1507811
+tt7131622,2019,Variety Piazza Grande Award,,False,False,Once Upon a Time... in Hollywood,nm0000233,Quentin Tarantino,Once Upon a Time ... in Hollywood,2019.0,Comedy,111113988

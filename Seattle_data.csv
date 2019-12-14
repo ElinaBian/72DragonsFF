@@ -1,0 +1,310 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0089424,1985,Golden Space Needle Award,Best Film,True,False,Kiss of the Spider Woman,,[],Kiss of the Spider Woman,1985.0,Drama,80634836
+tt0090576,1986,Golden Space Needle Award,Best Film,True,False,The Assault,,[],The Assault,1987.0,Drama,2346658
+tt0089606,1987,Golden Space Needle Award,Best Film,True,False,My Life as a Dog,,[],My Life as a Dog,1987.0,Comedy,37721121
+tt0095801,1988,Golden Space Needle Award,Best Film,True,False,Bagdad Cafe,,[],Bagdad Cafe,1988.0,Comedy,15894686
+tt0094667,1989,Golden Space Needle Award,Best Film,True,False,Apartment Zero,,[],Apartment Zero,1988.0,Drama,5407796
+tt0100436,1990,Golden Space Needle Award,Best Film,True,False,Pump Up the Volume,,[],Pump Up the Volume,1990.0,Comedy,44824820
+tt0100332,1991,Golden Space Needle Award,Best Documentary,True,False,Paris Is Burning,nm0515255,Jennie Livingston,Paris Is Burning,1991.0,Others,14560313
+tt0099669,1991,Golden Space Needle Award,Best Film,True,False,My Father's Glory,,[],My Father's Glory,1991.0,Others,6476087
+tt0099266,1991,Golden Space Needle Award,Best Film,True,False,My Mother's Castle,,[],My Mother's Castle,1991.0,Others,5502369
+tt0103882,1992,Golden Space Needle Award,Best Documentary,True,False,A Brief History of Time,nm0001554,Errol Morris,A Brief History of Time,1991.0,Others,8479923
+tt0107220,1992,Audience Award,,True,True,Inside Monkey Zetterland,nm0506461,Jefery Levy,Inside Monkey Zetterland,1993.0,Comedy,214383
+tt0107974,1993,Golden Space Needle Award,Best Documentary,True,False,Road Scholar,nm0918724,Roger Weisberg,Road Scholar,1993.0,Others,2115045
+tt0107156,1993,Golden Space Needle Award,Best Film,True,False,The Wedding Banquet,,[],The Wedding Banquet,1993.0,Comedy,24472811
+tt0107472,1994,Golden Space Needle Award,Best Documentary,True,False,"The Wonderful, Horrible Life of Leni Riefenstahl",nm0618284,Ray Müller,"The Wonderful, Horrible Life of Leni Riefenstahl",1994.0,Others,1552996
+tt0109045,1994,Golden Space Needle Award,Best Film,True,False,"The Adventures of Priscilla, Queen of the Desert",,[],"The Adventures of Priscilla, Queen of the Desert",1994.0,Comedy,38495409
+tt0109508,1995,Golden Space Needle Award,Best Documentary,True,False,Crumb,nm0959062,Terry Zwigoff,Crumb,1995.0,Others,10232293
+tt0114323,1995,American Independent Award,,True,True,Safe,nm0001331,Todd Haynes,Safe,1995.0,Drama,1716763
+tt0111205,1995,New Director's Showcase Special Jury Prize,,True,True,Sister My Sister,nm0575361,Nancy Meckler,Sister My Sister,1995.0,Drama,730217
+tt0116589,1996,Golden Space Needle Award,Best Documentary,True,False,Hype!,nm0695629,Doug Pray,Hype!,1996.0,Others,432659
+tt0117951,1996,Golden Space Needle Award,Best Film,True,False,Trainspotting,,[],Trainspotting,1996.0,Drama,53748642
+tt0118163,1996,American Independent Special Jury Prize,,True,True,The Whole Wide World,nm0006959,Dan Ireland,The Whole Wide World,1996.0,Others,1210894
+tt0117905,1997,Golden Space Needle Award,Best Film,True,False,Comrades: Almost a Love Story,,[],Comrades: Almost a Love Story,1997.0,Drama,56182
+tt0117615,1997,New Director's Showcase Special Jury Prize,,True,True,Shall We Dance?,nm0839397,Masayuki Suo,Shall We Dance?,1997.0,Comedy,30248893
+tt0119207,1998,Golden Space Needle Award,Best Film,True,False,"God Said, 'Ha!'",,[],"God Said, 'Ha!'",1998.0,Comedy,176362
+tt0118766,1998,American Independent Award,,True,True,Southie,nm0567337,Bill McCutchen,Southie,1999.0,Drama,162428
+tt0124185,1998,New Director's Showcase - Honorable Mention,,True,True,Under the Skin,nm0012119,Carine Adler,Under the Skin,1998.0,Drama,440314
+tt0186508,1999,Golden Space Needle Award,Best Documentary,True,False,Buena Vista Social Club,nm0000694,Wim Wenders,Buena Vista Social Club,1999.0,Others,46348259
+tt0163185,1999,New Director's Showcase Award,,True,True,Rosie,nm0870299,Patrice Toye,Rosie,1999.0,Drama,14684
+tt0215369,2000,Golden Space Needle Award,Best Film,True,False,Shower,,[],Shower,2000.0,Comedy,5038610
+tt0200530,2000,New American Cinema Award,Best Writer,True,True,Chuck & Buck,nm0925234,Mike White,Chuck & Buck,2000.0,Comedy,3309311
+tt0180301,2000,New American Cinema Award,Citation of Excellence for Ensemble Cast Performance,True,True,The Weekend,nm0000679,Deborah Kara Unger,The Weekend,2000.0,Drama,95015
+tt0220726,2000,New Director's Showcase Award,Special Jury Prize,True,True,Human Resources,nm0134559,Laurent Cantet,Human Resources,2000.0,Comedy,174139
+tt0264578,2001,Golden Space Needle Award,Best Documentary,True,False,The Endurance,nm1000159,George Butler,The Endurance,2001.0,Others,7095421
+tt0203166,2001,New Director's Showcase Award,,True,True,Together,nm0600546,Lukas Moodysson,Together,2001.0,Comedy,22403056
+tt0251091,2001,New Director's Showcase Special Jury Prize,,True,True,Before the Storm,nm0663711,Reza Parsa,Before the Storm,2000.0,Others,11508
+tt0260991,2001,New Director's Showcase Special Jury Prize,,True,True,Joint Security Area,nm0661791,Chan-wook Park,Joint Security Area,2001.0,Others,178124
+tt0279064,2002,Golden Space Needle Award,Best Film,True,False,Elling,,[],Elling,2002.0,Comedy,3349866
+tt0306359,2002,Asian Trade Winds Award,,True,True,Transistor Love Story,nm0711579,Pen-Ek Ratanaruang,Transistor Love Story,2002.0,Comedy,5304
+tt0300453,2002,New Director's Showcase Award,,True,True,Red Satin,nm1075853,Raja Amari,Red Satin,2002.0,Drama,5292228
+tt0363510,2003,Golden Space Needle Award,Best Documentary,True,True,The Revolution Will Not Be Televised,nm1378741,Kim Bartley,The Revolution Will Not Be Televised,2003.0,Others,426909
+tt0298228,2003,Golden Space Needle Award,Best Film,True,False,Whale Rider,,[],Whale Rider,2003.0,Drama,85610853
+tt0285727,2003,New American Cinema Award,,True,True,"Milwaukee, Minnesota",nm0591051,Allan Mindel,"Milwaukee, Minnesota",2003.0,Drama,49303
+tt0250638,2003,Asian Trade Winds Award,,True,True,PTU,nm0864775,Johnnie To,PTU,2003.0,Others,1182
+tt0343168,2003,Documentary Award,,True,True,The Weather Underground,nm0338316,Sam Green,The Weather Underground,2002.0,Others,1591732
+tt0339707,2003,Women in Cinema Lena Sharpe Award,,True,True,Song for a Raggy Boy,nm0909532,Aisling Walsh,Song for a Raggy Boy,2003.0,Drama,1101998
+tt0388789,2004,Golden Space Needle Award,Best Documentary,True,False,Born Into Brothels: Calcutta's Red Light Kids,nm1498640,Zana Briski,Born Into Brothels: Calcutta's Red Light Kids,2005.0,Others,9312711
+tt0352343,2004,Golden Space Needle Award,Best Film,True,False,Facing Windows,,[],Facing Windows,2004.0,Drama,21659836
+tt0374639,2004,New American Cinema Award,,True,True,Incident at Loch Ness,nm0672015,Zak Penn,Incident at Loch Ness,2004.0,Others,100908
+tt0364120,2004,New Director's Showcase Award,,True,True,Wild Side,nm0509852,Sébastien Lifshitz,Wild Side,2004.0,Drama,41501
+tt0296587,2004,New Director's Showcase - Honorable Mention,,True,True,Feathers in My Head,nm0211934,Thomas De Thier,Feathers in My Head,2004.0,Drama,73656
+tt0389361,2004,Documentary Award,,True,True,Searching for the Wrong-Eyed Jesus,nm1497918,Andrew Douglas,Searching for the Wrong-Eyed Jesus,2004.0,Others,215995
+tt0377752,2004,Women in Cinema Lena Sharpe Award,,True,True,Dear Frankie,nm0994254,Shona Auerbach,Dear Frankie,2005.0,Drama,2199412
+tt0436613,2005,Golden Space Needle Award,Best Documentary,True,False,Murderball,nm0748066,Henry Alex Rubin,Murderball,2005.0,Others,4271774
+tt0387914,2005,Golden Space Needle Award,Best Film,True,False,Innocent Voices,,[],Innocent Voices,2005.0,Drama,10198616
+tt0384573,2005,New American Cinema Award,,True,True,Swimmers,nm0755531,Doug Sadler,Swimmers,2005.0,Drama,93299
+tt0436262,2005,New American Cinema Special Jury Prize,,True,True,Ellie Parker,nm0168892,Scott Coffey,Ellie Parker,2005.0,Comedy,46111
+tt0445161,2005,New Director's Showcase Award,,True,True,4,nm0451969,Ilya Khrzhanovskiy,4,2005.0,Drama,53901
+tt0385017,2005,New Director's Showcase Special Jury Prize,,True,True,In My Father's Den,nm0568899,Brad McGann,In My Father's Den,2005.0,Drama,2138704
+tt0395796,2005,Documentary Special Jury Award,,True,True,Trudell,nm0706010,Heather Rae,Trudell,2005.0,Others,71708
+tt0436039,2005,Women in Cinema Lena Sharpe Award,,True,True,After Innocence,nm1124618,Jessica Sanders,After Innocence,2005.0,Others,306239
+tt0420233,2005,New Directors Competition,,False,False,A Wonderful Night in Split,nm0652443,Arsen A. Ostojic,A Wonderful Night in Split,2005.0,Drama,561
+tt0446055,2006,Golden Space Needle Award,Best Documentary,True,False,The Trials of Darryl Hunt,nm0827830,Ricki Stern,The Trials of Darryl Hunt,2006.0,Others,3136
+tt0464913,2006,Golden Space Needle Award,Best Film,True,False,"OSS 117: Cairo, Nest of Spies",nm0371890,Michel Hazanavicius,"OSS 117: Cairo, Nest of Spies",2008.0,Others,27538913
+tt0432318,2006,New American Cinema Award,,True,True,Live Free or Die,nm0442646,Gregg Kavet,Live Free or Die,2006.0,Comedy,35393
+tt0464105,2006,New American Cinema Award - Honorable Mention,,True,True,Man Push Cart,nm1953498,Ahmad Razvi,Man Push Cart,2006.0,Drama,119218
+tt0461694,2007,Golden Space Needle Award,Best Debut Perfomance,True,False,Four Minutes,nm0381342,Hannah Herzsprung,Four Minutes,2008.0,Drama,11081036
+tt0425326,2007,Golden Space Needle Award,Best Film,True,False,Outsourced,nm0420112,John Jeffcoat,Outsourced,2007.0,Comedy,1064966
+tt0952682,2007,New American Cinema Award,,True,True,Shotgun Stories,nm2158772,Jeff Nichols,Shotgun Stories,2008.0,Drama,277325
+tt0473707,2007,New Director's Showcase Award,,True,True,Sons,nm1360920,Erik Richter Strand,Sons,2007.0,Drama,478262
+tt0808462,2007,New Director's Showcase Special Jury Prize,,True,True,7 Years,nm0233123,Valérie Donzelli,7 Years,2007.0,Drama,83881
+tt0912580,2007,Women in Cinema Lena Sharpe Award,,True,True,The Devil Came on Horseback,nm0839064,Anne Sundberg,The Devil Came on Horseback,2007.0,Others,337434
+tt0494203,2007,Special Jury Prize,Best Documentary,True,True,Angels in the Dust,nm0389647,Louise Hogarth,Angels in the Dust,2007.0,Others,28451
+tt0910559,2008,Golden Space Needle Award,Best Film,True,False,Cherry Blossoms,nm0246903,Doris Dörrie,Cherry Blossoms,2008.0,Drama,15142922
+tt1235058,2008,New American Cinema Special Jury Prize,,True,True,The Blue Tooth Virgin,nm1831657,Russell Brown,The Blue Tooth Virgin,2008.0,Comedy,6687
+tt1043749,2008,New Director's Showcase Award,Motion Picture,True,True,Everything Is Fine,nm1141369,Yves Christian Fournier,Everything Is Fine,2009.0,Drama,859232
+tt0978759,2008,Women in Cinema Lena Sharpe Award,,True,True,Frozen River,nm2581581,Courtney Hunt,Frozen River,2008.0,Others,9257629
+tt1183701,2008,Audience Award,Documentary,False,False,They Killed Sister Dorothy,nm0432616,Daniel Junge,They Killed Sister Dorothy,2008.0,Others,5656
+tt1313104,2009,Golden Space Needle Award,Best Documentary,True,False,The Cove,nm3174775,Louie Psihoyos,The Cove,2009.0,Others,2391006
+tt1190536,2009,Golden Space Needle Award,Best Film,True,False,Black Dynamite,nm0761715,Scott Sanders,Black Dynamite,2009.0,Others,652519
+tt1323518,2009,Documentary Award,International Competition,False,False,The Fortress,nm0577663,Fernand Melgar,The Fortress,2009.0,Others,139454
+tt1039638,2009,Documentary Special Jury Award,Documentary Competition,True,True,Sounds Like Teen Spirit,nm1514753,Jamie Jay Johnson,Sounds Like Teen Spirit,2009.0,Others,43076
+tt0492896,2009,Futurewave Youth Jury Award,,True,True,Archie's Final Project,nm0588206,David Lee Miller,Archie's Final Project,2011.0,Comedy,38929
+tt1391092,2010,Golden Space Needle Award,Best Documentary,True,False,Marwencol,nm0540220,Jeff Malmberg,Marwencol,2010.0,Others,261811
+tt1268204,2010,Golden Space Needle Award,Best Documentary,True,False,Waste Land,nm1013671,Lucy Walker,Waste Land,2010.0,Others,547358
+tt1442519,2010,Golden Space Needle Award,Best Film,True,False,The Hedgehog,nm2130235,Mona Achache,The Hedgehog,2010.0,Drama,20949192
+tt1442580,2010,New Director's Showcase Award,Special Jury Prize,True,True,Gravity,,[],Gravity,2010.0,Others,35073
+tt1514837,2010,New Director's Showcase Award,Special Jury Prize,True,True,The Reverse,nm1346665,Borys Lankosz,The Reverse,2010.0,Comedy,2695229
+tt1415290,2010,Emerging Masters Showcase Award,,True,True,Son of Babylon,nm1865534,Mohamed Al Daradji,Son of Babylon,2010.0,Drama,56587
+tt1031241,2010,Futurewave Youth Special Jury Award,,True,True,From Time to Time,nm0271501,Julian Fellowes,From Time to Time,2009.0,Others,188714
+tt1338687,2010,Women in Cinema Lena Sharpe Award,,True,True,The Topp Twins: Untouchable Girls,nm1482101,Leanne Pooley,The Topp Twins: Untouchable Girls,2011.0,Comedy,2091960
+tt1360822,2011,Golden Space Needle Award,Audience,True,False,Paper Birds,,[],Paper Birds,2011.0,Comedy,3111007
+tt1650555,2011,Golden Space Needle Award,Audience,False,False,Game of Werewolves,nm0554890,Juan Martínez Moreno,Game of Werewolves,2012.0,Comedy,159353
+tt0896872,2011,Golden Space Needle Award,Best Film,False,False,The Whistleblower,nm2326979,Larysa Kondracki,The Whistleblower,2011.0,Others,3622081
+tt1245647,2011,New Director's Showcase Award,Contemporary World Cinema,False,False,22nd of May,nm0607831,Koen Mortier,22nd of May,2010.0,Drama,9281
+tt1834234,2011,Documentary Special Jury Award,Documentary Competition,True,True,Sushi: The Global Catch,nm3153222,Mark Hall,Sushi: The Global Catch,2011.0,Others,13360
+tt1787660,2011,Women in Cinema Lena Sharpe Award,,True,True,Being Elmo: A Puppeteer's Journey,nm0548789,Constance Marks,Being Elmo: A Puppeteer's Journey,2011.0,Others,713491
+tt2120152,2012,Golden Space Needle Award,Best Documentary,True,False,The Invisible War,nm0225269,Kirby Dick,The Invisible War,2012.0,Others,162277
+tt2066176,2012,Golden Space Needle Award,Best Film,True,False,Any Day Now,nm0003910,Travis Fine,Any Day Now,2012.0,Drama,514396
+tt2099788,2012,New American Cinema Award,Grand Jury Prix,True,True,Welcome to Pine Hill,nm2142624,Keith Miller,Welcome to Pine Hill,2013.0,Drama,13426
+tt2396566,2013,Golden Space Needle Award,Best Documentary,True,False,20 Feet from Stardom,nm1365879,Morgan Neville,20 Feet from Stardom,2013.0,Others,11799401
+tt1785612,2013,Golden Space Needle Award,Best Documentary,False,True,The Punk Singer,nm2481948,Sini Anderson,The Punk Singer,2013.0,Others,295036
+tt2545118,2013,Golden Space Needle Award,Best Documentary,False,False,Blackfish,nm1363250,Gabriela Cowperthwaite,Blackfish,2013.0,Others,4857275
+tt2897642,2013,Golden Space Needle Award,Best Documentary,False,False,Evergreen: The Road to Legalization,nm2051359,Riley Morton,Evergreen: The Road to Legalization,2014.0,Others,5073
+tt2215151,2013,Golden Space Needle Award,Best Documentary,False,False,Inequality for All,nm0466428,Jacob Kornbluth,Inequality for All,2013.0,Others,2675048
+tt2204371,2013,Golden Space Needle Award,Best Documentary,False,False,Somm,nm1852117,Jason Wise,Somm,2012.0,Others,386721
+tt2181941,2013,Golden Space Needle Award,Best Film,True,False,Fanie Fourie's Lobola,nm3067348,Henk Pretorius,Fanie Fourie's Lobola,2013.0,Comedy,434486
+tt2178256,2013,Golden Space Needle Award,Best Film,False,False,The Rocket,nm1203596,Kim Mordaunt,The Rocket,2013.0,Drama,555962
+tt1453405,2013,Golden Space Needle Award,Best Film,False,False,Monsters University,nm0768959,Dan Scanlon,Monsters University,2013.0,Others,1107595412
+tt1839522,2013,Golden Space Needle Award,Best Film,False,False,Circles,nm0326740,Srdan Golubovic,Circles,2013.0,Drama,79475
+tt1464191,2013,Golden Space Needle Award,Best Film,False,False,Decoding Annie Parker,nm0077149,Steven Bernstein,Decoding Annie Parker,2014.0,Drama,116482
+tt2369047,2013,Golden Space Needle Award,Best Film,False,False,Horses of God,nm0043953,Nabil Ayouch,Horses of God,2014.0,Drama,119335
+tt2070776,2013,Golden Space Needle Award,Best Film,False,False,Populaire,nm1672051,Régis Roinsard,Populaire,2013.0,Comedy,6192550
+tt2370248,2013,Golden Space Needle Award,Best Film,False,False,Short Term 12,nm2308774,Destin Daniel Cretton,Short Term 12,2013.0,Drama,2904578
+tt2073086,2013,Golden Space Needle Award,Best Film,False,False,Still Mine,nm1313340,Michael McGowan,Still Mine,2013.0,Drama,2980518
+tt1937504,2013,Golden Space Needle Award,Best Film,False,False,The Forgotten Kingdom,nm0610938,Andrew Mudge,The Forgotten Kingdom,2013.0,Drama,24389
+tt1047011,2013,Golden Space Needle Award,Best Film,False,False,Unfinished Song,nm1440314,Paul Andrew Williams,Unfinished Song,2013.0,Comedy,9609545
+tt1650393,2013,New American Cinema Award,,True,True,C.O.G.,nm1547859,Kyle Patrick Alvarez,C.O.G.,2013.0,Comedy,122738
+tt2407380,2013,New American Cinema Award,,False,False,Test,nm2525275,Chris Mason Johnson,Test,2013.0,Drama,41199
+tt2201063,2013,New Director's Showcase Award,,False,False,Fuck Up,nm2029171,Øystein Karlsen,Fuck Up,2012.0,Comedy,347004
+tt2298384,2013,New Director's Showcase Award,,False,False,Love Is in the Air,nm1415190,Alexandre Castagnetti,Love Is in the Air,2013.0,Comedy,3536450
+tt2192582,2013,New Director's Showcase Award,,False,False,Short Stories,nm2449509,Mikhail Segal,Short Stories,2012.0,Comedy,348064
+tt2387455,2013,New Director's Showcase Award,,False,False,The Cleaner,nm3929944,Adrián Saba,The Cleaner,2013.0,Drama,21783
+tt2645142,2013,New Director's Showcase Award,,False,False,The Plague,nm2843690,Neus Ballús,The Plague,2013.0,Drama,12379
+tt2282662,2013,Documentary Award,,True,True,Our Nixon,nm3704075,Penny Lane,Our Nixon,2013.0,Others,45195
+tt2489734,2013,Documentary Award,,False,False,The Trials of Muhammad Ali,nm0796903,Bill Siegel,The Trials of Muhammad Ali,2013.0,Others,129627
+tt1714206,2013,Futurewave Youth Jury Award,,True,True,The Spectacular Now,nm1242054,James Ponsoldt,The Spectacular Now,2013.0,Comedy,15031942
+tt2333598,2013,Futurewave Youth Jury Award,,False,False,7 Boxes,nm1515311,Juan Carlos Maneglia,7 Boxes,2014.0,Others,373461
+tt2133239,2013,Futurewave Youth Jury Award,,False,False,I Declare War,nm2285927,Jason Lapeyre,I Declare War,2012.0,Others,33160
+tt2262270,2013,Futurewave Youth Jury Award,,False,False,Spud 2: The Madness Continues,nm1804518,Donovan Marsh,Spud 2: The Madness Continues,2013.0,Comedy,756608
+tt1816518,2013,Films4Families Youth Jury Award,,True,True,Ernest & Celestine,nm2883649,Benjamin Renner,Ernest & Celestine,2014.0,Others,5809547
+tt2167715,2013,Audience Award,Best Film,False,False,It's All So Quiet,nm0007066,Nanouk Leopold,It's All So Quiet,2013.0,Drama,282945
+tt2674040,2014,Golden Space Needle Award,Best Documentary,True,False,Keep on Keepin' On,nm5502999,Alan Hicks,Keep on Keepin' On,2014.0,Others,353012
+tt2593392,2014,Golden Space Needle Award,Best Documentary,False,False,Alive Inside,nm3303929,Michael Rossato-Bennett,Alive Inside,2014.0,Others,560838
+tt2358456,2014,Golden Space Needle Award,Best Documentary,False,False,I Am Big Bird: The Caroll Spinney Story,nm2955744,Dave LaMattina,I Am Big Bird: The Caroll Spinney Story,2015.0,Others,145814
+tt1065073,2014,Golden Space Needle Award,Best Film,True,False,Boyhood,nm0000500,Richard Linklater,Boyhood,2014.0,Drama,75044165
+tt3092552,2014,Golden Space Needle Award,Best Film,False,False,Life Feels Good,nm1450964,Maciej Pieprzyca,Life Feels Good,2013.0,Drama,1574052
+tt1646971,2014,Golden Space Needle Award,Best Film,False,False,How to Train Your Dragon 2,nm0213450,Dean DeBlois,How to Train Your Dragon 2,2014.0,Others,856183790
+tt2582846,2014,Golden Space Needle Award,Best Film,False,False,The Fault in Our Stars,nm1837748,Josh Boone,The Fault in Our Stars,2014.0,Drama,463226314
+tt3139538,2014,New American Cinema Award,,False,False,Amira & Sam,nm2013693,Sean Mullin,Amira & Sam,2015.0,Comedy,69650
+tt3125220,2014,New American Cinema Award,,False,False,Little Accidents,nm2528690,Sara Colangelo,Little Accidents,2014.0,Drama,22004
+tt2390630,2014,New American Cinema Award,,False,False,Medeas,nm1761524,Andrea Pallaoro,Medeas,2014.0,Drama,12880
+tt2723576,2014,New American Cinema Award,,False,False,The Sleepwalker,nm2178754,Mona Fastvold,The Sleepwalker,2014.0,Drama,10847
+tt2669336,2014,New American Cinema Award,,False,False,Time Lapse,nm1783713,Bradley King,Time Lapse,2015.0,Others,21032
+tt3114132,2014,New Director's Showcase Award,,True,True,10.000 Km,nm3112190,Carlos Marques-Marcet,10.000 Km,2015.0,Comedy,251585
+tt2991092,2014,New Director's Showcase Award,,False,False,Eastern Boys,nm0133028,Robin Campillo,Eastern Boys,2014.0,Others,197870
+tt3469960,2014,New Director's Showcase Award,,False,False,Macondo,nm2670854,Sudabeh Mortezai,Macondo,2014.0,Drama,49642
+tt2315200,2014,New Director's Showcase Award,,False,False,"Me, Myself and Mum",nm0302916,Guillaume Gallienne,"Me, Myself and Mum",2014.0,Comedy,17450109
+tt2385195,2014,New Director's Showcase Award,,False,False,Rhymes for Young Ghouls,nm1842523,Jeff Barnaby,Rhymes for Young Ghouls,2014.0,Others,3284
+tt3400872,2014,New Director's Showcase Award,,False,False,Viktoria,nm0900035,Maya Vitkova,Viktoria,2014.0,Drama,24720
+tt3164198,2014,Documentary Award,,False,False,Ballet 422,nm1464511,Jody Lee Lipes,Ballet 422,2014.0,Others,719098
+tt3539664,2014,Documentary Award,,False,True,Dior and I,nm3088409,Frédéric Tcheng,Dior and I,2015.0,Others,3022937
+tt3105418,2014,Documentary Award,,False,True,Garden Lovers,nm0840443,Virpi Suutari,Garden Lovers,2014.0,Comedy,125561
+tt2235108,2014,Futurewave Youth Jury Award,,True,True,Dear White People,nm2282177,Justin Simien,Dear White People,2014.0,Comedy,9873938
+tt2141751,2014,Futurewave Youth Jury Award,,False,False,God Help the Girl,nm1060010,Stuart Murdoch,God Help the Girl,2014.0,Drama,564776
+tt2368920,2014,Futurewave Youth Jury Award,,False,False,Touch of the Light,nm2611855,Jung-chi Chang,Touch of the Light,2013.0,Drama,1562368
+tt2364975,2014,Futurewave Youth Jury Award,,False,False,We Are the Best!,nm0600546,Lukas Moodysson,We Are the Best!,2014.0,Drama,1913704
+tt1545295,2014,Alpha Cine Filmmaker Award,Best Film,False,False,3 Mile Limit,nm3670352,Craig Newland,3 Mile Limit,2014.0,Others,49455
+tt3183630,2014,Films4Families Youth Jury Award,,False,False,Boy and the World,nm0994245,Alê Abreu,Boy and the World,2014.0,Others,436787
+tt2705326,2014,Films4Families Youth Jury Award,,False,False,Land of the Bears,nm1852165,Guillaume Vincent,Land of the Bears,2014.0,Others,373291
+tt3148834,2014,Films4Families Youth Jury Award,,False,False,Thunder and the House of Magic,nm0823721,Ben Stassen,Thunder and the House of Magic,2014.0,Others,68963904
+tt2388821,2014,Films4Families Youth Jury Award,,False,True,Zip & Zap and the Marble Gang,nm1245735,Oskar Santos,Zip & Zap and the Marble Gang,2014.0,Others,7780118
+tt1954315,2014,Audience Award,Best Film,False,False,Borgman,nm0912334,Alex van Warmerdam,Borgman,2013.0,Drama,1164456
+tt2192016,2015,Golden Space Needle Award,Best Film,True,False,The Dark Horse,nm1094036,James Napier Robertson,The Dark Horse,2015.0,Others,2084190
+tt2096673,2015,Golden Space Needle Award,Best Film,False,False,Inside Out,nm0230032,Pete Docter,Inside Out,2015.0,Others,1300102655
+tt2582496,2015,Golden Space Needle Award,Best Film,False,False,Me and Earl and the Dying Girl,nm0004234,Alfonso Gomez-Rejon,Me and Earl and the Dying Girl,2015.0,Comedy,16953973
+tt1105355,2015,Golden Space Needle Award,Best Film,False,False,Growing Up Smith,nm1638157,Frank Lotito,Growing Up Smith,2017.0,Comedy,74087
+tt2872750,2015,Golden Space Needle Award,Best Film,False,False,Shaun the Sheep Movie,nm0123666,Mark Burton,Shaun the Sheep Movie,2015.0,Others,134666105
+tt3185602,2015,New American Cinema Award,,False,False,Front Cover,nm1794148,Ray Yeung,Front Cover,2016.0,Comedy,56041
+tt2210769,2015,New Director's Showcase Award,,True,True,Liza the Fox-Fairy,nm1902132,Károly Ujj Mészáros,Liza the Fox-Fairy,2015.0,Comedy,581287
+tt3813916,2015,New Director's Showcase Award,,False,False,A Blast,nm1253546,Syllas Tzoumerkas,A Blast,2015.0,Drama,289
+tt4166142,2015,New Director's Showcase Award,,False,False,Jeziorak,nm6884499,Michal Otlowski,Jeziorak,2015.0,Others,64777
+tt4093680,2015,New Director's Showcase Award,,False,False,My Skinny Sister,nm1615371,Sanna Lenken,My Skinny Sister,2015.0,Drama,380483
+tt3636528,2015,New Director's Showcase Award,,False,False,Vincent,nm1167415,Thomas Salvador,Vincent,2015.0,Comedy,3893
+tt4414694,2015,Documentary Award,,False,False,Dreams Rewired,nm0525740,Manu Luksch,Dreams Rewired,2015.0,Others,29518
+tt2566644,2015,Futurewave Youth Jury Award,Futurewave Youth Jury Award,True,True,Seoul Searching,nm0496863,Benson Lee,Seoul Searching,2017.0,Comedy,38673
+tt3149038,2015,Futurewave Youth Jury Award,,False,False,A Brilliant Young Mind,nm2051728,Morgan Matthews,A Brilliant Young Mind,2015.0,Drama,1305328
+tt3850214,2015,Futurewave Youth Jury Award,,False,False,Dope,nm0266622,Rick Famuyiwa,Dope,2015.0,Comedy,38008319
+tt3369248,2015,Futurewave Youth Jury Award,,False,False,Guidance,nm1319591,Pat Mills,Guidance,2015.0,Comedy,10508
+tt3078296,2015,Futurewave Youth Jury Award,,False,False,The Invisible Boy,nm0759368,Gabriele Salvatores,The Invisible Boy,2015.0,Others,5605283
+tt2415458,2015,Futurewave Youth Jury Award,,False,False,The Wolfpack,nm1145920,Crystal Moselle,The Wolfpack,2015.0,Others,2908086
+tt3398268,2015,Films4Families Youth Jury Award,,True,True,When Marnie Was There,nm0948488,Hiromasa Yonebayashi,When Marnie Was There,2015.0,Others,38661378
+tt4045488,2015,Films4Families Youth Jury Award,,False,False,Fiddlesticks,nm0375691,Veit Helmer,Fiddlesticks,2015.0,Others,251621
+tt3336368,2015,Films4Families Youth Jury Award,,False,False,Maya the Bee Movie,nm0821128,Alexs Stadermann,Maya the Bee Movie,2015.0,Others,16635007
+tt2445178,2015,Films4Families Youth Jury Award,,False,False,Molly Moon and the Incredible Book of Hypnotism,nm1067759,Christopher N. Rowley,Molly Moon and the Incredible Book of Hypnotism,2015.0,Others,45322
+tt3328716,2015,Films4Families Youth Jury Award,,False,False,Paper Planes,nm0175352,Robert Connolly,Paper Planes,2015.0,Drama,8259088
+tt2766268,2015,Films4Families Youth Jury Award,,False,False,The Games Maker,nm0123931,Juan Pablo Buscarini,The Games Maker,2015.0,Others,4852351
+tt4632316,2016,Golden Space Needle Award,Best Documentary,True,False,Gleason,nm1943168,Clay Tweel,Gleason,2016.0,Others,1239707
+tt3917210,2016,Golden Space Needle Award,Best Documentary,False,False,"Life, Animated",nm2141317,Roger Ross Williams,"Life, Animated",2016.0,Comedy,645085
+tt3553976,2016,Golden Space Needle Award,Best Film,True,False,Captain Fantastic,nm0743671,Matt Ross,Captain Fantastic,2016.0,Comedy,30444412
+tt4698684,2016,Golden Space Needle Award,Best Film,False,False,Hunt for the Wilderpeople,nm0169806,Taika Waititi,Hunt for the Wilderpeople,2016.0,Others,30281263
+tt4080728,2016,Golden Space Needle Award,Best Film,False,False,A Man Called Ove,nm0391502,Hannes Holm,A Man Called Ove,2016.0,Comedy,36169514
+tt4258698,2016,Golden Space Needle Award,Best Film,False,False,Southside with You,nm1973681,Richard Tanne,Southside with You,2016.0,Others,13598400
+tt3655972,2016,Golden Space Needle Award,Best Film,False,False,The Olive Tree,nm0093081,Icíar Bollaín,The Olive Tree,2016.0,Comedy,2245117
+tt3754940,2016,Golden Space Needle Award,Best Film,False,False,Truman,nm0310747,Cesc Gay,Truman,2017.0,Comedy,9654941
+tt3412684,2016,Documentary Award,,False,False,Mr. Gaga,nm1334259,Tomer Heymann,Mr. Gaga,2017.0,Others,880781
+tt3772612,2016,Documentary Award,,False,False,Tsukiji Wonderland,nm3892381,Naotarô Endô,Tsukiji Wonderland,2016.0,Others,33828
+tt3955894,2016,Futurewave Youth Jury Award,Best Feature Film,True,True,Girl Asleep,nm6702777,Rosemary Myers,Girl Asleep,2016.0,Comedy,132274
+tt4400174,2016,Futurewave Youth Jury Award,,False,False,As I Open My Eyes,nm3960987,Leyla Bouzid,As I Open My Eyes,2016.0,Drama,87272
+tt3882000,2016,Futurewave Youth Jury Award,,False,False,Microbe & Gasoline,nm0327273,Michel Gondry,Microbe & Gasoline,2015.0,Others,394960
+tt3652862,2016,Futurewave Youth Jury Award,,False,False,Morris from America,nm1029961,Chad Hartigan,Morris from America,2016.0,Comedy,193427
+tt3720382,2016,Futurewave Youth Jury Award,,False,False,Other Girls,nm0407789,Esa Illi,Other Girls,2016.0,Drama,10438
+tt4729990,2016,Futurewave Youth Jury Award,,False,False,Slash,nm0509828,Clay Liford,Slash,2016.0,Comedy,12494
+tt3401748,2016,Films4Families Youth Jury Award,,True,True,Oddball and the Penguins,nm0568018,Stuart McDonald,Oddball,2016.0,Others,10775791
+tt2262345,2016,Films4Families Youth Jury Award,,False,False,Long Way North,nm2916570,Rémi Chayé,Long Way North,2016.0,Others,63881
+tt1856057,2016,Films4Families Youth Jury Award,,False,False,Phantom Boy,nm0271246,Jean-Loup Felicioli,Phantom Boy,2016.0,Others,271212
+tt4283358,2016,Films4Families Youth Jury Award,,False,False,Seasons,nm0674742,Jacques Perrin,Seasons,2016.0,Others,12257857
+tt4246854,2016,New Directors Competition,,False,False,Coconut Hero,nm2137182,Florian Cossen,Coconut Hero,2016.0,Comedy,12784
+tt3828058,2016,New Directors Competition,,False,False,Family Film,nm2601092,Olmo Omerzu,Family Film,2016.0,Drama,120127
+tt5070130,2016,New Directors Competition,,False,False,Rara,nm1930893,Pepa San Martín,Rara,2016.0,Drama,83848
+tt3823018,2016,New Directors Competition,,False,False,Sparrows,nm1242172,Rúnar Rúnarsson,Sparrows,2015.0,Drama,135559
+tt5278832,2016,New Directors Competition,,False,False,The Lure,nm2835452,Agnieszka Smoczynska,The Lure,2016.0,Comedy,227057
+tt3876702,2016,New Directors Competition,,False,False,The Violators,nm6641253,Helen Walsh,The Violators,2016.0,Drama,1973
+tt5467140,2016,Ibero American Competition,,False,False,The Pretty Ones,nm5594052,Melisa Liebenthal,Las lindas,2016.0,Drama,496
+tt3990782,2016,Grand Jury Prize,Special Jury Mention,True,True,Radio Dreams,nm2171652,Babak Jalali,Radio Dreams,2017.0,Comedy,58132
+tt6013154,2017,Golden Space Needle Award,Best Documentary,True,False,Dolores,nm0105571,Peter Bratt,Dolores,2017.0,Others,1168742
+tt5758404,2017,Golden Space Needle Award,Best Documentary,False,True,Step,nm3094606,Amanda Lipitz,Step,2017.0,Others,2393046
+tt6333056,2017,Golden Space Needle Award,Best Documentary,False,False,City of Ghosts,nm1292648,Matthew Heineman,City of Ghosts,2017.0,Others,374883
+tt5133308,2017,Golden Space Needle Award,Best Film,True,False,At the End of the Tunnel,nm0334824,Rodrigo Grande,At the End of the Tunnel,2017.0,Others,3090516
+tt4353996,2017,Golden Space Needle Award,Best Film,False,False,The King's Choice,nm0691547,Erik Poppe,The King's Choice,2017.0,Others,10544361
+tt5168192,2017,Golden Space Needle Award,Best Film,False,False,"I, Daniel Blake",nm0516360,Ken Loach,"I, Daniel Blake",2017.0,Drama,16747629
+tt6288250,2017,Golden Space Needle Award,Best Film,False,True,Patti Cake$,nm8401482,Jeremy Gaspar,Patti Cake$,2017.0,Drama,2375740
+tt5689590,2017,Futurewave Youth Jury Award,Best Feature Film,False,False,Diamond Island,nm1976187,Davy Chou,Diamond Island,2017.0,Drama,85545
+tt5016946,2017,Futurewave Youth Jury Award,Best Feature Film,False,False,Handsome Devil,nm2899940,John Butler,Handsome Devil,2017.0,Comedy,134986
+tt3037164,2017,Futurewave Youth Jury Award,Best Feature Film,False,False,Kills on Wheels,nm2000966,Attila Till,Kills on Wheels,2016.0,Others,64757
+tt4637598,2017,Futurewave Youth Jury Award,Best Feature Film,False,False,Pyromaniac,nm0804408,Erik Skjoldbjærg,Pyromaniac,2017.0,Others,450848
+tt1227183,2017,Films4Families Youth Jury Award,Best Film,True,True,Swallows and Amazons,nm1339400,Philippa Lowthorpe,Swallows and Amazons,2017.0,Others,4069980
+tt5731132,2017,Films4Families Youth Jury Award,,False,False,Ancien and the Magic Tablet,nm0436784,Kenji Kamiyama,Ancien and the Magic Tablet,2017.0,Others,1263107
+tt4788934,2017,Films4Families Youth Jury Award,,False,False,The Guardian Brothers,nm7403142,Gary Wang,The Guardian Brothers,2017.0,Others,12428124
+tt4110400,2017,Films4Families Youth Jury Award,,False,False,Zip & Zap and the Captain's Island,nm1245735,Oskar Santos,Zip & Zap and the Captain's Island,2017.0,Others,2884401
+tt4943706,2017,New Directors Competition,,False,False,Paris Prestige,nm3703401,Hamé Bourokba,Paris Prestige,2017.0,Drama,97473
+tt5115004,2017,New Directors Competition,,False,False,Struggle for Life,nm1455506,Antonin Peretjatko,Struggle for Life,2017.0,Comedy,705481
+tt1740683,2017,New Directors Competition,,False,False,The Man,nm0797136,Charlotte Sieling,The Man,2017.0,Drama,8545
+tt3737944,2017,Ibero American Competition,,True,True,The Winter,nm0868623,Emiliano Torres,The Winter,2017.0,Drama,18796
+tt4944596,2017,Ibero American Competition,,False,False,May God Save Us,nm2507695,Rodrigo Sorogoyen,May God Save Us,2017.0,Others,3532371
+tt6368132,2017,Ibero American Competition,,False,False,Pendular,nm0613580,Júlia Murat,Pendular,2017.0,Drama,2625
+tt5287168,2017,Grand Jury Prize,Best Feature Film,True,True,Sami Blood,nm1840544,Amanda Kernell,Sami Blood,2017.0,Drama,461548
+tt6085482,2017,Grand Jury Prize,Best Feature Film,False,False,7 Minutes,nm0686375,Michele Placido,7 Minutes,2017.0,Drama,620213
+tt6303866,2017,Grand Jury Prize,Best Feature Film,False,False,Beach Rats,nm2151374,Eliza Hittman,Beach Rats,2017.0,Drama,1010656
+tt6451304,2017,Grand Jury Prize,Best Feature Film,False,False,Have a Nice Day,nm4143175,Jian Liu,Have a Nice Day,2017.0,Others,608624
+tt5011242,2017,Grand Jury Prize,Best Feature Film,False,False,Hedi,nm5411339,Mohamed Ben Attia,Hedi,2016.0,Drama,430224
+tt5791536,2017,Grand Jury Prize,Best Feature Film,False,True,My Happy Family,nm2206574,Nana Ekvtimishvili,My Happy Family,2017.0,Drama,444152
+tt5133392,2017,Grand Jury Prize,Best Feature Film,False,False,Zoology,nm6592335,Ivan I. Tverdovskiy,Zoology,2016.0,Comedy,20716
+tt5990474,2017,New American Cinema Competition,,False,False,Columbus,nm3226379,Kogonada,Columbus,2017.0,Drama,2196381
+tt6864496,2017,Documentary Competition Award,,True,True,Becoming Who I Was,nm8976735,Moon Chang-Yong,Becoming Who I Was,2017.0,Others,285340
+tt5784734,2017,Documentary Competition Award,,False,False,Close Relations,nm0543882,Vitaliy Manskiy,Close Relations,2017.0,Others,3438
+tt6223974,2017,Documentary Competition Award,,False,False,The Farthest,nm0721707,Emer Reynolds,The Farthest,2017.0,Others,62132
+tt6710658,2017,Documentary Competition Award,,False,False,The Reagan Show,nm2218225,Sierra Pettengill,The Reagan Show,2017.0,Others,13154
+tt7681902,2018,Golden Space Needle Award,Best Documentary,True,False,Won't You Be My Neighbor?,nm1365879,Morgan Neville,Won't You Be My Neighbor?,2018.0,Others,46323328
+tt5644050,2018,Golden Space Needle Award,Best Documentary,False,True,Pick of the Litter,nm2274615,Don Hardy,Pick of the Litter,2018.0,Others,1360516
+tt8006926,2018,Golden Space Needle Award,Best Documentary,False,False,The Russian Five,nm3276533,Joshua Riehl,The Russian Five,2018.0,Others,985051
+tt7014006,2018,Golden Space Needle Award,Best Film,True,False,Eighth Grade,nm3102998,Bo Burnham,Eighth Grade,2018.0,Comedy,28263400
+tt5991974,2018,Golden Space Needle Award,Best Film,False,False,The Last Suit,nm1258535,Pablo Solarz,The Last Suit,2018.0,Drama,690153
+tt6793580,2018,Golden Space Needle Award,Best Film,False,False,Champions,nm0275250,Javier Fesser,Champions,2018.0,Comedy,23018741
+tt5699154,2018,Golden Space Needle Award,Best Film,False,False,C'est la vie!,nm0619923,Olivier Nakache,C'est la vie!,2018.0,Comedy,33408279
+tt6270596,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,A Rough Draft,nm0596364,Sergey Mokritskiy,A Rough Draft,2018.0,Others,3456614
+tt1553659,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,Breath,nm0048932,Simon Baker,Breath,2017.0,Drama,3480517
+tt7690020,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,Fake Tattoos,nm4317824,Pascal Plante,Fake Tattoos,2018.0,Drama,15368
+tt6088456,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,Luna,nm3742144,Elsa Diringer,Luna,2018.0,Comedy,112340
+tt7545566,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,Skate Kitchen,nm1145920,Crystal Moselle,Skate Kitchen,2018.0,Drama,531177
+tt4912622,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,The Gold Seekers,nm1515311,Juan Carlos Maneglia,The Gold Seekers,2018.0,Others,647359
+tt6257174,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,The Miseducation of Cameron Post,nm3034178,Desiree Akhavan,The Miseducation of Cameron Post,2018.0,Drama,2429454
+tt7013830,2018,Futurewave Youth Jury Award,Best Feature Film,False,False,Virus Tropical,nm3234464,Santiago Caicedo,Virus Tropical,2017.0,Others,32220
+tt3688342,2018,Films4Families Youth Jury Award,Best Film,True,True,Zoo,nm0570865,Colin McIvor,Zoo,2018.0,Others,234991
+tt6449336,2018,Films4Families Youth Jury Award,Best Film,False,False,"Belle and Sebastian, Friends for Life",nm0180404,Clovis Cornillac,"Belle and Sebastian, Friends for Life",2018.0,Others,34896515
+tt7677228,2018,Films4Families Youth Jury Award,Best Film,False,False,Little Tito and the Aliens,nm2113581,Paola Randi,Little Tito and the Aliens,2018.0,Comedy,236220
+tt6315872,2018,Films4Families Youth Jury Award,Best Film,False,False,Moomins and the Winter Wonderland,nm6064135,Ira Carpelan,Moomins and the Winter Wonderland,2017.0,Others,884544
+tt5851904,2018,Films4Families Youth Jury Award,Best Film,False,False,The Big Bad Fox and Other Tales...,nm1348707,Patrick Imbert,The Big Bad Fox and Other Tales...,2017.0,Others,19753360
+tt5313906,2018,Films4Families Youth Jury Award,Best Film,False,False,Zombillénium,nm1438228,Arthur de Pins,Zombillénium,2017.0,Others,1725333
+tt7834694,2018,Audience Award,Best Film,False,False,On Borrowed Time,nm4535097,Yasir Al-Yasiri,On Borrowed Time,2018.0,Comedy,44913
+tt7476810,2018,New Directors Competition,,True,True,Dead Pigs,nm4014166,Cathy Yan,Dead Pigs,2018.0,Comedy,4545
+tt7893992,2018,New Directors Competition,,False,False,Amateurs,nm3307527,Gabriela Pichler,Amateurs,2018.0,Comedy,7707
+tt5668850,2018,New Directors Competition,,False,False,The Charmer,nm3613729,Milad Alami,The Charmer,2018.0,Drama,134822
+tt7272242,2018,Ibero American Competition,,False,False,Killing Jesus,nm2005384,Laura Mora Ortega,Killing Jesus,2017.0,Drama,100402
+tt7115920,2018,Ibero American Competition,,False,False,"Lots of Kids, a Monkey and a Castle",nm0758687,Gustavo Salmerón,"Lots of Kids, a Monkey and a Castle",2018.0,Others,509189
+tt7943248,2018,Ibero American Competition,,False,False,Marilyn,nm8094978,Martín Rodríguez Redondo,Marilyn,2018.0,Drama,3733
+tt5693136,2018,Ibero American Competition,,False,False,The Giant,nm1534594,Aitor Arregi,The Giant,2017.0,Drama,891754
+tt7875464,2018,Ibero American Competition,,False,True,The Heiresses,nm3308584,Marcelo Martinessi,The Heiresses,2019.0,Drama,889248
+tt7158582,2018,Grand Jury Prize,Best Feature Film,True,True,The Reports on Sarah and Saleem,nm3516131,Muayad Alayan,The Reports on Sarah and Saleem,2019.0,Others,684944
+tt6214084,2018,Grand Jury Prize,Best Feature Film,False,False,Ise yarar bir sey,nm1959064,Pelin Esmer,Ise yarar bir sey,2017.0,Drama,46935
+tt3892172,2018,Grand Jury Prize,Best Feature Film,False,False,Leave No Trace,nm0335138,Debra Granik,Leave No Trace,2018.0,Drama,14154472
+tt7429708,2018,Grand Jury Prize,Best Feature Film,False,False,Pig,nm2155679,Mani Haghighi,Pig,2019.0,Comedy,24666
+tt6793280,2018,Grand Jury Prize,Best Feature Film,False,False,The Devil's Doorway,nm5240404,Aislinn Clarke,The Devil's Doorway,2018.0,Others,524792
+tt7738450,2018,New American Cinema Competition,,True,True,Thunder Road,nm3526993,Jim Cummings,Thunder Road,2018.0,Comedy,461109
+tt7946422,2018,New American Cinema Competition,,False,False,Prospect,nm4938950,Christopher Caldwell,Prospect,2018.0,Drama,23094
+tt6729000,2018,New American Cinema Competition,,False,False,Tyrel,nm2928364,Sebastián Silva,Tyrel,2018.0,Comedy,43649
+tt5176580,2018,New American Cinema Competition,,False,False,Wild Nights with Emily,nm2112342,Madeleine Olnek,Wild Nights with Emily,2018.0,Comedy,1063928
+tt3041550,2018,Documentary Competition Award,,False,False,Matangi/Maya/M.I.A.,nm3010986,Steve Loveridge,Matangi/Maya/M.I.A.,2018.0,Others,708921
+tt7478112,2018,Documentary Competition Award,,False,False,People's Republic of Desire,nm2222612,Hao Wu,People's Republic of Desire,2018.0,Others,30906
+tt6980792,2018,Documentary Competition Award,,False,False,Queerama,nm1449212,Daisy Asquith,Queerama,2018.0,Others,2714
+tt7955712,2018,China Stars Best New Talent,China Stars Award,True,True,Girls Always Happy,nm7614958,Yang Mingming,Girls Always Happy,2018.0,Drama,20962
+tt8879946,2019,Golden Space Needle Award,Best Documentary,False,False,Maiden,nm0391739,Alex Holmes,Maiden,2019.0,Others,2713311
+tt5791098,2019,Golden Space Needle Award,Best Film,True,False,Tel Aviv on Fire,nm2108295,Sameh Zoabi,Tel Aviv on Fire,2019.0,Comedy,958257
+tt7476116,2019,Golden Space Needle Award,Best Film,False,False,Sink or Swim,nm0500976,Gilles Lellouche,Sink or Swim,2019.0,Comedy,38805116
+tt8647376,2019,Golden Space Needle Award,Best Film,False,False,Vai,nm8899761,Becs Arahanga,Vai,2019.0,Drama,88402
+tt7485508,2019,Futurewave Youth Jury Award,Best Feature Film,True,True,Carmen & Lola,nm0248401,Arantxa Echevarría,Carmen & Lola,2019.0,Drama,342699
+tt4389006,2019,Futurewave Youth Jury Award,Best Feature Film,False,False,Twin Flower,nm0524519,Laura Luchetti,Twin Flower,2019.0,Drama,13062
+tt7150512,2019,Films4Families Youth Jury Award,Best Film,False,False,2040,nm0303902,Damon Gameau,2040,2019.0,Others,751898
+tt7296782,2019,Films4Families Youth Jury Award,Best Film,False,False,A Minuscule Adventure,nm0320784,Hélène Giraud,Minuscule - Mandibles from Far Away,2019.0,Others,7539604
+tt5541002,2019,Films4Families Youth Jury Award,Best Film,False,False,Pachamama,nm1010601,Juan Antin,Pachamama,2018.0,Others,1885863
+tt6741368,2019,Films4Families Youth Jury Award,Best Film,False,False,"Remi, Nobody's Boy",nm2463233,Antoine Blossier,"Remi, Nobody's Boy",2019.0,Comedy,7263700
+tt7132578,2019,Films4Families Youth Jury Award,Best Film,False,False,The Footballest,nm1532195,Miguel Ángel Lamata,The Footballest,2019.0,Comedy,3934443
+tt8305116,2019,New Directors Competition,,False,False,Ayka,nm0245361,Sergei Dvortsevoy,Ayka,2019.0,Drama,43523
+tt6835498,2019,New Directors Competition,,False,False,Crystal Swan,nm2660273,Darya Zhuk,Crystal Swan,2019.0,Drama,63603
+tt9514970,2019,New Directors Competition,,False,False,Sons of Denmark,nm4657765,Ulaa Salim,Sons of Denmark,2019.0,Drama,2440
+tt6731592,2019,Ibero American Competition,,False,False,"Piazzolla, the Years of the Shark",nm0742534,Daniel Rosenfeld,"Piazzolla, the Years of the Shark",2019.0,Others,3751
+tt7482212,2019,Ibero American Competition,,False,True,The Good Girls,nm2004888,Alejandra Márquez Abella,The Good Girls,2018.0,Drama,741782
+tt9358136,2019,Ibero American Competition,,False,False,The Sharks,nm8738226,Lucía Garibaldi,The Sharks,2019.0,Drama,4108
+tt8751804,2019,Grand Jury Prize,Best Feature Film,False,False,The Announcement,nm3312722,Mahmut Fazil Coskun,The Announcement,2019.0,Comedy,22193
+tt7605702,2019,Grand Jury Prize,Best Feature Film,False,False,The Days to Come,nm3112190,Carlos Marques-Marcet,The Days to Come,2019.0,Drama,157438

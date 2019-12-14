@@ -1,0 +1,316 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0039155,1948,Crystal Globe,Best Film,False,False,Antoine and Antoinette,nm0065442,Jacques Becker,Antoine and Antoinette,1948.0,Comedy,208389
+tt0040481,1948,Crystal Globe,Best Film,False,False,It Always Rains on Sunday,nm0357607,Robert Hamer,It Always Rains on Sunday,1949.0,Others,564664
+tt0036868,1948,Crystal Globe,Best Film,False,True,The Best Years of Our Lives,nm0943758,William Wyler,The Best Years of Our Lives,1946.0,Drama,567563949
+tt0050454,1958,Crystal Globe,Best Film,False,False,La grande strada azzurra,nm0690597,Gillo Pontecorvo,La grande strada azzurra,2001.0,Drama,9677
+tt0055506,1962,Crystal Globe,Best Film,False,True,A Taste of Honey,nm0724798,Tony Richardson,A Taste of Honey,1962.0,Drama,38899
+tt0054599,1962,Crystal Globe,Best Film,False,True,Accattone,nm0001596,Pier Paolo Pasolini,Accattone,1968.0,Drama,16699
+tt0054803,1962,Crystal Globe,,True,False,Nine Days of One Year,nm0739677,Mikhail Romm,Nine Days of One Year,1964.0,Drama,5160
+tt0058249,1964,Crystal Globe,Best Film,False,True,Diary of a Chambermaid,nm0000320,Luis Buñuel,Diary of a Chambermaid,1965.0,Others,144952
+tt0058203,1964,Crystal Globe,Best Film,False,False,That Man from Rio,nm0003606,Philippe de Broca,That Man from Rio,1964.0,Others,579417
+tt0060722,1966,Crystal Globe,Best Film,False,True,Death of a Bureaucrat,nm0349425,Tomás Gutiérrez Alea,Death of a Bureaucrat,1979.0,Comedy,11876
+tt0061735,1968,Crystal Globe,Best Film,False,False,Guess Who's Coming to Dinner,nm0006452,Stanley Kramer,Guess Who's Coming to Dinner,1967.0,Comedy,854339434
+tt0063291,1968,Crystal Globe,Best Film,False,True,Memories of Underdevelopment,nm0349425,Tomás Gutiérrez Alea,Memories of Underdevelopment,1973.0,Drama,365276
+tt0062141,1968,Crystal Globe,Best Film,False,True,Poor Cow,nm0516360,Ken Loach,Poor Cow,1968.0,Drama,117724
+tt0064541,1970,Crystal Globe,,True,False,Kes,nm0516360,Ken Loach,Kes,1970.0,Drama,127232
+tt0078718,1980,Best Actor,,True,True,...and justice for all.,nm0000199,Al Pacino,...and justice for all.,1979.0,Others,226323095
+tt0082846,1982,Best Actor,,True,True,On Golden Pond,nm0000020,Henry Fonda,On Golden Pond,1982.0,Drama,644464134
+tt0105498,1992,Crystal Globe,,False,False,Between Heaven and Earth,nm0405578,Marion Hänsel,Between Heaven and Earth,1992.0,Drama,2915
+tt0107865,1992,Crystal Globe,,False,False,La postière,nm0137345,Gilles Carle,La postière,1992.0,Comedy,549565
+tt0102969,1992,Crystal Globe,,False,False,The Efficiency Expert,nm0423623,Mark Joffe,The Efficiency Expert,1992.0,Comedy,645956
+tt0109297,1994,Crystal Globe,,False,False,Blink,nm0000776,Michael Apted,Blink,1994.0,Others,58367788
+tt0109781,1994,Crystal Globe,,False,True,Lesson Faust,nm0840905,Jan Svankmajer,Lesson Faust,1995.0,Others,3563074
+tt0111712,1994,Crystal Globe,,False,True,Widows' Peak,nm0410139,John Irvin,Widows' Peak,1994.0,Comedy,21634856
+tt0112427,1995,Crystal Globe,,False,False,An Awfully Big Adventure,nm0001565,Mike Newell,An Awfully Big Adventure,1995.0,Comedy,870451
+tt0109529,1995,Crystal Globe,,False,False,Dance Me Outside,nm0567680,Bruce McDonald,Dance Me Outside,1995.0,Comedy,223575
+tt0109771,1995,Crystal Globe,,False,False,Farinelli,nm0179216,Gérard Corbiau,Farinelli,1995.0,Others,5356780
+tt0110581,1995,Crystal Globe,,False,False,Mouvements du désir,nm0690794,Léa Pool,Mouvements du désir,1997.0,Drama,166358
+tt0116754,1996,Crystal Globe,,True,True,Prisoner of the Mountains,nm0091076,Sergei Bodrov,Prisoner of the Mountains,1997.0,Drama,2749773
+tt0112819,1996,Crystal Globe,,False,False,Dead Presidents,nm0400441,Allen Hughes,Dead Presidents,1995.0,Others,80296204
+tt0116722,1996,Crystal Globe,,False,False,Jude,nm0935863,Michael Winterbottom,Jude,1996.0,Drama,1320984
+tt0113083,1996,Crystal Globe,,False,True,The Flower of My Secret,nm0000264,Pedro Almodóvar,The Flower of My Secret,1996.0,Drama,3625997
+tt0119590,1997,Crystal Globe,,True,False,Ma vie en rose,nm0075626,Alain Berliner,Ma Vie en Rose,1997.0,Drama,6850660
+tt0115886,1997,Crystal Globe,,False,False,Children of the Revolution,nm0242064,Peter Duncan,Children of the Revolution,1997.0,Comedy,2674697
+tt0116116,1997,Crystal Globe,,False,True,Devil's Island,nm0296144,Friðrik Þór Friðriksson,Devil's Island,1997.0,Comedy,18388
+tt0117365,1997,Crystal Globe,,False,True,Portraits chinois,nm0240987,Martine Dugowson,Portraits chinois,1999.0,Comedy,24851
+tt0119951,1997,Crystal Globe,,False,True,Private Parts,nm0858525,Betty Thomas,Private Parts,1997.0,Others,131705602
+tt0120687,1998,Crystal Globe,,False,True,The Governess,nm0325128,Sandra Goldbacher,The Governess,1998.0,Drama,11648444
+tt0128133,1998,Crystal Globe,,False,True,The Harmonists,nm0005917,Joseph Vilsmaier,The Harmonists,1999.0,Others,760774
+tt0162909,1999,Crystal Globe,,True,True,Yana's Friends,nm0438438,Arik Kaplun,Yana's Friends,1999.0,Comedy,95639
+tt0167331,1999,Crystal Globe,,False,True,Cosy Dens,nm0398575,Jan Hrebejk,Cosy Dens,1999.0,Comedy,3384952
+tt0157503,1999,Crystal Globe,,False,True,Drop Dead Gorgeous,nm0417794,Michael Patrick Jann,Drop Dead Gorgeous,1999.0,Comedy,32411543
+tt0192745,1999,Crystal Globe,,False,False,Life is to Whistle,nm0702148,Fernando Pérez,Life is to Whistle,1999.0,Drama,98881
+tt0150662,1999,Crystal Globe,,False,True,Show Me Love,nm0600546,Lukas Moodysson,Show Me Love,1999.0,Comedy,597604
+tt0144201,1999,Crystal Globe,,False,True,The Girl on the Bridge,nm0496312,Patrice Leconte,Girl on the Bridge,1999.0,Comedy,2600373
+tt0159272,1999,Award of Ecumenical Jury - Special Mention,,True,True,Beautiful People,nm0229026,Jasmin Dizdar,Beautiful People,2000.0,Comedy,795515
+tt0165901,1999,Philip Morris Award,,True,True,Okraina,nm0527494,Pyotr Lutsik,Okraina,1998.0,Drama,8716
+tt0244504,2000,Crystal Globe,,True,True,Me You Them,nm0905343,Andrucha Waddington,Me You Them,2001.0,Comedy,1283346
+tt0217119,2000,Crystal Globe,,False,True,A Matter of Taste,nm0710830,Bernard Rapp,A Matter of Taste,2001.0,Others,89071
+tt0168446,2000,Crystal Globe,,False,True,Aberdeen,nm0596407,Hans Petter Moland,Aberdeen,2001.0,Drama,187421
+tt0246593,2000,Crystal Globe,,False,True,Big Animal,nm0836136,Jerzy Stuhr,Big Animal,2000.0,Comedy,10965
+tt0235841,2000,Crystal Globe,,False,True,No Place to Go,nm0753912,Oskar Roehler,No Place to Go,2000.0,Drama,60918
+tt0158033,2000,Crystal Globe,,False,False,Nora,nm0614584,Pat Murphy,Nora,2001.0,Others,43487
+tt0247613,2000,Crystal Globe,,False,True,Peppermint Candy,nm0496969,Chang-dong Lee,Peppermint Candy,2000.0,Drama,130981
+tt0263338,2000,Best Documentary - Special Mention,,True,True,Fighter,nm0052737,Amir Bar-Lev,Fighter,2001.0,Others,287762
+tt0145653,2000,Audience Award,,True,True,Angela's Ashes,nm0000570,Alan Parker,Angela's Ashes,2000.0,Drama,39489166
+tt0236447,2000,Award of Ecumenical Jury - Special Mention,,True,True,Long Night's Journey Into Day,nm0717266,Frances Reid,Long Night's Journey Into Day,2000.0,Others,153555
+tt0244316,2000,Netpac Award,,True,True,Yi yi,nm0945981,Edward Yang,Yi Yi,2000.0,Drama,3426390
+tt0211915,2001,Crystal Globe,,True,False,Amélie,nm0000466,Jean-Pierre Jeunet,Amélie,2002.0,Comedy,297732450
+tt0257215,2001,Crystal Globe,,False,True,A Song for Martin,nm0000806,Bille August,A Song for Martin,2002.0,Drama,1319089
+tt0221027,2001,Crystal Globe,,False,False,Blow,nm0001130,Ted Demme,Blow,2001.0,Others,196858737
+tt0251636,2001,Crystal Globe,,False,True,Chico,nm0270851,Ibolya Fekete,Chico,2001.0,Drama,3588
+tt0162346,2001,Crystal Globe,,False,True,Ghost World,nm0959062,Terry Zwigoff,Ghost World,2001.0,Comedy,21472705
+tt0126029,2001,Audience Award,,True,True,Shrek,nm0011470,Andrew Adamson,Shrek,2001.0,Others,1081547918
+tt0250125,2001,Netpac Award,,True,True,Under the Skin of the City,nm0051999,Rakhshan Banietemad,Under the Skin of the City,2002.0,Drama,88499
+tt0282917,2002,Crystal Globe,,True,False,Year of the Devil,nm0954500,Petr Zelenka,Year of the Devil,2003.0,Comedy,756863
+tt0318380,2002,Crystal Globe,,False,True,Bedtime Fairy Tales for Crocodiles,nm0651148,Ignacio Ortiz,Bedtime Fairy Tales for Crocodiles,2003.0,Drama,27551
+tt0246628,2002,Crystal Globe,,False,True,Focus,nm0805595,Neal Slavin,Focus,2001.0,Drama,1856334
+tt0283900,2002,Crystal Globe,,False,True,L'auberge espagnole,nm0458251,Cédric Klapisch,L'auberge espagnole,2003.0,Comedy,51708661
+tt0325513,2002,Crystal Globe,,False,True,Let's Not Cry,nm0590846,Byung-hun Min,Let's Not Cry,2001.0,Drama,18035
+tt0161860,2002,Crystal Globe,,False,True,Nowhere in Africa,nm0512862,Caroline Link,Nowhere in Africa,2003.0,Others,42478595
+tt0326174,2002,Crystal Globe,,False,True,Smoking Room,nm1202806,Roger Gual,Smoking Room,2002.0,Drama,444318
+tt0314686,2002,Crystal Globe,,False,True,The Brats,nm0878702,Zdenek Tyc,Smradi,2003.0,Drama,128519
+tt0281176,2002,Crystal Globe,,False,True,The Seagull's Laughter,nm0350271,Ágúst Guðmundsson,The Seagull's Laughter,2004.0,Comedy,199077
+tt0352343,2003,Crystal Globe,,True,True,Facing Windows,nm0654858,Ferzan Ozpetek,Facing Windows,2004.0,Drama,21659836
+tt0371589,2003,Crystal Globe,,False,True,Buddy,nm0878763,Morten Tyldum,Buddy,2004.0,Comedy,3534103
+tt0314292,2003,Crystal Globe,,False,False,Cruel Joys,nm0638434,Juraj Nvota,Cruel Joys,2002.0,Comedy,34919
+tt0318725,2003,Crystal Globe,,False,True,Fear and Trembling,nm0006734,Alain Corneau,Fear and Trembling,2004.0,Comedy,3253750
+tt0338418,2003,Crystal Globe,,False,True,"Old, New, Borrowed and Blue",nm0037874,Natasha Arthy,"Old, New, Borrowed and Blue",2003.0,Comedy,148769
+tt0357058,2003,Crystal Globe,,False,False,Pupendo,nm0398575,Jan Hrebejk,Pupendo,2004.0,Comedy,4176682
+tt0339707,2003,Crystal Globe,,False,False,Song for a Raggy Boy,nm0909532,Aisling Walsh,Song for a Raggy Boy,2003.0,Drama,1101998
+tt0341384,2003,Crystal Globe,,False,True,The Coast Guard,nm1104118,Ki-duk Kim,The Coast Guard,2005.0,Others,3140184
+tt0318374,2003,Crystal Globe,,False,False,The Cooler,nm0469694,Wayne Kramer,The Cooler,2004.0,Drama,25880941
+tt0373941,2003,Best Documentary,More than 30 Minutes,True,True,"Jesus, You Know",nm0782430,Ulrich Seidl,"Jesus, You Know",2003.0,Others,1668
+tt0308224,2003,Best Documentary,Over 60 Minutes,False,False,Investigation Into the Invisible World,nm0746211,Jean-Michel Roux,Investigation Into the Invisible World,2002.0,Others,40509
+tt0338949,2003,Philip Morris Award,,True,True,Edi,nm0970382,Piotr Trzaskalski,Edi,2003.0,Drama,1843337
+tt0372366,2003,Philip Morris Award,,True,True,Roads to Koktebel,nm1403225,Aleksey Popogrebskiy,Roads to Koktebel,2003.0,Others,311351
+tt0414891,2004,Crystal Globe,,True,False,A Children's Story,nm0292654,Andrea Frazzi,A Children's Story,2005.0,Others,37209
+tt0384369,2004,Crystal Globe,,False,True,Before the Fall,nm0304541,Dennis Gansel,Before the Fall,2005.0,Drama,5167110
+tt0403310,2004,Crystal Globe,,False,False,Champions,nm0619851,Marek Najbrt,Champions,2005.0,Comedy,104486
+tt0371050,2004,Crystal Globe,,False,False,Out of This World,nm0757081,Junji Sakamoto,Out of This World,2004.0,Drama,26161
+tt0405266,2004,Crystal Globe,,False,False,Raincoat,nm0315916,Rituparno Ghosh,Raincoat,2004.0,Drama,152291
+tt0381637,2004,Crystal Globe,,False,False,Symmetry,nm1407454,Konrad Niewolski,Symmetry,2005.0,Drama,262926
+tt0372824,2004,Crystal Globe,,False,False,The Chorus,nm0056725,Christophe Barratier,The Chorus,2004.0,Drama,123183918
+tt0373861,2004,Audience Award,,True,True,The Story of the Weeping Camel,nm1389025,Byambasuren Davaa,The Story of the Weeping Camel,2004.0,Drama,14965484
+tt0338133,2004,Independent Camera,,True,True,Dandelion,nm1269479,Mark Milgard,Dandelion,2004.0,Drama,209398
+tt0425278,2005,Crystal Globe,,True,True,My Nikifor,nm0470377,Krzysztof Krauze,My Nikifor,2005.0,Others,273899
+tt0416292,2005,Crystal Globe,,False,False,A Driver for Vera,nm0161056,Pavel Chukhray,A Driver for Vera,2004.0,Drama,3587100
+tt0371307,2005,Crystal Globe,,False,False,A temetetlen halott,nm0617767,Márta Mészáros,A temetetlen halott,2004.0,Drama,125583
+tt0448197,2005,Crystal Globe,,False,True,Come Into the Light,nm0264967,Roberto Faenza,Come Into the Light,2005.0,Others,2156393
+tt0468820,2005,Crystal Globe,,False,True,Noriko's Dinner Table,nm0814469,Sion Sono,Noriko's Dinner Table,2006.0,Drama,9904
+tt0427873,2005,Crystal Globe,,False,False,The City of the Sun,nm0838499,Martin Sulík,The City of the Sun,2005.0,Comedy,126020
+tt0381524,2005,Crystal Globe,,False,False,The Queen of Sheba's Pearls,nm0638324,Colin Nutley,The Queen of Sheba's Pearls,2004.0,Drama,836274
+tt0428672,2005,Crystal Globe,,False,False,Unveiled,nm0531440,Angelina Maccarone,Unveiled,2005.0,Drama,7912
+tt0438205,2005,Best Documentary - Special Mention,,True,True,Mad Hot Ballroom,nm1802009,Marilyn Agrelo,Mad Hot Ballroom,2005.0,Others,22523650
+tt0420318,2005,East of West Award - Special Mention,,True,True,The Wedding,nm1500530,Wojciech Smarzowski,The Wedding,2004.0,Comedy,938332
+tt0407021,2005,Independent Camera,,True,True,Los muertos,nm1027762,Lisandro Alonso,Los Muertos,2007.0,Drama,42709
+tt0398237,2005,Forum of Independents,,False,False,The District,nm1556095,Áron Gauder,The District,2007.0,Others,243069
+tt0423169,2006,Crystal Globe,,True,True,Sherrybaby,nm0172877,Laurie Collyer,Sherrybaby,2006.0,Drama,1059283
+tt0449303,2006,Crystal Globe,,False,True,Beauty in Trouble,nm0398575,Jan Hrebejk,Beauty in Trouble,2008.0,Comedy,1764033
+tt0860474,2006,Crystal Globe,,False,True,Christmas Tree Upside Down,nm0874789,Ivan Tscherkelov,Christmas Tree Upside Down,2007.0,Drama,2390
+tt0419963,2006,Crystal Globe,,False,False,Mezcal,nm0651148,Ignacio Ortiz,Mezcal,2007.0,Drama,39523
+tt0435517,2006,Crystal Globe,,False,False,My Quick Way Out,nm0016234,Miguel Albaladejo,My Quick Way Out,2006.0,Drama,1572880
+tt0827517,2006,Crystal Globe,,False,True,Reprise,nm1258686,Joachim Trier,Reprise,2007.0,Drama,2338238
+tt0385757,2006,Crystal Globe,,False,True,The Man Who Came to a Village,nm0673180,Miguel Pereira,The Man Who Came to a Village,2007.0,Drama,5318
+tt0416111,2006,Crystal Globe,,False,False,Transit,nm0737400,Aleksandr Rogozhkin,Transit,2006.0,Comedy,306135
+tt0492464,2006,Best Documentary,Longer Than 30 Minutes,True,True,In the Pit,nm0750032,Juan Carlos Rulfo,In the Pit,2006.0,Others,261803
+tt0825671,2006,Best Documentary,Longer Than 30 Minutes,True,True,Life in Loops (A Megacities RMX),nm1119183,Timo Novotny,Life in Loops (A Megacities RMX),2006.0,Others,2349
+tt0880633,2006,East of West Award,,True,True,Monkeys in Winter,nm0027978,Milena Andonova,Monkeys in Winter,2006.0,Drama,10603
+tt0449642,2006,East of West Award,,False,False,Ryna,nm1552776,Ruxandra Zenide,Ryna,2006.0,Drama,6280
+tt0497273,2006,East of West Award,,False,True,Tomorrow Morning,nm0637176,Oleg Novkovic,Tomorrow Morning,2007.0,Drama,15474
+tt0464955,2006,East of West Award,,False,True,White Palms,nm0354451,Szabolcs Hajdu,White Palms,2007.0,Drama,66001
+tt0457436,2006,Independent Camera,,True,True,Play,nm1022157,Alicia Scherson,Play,2005.0,Drama,155122
+tt0805576,2007,Crystal Globe,Best Film,True,True,Jar City,nm0466349,Baltasar Kormákur,Jar City,2008.0,Others,906070
+tt0825244,2007,Crystal Globe,,False,False,Conversations with My Gardener,nm0065449,Jean Becker,Conversations with My Gardener,2007.0,Comedy,18665139
+tt0383064,2007,Crystal Globe,,False,False,Dolina,nm0436878,Zoltán Kamondi,Dolina,2007.0,Drama,1953
+tt0809951,2007,Crystal Globe,,False,True,Empties,nm0841232,Jan Sverák,Empties,2008.0,Comedy,1180
+tt0991160,2007,Crystal Globe,,False,False,Karger,nm1454639,Elke Hauck,Karger,2007.0,Others,10239
+tt0452644,2007,Crystal Globe,,False,True,Lucky Miles,nm0746730,Michael James Rowland,Lucky Miles,2007.0,Others,722359
+tt0994893,2007,Crystal Globe,,False,False,Podo-namulul be-a-ra,nm0590846,Byung-hun Min,Podo-namulul be-a-ra,2007.0,Drama,52592
+tt0812366,2007,Crystal Globe,,False,True,Pudor,nm0880554,Tristán Ulloa,Pudor,2007.0,Drama,427852
+tt0890885,2007,Crystal Globe,,False,False,Saturn in Opposition,nm0654858,Ferzan Ozpetek,Saturn in Opposition,2008.0,Drama,13084738
+tt0488027,2007,Crystal Globe,,False,False,Saviour Square,nm0470377,Krzysztof Krauze,Saviour Square,2007.0,Drama,778575
+tt0846069,2007,Crystal Globe,,False,True,Simple Things,nm1403225,Aleksey Popogrebskiy,Simple Things,2013.0,Comedy,87604
+tt0945356,2007,Crystal Globe,,False,True,The Art of Negative Thinking,nm1419617,Bård Breien,The Art of Negative Thinking,2007.0,Comedy,1004788
+tt0484111,2007,Crystal Globe,,False,False,The Good Night,nm0658823,Jake Paltrow,The Good Night,2007.0,Comedy,669782
+tt0318379,2007,Crystal Globe,,False,False,When She Jumped,nm1172044,Sabrina Farji,When She Jumped,2007.0,Drama,7953
+tt1043510,2007,Best Documentary - Special Mention,Over 30 Minutes,True,True,The Mosquito Problem and Other Stories,nm1269734,Andrey Paounov,The Mosquito Problem and Other Stories,2007.0,Others,3519
+tt0988108,2007,East of West Award - Special Mention,,True,True,The Class,nm0704664,Ilmar Raag,The Class,2008.0,Drama,8722
+tt1032856,2007,Netpac Award,,True,True,The Band's Visit,nm0464115,Eran Kolirin,The Band's Visit,2008.0,Comedy,21075865
+tt1087890,2008,Crystal Globe,,True,True,Terribly Happy,nm0313227,Henrik Ruben Genz,Terribly Happy,2008.0,Others,3539801
+tt1303215,2008,Crystal Globe,,False,True,Deti noci,nm0667912,Michaela Pavlátová,Deti noci,2008.0,Drama,411500
+tt1249429,2008,Crystal Globe,,False,False,Dr. Alemán,nm0775279,Tom Schreiber,Dr. Alemán,2009.0,Drama,504898
+tt1327769,2008,Crystal Globe,,False,False,Les tremblements lointains,nm0693892,Manuel Poutte,Les tremblements lointains,2008.0,Others,1200
+tt0922568,2008,Crystal Globe,,False,False,Pretextos,nm0613284,Silvia Munt,Pretextos,2008.0,Drama,382833
+tt1087864,2008,Crystal Globe,,False,False,The Early Bird Catches the Worm,nm1391054,Francesco Patierno,The Early Bird Catches the Worm,2008.0,Comedy,1872180
+tt1092021,2008,Crystal Globe,,False,True,The Investigator,nm1029564,Attila Gigor,The Investigator,2008.0,Comedy,104984
+tt1080716,2008,Crystal Globe,,False,True,The Karamazov Brothers,nm0954500,Petr Zelenka,The Karamazov Brothers,2009.0,Drama,358230
+tt0881343,2008,Crystal Globe,,False,False,True Enough,nm0439748,Sam Karmann,True Enough,2007.0,Comedy,2817437
+tt1155592,2008,Best Documentary,Over 30 Minutes,True,True,Man on Wire,nm1016428,James Marsh,Man on Wire,2008.0,Others,9588982
+tt1151309,2008,Best Documentary - Special Mention,Over 30 Minutes,True,True,Bigger Stronger Faster*,nm0068106,Chris Bell,Bigger Stronger Faster*,2008.0,Others,747164
+tt0436854,2008,East of West Award,,True,True,Tulpan,nm0245361,Sergei Dvortsevoy,Tulpan,2008.0,Comedy,1563550
+tt1205918,2008,East of West Award - Special Mention,,True,True,Seamstresses,nm0865378,Lyudmil Todorov,Seamstresses,2007.0,Drama,52048
+tt0488478,2008,Audience Award,,True,True,12,nm0586482,Nikita Mikhalkov,12,2009.0,Others,9205793
+tt2117953,2008,Netpac Award,,True,True,Written,nm4781635,Byung-woo Kim,Written,2008.0,Drama,1502
+tt0995747,2008,Independent Camera,,True,True,Mermaid,nm1346885,Anna Melikyan,Mermaid,2008.0,Comedy,1733657
+tt1356860,2009,Crystal Globe,,True,True,Angel at Sea,nm0241645,Frédéric Dumont,Angel at Sea,2010.0,Drama,31489
+tt1314269,2009,Crystal Globe,,False,True,Applause,nm1324710,Martin Zandvliet,Applause,2009.0,Drama,597709
+tt1318067,2009,Crystal Globe,,False,False,Black Sheep,nm3183685,Humberto Hinojosa Ozcariz,Black Sheep,2010.0,Others,132048
+tt1127877,2009,Crystal Globe,,False,True,Cold Souls,nm1754436,Sophie Barthes,Cold Souls,2009.0,Comedy,2467409
+tt1296337,2009,Crystal Globe,,False,False,"For a Moment, Freedom",,[],"For a Moment, Freedom",2010.0,Drama,329092
+tt1441344,2009,Crystal Globe,,False,True,Piggies,nm0322894,Robert Glinski,Piggies,2009.0,Drama,7791
+tt1369835,2009,Crystal Globe,,False,False,Soul at Peace,nm3308313,Vladimír Balko,Soul at Peace,2009.0,Drama,659791
+tt1379665,2009,Crystal Globe,,False,False,Tutta colpa di Giuda,nm0274143,Davide Ferrario,Tutta colpa di Giuda,2009.0,Comedy,423864
+tt1348327,2009,Crystal Globe,,False,False,Villa Amalia,nm0415245,Benoît Jacquot,Villa Amalia,2009.0,Drama,3605993
+tt1037227,2009,Crystal Globe,,False,True,Whisky mit Wodka,nm0237527,Andreas Dresen,Whisky mit Wodka,2009.0,Comedy,1807660
+tt1179079,2009,Crystal Globe,,False,False,With a Girl of Himalaya,nm0421817,Soo-il Jeon,With a Girl of Himalaya,2009.0,Drama,50069
+tt1446206,2009,Crystal Globe,,False,True,Wolfy,nm3384558,Vasiliy Sigarev,Wolfy,2009.0,Drama,67804
+tt0498329,2009,Best Documentary - Special Mention,Over 30 Minutes,True,True,We Live in Public,nm0863756,Ondi Timoner,We Live in Public,2009.0,Others,100966
+tt1395059,2009,East of West Award,,True,True,Room and a Half,nm1672007,Andrey Khrzhanovskiy,Room and a Half,2010.0,Others,104959
+tt1288639,2009,East of West Award,,False,False,Devil's Town,nm0664610,Vladimir Paskaljevic,Devil's Town,2010.0,Comedy,54151
+tt1258123,2009,Audience Award,,True,True,A Matter of Size,nm0846328,Erez Tadmor,A Matter of Size,2009.0,Comedy,25452
+tt1373120,2009,Netpac Award,,True,True,Breathless,nm3344655,Ik-joon Yang,Breathless,2009.0,Others,813589
+tt1403047,2010,Crystal Globe,Best Cinematography,True,True,Aurora,nm0785150,Viorel Sergovici,Aurora,2011.0,Drama,18625
+tt1274645,2010,Crystal Globe,,True,True,The Mosquito Net,nm0897295,Agustí Vila,The Mosquito Net,2010.0,Comedy,147996
+tt1305837,2010,Crystal Globe,,False,False,3 Seasons in Hell,nm0557975,Tomás Masín,3 Seasons in Hell,2009.0,Drama,593567
+tt1680075,2010,Crystal Globe,,False,True,Another Sky,nm3961186,Dmitry Mamuliya,Another Sky,2010.0,Drama,2242
+tt1576382,2010,Crystal Globe,,False,False,Brother and Sister,nm0122184,Daniel Burman,Brother and Sister,2011.0,Comedy,2693403
+tt1576443,2010,Crystal Globe,,False,True,Hitler in Hollywood,nm0812380,Frédéric Sojcher,Hitler in Hollywood,2011.0,Drama,5484
+tt1318029,2010,Crystal Globe,,False,True,Just Between Us,nm0342748,Rajko Grlic,Just Between Us,2010.0,Comedy,22619
+tt1630603,2010,Crystal Globe,,False,True,Kooky,nm0841232,Jan Sverák,Kooky,2010.0,Comedy,1925109
+tt1683046,2010,Crystal Globe,,False,True,Mother Teresa of Cats,nm1575453,Pawel Sala,Mother Teresa of Cats,2010.0,Drama,107132
+tt1220873,2010,Special Prize,,True,True,The Be All and End All,nm0916039,Bruce Webb,The Be All and End All,2009.0,Comedy,80027
+tt1247696,2010,East of West Award - Special Mention,,True,True,The Temptation of St. Tony,nm1803711,Veiko Õunpuu,The Temptation of St. Tony,2010.0,Drama,4630
+tt1415290,2010,Netpac Award,,True,True,Son of Babylon,nm1865534,Mohamed Al Daradji,Son of Babylon,2010.0,Drama,56587
+tt1341167,2010,Independent Camera,,True,True,Four Lions,nm0606439,Christopher Morris,Four Lions,2010.0,Comedy,5854080
+tt2117825,2011,Crystal Globe,,False,False,Beduin,nm1119972,Igor Voloshin,Beduin,2011.0,Others,24387
+tt1555058,2011,Crystal Globe,,False,True,Collaborator,nm0233027,Martin Donovan,Collaborator,2011.0,Comedy,4171
+tt1717152,2011,Crystal Globe,,False,True,Cracks in the Shell,nm2275000,Christian Schwochow,Cracks in the Shell,2012.0,Drama,108721
+tt1728174,2011,Crystal Globe,,False,False,Don't Be Afraid,nm0035404,Montxo Armendáriz,Don't Be Afraid,2011.0,Drama,919897
+tt1980935,2011,Crystal Globe,,False,True,Gypsy,nm0838499,Martin Sulík,Gypsy,2012.0,Drama,29528
+tt1754946,2011,Crystal Globe,,False,True,Holidays by the Sea,nm3258082,Pascal Rabaté,Holidays by the Sea,2011.0,Comedy,8117
+tt1817209,2011,Crystal Globe,,False,True,Lollipop Monster,nm0726261,Ziska Riemann,Lollipop Monster,2011.0,Drama,12492
+tt1582207,2011,Crystal Globe,,False,False,The Jewel,nm0596403,Andrea Molaioli,The Jewel,2013.0,Drama,1207470
+tt0459748,2011,East of West Award - Special Mention,,True,True,Generation P,nm0320192,Victor Ginzburg,Generation P,2012.0,Comedy,5164963
+tt1961438,2011,Audience Award,,True,True,Nicky's Family,nm0590882,Matej Minac,Nicky's Family,2011.0,Others,29978
+tt1827487,2011,Netpac Award,,True,True,Once Upon a Time in Anatolia,nm0149196,Nuri Bilge Ceylan,Once Upon a Time in Anatolia,2011.0,Others,1499125
+tt2195498,2012,Crystal Globe,,True,True,The Almost Man,nm1814880,Martin Lund,The Almost Man,2014.0,Comedy,123475
+tt2325625,2012,Crystal Globe,,False,False,Deine Schönheit ist nichts wert,nm2149099,Hüseyin Tabak,Deine Schönheit ist nichts wert,2013.0,Drama,74594
+tt2402705,2012,Crystal Globe,,False,False,El efecto K. El montador de Stalin,nm2164028,Valentí Figueres,El efecto K. El montador de Stalin,2013.0,Others,372
+tt1987599,2012,Crystal Globe,,False,False,La lapidation de Saint Étienne,nm1984645,Pere Vilà i Barceló,La lapidation de Saint Étienne,2013.0,Drama,1840
+tt1565068,2012,Crystal Globe,,False,True,Piazza Fontana: The Italian Conspiracy,nm0320285,Marco Tullio Giordana,Piazza Fontana: The Italian Conspiracy,2013.0,Others,2488193
+tt2197242,2012,Crystal Globe,,False,True,Polski film,nm0619851,Marek Najbrt,Polski film,2012.0,Comedy,12885
+tt2099698,2012,Best Documentary - Special Mention,,True,True,Private Universe,nm0872281,Helena Trestíková,Private Universe,2012.0,Others,17858
+tt2208216,2012,East of West Award - Special Mention,,True,True,Vanishing Waves,nm3043504,Kristina Buozyte,Vanishing Waves,2013.0,Others,99
+tt1753887,2012,Audience Award,,True,True,Come as You Are,nm0258172,Geoffrey Enthoven,Come as You Are,2012.0,Comedy,2969633
+tt2106671,2012,Netpac Award,,True,True,Tepenin Ardi,nm1625220,Emin Alper,Tepenin Ardi,2012.0,Drama,134291
+tt2113768,2012,Independent Camera,,True,True,Death of a Man in the Balkans,nm1474292,Miroslav Momcilovic,Death of a Man in the Balkans,2013.0,Comedy,175850
+tt1741246,2012,FEDEORA Award,,True,True,Flower Buds,nm0423177,Zdenek Jiráský,Flower Buds,2011.0,Drama,52574
+tt2324384,2013,Crystal Globe,,True,True,The Notebook,nm0844444,János Szász,The Notebook,2013.0,Drama,4317762
+tt2655788,2013,Crystal Globe,,False,False,11.6,nm0323886,Philippe Godeau,11.6,2013.0,Others,2889087
+tt2375574,2013,Crystal Globe,,False,True,A Field in England,nm1296554,Ben Wheatley,A Field in England,2013.0,Drama,141925
+tt2718538,2013,Crystal Globe,,False,True,Honeymoon,nm0398575,Jan Hrebejk,Honeymoon,2013.0,Drama,506672
+tt2523600,2013,Crystal Globe,,False,False,Long Live Freedom,nm0027948,Roberto Andò,Long Live Freedom,2013.0,Comedy,4177149
+tt2719094,2013,Crystal Globe,,False,True,Papusza,nm1732806,Joanna Kos-Krauze,Papusza,2013.0,Others,620996
+tt2112136,2013,Crystal Globe,,False,False,Sources of Life,nm0753912,Oskar Roehler,Sources of Life,2013.0,Comedy,903988
+tt2395421,2013,Crystal Globe,,False,False,The Priest's Children,nm0107655,Vinko Bresan,The Priest's Children,2013.0,Comedy,1550989
+tt2359473,2013,Crystal Globe,,False,True,XL,nm1200194,Marteinn Thorsson,XL,2013.0,Drama,29111
+tt2776106,2013,East of West Award,,True,True,Floating Skyscrapers,nm3814074,Tomasz Wasilewski,Floating Skyscrapers,2013.0,Drama,151475
+tt2934404,2013,East of West Award,,False,False,Intimate Parts,nm5237286,Natasha Merkulova,Intimate Parts,2013.0,Comedy,491347
+tt2403880,2013,East of West Award,,False,False,The Girl from the Wardrobe,nm2317803,Bodo Kox,The Girl from the Wardrobe,2014.0,Drama,466359
+tt2300488,2013,East of West Award,,False,False,Withering,nm2709569,Milos Pusic,Withering,2013.0,Drama,28147
+tt3010656,2013,Audience Award,,True,True,Revival,nm0625080,Alice Nellis,Revival,2014.0,Comedy,1697772
+tt2167715,2013,Audience Award,,False,False,It's All So Quiet,nm0007066,Nanouk Leopold,It's All So Quiet,2013.0,Drama,282945
+tt2024519,2013,Audience Award,,False,False,The Broken Circle Breakdown,nm0886976,Felix van Groeningen,The Broken Circle Breakdown,2013.0,Drama,6209390
+tt2323264,2013,Audience Award,,False,False,The Deflowering of Eva van End,nm2146887,Michiel ten Horn,The Deflowering of Eva van End,2013.0,Drama,7947
+tt1863192,2014,Crystal Globe,,True,True,Corn Island,nm0653768,George Ovashvili,Corn Island,2014.0,Drama,40301
+tt3790610,2014,Crystal Globe,,False,True,All Yours,nm3460363,David Lambert,All Yours,2014.0,Comedy,12389
+tt2199448,2014,Crystal Globe,,False,False,Fair Play,nm0781365,Andrea Sedlácková,Fair Play,2014.0,Drama,345954
+tt1864405,2014,Crystal Globe,,False,True,Low Down,nm0695857,Jeff Preiss,Low Down,2015.0,Others,118204
+tt2950242,2014,Crystal Globe,,False,False,Nowhere in Moravia,nm1716909,Miroslav Krobot,Nowhere in Moravia,2015.0,Comedy,880438
+tt3267784,2014,Crystal Globe,,False,False,Paris of the North,nm2619779,Hafsteinn Gunnar Sigurðsson,Paris of the North,2014.0,Comedy,138536
+tt3164166,2014,Crystal Globe,,False,False,Patchwork Family,nm3258082,Pascal Rabaté,Patchwork Family,2015.0,Comedy,205962
+tt2961890,2014,Crystal Globe,,False,True,Rocks in My Pockets,nm0062189,Signe Baumane,Rocks in My Pockets,2014.0,Others,73510
+tt3614824,2014,Best Documentary,Over 30 Minutes,False,True,Steadiness,nm2892922,Lisa Weber,Steadiness,2014.0,Comedy,7334
+tt3496334,2014,East of West Award,,False,False,For Some Inexplicable Reason,nm2520391,Gábor Reisz,For Some Inexplicable Reason,2014.0,Comedy,197586
+tt1597725,2014,East of West Award,,False,False,Monument to Michael Jackson,nm1224330,Darko Lungulov,Monument to Michael Jackson,2015.0,Comedy,36080
+tt3809222,2014,Audience Award,,True,True,Magický hlas rebelky,nm0814046,Olga Sommerová,Magický hlas rebelky,2015.0,Others,31141
+tt3125220,2014,Independent Camera,,False,False,Little Accidents,nm2528690,Sara Colangelo,Little Accidents,2014.0,Drama,22004
+tt3092606,2014,Independent Camera,,False,False,Memphis,nm4991744,Tim Sutton,Memphis,2014.0,Drama,46508
+tt3510112,2015,Crystal Globe,,False,True,Box,nm2758521,Florin Serban,Box,2015.0,Drama,4108
+tt4038670,2015,Crystal Globe,,False,False,Gold Coast,nm0218934,Daniel Dencik,Gold Coast,2016.0,Drama,153073
+tt4711952,2015,Crystal Globe,,False,False,Heil,nm0117698,Dietrich Brüggemann,Heil,2015.0,Comedy,185939
+tt4026642,2015,Crystal Globe,,False,True,Home Care,nm0394513,Slávek Horák,Home Care,2015.0,Comedy,429559
+tt4688658,2015,Crystal Globe,,False,True,The Magic Mountain,nm0198746,Anca Damian,The Magic Mountain,2015.0,Others,1277
+tt4817256,2015,Crystal Globe,,False,False,The Red Spider,nm1411830,Marcin Koszalka,The Red Spider,2015.0,Others,247277
+tt3650290,2015,Crystal Globe,,False,True,The Snake Brothers,nm1979282,Jan Prusinovský,The Snake Brothers,2015.0,Comedy,415667
+tt3847390,2015,Best Documentary,Over 60 Minutes,False,False,I Am Belfast,nm0184108,Mark Cousins,I Am Belfast,2016.0,Others,42646
+tt3669520,2015,Best Documentary,Over 60 Minutes,False,False,Palio,nm1785694,Cosima Spender,Palio,2015.0,Others,97380
+tt4088848,2015,East of West Award,,False,False,Chemo,nm0698616,Bartosz Prokopowicz,Chemo,2016.0,Comedy,1585400
+tt3894478,2015,East of West Award,,False,True,Heavenly Nomadic,nm0008333,Mirlan Abdykalykov,Heavenly Nomadic,2016.0,Drama,1324
+tt4309356,2015,East of West Award,,False,False,Ivy,nm3796645,Tolga Karaçelik,Ivy,2015.0,Drama,86232
+tt4112020,2015,East of West Award,,False,False,Miedzy nami dobrze jest,nm6836302,Grzegorz Jarzyna,Miedzy nami dobrze jest,2015.0,Comedy,5468
+tt4707756,2015,East of West Award,,False,True,The World Is Mine,nm2183781,Nicolae Constantin Tanase,The World Is Mine,2015.0,Drama,79954
+tt3737988,2015,East of West Award,,False,False,Wednesday 04:45,nm1397189,Alexis Alexiou,Wednesday 04:45,2015.0,Others,40791
+tt3312830,2015,Audience Award,,True,True,Youth,nm0815204,Paolo Sorrentino,Youth,2015.0,Comedy,28266838
+tt3824458,2015,Independent Camera,,True,True,Tangerine,nm0048918,Sean Baker,Tangerine,2015.0,Comedy,1639621
+tt3876702,2015,Independent Camera,,False,False,The Violators,nm6641253,Helen Walsh,The Violators,2016.0,Drama,1973
+tt4543804,2015,Independent Camera,,False,False,Viaje,nm2869400,Paz Fábrega,Viaje,2015.0,Others,769
+tt5537614,2016,Crystal Globe,Best Film,True,True,It's Not the Time of My Life,nm0354451,Szabolcs Hajdu,It's Not the Time of My Life,2017.0,Drama,144206
+tt4936300,2016,Crystal Globe,Best Film,False,True,By the Rails,nm0594198,Cãtãlin Mitulescu,By the Rails,2016.0,Drama,9233
+tt5830248,2016,Crystal Globe,Best Film,False,False,My Father's Wings,nm8237691,Kivanç Sezer,Babamin Kanatlari,2016.0,Drama,52294
+tt5769238,2016,Crystal Globe,Best Film,False,True,Nightlife,nm0468995,Damjan Kozole,Nightlife,2017.0,Others,8843
+tt5903210,2016,Crystal Globe,Best Film,False,False,Original Bliss,nm0846281,Sven Taddicken,Original Bliss,2016.0,Drama,35218
+tt4647784,2016,Crystal Globe,Best Film,False,True,The Confessions,nm0027948,Roberto Andò,The Confessions,2016.0,Drama,1965912
+tt4034208,2016,Crystal Globe,Best Film,False,False,The Next Skin,nm3040373,Isa Campo,The Next Skin,2017.0,Drama,166189
+tt5061162,2016,Crystal Globe,Best Film,False,True,The Teacher,nm0398575,Jan Hrebejk,The Teacher,2016.0,Comedy,1495746
+tt5133392,2016,Crystal Globe,Best Film,False,True,Zoology,nm6592335,Ivan I. Tverdovskiy,Zoology,2016.0,Comedy,20716
+tt2638900,2016,Best Documentary,Over 60 Minutes,True,True,LoveTrue,nm2776774,Alma Har'el,LoveTrue,2016.0,Others,9942
+tt5146068,2016,Best Documentary,Over 60 Minutes,False,False,All These Sleepless Nights,nm2777808,Michal Marczak,All These Sleepless Nights,2017.0,Others,43396
+tt4142090,2016,Best Documentary,Over 60 Minutes,False,True,Ama-San,nm2209415,Cláudia Varejão,Ama-San,2017.0,Others,8363
+tt5784734,2016,Best Documentary,Over 60 Minutes,False,False,Close Relations,nm0543882,Vitaliy Manskiy,Close Relations,2017.0,Others,3438
+tt5642320,2016,Best Documentary,Over 60 Minutes,False,False,Solar,nm3378941,Manuel Abramovich,Solar,2017.0,Others,982
+tt5116410,2016,Best Documentary,Over 60 Minutes,False,False,Tower,nm1436428,Keith Maitland,Tower,2016.0,Others,218891
+tt5031998,2016,East of West Award,,False,False,Collector,nm5114739,Aleksey Krasovskiy,Collector,2016.0,Drama,768310
+tt4950158,2016,East of West Award,,False,False,Double,nm7526847,Catrinel Danaiata,Double,2016.0,Drama,2351
+tt5518022,2016,East of West Award,,False,False,"Houston, We Have a Problem!",nm4069208,Ziga Virc,"Houston, We Have a Problem!",2017.0,Others,99675
+tt5729608,2016,East of West Award,,False,False,Kamper,nm8150307,Lukasz Grzegorzek,Kamper,2016.0,Comedy,73602
+tt3037164,2016,East of West Award,,False,False,Kills on Wheels,nm2000966,Attila Till,Kills on Wheels,2016.0,Others,64757
+tt5604510,2016,East of West Award,,False,False,The Days That Confused,nm3743255,Triin Ruumet,The Days That Confused,2016.0,Comedy,257028
+tt4917700,2016,East of West Award,,False,False,The Noonday Witch,nm4735488,Jiri Sádek,The Noonday Witch,2016.0,Drama,366156
+tt4835698,2016,East of West Award,,False,False,Together For Ever,nm5379662,Lina Luzyte,Together For Ever,2016.0,Drama,28800
+tt5769054,2016,East of West Award,,False,False,Verge,nm0757556,Ayhan Salar,Verge,2016.0,Drama,250
+tt3553976,2016,Audience Award,,True,True,Captain Fantastic,nm0743671,Matt Ross,Captain Fantastic,2016.0,Comedy,30444412
+tt3474438,2017,Crystal Globe,Best Film,True,False,Little Crusader,nm1450247,Václav Kadrnka,Little Crusader,2017.0,Drama,7523
+tt6952604,2017,Crystal Globe,Best Film,False,True,Arrhythmia,nm1402557,Boris Khlebnikov,Arrhythmia,2017.0,Drama,1484996
+tt7106928,2017,Crystal Globe,Best Film,False,True,Birds Are Singing in Kigali,nm1732806,Joanna Kos-Krauze,Birds Are Singing in Kigali,2017.0,Drama,64927
+tt6957004,2017,Crystal Globe,Best Film,False,True,Breaking News,nm2394747,Iulia Rugina,Breaking News,2017.0,Drama,17072
+tt5460548,2017,Crystal Globe,Best Film,False,False,Corporate,nm2216739,Nicolas Silhol,Corporate,2017.0,Drama,2110300
+tt4967220,2017,Crystal Globe,Best Film,False,True,Keep the Change,nm2275745,Rachel Israel,Keep the Change,2018.0,Comedy,415317
+tt5239558,2017,Crystal Globe,Best Film,False,True,Men Don't Cry,nm2283926,Alen Drljevic,Men Don't Cry,2017.0,Drama,11162
+tt5927420,2017,Crystal Globe,Best Film,False,True,More,nm2380484,Onur Saylak,More,2018.0,Others,133701
+tt4830786,2017,Crystal Globe,Best Film,False,True,The Cakemaker,nm3409787,Ofir Raul Graizer,The Cakemaker,2017.0,Drama,2241243
+tt6134000,2017,Crystal Globe,Best Film,False,True,The Line,nm1298152,Peter Bebjak,The Line,2017.0,Others,2219231
+tt7115920,2017,Best Documentary,Over 60 Minutes,True,True,"Lots of Kids, a Monkey and a Castle",nm0758687,Gustavo Salmerón,"Lots of Kids, a Monkey and a Castle",2018.0,Others,509189
+tt5345032,2017,Best Documentary,Over 60 Minutes,False,False,Another News Story,nm3093113,Orban Wallace,Another News Story,2018.0,Others,4411
+tt7028250,2017,Best Documentary,Over 60 Minutes,False,False,Before Summer Ends,nm2295945,Maryam Goormaghtigh,Before Summer Ends,2017.0,Comedy,62208
+tt6448498,2017,Best Documentary,Over 60 Minutes,False,False,Richard Müller: Nespoznany,nm3655623,Miro Remo,Richard Müller: Nespoznany,2016.0,Others,23417
+tt7109902,2017,Best Documentary,Over 60 Minutes,False,False,Tarzan's Testicles,nm0813285,Alexandru Solomon,Tarzan's Testicles,2017.0,Others,5233
+tt7086512,2017,Best Documentary,Over 60 Minutes,False,False,The White World According to Daliborek,nm1109731,Vít Klusák,The White World According to Daliborek,2017.0,Others,27686
+tt5837242,2017,East of West Award,,True,True,How Viktor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,nm8244607,Aleksandr Khant,How Viktor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,2018.0,Others,128027
+tt7089738,2017,East of West Award,,False,True,Marita,nm4420624,Cristi Iftime,Marita,2017.0,Drama,9839
+tt6067428,2017,East of West Award,,False,False,Nina,nm2996966,Juraj Lehotsky,Nina,2017.0,Drama,24337
+tt5362988,2017,Audience Award,,True,True,Wind River,nm0792263,Taylor Sheridan,Wind River,2017.0,Others,80958918
+tt8506840,2018,Crystal Globe,Best Film,True,True,I Do Not Care If We Go Down in History as Barbarians,nm1257492,Radu Jude,I Do Not Care If We Go Down in History as Barbarians,2019.0,Comedy,38829
+tt8655740,2018,Crystal Globe,Best Film,False,False,Brothers,,[],Brothers,2019.0,Drama,1701
+tt8473642,2018,Crystal Globe,Best Film,False,False,Domestique,nm8578900,Adam Sedlák,Domestique,2018.0,Drama,5943
+tt8462858,2018,Crystal Globe,Best Film,False,True,Jumpman,nm6592335,Ivan I. Tverdovskiy,Jumpman,2018.0,Others,18931
+tt6147260,2018,Crystal Globe,Best Film,False,False,Panic Attack,nm4377587,Pawel Maslona,Panic Attack,2018.0,Comedy,448285
+tt8449092,2018,Crystal Globe,Best Film,False,False,The Fireflies Are Gone,nm3614028,Sébastien Pilote,The Fireflies Are Gone,2018.0,Drama,495172
+tt8523292,2018,Crystal Globe,Best Film,False,True,Winter Flies,nm2601092,Olmo Omerzu,Winter Flies,2019.0,Comedy,7500
+tt8647924,2018,Best Documentary,Over 60 Minutes,True,True,Putin's Witnesses,nm0543882,Vitaliy Manskiy,Putin's Witnesses,2018.0,Others,2183
+tt8400850,2018,East of West Award,,False,False,Breaking Into Marbles,nm2062513,Giedre Beinoriute,Breaking Into Marbles,2018.0,Drama,8302
+tt8512322,2018,East of West Award,,False,False,Chata na prodej,nm4855542,Tomás Pavlícek,Chata na prodej,2018.0,Comedy,550749
+tt6835498,2018,East of West Award,,False,False,Crystal Swan,nm2660273,Darya Zhuk,Crystal Swan,2019.0,Drama,63603
+tt8655618,2018,East of West Award,,False,False,Deep Rivers,nm9949704,Vladimir Bitokov,Deep Rivers,2018.0,Drama,31724
+tt7186036,2018,East of West Award,,False,False,Volcano,nm4473366,Roman Bondarchuk,Volcano,2018.0,Comedy,14071

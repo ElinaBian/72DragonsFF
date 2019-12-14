@@ -1,0 +1,249 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0111048,1994,Best Film,,False,False,S.F.W.,nm0506461,Jefery Levy,S.F.W.,1995.0,Others,215976
+tt0114550,1995,Audience Award,,True,True,Stonewall,nm0277439,Nigel Finch,Stonewall,1996.0,Others,2242603
+tt0116631,1996,Audience Award,,True,True,Alive and Kicking,nm0575361,Nancy Meckler,Alive and Kicking,1997.0,Others,321890
+tt0116844,1997,Satyajit Ray Award,,True,True,Lea,nm0299697,Ivan Fíla,Lea,1997.0,Drama,49594
+tt0126810,1998,Audience Award,,True,True,Bedrooms and Hallways,nm0873266,Rose Troche,Bedrooms and Hallways,1999.0,Others,418376
+tt0120321,1998,Satyajit Ray Award,,True,True,Smoke Signals,nm0264220,Chris Eyre,Smoke Signals,1998.0,Others,21333710
+tt0171804,1999,Satyajit Ray Award,,True,True,Boys Don't Cry,nm0005303,Kimberly Peirce,Boys Don't Cry,2000.0,Others,34453026
+tt0258761,2000,FIPRESCI Prize - Special Mention,,True,True,Last Resort,nm0667734,Pawel Pawlikowski,Last Resort,2001.0,Drama,169378
+tt0247425,2001,Satyajit Ray Award,,True,True,In the Bedroom,nm0276062,Todd Field,In the Bedroom,2002.0,Others,115979389
+tt0301050,2001,FIPRESCI Prize,,True,True,Bolivia,nm0128382,Israel Adrián Caetano,Bolivia,2003.0,Drama,105441
+tt0290823,2001,FIPRESCI Prize - Special Mention,,True,True,Secret Ballot,nm0668165,Babak Payami,Secret Ballot,2002.0,Others,337772
+tt0318011,2002,Satyajit Ray Award,,True,True,Rachida,nm0159364,Yamina Bachir,Rachida,2003.0,Drama,121907
+tt0317476,2002,FIPRESCI Prize,,True,True,Angel on the Right,nm0882403,Jamshed Usmonov,Angel on the Right,2004.0,Others,115572
+tt0338453,2003,Satyajit Ray Award,,True,True,Someone Like Hodder,nm0313227,Henrik Ruben Genz,Someone Like Hodder,2003.0,Others,176833
+tt0361127,2004,Satyajit Ray Award,,True,True,The Woodsman,nm0975026,Nicole Kassell,The Woodsman,2004.0,Drama,8630452
+tt0405629,2004,FIPRESCI Prize,,True,True,Aaltra,nm0218022,Benoît Delépine,Aaltra,2004.0,Others,8185
+tt0478331,2005,Grierson Award,,True,True,Workingman's Death,nm0322198,Michael Glawogger,Workingman's Death,2006.0,Documentary,5694
+tt0464105,2005,FIPRESCI Prize,,True,True,Man Push Cart,nm1023919,Ramin Bahrani,Man Push Cart,2006.0,Drama,119218
+tt0405094,2006,Satyajit Ray Award,,True,True,The Lives of Others,nm0003697,Florian Henckel von Donnersmarck,The Lives of Others,2007.0,Drama,110310857
+tt0480025,2006,UK Film Talent Award,,True,True,This Is England,nm0378591,Mark Herbert,This Is England,2007.0,Others,10827364
+tt0477331,2006,FIPRESCI Prize,,True,True,Lo que sé de Lola,nm1503559,Javier Rebollo,Lo que sé de Lola,2006.0,Drama,10613
+tt0449573,2007,Satyajit Ray Award,,True,True,California Dreamin',nm0625904,Cristian Nemescu,California Dreamin',2009.0,Others,456618
+tt1043510,2007,Grierson Award,,True,True,The Mosquito Problem and Other Stories,nm1269734,Andrey Paounov,The Mosquito Problem and Other Stories,2007.0,Documentary,3519
+tt1107850,2007,FIPRESCI Prize,,True,True,Unrelated,nm0389712,Joanna Hogg,Unrelated,2008.0,Drama,197396
+tt1095421,2008,Satyajit Ray Award,Honourable Mention,True,True,Ramchand Pakistani,nm0412963,Mehreen Jabbar,Ramchand Pakistani,2010.0,Drama,123823
+tt1277728,2008,Satyajit Ray Award,,True,True,Mid-August Lunch,nm0223924,Gianni Di Gregorio,Mid-August Lunch,2009.0,Others,12058628
+tt1095414,2009,Audience Award,Documentary Feature,False,False,Sweethearts of the Prison Rodeo,nm0064022,Bradley Beesley,Sweethearts of the Prison Rodeo,2009.0,Documentary,14229
+tt1235166,2009,Best Film,,True,False,A Prophet,nm0002191,Jacques Audiard,A Prophet,2010.0,Others,23439209
+tt1351734,2009,Best Film,,False,False,Ander,nm1954420,Roberto Castón,Ander,2009.0,Drama,3653
+tt1379177,2009,Best British Newcomer,Best British Newcomer,False,True,The Disappearance of Alice Creed,nm2128335,J Blakeson,The Disappearance of Alice Creed,2010.0,Others,1212858
+tt1377278,2009,Grierson Award,,True,True,Defamation,nm1516376,Yoav Shamir,Defamation,2009.0,Documentary,35068
+tt1588875,2010,Best Film,,True,False,How I Ended This Summer,nm1403225,Aleksey Popogrebskiy,How I Ended This Summer,2011.0,Drama,732653
+tt1623008,2010,Best British Newcomer,,True,True,The Arbor,nm1163237,Clio Barnard,The Arbor,2010.0,Others,173252
+tt1544590,2010,Best British Newcomer,,False,False,In Our Name,nm1925554,Michelle Stein,In Our Name,2011.0,Drama,6185
+tt1640680,2010,Grierson Award,,True,True,Armadillo,nm2178458,Janus Metz,Armadillo,2010.0,Documentary,2366124
+tt1268204,2010,Grierson Award,,False,False,Waste Land,nm1013671,Lucy Walker,Waste Land,2010.0,Documentary,547358
+tt1242460,2011,Best Film,,True,False,We Need to Talk About Kevin,nm0708903,Lynne Ramsay,We Need to Talk About Kevin,2011.0,Drama,8760049
+tt1680045,2011,Best Film,,False,False,360,nm0576987,Fernando Meirelles,360,2012.0,Drama,1964705
+tt1437357,2011,Best Film,,False,False,Faust,nm0812546,Aleksandr Sokurov,Faust,2013.0,Drama,127477
+tt1723811,2011,Best Film,,False,False,Shame,nm2588606,Steve McQueen,Shame,2011.0,Drama,24381664
+tt1655442,2011,Best Film,,False,False,The Artist,nm0371890,Michel Hazanavicius,The Artist,2012.0,Others,200799675
+tt1700844,2011,Best Film,,False,False,The Deep Blue Sea,nm0203993,Terence Davies,The Deep Blue Sea,2011.0,Drama,4819117
+tt1033575,2011,Best Film,,False,False,The Descendants,nm0668247,Alexander Payne,The Descendants,2011.0,Others,294225062
+tt1827512,2011,Best Film,,False,False,The Kid with a Bike,nm0201094,Jean-Pierre Dardenne,The Kid with a Bike,2011.0,Drama,4486093
+tt1836987,2011,Best Film,,False,False,Trishna,nm0935863,Michael Winterbottom,Trishna,2012.0,Drama,1345294
+tt1658820,2011,Best British Newcomer,,False,False,Sket,nm4215485,Aimée Kelly,Sket,2011.0,Others,256520
+tt1687901,2011,Best British Newcomer,,False,False,The Awakening,nm1960322,Nick Murphy,The Awakening,2012.0,Others,5446149
+tt1714210,2011,Best British Newcomer,,False,False,Weekend,nm2773325,Chris New,Weekend,2011.0,Drama,1917287
+tt1650028,2011,Best British Newcomer,,False,False,Wreckers,nm1216724,Dictynna Hood,Wreckers,2011.0,Drama,12413
+tt2036388,2011,Satyajit Ray Award,,True,True,Shun Li and the Poet,nm3113346,Andrea Segre,Shun Li and the Poet,2012.0,Drama,991120
+tt1972663,2011,Grierson Award,,True,True,Into the Abyss,nm0001348,Werner Herzog,Into the Abyss,2011.0,Others,697630
+tt1819513,2011,Grierson Award,,False,False,Dreams of a Life,nm1345246,Carol Morley,Dreams of a Life,2012.0,Others,333111
+tt1723126,2011,Grierson Award,,False,False,Last Days Here,nm0034531,Don Argott,Last Days Here,2011.0,Documentary,17368
+tt1592527,2011,Grierson Award,,False,False,The Black Power Mixtape 1967-1975,nm0648057,Göran Olsson,The Black Power Mixtape 1967-1975,2011.0,Documentary,633538
+tt1327628,2011,Grierson Award,,False,False,Whores' Glory,nm0322198,Michael Glawogger,Whores' Glory,2012.0,Documentary,254733
+tt2053425,2012,Best Film,,True,False,Rust and Bone,nm0002191,Jacques Audiard,Rust and Bone,2012.0,Drama,30726734
+tt2368749,2012,Best Film,,False,False,After Lucia,nm1633015,Michel Franco,After Lucia,2013.0,Drama,1751902
+tt1855199,2012,Best Film,,False,False,End of Watch,nm0043742,David Ayer,End of Watch,2012.0,Others,98428010
+tt1037223,2012,Best Film,,False,False,Everyday,nm0935863,Michael Winterbottom,Everyday,2013.0,Drama,28117
+tt2219514,2012,Best Film,,False,False,Fill the Void,nm5112815,Rama Burshtein,Fill the Void,2012.0,Drama,5493857
+tt2115295,2012,Best Film,,False,False,Ginger & Rosa,nm0006845,Sally Potter,Ginger & Rosa,2012.0,Drama,2981386
+tt1964624,2012,Best Film,,False,False,In the House,nm0654830,François Ozon,In the House,2013.0,Drama,13483226
+tt1891788,2012,Best Film,,False,False,It Was the Son,nm0162668,Daniele Ciprì,It Was the Son,2013.0,Others,1178342
+tt1996310,2012,Best Film,,False,False,Lore,nm0795153,Cate Shortland,Lore,2012.0,Drama,3681414
+tt1714866,2012,Best Film,,False,False,Midnight's Children,nm0576548,Deepa Mehta,Midnight's Children,2012.0,Drama,1590667
+tt2059255,2012,Best Film,,False,False,No,nm1883257,Pablo Larraín,No,2012.0,Drama,11094761
+tt1931533,2012,Best Film,,False,False,Seven Psychopaths,nm1732981,Martin McDonagh,Seven Psychopaths,2012.0,Others,38054642
+tt2076897,2012,Best British Newcomer,,True,True,My Brother the Devil,nm2260751,Sally El Hosaini,My Brother the Devil,2012.0,Others,199511
+tt1656194,2012,Best British Newcomer,,False,False,The Comedian,nm2561244,Tom Shkolnik,The Comedian,2012.0,Drama,3226
+tt1931388,2012,Grierson Award,,False,False,Beware of Mr. Baker,nm4458549,Jay Bulger,Beware of Mr. Baker,2012.0,Documentary,363838
+tt1433817,2012,Grierson Award,,False,False,Canned Dreams,nm0310178,Katja Gauriloff,Canned Dreams,2012.0,Documentary,45285
+tt2112152,2012,Grierson Award,,False,False,For No Good Reason,nm1421356,Charlie Paul,For No Good Reason,2014.0,Others,145350
+tt2350432,2012,Grierson Award,,False,False,Free Angela and All Political Prisoners,nm0528454,Shola Lynch,Free Angela and All Political Prisoners,2013.0,Documentary,427622
+tt2399533,2012,Grierson Award,,False,False,Les invisibles,nm0509852,Sébastien Lifshitz,Les Invisibles,2013.0,Documentary,28664
+tt2380247,2012,Grierson Award,,False,False,The Central Park Five,nm0122741,Ken Burns,The Central Park Five,2012.0,Others,722957
+tt2363471,2012,Grierson Award,,False,False,The Summit,nm2501199,Nick Ryan,The Summit,2013.0,Others,578390
+tt2108584,2012,Grierson Award,,False,False,Village at the End of the World,nm0310673,Sarah Gavron,Village at the End of the World,2013.0,Documentary,14778
+tt2130321,2012,Grierson Award,,False,False,West of Memphis,nm1332844,Amy Berg,West of Memphis,2012.0,Others,708554
+tt2125435,2012,Sutherland Award,First Feature Competition,True,True,Beasts of the Southern Wild,nm1022455,Benh Zeitlin,Beasts of the Southern Wild,2012.0,Others,38223676
+tt2085002,2012,Sutherland Award,First Feature Competition,False,False,Eat Sleep Die,nm3307527,Gabriela Pichler,Eat Sleep Die,2012.0,Drama,64382
+tt1900908,2012,Sutherland Award,First Feature Competition,False,False,Klip,nm1481851,Maja Milos,Clip,2013.0,Drama,104215
+tt2190367,2012,Sutherland Award,First Feature Competition,False,False,Neighboring Sounds,nm2207625,Kleber Mendonça Filho,Neighboring Sounds,2012.0,Drama,585237
+tt2246376,2012,Sutherland Award,First Feature Competition,False,False,Sleeper's Wake,nm0075261,Barry Berk,Sleeper's Wake,2012.0,Others,5473
+tt2258858,2012,Sutherland Award,First Feature Competition,False,False,Wadjda,nm2223783,Haifaa Al-Mansour,Wadjda,2012.0,Others,8665527
+tt2718492,2013,Best Film,,True,False,Ida,nm0667734,Pawel Pawlikowski,Ida,2013.0,Drama,16372301
+tt2418372,2013,Best Film,,False,False,Abuse of Weakness,nm0106924,Catherine Breillat,Abuse of Weakness,2013.0,Drama,222420
+tt2331143,2013,Best Film,,False,False,"Like Father, Like Son",nm0466153,Hirokazu Koreeda,"Like Father, Like Son",2013.0,Drama,22170045
+tt2345112,2013,Best Film,,False,False,Parkland,nm1481618,Peter Landesman,Parkland,2013.0,Drama,2260450
+tt2567712,2013,Best Film,,False,True,Starred Up,nm0533284,David Mackenzie,Starred Up,2014.0,Others,3309261
+tt1825157,2013,Best Film,,False,False,The Double,nm1547964,Richard Ayoade,The Double,2014.0,Others,2014726
+tt2350496,2013,Best Film,,False,False,The Lunchbox,nm3592235,Ritesh Batra,The Lunchbox,2013.0,Drama,17326228
+tt2304426,2013,Best Film,,False,True,The Selfish Giant,nm1163237,Clio Barnard,The Selfish Giant,2013.0,Drama,1232315
+tt2427892,2013,Best Film,,False,False,Tom at the Farm,nm0230859,Xavier Dolan,Tom at the Farm,2015.0,Drama,737216
+tt2167266,2013,Best Film,,False,False,Tracks,nm0192845,John Curran,Tracks,2013.0,Others,5887523
+tt1441395,2013,Best Film,,False,False,Under the Skin,nm0322242,Jonathan Glazer,Under the Skin,2013.0,Drama,8735271
+tt2451550,2013,Best British Newcomer,,False,False,Gone Too Far,nm3277531,Destiny Ekaragha,Gone Too Far,2014.0,Others,59523
+tt2917962,2013,Grierson Award,,True,True,"My Fathers, My Mother and Me",nm5674119,Paul-Julien Robert,"My Fathers, My Mother and Me",2013.0,Others,112228
+tt2277150,2013,Grierson Award,,False,False,Aatsinki: The Story of Arctic Cowboys,nm3234333,Jessica Oreck,Aatsinki: The Story of Arctic Cowboys,2013.0,Others,14508
+tt3091552,2013,Grierson Award,,False,False,At Berkeley,nm0936464,Frederick Wiseman,At Berkeley,2013.0,Documentary,69272
+tt2355540,2013,Grierson Award,,False,True,Cutie and the Boxer,nm2784978,Zachary Heinzerling,Cutie and the Boxer,2013.0,Others,443970
+tt2650054,2013,Grierson Award,,False,False,La Maison de la radio,nm0679928,Nicolas Philibert,La Maison de la radio,2013.0,Documentary,25101
+tt2196055,2013,Grierson Award,,False,False,Teenage,nm1614415,Matt Wolf,Teenage,2014.0,Documentary,86884
+tt1638364,2013,Grierson Award,,False,False,The Armstrong Lie,nm0316795,Alex Gibney,The Armstrong Lie,2013.0,Others,1069794
+tt2852470,2013,Grierson Award,,False,False,The Missing Picture,nm0659454,Rithy Panh,The Missing Picture,2014.0,Documentary,140845
+tt2901736,2013,Sutherland Award,First Feature Competition,True,True,Ilo Ilo,nm2021547,Anthony Chen,Ilo Ilo,2013.0,Drama,1347479
+tt1964773,2013,Sutherland Award,First Feature Competition,False,False,Hide Your Smiling Faces,nm1926336,Daniel Patrick Carbone,Hide Your Smiling Faces,2014.0,Drama,7734
+tt1311071,2013,Sutherland Award,First Feature Competition,False,False,Kill Your Darlings,nm1045865,John Krokidas,Kill Your Darlings,2013.0,Others,3227073
+tt1971514,2013,Sutherland Award,First Feature Competition,False,False,Salvo,nm0989305,Fabio Grassadonia,Salvo,2014.0,Others,262890
+tt2608766,2013,Sutherland Award,First Feature Competition,False,False,The Long Way Home,nm5465109,Alphan Eseli,The Long Way Home,2013.0,Drama,248595
+tt2721712,2013,Sutherland Award,First Feature Competition,False,False,Wounded,nm1136120,Fernando Franco,Wounded,2014.0,Drama,174316
+tt2802154,2014,Best Film,Official Competition,True,False,Leviathan,nm1168657,Andrey Zvyagintsev,Leviathan,2014.0,Others,5943878
+tt2326554,2014,Best Film,Official Competition,False,False,A Girl Walks Home Alone at Night,nm3235877,Ana Lily Amirpour,A Girl Walks Home Alone at Night,2015.0,Drama,1121415
+tt3752930,2014,Best Film,Official Competition,False,False,Dearest,nm0151066,Peter Ho-Sun Chan,Dearest,2014.0,Drama,54330157
+tt3655522,2014,Best Film,Official Competition,False,False,Girlhood,nm1780037,Céline Sciamma,Girlhood,2014.0,Drama,2070528
+tt2764784,2014,Best Film,Official Competition,False,False,Phoenix,nm0678857,Christian Petzold,Phoenix,2015.0,Drama,9774276
+tt2452200,2014,Best Film,Official Competition,False,False,Son of a Gun,nm1170339,Julius Avery,Son of a Gun,2014.0,Others,718546
+tt2570858,2014,Best Film,Official Competition,False,False,The Duke of Burgundy,nm3270827,Peter Strickland,The Duke of Burgundy,2015.0,Drama,273000
+tt3294200,2014,Best Film,Official Competition,False,False,The Falling,nm1345246,Carol Morley,The Falling,2015.0,Drama,615108
+tt2488778,2014,Best Film,Official Competition,False,False,The Keeping Room,nm2905562,Daniel Barber,The Keeping Room,2015.0,Drama,108566
+tt3184934,2014,Best Film,Official Competition,False,False,The New Girlfriend,nm0654830,François Ozon,The New Girlfriend,2015.0,Drama,5759267
+tt3966942,2014,Best Film,Official Competition,False,False,The President,nm0538532,Mohsen Makhmalbaf,The President,2014.0,Drama,24664
+tt3409392,2014,Best Film,Official Competition,False,False,Timbuktu,nm0803066,Abderrahmane Sissako,Timbuktu,2014.0,Drama,8885318
+tt1441953,2014,Best British Newcomer,,False,False,Testament of Youth,nm5473782,Taron Egerton,Testament of Youth,2015.0,Others,8242555
+tt2084970,2014,Best British Newcomer,,False,False,The Imitation Game,nm3867299,Alex Lawther,The Imitation Game,2014.0,Others,347061623
+tt3675466,2014,Grierson Award,Documentary Film,True,True,"Silvered Water, Syria Self-Portrait",nm0611256,Ossama Mohammed,"Silvered Water, Syria Self-Portrait",2014.0,Documentary,1964
+tt4008606,2014,Grierson Award,Documentary Film,False,False,Hockney,nm0942727,Randall Wright,Hockney,2016.0,Documentary,527452
+tt3962828,2014,Grierson Award,Documentary Film,False,False,In the Basement,nm0782430,Ulrich Seidl,In the Basement,2015.0,Documentary,204870
+tt3675486,2014,Grierson Award,Documentary Film,False,False,Maidan,nm0523665,Sergey Loznitsa,Maidan,2014.0,Documentary,8508
+tt3720794,2014,Grierson Award,Documentary Film,False,False,National Gallery,nm0936464,Frederick Wiseman,National Gallery,2014.0,Documentary,655369
+tt2304915,2014,Grierson Award,Documentary Film,False,False,The Green Prince,nm0771953,Nadav Schirman,The Green Prince,2014.0,Others,652695
+tt3267194,2014,Grierson Award,Documentary Film,False,False,The Immortalists,nm4944180,David Alvarado,The Immortalists,2014.0,Documentary,20182
+tt1745787,2014,Sutherland Award,First Feature Competition,True,True,The Tribe,nm2990632,Myroslav Slaboshpytskyi,The Tribe,2014.0,Others,392502
+tt2614684,2014,Sutherland Award,First Feature Competition,False,False,'71,nm1312919,Yann Demange,'71,2014.0,Others,3112205
+tt2611390,2014,Sutherland Award,First Feature Competition,False,False,Difret,nm1877993,Zeresenay Mehari,Difret,2015.0,Others,157808
+tt3469960,2014,Sutherland Award,First Feature Competition,False,False,Macondo,nm2670854,Sudabeh Mortezai,Macondo,2014.0,Drama,49642
+tt3170902,2014,Sutherland Award,First Feature Competition,False,False,Theeb,nm3578681,Naji Abu Nowar,Theeb,2015.0,Others,1149738
+tt3526706,2015,Best Film,Official Competition,True,False,Chevalier,nm0718125,Athina Rachel Tsangari,Chevalier,2015.0,Others,110976
+tt3865478,2015,Best Film,Official Competition,False,False,11 Minutes,nm0804592,Jerzy Skolimowski,11 Minutes,2016.0,Drama,610613
+tt1365050,2015,Best Film,Official Competition,False,False,Beasts of No Nation,nm1560977,Cary Joji Fukunaga,Beasts of No Nation,2015.0,Drama,195072
+tt2818654,2015,Best Film,Official Competition,False,False,Cemetery of Splendor,nm0917405,Apichatpong Weerasethakul,Cemetery of Splendor,2015.0,Drama,162044
+tt3147312,2015,Best Film,Official Competition,False,False,Desierto,nm0190861,Jonás Cuarón,Desierto,2016.0,Drama,5308007
+tt4392726,2015,Best Film,Official Competition,False,False,Design for Living,nm0864775,Johnnie To,Design for Living,2015.0,Others,8972233
+tt4291590,2015,Best Film,Official Competition,False,False,Evolution,nm0352968,Lucile Hadzihalilovic,Evolution,2016.0,Drama,85504
+tt3170832,2015,Best Film,Official Competition,False,False,Room,nm1049433,Lenny Abrahamson,Room,2016.0,Drama,54017852
+tt3808342,2015,Best Film,Official Competition,False,False,Son of Saul,nm1841577,László Nemes,Son of Saul,2015.0,Drama,9060265
+tt2262161,2015,Best Film,Official Competition,False,False,Sunset Song,nm0203993,Terence Davies,Sunset Song,2016.0,Drama,1575891
+tt3824458,2015,Best Film,Official Competition,False,False,Tangerine,nm0048918,Sean Baker,Tangerine,2015.0,Others,1639621
+tt3922816,2015,Best Film,Official Competition,False,False,The Daughter,nm1404307,Simon Stone,The Daughter,2017.0,Drama,1611977
+tt4971824,2015,Best Film,Official Competition,False,False,Very Big Shot,nm5073582,Mir-Jean Bou Chaaya,Very Big Shot,2016.0,Others,457476
+tt3746250,2015,Grierson Award,Documentary Film,True,True,Sherpa,nm2636350,Jennifer Peedom,Sherpa,2016.0,Documentary,1063832
+tt3457376,2015,Grierson Award,Documentary Film,False,False,Censored Voices,nm3024142,Mor Loushy,Censored Voices,2015.0,Documentary,90231
+tt3451720,2015,Grierson Award,Documentary Film,False,False,Francofonia,nm0812546,Aleksandr Sokurov,Francofonia,2016.0,Drama,1404722
+tt4936064,2015,Grierson Award,Documentary Film,False,False,In Jackson Heights,nm0936464,Frederick Wiseman,In Jackson Heights,2015.0,Documentary,260221
+tt4092686,2015,Grierson Award,Documentary Film,False,False,"Jia Zhangke, A Guy from Fenyang",nm0758574,Walter Salles,Jia Zhang-ke by Walter Salles,2016.0,Others,895
+tt3412684,2015,Grierson Award,Documentary Film,False,False,Mr. Gaga: A True Story of Love and Dance,nm1334259,Tomer Heymann,Mr. Gaga,2017.0,Others,880781
+tt4377864,2015,Grierson Award,Documentary Film,False,False,The Pearl Button,nm0350099,Patricio Guzmán,The Pearl Button,2015.0,Documentary,173975
+tt4263482,2015,Sutherland Award,First Feature Competition,True,True,The Witch,nm3211470,Robert Eggers,The Witch,2016.0,Others,70660593
+tt3838728,2015,Sutherland Award,First Feature Competition,False,False,Bang Gang (A Modern Love Story),nm0404067,Eva Husson,Bang Gang (A Modern Love Story),2016.0,Drama,146902
+tt4266638,2015,Sutherland Award,First Feature Competition,False,False,Krisha,nm4099092,Trey Edward Shults,Krisha,2016.0,Drama,310827
+tt3715122,2015,Sutherland Award,First Feature Competition,False,False,L'attesa,nm3137132,Piero Messina,L'attesa,2016.0,Drama,1139173
+tt4059128,2015,Sutherland Award,First Feature Competition,False,False,Light Years,nm1918304,Esther May Campbell,Light Years,2016.0,Drama,2704
+tt3155242,2015,Sutherland Award,First Feature Competition,False,False,Partisan,nm3510385,Ariel Kleiman,Partisan,2015.0,Drama,77523
+tt3633992,2015,Sutherland Award,First Feature Competition,False,False,Paula,nm6085063,Eugenio Canevari,Paula,2015.0,Drama,992581
+tt4239726,2015,Sutherland Award,First Feature Competition,False,True,Tanna,nm6041597,Martin Butler,Tanna,2016.0,Others,158372
+tt4150494,2015,Sutherland Award,First Feature Competition,False,False,The Here After,nm3281319,Magnus von Horn,The Here After,2015.0,Drama,104973
+tt4794512,2015,Sutherland Award,First Feature Competition,False,False,Wedding Doll,nm0317908,Nitzan Giladi,Wedding Doll,2016.0,Drama,120042
+tt4468634,2016,Best Film,Official Competition,True,False,Certain Women,nm0716980,Kelly Reichardt,Certain Women,2016.0,Drama,2819880
+tt2392830,2016,Best Film,Official Competition,False,False,A Quiet Passion,nm0203993,Terence Davies,A Quiet Passion,2016.0,Others,6369054
+tt1895315,2016,Best Film,Official Competition,False,False,Brimstone,nm0465551,Martin Koolhoven,Brimstone,2017.0,Drama,2252987
+tt5599692,2016,Best Film,Official Competition,False,False,Clash,nm2559996,Mohamed Diab,Clash,2017.0,Drama,169109
+tt3716530,2016,Best Film,Official Competition,False,False,Elle,nm0000682,Paul Verhoeven,Elle,2016.0,Others,15977642
+tt5029608,2016,Best Film,Official Competition,False,False,Frantz,nm0654830,François Ozon,Frantz,2017.0,Drama,8762007
+tt4911996,2016,Best Film,Official Competition,False,False,Goldstone,nm0784008,Ivan Sen,Goldstone,2016.0,Others,769654
+tt5712152,2016,Best Film,Official Competition,False,False,Layla M.,nm0209010,Mijke de Jong,Layla M.,2016.0,Drama,281217
+tt4975722,2016,Best Film,Official Competition,False,False,Moonlight,nm1503575,Barry Jenkins,Moonlight,2016.0,Drama,98365559
+tt4698584,2016,Best Film,Official Competition,False,False,Neruda,nm1883257,Pablo Larraín,Neruda,2016.0,Others,5105971
+tt2315582,2016,Best Film,Official Competition,False,False,Una,nm4970700,Benedict Andrews,Una,2016.0,Drama,562038
+tt5311514,2016,Best Film,Official Competition,False,False,Your Name.,nm1396121,Makoto Shinkai,Your Name.,2017.0,Others,379368797
+tt5350800,2016,Grierson Award,Documentary Film,True,True,Starless Dreams,nm1964867,Mehrdad Oskouei,Starless Dreams,2016.0,Documentary,12742
+tt5590718,2016,Grierson Award,Documentary Film,False,False,All This Panic,nm1788310,Jenny Gage,All This Panic,2017.0,Documentary,12463
+tt5134588,2016,Grierson Award,Documentary Film,False,False,Chasing Asylum,nm0650321,Eva Orner,Chasing Asylum,2016.0,Documentary,225161
+tt1691152,2016,Grierson Award,Documentary Film,False,False,David Lynch: The Art Life,nm4302809,Olivia Neergaard-Holm,David Lynch: The Art Life,2016.0,Others,511289
+tt2638900,2016,Grierson Award,Documentary Film,False,False,LoveTrue,nm2776774,Alma Har'el,LoveTrue,2016.0,Documentary,9942
+tt4093700,2016,Grierson Award,Documentary Film,False,False,Marina Abramovic In Brazil: The Space In Between,nm1848013,Marco Del Fiol,Marina Abramovic In Brazil: The Space In Between,2016.0,Others,78593
+tt5901212,2016,Grierson Award,Documentary Film,False,False,Safari,nm0782430,Ulrich Seidl,Safari,2017.0,Documentary,2352
+tt4823592,2016,Grierson Award,Documentary Film,False,False,The Competition,nm0800098,Claire Simon,The Competition,2019.0,Documentary,102478
+tt5116410,2016,Grierson Award,Documentary Film,False,False,Tower,nm1436428,Keith Maitland,Tower,2016.0,Others,218891
+tt4954522,2016,Sutherland Award,First Feature Competition,True,True,Raw,nm4469445,Julia Ducournau,Raw,2016.0,Drama,3822915
+tt4197642,2016,Sutherland Award,First Feature Competition,False,False,A Date for Mad Mary,nm1802381,Darren Thornton,A Date for Mad Mary,2017.0,Others,159989
+tt4730986,2016,Sutherland Award,First Feature Competition,False,False,Divines,nm3997700,Houda Benyamina,Divines,2016.0,Others,2432744
+tt5011242,2016,Sutherland Award,First Feature Competition,False,False,Hedi,nm5411339,Mohamed Ben Attia,Hedi,2016.0,Drama,430224
+tt4291600,2016,Sutherland Award,First Feature Competition,False,False,Lady Macbeth,nm4399706,William Oldroyd,Lady Macbeth,2017.0,Drama,6817983
+tt2321405,2016,Sutherland Award,First Feature Competition,False,False,My Life as a Zucchini,nm1957706,Claude Barras,My Life as a Zucchini,2017.0,Others,6486204
+tt4446472,2016,Sutherland Award,First Feature Competition,False,False,Porto,nm5674075,Gabe Klinger,Porto,2017.0,Drama,128494
+tt5158522,2016,Sutherland Award,First Feature Competition,False,False,The Levelling,nm1463145,Hope Dickson Leach,The Levelling,2017.0,Drama,127344
+tt5131124,2016,Sutherland Award,First Feature Competition,False,False,What's in the Darkness,nm7668148,Yichun Wang,What's in the Darkness,2016.0,Others,1110806
+tt4936122,2016,Sutherland Award,First Feature Competition,False,False,Wùlu,nm4132885,Daouda Coulibaly,Wùlu,2016.0,Others,39923
+tt6304162,2017,Best Film,Official Competition,True,False,Loveless,nm1168657,Andrey Zvyagintsev,Loveless,2017.0,Drama,6291068
+tt7205208,2017,Best Film,Official Competition,False,False,Angels Wear White,nm2735954,Vivian Qu,Angels Wear White,2018.0,Drama,3428371
+tt6135348,2017,Best Film,Official Competition,False,False,BPM (Beats Per Minute),nm0133028,Robin Campillo,BPM (Beats Per Minute),2017.0,Drama,8111584
+tt3224288,2017,Best Film,Official Competition,False,False,Beyond the Clouds,nm0006498,Majid Majidi,Beyond the Clouds,2018.0,Drama,313620
+tt5480782,2017,Best Film,Official Competition,False,False,Good Manners,nm1824290,Marco Dutra,Good Manners,2018.0,Others,67831
+tt5340300,2017,Best Film,Official Competition,False,False,Lean on Pete,nm0354091,Andrew Haigh,Lean on Pete,2018.0,Others,3678644
+tt6958212,2017,Best Film,Official Competition,False,False,Sweet Country,nm0861610,Warwick Thornton,Sweet Country,2018.0,Others,1990960
+tt3901826,2017,Best Film,Official Competition,False,False,The Breadwinner,nm1316072,Nora Twomey,The Breadwinner,2017.0,Others,3212193
+tt6213362,2017,Best Film,Official Competition,False,False,The Guardians,nm0064741,Xavier Beauvois,The Guardians,2018.0,Drama,4413328
+tt5770620,2017,Best Film,Official Competition,False,False,The Lovers,nm0414337,Azazel Jacobs,The Lovers,2017.0,Others,4605513
+tt5649108,2017,Best Film,Official Competition,False,False,Thoroughbreds,nm8083973,Cory Finley,Thoroughbreds,2018.0,Others,6410214
+tt6695212,2017,Best Film,Official Competition,False,True,Wajib,nm1486975,Annemarie Jacir,Wajib - The Wedding Invitation,2018.0,Drama,596004
+tt7028250,2017,Grierson Award,Documentary Film,False,True,Before Summer Ends,nm2295945,Maryam Goormaghtigh,Before Summer Ends,2017.0,Others,62208
+tt6082630,2017,Grierson Award,Documentary Film,False,False,Bobbi Jene,nm4895825,Elvira Lind,Bobbi Jene,2017.0,Documentary,38833
+tt6209282,2017,Grierson Award,Documentary Film,False,False,Ex Libris: New York Public Library,nm0936464,Frederick Wiseman,Ex Libris: The New York Public Library,2017.0,Documentary,369036
+tt5598102,2017,Grierson Award,Documentary Film,False,False,Faces Places,nm0889513,Agnès Varda,Faces Places,2017.0,Documentary,5127358
+tt7207238,2017,Grierson Award,Documentary Film,False,False,Jane,nm0605137,Brett Morgen,Jane,2017.0,Others,3775881
+tt6805366,2017,Grierson Award,Documentary Film,False,True,Makala,nm1463658,Emmanuel Gras,Makala,2018.0,Documentary,128988
+tt6855898,2017,Grierson Award,Documentary Film,False,False,The Dead Nation,nm1257492,Radu Jude,The Dead Nation,2017.0,Documentary,9121
+tt5356274,2017,Grierson Award,Documentary Film,False,False,The Prince of Nothingwood,nm0472196,Sonia Kronlund,The Prince of Nothingwood,2017.0,Documentary,134481
+tt6333070,2017,Sutherland Award,First Feature Competition,True,True,The Wound,nm1626716,John Trengove,The Wound,2017.0,Drama,256476
+tt4729896,2017,Sutherland Award,First Feature Competition,False,True,Apostasy,nm3782307,Daniel Kokotajlo,Apostasy,2018.0,Drama,443007
+tt6194530,2017,Sutherland Award,First Feature Competition,False,False,Ava,nm5674565,Léa Mysius,Ava,2017.0,Drama,515893
+tt5628302,2017,Sutherland Award,First Feature Competition,False,False,Beast,nm3705960,Michael Pearce,Beast,2018.0,Others,2584485
+tt5990474,2017,Sutherland Award,First Feature Competition,False,False,Columbus,nm3226379,Kogonada,Columbus,2017.0,Drama,2196381
+tt6213284,2017,Sutherland Award,First Feature Competition,False,False,I Am Not a Witch,nm2509638,Rungano Nyoni,I Am Not a Witch,2018.0,Drama,236203
+tt5598160,2017,Sutherland Award,First Feature Competition,False,False,Jeune femme,nm4874872,Léonor Serraille,Montparnasse Bienvenüe,2017.0,Drama,439010
+tt4866448,2017,Sutherland Award,First Feature Competition,False,False,Most Beautiful Island,nm1626539,Ana Asensio,Most Beautiful Island,2017.0,Drama,6818
+tt5897636,2017,Sutherland Award,First Feature Competition,False,True,Summer 1993,nm3427032,Carla Simón,Summer 1993,2018.0,Drama,2201771
+tt4830786,2017,Sutherland Award,First Feature Competition,False,False,The Cakemaker,nm3409787,Ofir Raul Graizer,The Cakemaker,2017.0,Drama,2241243
+tt5323760,2017,Sutherland Award,First Feature Competition,False,False,Winter Brothers,nm6249843,Hlynur Palmason,Winter Brothers,2018.0,Drama,12864
+tt7137380,2018,Best Film,Official Competition,False,False,Destroyer,nm0476201,Karyn Kusama,Destroyer,2018.0,Others,7210250
+tt6752992,2018,Best Film,Official Competition,False,False,Happy as Lazzaro,nm3114621,Alice Rohrwacher,Happy as Lazzaro,2018.0,Drama,1816634
+tt7464188,2018,Best Film,Official Competition,False,False,In Fabric,nm3270827,Peter Strickland,In Fabric,2018.0,Others,133559
+tt6864046,2018,Best Film,Official Competition,False,False,Shadow,nm0955443,Yimou Zhang,Shadow,2018.0,Others,93353378
+tt5855772,2018,Best Film,Official Competition,False,False,Sunset,nm1841577,László Nemes,Sunset,2019.0,Drama,1248205
+tt2837574,2018,Best Film,Official Competition,False,False,The Old Man & the Gun,nm1108007,David Lowery,The Old Man & the Gun,2018.0,Others,29441520
+tt8726098,2018,Best Film,Official Competition,False,False,Too Late to Die Young,nm3049622,Dominga Sotomayor Castillo,Too Late to Die Young,2019.0,Drama,41078
+tt8747596,2018,Grierson Award,Documentary Film,True,True,What You Gonna Do When the World's on Fire?,nm1667635,Roberto Minervini,What You Gonna Do When the World's on Fire?,2019.0,Documentary,29318
+tt7520286,2018,Grierson Award,Documentary Film,False,False,Bisbee '17,nm1914992,Robert Greene,Bisbee '17,2018.0,Documentary,237833
+tt7966920,2018,Grierson Award,Documentary Film,False,False,John McEnroe: In the Realm of Perfection,nm5902249,Julien Faraut,John McEnroe: In the Realm of Perfection,2018.0,Documentary,208022
+tt8647924,2018,Grierson Award,Documentary Film,False,False,Putin's Witnesses,nm0543882,Vitaliy Manskiy,Putin's Witnesses,2018.0,Documentary,2183
+tt8116574,2018,Grierson Award,Documentary Film,False,False,The Raft,nm3771479,Marcus Lindeen,The Raft,2019.0,Documentary,73125
+tt5821220,2018,Grierson Award,Documentary Film,False,False,Theatre of War,nm8229588,Lola Arias,Theatre of War,2018.0,Documentary,600
+tt8254556,2018,Sutherland Award,First Feature Competition,True,True,Girl,nm4080113,Lukas Dhont,Girl,2019.0,Drama,4179831
+tt7476810,2018,Sutherland Award,First Feature Competition,False,False,Dead Pigs,nm4014166,Cathy Yan,Dead Pigs,2018.0,Others,4545
+tt6109502,2018,Sutherland Award,First Feature Competition,False,False,Journey to a Mother's Room,nm3536332,Celia Rico Clavellino,Journey to a Mother's Room,2019.0,Drama,7790
+tt6601502,2018,Sutherland Award,First Feature Competition,False,False,Ray & Liz,nm2843837,Richard Billingham,Ray & Liz,2019.0,Drama,58509
+tt8331988,2018,Sutherland Award,First Feature Competition,False,False,The Chambermaid,nm3569165,Lila Avilés,The Chambermaid,2019.0,Drama,149031
+tt5929754,2018,Sutherland Award,First Feature Competition,False,False,Wildlife,nm0200452,Paul Dano,Wildlife,2019.0,Drama,4249755
+tt6386748,2018,Best Film - Honourable Mention,,True,True,Birds of Passage,nm5305003,Cristina Gallego,Birds of Passage,2019.0,Drama,2822716

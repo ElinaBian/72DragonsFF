@@ -1,0 +1,63 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0212826,2000,FIPRESCI Prize,Best European Film (Melhor Filme Europeu),True,True,Bread and Roses,nm0516360,Ken Loach,Bread and Roses,2000.0,Drama,1824814
+tt0241663,2001,Ministry of Culture Award,,True,True,To the Left of the Father,nm0142461,Luiz Fernando Carvalho,To the Left of the Father,2002.0,Drama,731416
+tt0256103,2001,FIPRESCI Prize,Best European Film (Melhor Filme Europeu),True,True,Intimacy,nm0161717,Patrice Chéreau,Intimacy,2001.0,Drama,4491604
+tt0340468,2002,Première Brazil,Best Documentary (Melhor Documentário),True,True,Bus 174,nm0655683,José Padilha,Bus 174,2003.0,Others,618416
+tt0322824,2002,FIPRESCI Prize,Best Latin American Film (Melhor Filme Latino-Americano),True,True,Japón,nm1196161,Carlos Reygadas,Japón,2003.0,Drama,321627
+tt0332817,2002,FIPRESCI Prize,Best Latin American Film (Melhor Filme Latino-Americano),True,True,The Virgin of Lust,nm0728149,Arturo Ripstein,The Virgin of Lust,2002.0,Drama,91131
+tt0280491,2002,FIPRESCI Prize,UIP Prize - Best European Film (Prêmio UIP - Melhor Filme Europeu),True,True,Bloody Sunday,nm0339030,Paul Greengrass,Bloody Sunday,2002.0,Drama,3653451
+tt0318988,2003,FIPRESCI Prize,Best Latin American Film (Melhor Filme Latino-Americano),True,True,Ana and the Others,nm0613851,Celina Murga,Ana and the Others,2004.0,Drama,23391
+tt0439997,2005,Première Brazil,Best Documentary,True,False,500 Almas,nm1070064,Joel Pizzini,500 Almas,2007.0,Others,17140
+tt0456899,2005,Première Brazil,Best Film,True,False,Lower City,nm0532509,Sérgio Machado,Lower City,2006.0,Drama,462267
+tt0387055,2005,FIPRESCI Prize,Best Latin American Film (Melhor Filme Latino-Americano),True,True,Battle in Heaven,,[],Battle in Heaven,2006.0,Others,423288
+tt0841175,2006,Première Brazil,Best Film,True,False,Love for Sale,nm0014694,Karim Aïnouz,Love for Sale,2007.0,Drama,34105
+tt0489458,2006,Special Jury Prize,,True,True,Drained,nm1104944,Heitor Dhalia,Drained,2007.0,Others,978701
+tt0886487,2006,Audience Award,Best Documentary,True,True,Fabricando Tom Zé,nm2296646,Décio Matos Júnior,Fabricando Tom Zé,2007.0,Others,67203
+tt0857355,2006,Audience Award,Première Brasil,True,True,The Year My Parents Went on Vacation,nm0357463,Cao Hamburger,The Year My Parents Went on Vacation,2007.0,Drama,5962149
+tt0848596,2007,Première Brazil,Best Film,True,False,Mutum,nm0463156,Sandra Kogut,Mutum,2009.0,Drama,175621
+tt1039960,2007,Special Jury Prize,,True,True,Estomago: A Gastronomic Story,nm1229757,Babu Santana,Estomago: A Gastronomic Story,2008.0,Drama,823852
+tt0793423,2007,Audience Award,Best Film,True,True,From Now On,nm0749573,Catarina Ruivo,From Now On,2008.0,Drama,8176
+tt0841925,2007,FIPRESCI Prize,Best Latin American Film,True,True,Silent Light,nm1196161,Carlos Reygadas,Silent Light,2007.0,Drama,1146987
+tt1330048,2008,Première Brazil,Best Film,True,False,If Nothing Else Works Out,nm1061965,José Eduardo Belmonte,If Nothing Else Works Out,2009.0,Drama,38128
+tt1424746,2008,Honorable Mention,,True,True,That's It,nm3434181,Matheus Souza,That's It,2009.0,Others,125506
+tt1221141,2008,FIPRESCI Prize,,True,True,The Headless Woman,nm0551506,Lucrecia Martel,The Headless Woman,2008.0,Drama,478997
+tt1483795,2009,Première Brazil,Best Film (Melhor Filme),True,True,The Famous and the Dead,nm2296828,Esmir Filho,The Famous and the Dead,2010.0,Drama,27167
+tt1513914,2009,Audience Award,Best Film (Melhor Filme),True,True,Sonhos Roubados,nm0921348,Sandra Werneck,Sonhos Roubados,2010.0,Drama,103412
+tt1235548,2010,Première Brazil,Best Film (Melhor Filme),True,False,VIPs,nm3017750,Toniko Melo,VIPs,2011.0,Others,4064822
+tt1964948,2011,Première Brazil,Best Cinematography (Melhor Fotografia),True,True,Mother and Daughter,nm3309755,Petrus Cariry,Mother and Daughter,2012.0,Drama,2105
+tt2167895,2011,Première Brazil,Best Cinematography (Melhor Fotografia),True,True,Southwest,nm0684234,Mauro Pinheiro Jr.,Southwest,2013.0,Drama,8248
+tt2139601,2011,Première Brazil,Best Documentary (Melhor Documentário),True,True,As Canções,nm0184202,Eduardo Coutinho,As Canções,2011.0,Others,123648
+tt2359171,2011,Première Brazil,Best Editing (Melhor Montagem),True,False,Marcelo Yuka no Caminho das Setas (Marcelo Yuka: Follow the Signs),nm0073804,Jordana Berg,Marcelo Yuka no Caminho das Setas (Marcelo Yuka: Follow the Signs),2011.0,Others,1595
+tt1653653,2011,Première Brazil,Best Film,False,False,Dirty Hearts,nm0025241,Vicente Amorim,Dirty Hearts,2012.0,Drama,246054
+tt1885344,2011,Première Brazil,Best Screenplay (Melhor Roteiro),True,False,Prime Time Soap,nm1007979,Odilon Rocha,Prime Time Soap,2012.0,Drama,27902
+tt2141697,2012,Première Brazil,Best Cinematography (Melhor Fotografia),True,False,Disparos,nm0352637,Gustavo Hadba,Disparos,2013.0,Others,24179
+tt2440728,2012,Première Brazil,Best Documentary (Melhor Documentário),True,False,Hélio Oiticica,nm5311846,Cesar Oiticica Filho,Hélio Oiticica,2015.0,Others,17270
+tt2190367,2012,Première Brazil,Best Film (Melhor Filme),True,False,Neighboring Sounds,nm2207625,Kleber Mendonça Filho,Neighboring Sounds,2012.0,Drama,585237
+tt3119922,2012,Audience Award,Best Documentary,True,True,Dossiê Jango,nm2685552,Paulo Henrique Fontenelle,Dossiê Jango,2013.0,Others,46236
+tt2318625,2012,Audience Award,Best Film,False,False,Out in the Dark,nm3199492,Michael Mayer,Out in the Dark,2013.0,Drama,101480
+tt2125425,2012,Audience Award,Best Film (Melhor Filme),True,True,Father's Chair,nm0609931,Luciano Moura,Father's Chair,2012.0,Drama,2074282
+tt2185431,2012,FIPRESCI Prize,Best Latin American Film (Melhor Filme Latino-Americano),True,True,Nosilatiaj. La Belleza,nm2252464,Daniela Seggiaro,Nosilatiaj. La Belleza,2012.0,Drama,890
+tt2545068,2013,Première Brazil,Best Film,False,False,O Exercício do Caos,nm3692739,Frederico Machado,O Exercício do Caos,2014.0,Drama,1140
+tt2861532,2013,Première Brazil,Best Film (Melhor Filme),True,False,A Wolf at the Door,nm2036500,Fernando Coimbra,A Wolf at the Door,2014.0,Others,481228
+tt2316573,2013,Première Brazil,Best Film (Melhor Filme),True,False,Underage,nm4700016,Caru Alves de Souza,Underage,2014.0,Drama,32461
+tt2445698,2013,Première Brazil,Best Screenplay (Melhor Roteiro),True,False,Sheep's Clothing,nm0603758,Paulo Morelli,Sheep's Clothing,2014.0,Drama,438551
+tt2746176,2013,Special Jury Prize,Competition,True,True,Tattoo,nm0479886,Hilton Lacerda,Tattoo,2013.0,Drama,188761
+tt3474994,2014,Audience Award,Best Film (Melhor Filme),True,True,Casa Grande,nm1805204,Fellipe Barbosa,Casa Grande,2015.0,Drama,130509
+tt3186946,2014,Felix Award: Prêmio Félix,Best Fiction Film,True,True,Xenia,,[],Xenia,2014.0,Drama,178381
+tt3100636,2014,Felix Award: Prêmio Félix,Special Jury Prize,True,True,52 Tuesdays,,[],52 Tuesdays,2014.0,Drama,10754
+tt4899406,2015,Première Brazil,Best Cinematography (Melhor Fotografia),True,False,Neon Bull,nm1514227,Diego García,Neon Bull,2015.0,Drama,214841
+tt4160256,2015,Première Brazil,Best Documentary,True,False,Olmo & the Seagull,nm3525467,Petra Costa,Olmo & the Seagull,2016.0,Others,6841
+tt2168180,2015,Audience Award,Best Film (Melhor Filme),True,True,Nise: The Heart of Madness,nm0075644,Roberto Berliner,Nise: The Heart of Madness,2017.0,Others,814407
+tt4863784,2015,FIPRESCI Prize,Best Latin American Film (Melhor Filme Latino-Americano),True,True,I Promise You Anarchy,nm2785946,Julio Hernández Cordón,I Promise You Anarchy,2016.0,Drama,6721
+tt4291900,2015,Felix Award: Prêmio Félix,Best Documentary Film,True,True,El hombre nuevo,,[],El hombre nuevo,2015.0,Others,644
+tt3824458,2015,Felix Award: Prêmio Félix,Best Fiction Film,True,True,Tangerine,nm0048918,Sean Baker,Tangerine,2015.0,Others,1639621
+tt6032376,2016,Première Brazil,Best Cinematography (Melhor Fotografia),True,False,Mulher do Pai,nm0664941,Heloísa Passos,Mulher do Pai,2017.0,Drama,3168
+tt5259978,2016,Première Brazil,Best Editing (Melhor Montagem),False,False,Under Pressure,nm7706511,Thiago Lima,Under Pressure,2016.0,Drama,87740
+tt4129802,2016,Première Brazil,Best Screenplay (Melhor Roteiro),True,False,Vermelho Russo,nm2777273,Martha Nowill,Vermelho Russo,2017.0,Drama,853
+tt5450328,2016,Audience Award,Best Film,False,False,Orecchie,nm1192470,Alessandro Aronadio,Orecchie,2017.0,Others,57045
+tt5986738,2016,FIPRESCI Prize,Best Latin American Film (Melhor Filme Latino-Americano),True,True,Dark Skull,nm4576903,Kiro Russo,Dark Skull,2017.0,Others,9371
+tt5070130,2016,Felix Award: Prêmio Félix,Best Fiction Film,True,True,Rara,nm1930893,Pepa San Martín,Rara,2016.0,Drama,83848
+tt5480782,2017,Première Brazil,Best Cinematography (Melhor Fotografia),True,True,Good Manners,nm0694874,Rui Poças,Good Manners,2018.0,Others,67831
+tt6390682,2017,Generation,Best Film,True,True,On Wheels,nm2021288,Mauro D'Addio,On Wheels,2018.0,Others,4998
+tt6713562,2017,Generation,Honorable Mention,True,True,Historietas Assombradas: O Filme,nm1994959,Victor-Hugo Borges,Historietas Assombradas: O Filme,2017.0,Others,3120
+tt2050452,2018,Audience Award,Best Film,False,False,The Dead Queen,nm0274278,António Ferreira,The Dead Queen,2019.0,Drama,213256

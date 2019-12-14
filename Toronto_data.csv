@@ -1,0 +1,313 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0082158,1981,People's Choice Award,,True,False,Chariots of Fire,nm0399853,Hugh Hudson,Chariots of Fire,1982.0,Others,318495916
+tt0084776,1982,People's Choice Award,,True,False,Tempest,nm0005196,Paul Mazursky,Tempest,1982.0,Comedy,26130344
+tt0085244,1983,People's Choice Award,,True,False,The Big Chill,nm0001410,Lawrence Kasdan,The Big Chill,1983.0,Comedy,286252632
+tt0087921,1984,People's Choice Award,,True,False,Places in the Heart,nm0000914,Robert Benton,Places in the Heart,1984.0,Drama,169402424
+tt0087054,1984,International Critics' Award,,True,True,Choose Me,nm0748928,Alan Rudolph,Choose Me,1984.0,Comedy,12179407
+tt0089276,1985,People's Choice Award,,True,False,The Official Story,nm0699933,Luis Puenzo,The Official Story,1985.0,Drama,232708
+tt0090985,1986,People's Choice Award,,True,True,The Decline of the American Empire,nm0000780,Denys Arcand,The Decline of the American Empire,1986.0,Comedy,8838854
+tt0093779,1987,People's Choice Award,,True,False,The Princess Bride,nm0001661,Rob Reiner,The Princess Bride,1987.0,Others,136827824
+tt0095675,1988,People's Choice Award,,True,False,Women on the Verge of a Nervous Breakdown,nm0000264,Pedro Almodóvar,Women on the Verge of a Nervous Breakdown,1988.0,Comedy,30832131
+tt0095806,1988,Best Canadian Feature Film,,True,True,The Outside Chance of Maximilian Glick,nm0326161,Allan A. Goldstein,The Outside Chance of Maximilian Glick,1990.0,Comedy,637205
+tt0095037,1988,International Critics' Award,,True,True,"Distant Voices, Still Lives",nm0203993,Terence Davies,"Distant Voices, Still Lives",1988.0,Drama,3125680
+tt0098213,1989,People's Choice Award,,True,False,Roger & Me,nm0601619,Michael Moore,Roger & Me,1989.0,Others,29208135
+tt0097635,1989,International Critics' Award,,True,True,Jesus of Montreal,nm0000780,Denys Arcand,Jesus of Montreal,1990.0,Drama,6335739
+tt0099334,1990,People's Choice Award,,True,False,Cyrano de Bergerac,nm0710919,Jean-Paul Rappeneau,Cyrano de Bergerac,1990.0,Comedy,22235466
+tt0099040,1990,International Critics' Award,,True,True,An Angel at My Table,nm0001005,Jane Campion,An Angel at My Table,1990.0,Others,4040210
+tt0101889,1991,People's Choice Award,,True,False,The Fisher King,nm0000416,Terry Gilliam,The Fisher King,1991.0,Comedy,156068643
+tt0101273,1991,Best Canadian Feature Film,,True,True,The Adjuster,nm0000382,Atom Egoyan,The Adjuster,1992.0,Comedy,1442611
+tt0102494,1991,International Critics' Award,,True,True,My Own Private Idaho,nm0001814,Gus Van Sant,My Own Private Idaho,1991.0,Drama,23846189
+tt0105488,1992,People's Choice Award,,True,False,Strictly Ballroom,nm0525303,Baz Luhrmann,Strictly Ballroom,1993.0,Comedy,41923522
+tt0103905,1992,Metro Media Award,,True,True,Man Bites Dog,nm0069715,Rémy Belvaux,Man Bites Dog,1993.0,Comedy,736784
+tt0104782,1992,Best Canadian Feature Film - Special Jury Citation,,True,True,Léolo,nm0491682,Jean-Claude Lauzon,Léolo,1993.0,Comedy,2171103
+tt0105236,1992,International Critics' Award (FIPRESCI),,True,True,Reservoir Dogs,nm0000233,Quentin Tarantino,Reservoir Dogs,1992.0,Others,10532387
+tt0108026,1993,People's Choice Award,,False,False,The Saint of Fort Washington,nm0006853,Tim Hunter,The Saint of Fort Washington,1993.0,Drama,471323
+tt0107653,1993,Metro Media Award,,True,True,Naked,nm0005139,Mike Leigh,Naked,1994.0,Comedy,6164176
+tt0108328,1993,Best Canadian Feature Film - Special Jury Citation,,True,True,Thirty Two Short Films About Glenn Gould,nm0320660,François Girard,Thirty Two Short Films About Glenn Gould,1993.0,Others,4625527
+tt0108649,1993,Best Canadian Feature Film - Special Jury Citation,,True,True,Zero Patience,nm0340742,John Greyson,Zero Patience,1994.0,Others,754491
+tt0110889,1994,People's Choice Award,,True,False,Priest,nm0000944,Antonia Bird,Priest,1995.0,Drama,14063056
+tt0110005,1994,Metro Media Award,,True,True,Heavenly Creatures,nm0001392,Peter Jackson,Heavenly Creatures,1994.0,Others,10424084
+tt0109759,1994,Best Canadian Feature Film,,True,True,Exotica,nm0000382,Atom Egoyan,Exotica,1995.0,Drama,14249369
+tt0109655,1994,Best Canadian Feature Film - Special Jury Citation,,True,True,Double Happiness,nm0795803,Mina Shum,Double Happiness,1995.0,Drama,2545067
+tt0112379,1995,People's Choice Award,,True,False,Antonia's Line,nm0331296,Marleen Gorris,Antonia's Line,1996.0,Comedy,13986008
+tt0112769,1995,Metro Media Award,,True,True,La cérémonie,nm0001031,Claude Chabrol,La Cérémonie,1996.0,Others,2813915
+tt0117631,1996,People's Choice Award,,True,True,Shine,nm0382956,Scott Hicks,Shine,1997.0,Others,115103957
+tt0116783,1996,Best Canadian Feature Film - Special Jury Citation,,True,True,Kissed,nm0832369,Lynne Stopkewich,Kissed,1997.0,Drama,1050302
+tt0116041,1996,International Critics' Award (FIPRESCI) - Special Mention,,True,True,The Daytrippers,nm0609549,Greg Mottola,The Daytrippers,1997.0,Comedy,6707103
+tt0125128,1997,People's Choice Award,,True,True,The Hanging Garden,nm0280396,Thom Fitzgerald,The Hanging Garden,1997.0,Drama,39414
+tt0118749,1997,Metro Media Award,,True,True,Boogie Nights,nm0000759,Paul Thomas Anderson,Boogie Nights,1997.0,Drama,109908149
+tt0119488,1997,Metro Media Award,,True,True,L.A. Confidential,nm0000436,Curtis Hanson,L.A. Confidential,1997.0,Others,302526156
+tt0120255,1997,Best Canadian Feature Film,,True,True,The Sweet Hereafter,nm0000382,Atom Egoyan,The Sweet Hereafter,1997.0,Drama,10328205
+tt0123755,1997,Best Canadian First Feature Film,,True,True,Cube,nm0622112,Vincenzo Natali,Cube,1998.0,Drama,1688174
+tt0124185,1997,International Critics' Award (FIPRESCI),,True,True,Under the Skin,nm0012119,Carine Adler,Under the Skin,1998.0,Drama,440314
+tt0118799,1998,People's Choice Award,,True,False,Life Is Beautiful,nm0000905,Roberto Benigni,Life Is Beautiful,1999.0,Comedy,446878134
+tt0147612,1998,Metro Media Award,,True,True,Happiness,nm0001754,Todd Solondz,Happiness,1998.0,Comedy,9293255
+tt0128370,1998,Best Canadian Feature Film,,True,True,Nô,nm0503215,Robert Lepage,Nô,1998.0,Drama,15207
+tt0156729,1998,Best Canadian First Feature Film,,True,True,Last Night,nm0001528,Don McKellar,Last Night,1999.0,Comedy,1795258
+tt0147192,1998,International Critics' Award (FIPRESCI),,True,True,Praise,nm0192845,John Curran,Praise,2000.0,Drama,88564
+tt0154443,1999,People's Choice Award,Masters,False,False,8 ½ Women,nm0000425,Peter Greenaway,8 ½ Women,2000.0,Comedy,1283984
+tt0165196,1999,People's Choice Award,Masters,False,False,Molokai,nm0185187,Paul Cox,Molokai,1999.0,Others,282953
+tt0120731,1999,People's Choice Award,Masters,False,False,The Legend of 1900,nm0868153,Giuseppe Tornatore,The Legend of 1900,1998.0,Drama,522119
+tt0209463,1999,People's Choice Award,Masters,False,False,The Wind Will Carry Us,nm0452102,Abbas Kiarostami,The Wind Will Carry Us,2000.0,Drama,767560
+tt0169547,1999,People's Choice Award,,True,False,American Beauty,nm0005222,Sam Mendes,American Beauty,1999.0,Drama,738982223
+tt0162348,1999,Discovery Award,,True,True,Smiling Fish & Goat on Fire,nm0430064,Kevin Jordan,Smiling Fish & Goat on Fire,2000.0,Comedy,831402
+tt0188674,1999,Discovery Award,,False,False,Human Traffic,nm0449863,Justin Kerrigan,Human Traffic,2000.0,Comedy,310701
+tt0156096,1999,Discovery Award,,False,False,Spring Forward,nm0319680,Tom Gilroy,Spring Forward,2000.0,Drama,344853
+tt0188757,1999,Discovery Award,,False,False,Kill by Inches,nm0232538,Diane Doniol-Valcroze,Kill by Inches,2000.0,Others,1532
+tt0168794,1999,Best Canadian Feature Film,,True,True,The Five Senses,nm0687964,Jeremy Podeswa,The Five Senses,2000.0,Comedy,1511116
+tt0148103,1999,Best Canadian Feature Film - Special Jury Citation,,True,True,Set Me Free,nm0690794,Léa Pool,Set Me Free,1999.0,Drama,225015
+tt0213121,1999,Best Canadian First Feature Film - Special Jury Congratulation,,True,True,New Waterford Girl,nm0049313,Liane Balaban,New Waterford Girl,2000.0,Comedy,2344952
+tt0215369,1999,International Critics' Award (FIPRESCI),,True,True,Shower,nm0955434,Yang Zhang,Shower,2000.0,Comedy,5038610
+tt0190332,2000,People's Choice Award,,True,False,"Crouching Tiger, Hidden Dragon",nm0000487,Ang Lee,"Crouching Tiger, Hidden Dragon",2001.0,Others,498551538
+tt0237993,2000,Discovery Award,,True,True,101 Reykjavík,nm0466349,Baltasar Kormákur,101 Reykjavík,2000.0,Comedy,988211
+tt0262432,2000,Discovery Award,,True,True,George Washington,nm0337773,David Gordon Green,George Washington,2000.0,Drama,792529
+tt0260332,2000,Discovery Award,,False,False,The Day I Became a Woman,nm0581863,Marzieh Makhmalbaf,The Day I Became a Woman,2000.0,Comedy,440514
+tt0263957,2000,Discovery Award,,False,False,The Iron Ladies,nm0861129,Yongyoot Thongkongtoon,The Iron Ladies,2001.0,Comedy,60467
+tt0219405,2000,Best Canadian Feature Film,,True,True,Waydowntown,nm0122672,Gary Burns,Waydowntown,2002.0,Comedy,139485
+tt0210070,2000,Best Canadian Feature Film - Special Jury Citation,,True,True,Ginger Snaps,nm0910550,Karen Walton,Ginger Snaps,2001.0,Drama,7378
+tt0220627,2000,Best Canadian Feature Film - Special Jury Citation,,True,True,Maelstrom,nm0898288,Denis Villeneuve,Maelstrom,2001.0,Drama,742504
+tt0260193,2000,Best Canadian First Feature Film,,True,True,The Left-Hand Side of the Fridge,nm0265852,Philippe Falardeau,The Left-Hand Side of the Fridge,2002.0,Comedy,15758
+tt0263101,2000,International Critics' Award (FIPRESCI),,True,True,Bangkok Dangerous,nm0161152,Oxide Chun Pang,Bangkok Dangerous,2001.0,Others,80390
+tt0211915,2001,People's Choice Award,,True,False,Amélie,nm0000466,Jean-Pierre Jeunet,Amélie,2002.0,Comedy,297732450
+tt0285441,2001,Best Canadian Feature Film,,True,True,Atanarjuat: The Fast Runner,nm0994348,Zacharias Kunuk,Atanarjuat: The Fast Runner,2002.0,Drama,12762122
+tt0296008,2001,International Critics' Award (FIPRESCI),,True,True,Inch'Allah dimanche,nm0071117,Yamina Benguigui,Inch'Allah dimanche,2002.0,Others,552592
+tt0298228,2002,People's Choice Award,,True,False,Whale Rider,nm0138927,Niki Caro,Whale Rider,2003.0,Drama,85610853
+tt0318411,2002,Discovery Award,,True,True,The Magdalene Sisters,nm0611932,Peter Mullan,The Magdalene Sisters,2003.0,Drama,35990538
+tt0318034,2002,Visions Award,,True,True,Russian Ark,nm0812546,Aleksandr Sokurov,Russian Ark,2002.0,Drama,16546718
+tt0317248,2002,Visions Award - Special Citation,,True,True,City of God,nm0576987,Fernando Meirelles,City of God,2004.0,Others,52489246
+tt0302674,2002,Visions Award - Special Citation,,True,True,Gerry,nm0001814,Gus Van Sant,Gerry,2002.0,Others,734994
+tt0278731,2002,Best Canadian Feature Film,,True,True,Spider,nm0000343,David Cronenberg,Spider,2002.0,Drama,10520422
+tt0313879,2002,International Critics' Award (FIPRESCI),,True,True,Les chemins de l'oued,nm0603588,Gaël Morel,Les chemins de l'oued,2003.0,Drama,18804
+tt0315543,2002,International Critics' Award (FIPRESCI) - Special Mention,,True,True,Open Hearts,nm0081540,Susanne Bier,Open Hearts,2003.0,Drama,2571572
+tt0363226,2003,People's Choice Award,,True,False,The Blind Swordsman: Zatoichi,nm0001429,Takeshi Kitano,The Blind Swordsman: Zatoichi,2004.0,Others,48729478
+tt0379587,2003,Discovery Award,Best Film,False,False,My Father and I,nm1292891,Jinglei Xu,My Father and I,2005.0,Drama,26
+tt0363290,2003,Discovery Award,Best Film,False,False,Purple Butterfly,nm0521601,Ye Lou,Purple Butterfly,2004.0,Drama,47604
+tt0354243,2003,Discovery Award,Best Film,False,False,Zhou Yu de huo che,nm0839008,Zhou Sun,Zhou Yu de huo che,2004.0,Drama,840429
+tt0338135,2003,Best Canadian Feature Film,,True,True,The Barbarian Invasions,nm0000780,Denys Arcand,The Barbarian Invasions,2004.0,Comedy,59220569
+tt0342316,2003,Best Canadian First Feature Film,,True,True,"Love, Sex and Eating the Bones",nm0840075,Sudz Sutherland,"Love, Sex and Eating the Bones",2004.0,Comedy,320790
+tt0376800,2003,International Critics' Award (FIPRESCI),,True,True,November,nm0563748,Achero Mañas,November,2004.0,Comedy,1297106
+tt0395169,2004,People's Choice Award,,True,False,Hotel Rwanda,nm0313623,Terry George,Hotel Rwanda,2005.0,Others,76495369
+tt0388139,2004,Best Canadian Feature Film,,True,True,It's All Gone Pete Tong,nm0236226,Michael Dowse,It's All Gone Pete Tong,2005.0,Others,2339204
+tt0385017,2004,International Critics' Award (FIPRESCI),,True,True,In My Father's Den,nm0568899,Brad McGann,In My Father's Den,2005.0,Drama,2138704
+tt0468565,2005,People's Choice Award,,True,False,Tsotsi,nm0004303,Gavin Hood,Tsotsi,2006.0,Others,16361949
+tt0382806,2005,Discovery Award,,True,True,Look Both Ways,nm0915016,Sarah Watt,Look Both Ways,2005.0,Drama,3452335
+tt0401085,2005,Best Canadian Feature Film,,True,True,C.R.A.Z.Y.,nm0885249,Jean-Marc Vallée,C.R.A.Z.Y.,2006.0,Comedy,4705341
+tt0425979,2005,Best Canadian First Feature Film,,True,True,Familia,nm0033596,Louise Archambault,Familia,2006.0,Drama,2964
+tt0478025,2005,International Critics' Award (FIPRESCI),,True,True,Sa-kwa,nm1118549,Yi-kwan Kang,Sa-kwa,2008.0,Drama,322942
+tt0492869,2006,People's Choice Award,Gala or Special Presentations,False,False,Antonia,nm0024015,Tata Amaral,Antonia,2007.0,Drama,8702
+tt0482463,2006,People's Choice Award,,True,False,Bella,nm1920049,Alejandro Monteverde,Bella,2007.0,Drama,24504449
+tt0827517,2006,Discovery Award,,True,True,Reprise,nm1258686,Joachim Trier,Reprise,2007.0,Drama,2338238
+tt0499262,2006,Innovation Award,,True,True,Takva: A Man's Fear of God,nm1699703,Özer Kiziltan,Takva: A Man's Fear of God,2006.0,Drama,2584385
+tt0832906,2006,Best Canadian Feature Film - Special Jury Citation,,True,True,Monkey Warfare,nm0363094,Reginald Harkema,Monkey Warfare,2006.0,Comedy,92886
+tt0853096,2006,International Critics' Award (FIPRESCI),,True,True,Death of a President,nm1235949,Gabriel Range,Death of a President,2006.0,Others,1758238
+tt1085799,2007,People's Choice Award,Masters,False,False,"Chaos, This Is",nm0149631,Youssef Chahine,"Chaos, This Is",2008.0,Others,172764
+tt0765443,2007,People's Choice Award,,True,False,Eastern Promises,nm0000343,David Cronenberg,Eastern Promises,2007.0,Others,89934304
+tt0467406,2007,People's Choice Award,,False,False,Juno,nm0718646,Jason Reitman,Juno,2007.0,Comedy,456144163
+tt1068634,2007,People's Choice Award,,False,False,Body of War,nm0004882,Phil Donahue,Body of War,2007.0,Others,175430
+tt1090200,2007,Innovation Award,,True,True,Encarnacion,nm1318393,Anahí Berneri,Encarnacion,2007.0,Drama,90991
+tt0475241,2007,Cultural Innovation Award - Honorable Mention,,True,True,Khadak,nm0112456,Peter Brosens,Khadak,2007.0,Drama,50048
+tt1093842,2007,Best Canadian Feature Film,,True,True,My Winnipeg,nm0534665,Guy Maddin,My Winnipeg,2008.0,Comedy,566363
+tt1039652,2007,International Critics' Award (FIPRESCI),,True,True,The Zone,nm0687751,Rodrigo Plá,The Zone,2008.0,Drama,3298465
+tt1010048,2008,People's Choice Award,,True,False,Slumdog Millionaire,nm0000965,Danny Boyle,Slumdog Millionaire,2008.0,Drama,631163825
+tt1286821,2008,People's Choice Award,,False,False,More Than a Game,nm2844886,Kristopher Belman,More Than a Game,2009.0,Others,2264181
+tt1277737,2008,People's Choice Award,,False,False,The Stoning of Soraya M.,nm0637493,Cyrus Nowrasteh,The Stoning of Soraya M.,2009.0,Drama,2046915
+tt0986233,2008,Discovery Award,,True,True,Hunger,nm2588606,Steve McQueen,Hunger,2008.0,Others,3900326
+tt1074929,2008,Best Canadian Feature Film - Special Jury Citation,,True,True,Adoration,nm0000382,Atom Egoyan,Adoration,2009.0,Drama,813601
+tt0363780,2008,International Critics' Award (FIPRESCI),Discovery,True,True,Lymelife,nm0553796,Derick Martini,Lymelife,2009.0,Comedy,1146829
+tt0445953,2008,International Critics' Award (FIPRESCI),Special Presentations,True,True,Disgrace,nm0414646,Steve Jacobs,Disgrace,2009.0,Drama,849376
+tt1338687,2009,People's Choice Award,Documentary,True,False,The Topp Twins: Untouchable Girls,nm1482101,Leanne Pooley,The Topp Twins: Untouchable Girls,2011.0,Comedy,2091960
+tt1232207,2009,People's Choice Award,Documentary,False,False,Capitalism: A Love Story,nm0601619,Michael Moore,Capitalism: A Love Story,2009.0,Others,37591429
+tt1316536,2009,People's Choice Award,Midnight Madness,True,False,The Loved Ones,nm2015237,Sean Byrne,The Loved Ones,2009.0,Others,423672
+tt0433362,2009,People's Choice Award,Midnight Madness,False,False,Daybreakers,nm1294961,Michael Spierig,Daybreakers,2010.0,Others,96138473
+tt0929632,2009,People's Choice Award,,True,False,Precious,nm0200005,Lee Daniels,Precious,2009.0,Drama,131376168
+tt1071812,2009,People's Choice Award,,False,False,Mao's Last Dancer,nm0000915,Bruce Beresford,Mao's Last Dancer,2010.0,Others,31649077
+tt1149361,2009,People's Choice Award,,False,False,Micmacs,nm0000466,Jean-Pierre Jeunet,Micmacs,2010.0,Others,20652825
+tt0896529,2009,Best Canadian Feature Film,,True,True,Cairo Time,nm0618779,Ruba Nadda,Cairo Time,2010.0,Drama,4218276
+tt1257562,2009,International Critics' Award (FIPRESCI),Special Presentations,True,True,Hadewijch,nm0241622,Bruno Dumont,Hadewijch,2010.0,Drama,78670
+tt1556190,2010,People's Choice Award,Documentary,False,False,Nostalgia for the Light,nm0350099,Patricio Guzmán,Nostalgia for the Light,2011.0,Others,657392
+tt1464580,2010,People's Choice Award,Midnight Madness,True,False,Stake Land,nm0585344,Jim Mickle,Stake Land,2010.0,Drama,512501
+tt1504320,2010,People's Choice Award,,True,False,The King's Speech,nm0393799,Tom Hooper,The King's Speech,2010.0,Others,644807404
+tt0790663,2010,People's Choice Award,,False,False,The First Grader,nm0149491,Justin Chadwick,The First Grader,2010.0,Others,1274192
+tt1646118,2010,Discovery Award,Best Film,False,False,October,nm3307029,Diego Vega Vidal,October,2010.0,Drama,188333
+tt1255953,2010,Best Canadian Feature Film,,True,True,Incendies,nm0898288,Denis Villeneuve,Incendies,2010.0,Drama,6574859
+tt1533013,2010,International Critics' Award (FIPRESCI),Discovery,True,True,Beautiful Boy,nm0473329,Shawn Ku,Beautiful Boy,2011.0,Drama,246985
+tt1606382,2010,International Critics' Award (FIPRESCI),Special Presentations,True,True,L'amour fou,nm1750316,Pierre Thoretton,L'amour fou,2011.0,Others,871528
+tt1990352,2011,People's Choice Award,Documentary,True,False,The Island President,nm0074009,Richard Berge,The Island President,2011.0,Others,177274
+tt2008513,2011,People's Choice Award,Documentary,False,False,First Position,nm4557079,Bess Kargman,First Position,2012.0,Others,3052248
+tt1417592,2011,People's Choice Award,Documentary,False,False,Pearl Jam Twenty,nm0001081,Cameron Crowe,Pearl Jam Twenty,2011.0,Others,1063933
+tt1899353,2011,People's Choice Award,Midnight Madness,True,False,The Raid: Redemption,nm2153088,Gareth Evans,The Raid: Redemption,2012.0,Others,14720464
+tt1853739,2011,People's Choice Award,Midnight Madness,False,False,You're Next,nm1417392,Adam Wingard,You're Next,2013.0,Others,49595268
+tt1912398,2011,People's Choice Award,Midnight Madness,False,False,God Bless America,nm0001281,Bobcat Goldthwait,God Bless America,2012.0,Others,575314
+tt1772424,2011,People's Choice Award,,True,False,Where Do We Go Now?,nm1701024,Nadine Labaki,Where Do We Go Now?,2012.0,Comedy,9063382
+tt1832382,2011,People's Choice Award,,False,False,A Separation,nm1410815,Asghar Farhadi,A Separation,2011.0,Drama,30408318
+tt1756750,2011,People's Choice Award,,False,False,Starbuck,nm0779433,Ken Scott,Starbuck,2012.0,Comedy,2212784
+tt2011971,2011,Best Canadian Feature Film,,True,True,Monsieur Lazhar,nm0265852,Philippe Falardeau,Monsieur Lazhar,2011.0,Comedy,9696641
+tt1709654,2011,Best Canadian First Feature Film,,True,True,Citizen Gangster,nm1137388,Nathan Morlando,Citizen Gangster,2012.0,Others,1388
+tt2016955,2011,Best Canadian First Feature Film - Special Jury Citation,,True,True,Nuit #1,nm3503229,Anne Émond,Nuit #1,2012.0,Drama,19728
+tt1349457,2011,International Critics' Award (FIPRESCI),Special Presentations,True,True,The First Man,nm0002167,Gianni Amelio,The First Man,2012.0,Drama,1118432
+tt1754546,2012,People's Choice Award,Documentary,False,False,Storm Surfers 3D,nm1121342,Christopher Nelius,Storm Surfers 3D,2013.0,Others,773782
+tt1931533,2012,People's Choice Award,Midnight Madness,True,False,Seven Psychopaths,nm1732981,Martin McDonagh,Seven Psychopaths,2012.0,Comedy,38054642
+tt1713476,2012,People's Choice Award,Midnight Madness,False,False,The Bay,nm0001469,Barry Levinson,The Bay,2012.0,Others,1780079
+tt1783732,2012,People's Choice Award,Midnight Madness,False,False,John Dies at the End,nm0181741,Don Coscarelli,John Dies at the End,2013.0,Comedy,315053
+tt1045658,2012,People's Choice Award,,True,False,Silver Linings Playbook,nm0751102,David O. Russell,Silver Linings Playbook,2012.0,Comedy,410149872
+tt1024648,2012,People's Choice Award,,False,False,Argo,nm0000255,Ben Affleck,Argo,2012.0,Others,406936640
+tt2131698,2012,People's Choice Award,,False,False,Zaytoun,nm0726954,Eran Riklis,Zaytoun,2013.0,Others,240196
+tt2333598,2012,Discovery Award,,False,False,7 Boxes,nm1515311,Juan Carlos Maneglia,7 Boxes,2014.0,Others,373461
+tt2098628,2012,Discovery Award,,False,False,Augustine,nm1356951,Alice Winocour,Augustine,2013.0,Drama,406340
+tt1854513,2012,Discovery Award,,False,False,Blancanieves,nm0074311,Pablo Berger,Blancanieves,2012.0,Drama,3165399
+tt1977739,2012,Discovery Award,,False,True,Call Girl,nm0545729,Mikael Marcimain,Call Girl,2012.0,Drama,2133745
+tt1900908,2012,Discovery Award,,False,False,Clip,nm1481851,Maja Milos,Clip,2013.0,Drama,104215
+tt2085002,2012,Discovery Award,,False,False,Eat Sleep Die,nm3307527,Gabriela Pichler,Eat Sleep Die,2012.0,Drama,64382
+tt2219514,2012,Discovery Award,,False,False,Fill the Void,nm5112815,Rama Burshtein,Fill the Void,2012.0,Drama,5493857
+tt2318625,2012,Discovery Award,,False,False,Out in the Dark,nm3199492,Michael Mayer,Out in the Dark,2013.0,Drama,101480
+tt2234397,2012,Discovery Award,,False,False,Satellite Boy,nm1642908,Catriona McKenzie,Satellite Boy,2013.0,Others,179531
+tt1935902,2012,Discovery Award,,False,False,The Brass Teapot,nm1310794,Ramaa Mosley,The Brass Teapot,2013.0,Comedy,276970
+tt2311822,2012,Discovery Award,,False,False,The Color of the Chameleon,nm0398619,Emil Christov,The Color of the Chameleon,2013.0,Comedy,53412
+tt2323264,2012,Discovery Award,,False,False,The Deflowering of Eva van End,nm2146887,Michiel ten Horn,The Deflowering of Eva van End,2013.0,Drama,7947
+tt2290934,2012,Discovery Award,,False,False,The Interval,nm0182450,Leonardo di Costanzo,The Interval,2013.0,Others,280242
+tt1650048,2012,Best Canadian Feature Film,,True,True,Laurence Anyways,nm0230859,Xavier Dolan,Laurence Anyways,2013.0,Drama,437525
+tt2099556,2012,Best Canadian First Feature Film,,True,True,Antiviral,nm0188722,Brandon Cronenberg,Antiviral,2012.0,Others,68255
+tt1964624,2012,International Critics' Award (FIPRESCI),Special Presentations,True,True,In the House,nm0654830,François Ozon,In the House,2013.0,Drama,13483226
+tt2283017,2012,NETPAC Award,,True,True,The Land of Hope,nm0814469,Sion Sono,The Land of Hope,2012.0,Drama,41232
+tt2486682,2013,People's Choice Award,Documentary,True,False,The Square,nm0636675,Jehane Noujaim,The Square,2013.0,Others,275753
+tt2468638,2013,People's Choice Award,Documentary,False,False,Beyond the Edge,nm1482101,Leanne Pooley,Beyond the Edge,2014.0,Others,795315
+tt2409302,2013,People's Choice Award,Midnight Madness,True,False,Why Don't You Play in Hell?,nm0814469,Sion Sono,Why Don't You Play in Hell?,2014.0,Others,1360321
+tt2388715,2013,People's Choice Award,Midnight Madness,False,False,Oculus,nm1093039,Mike Flanagan,Oculus,2014.0,Others,77330084
+tt2404738,2013,People's Choice Award,Midnight Madness,False,False,Witching and Bitching,nm0407067,Álex de la Iglesia,Witching and Bitching,2013.0,Others,1771875
+tt2024544,2013,People's Choice Award,,True,False,12 Years a Slave,nm2588606,Steve McQueen,12 Years a Slave,2013.0,Others,267977546
+tt2431286,2013,People's Choice Award,,False,False,Philomena,nm0001241,Stephen Frears,Philomena,2013.0,Others,151134205
+tt1392214,2013,People's Choice Award,,False,False,Prisoners,nm0898288,Denis Villeneuve,Prisoners,2013.0,Others,199865243
+tt3106846,2013,Best Canadian Feature Film,,False,False,Gabrielle,nm0033596,Louise Archambault,Gabrielle,2013.0,Drama,255546
+tt2427892,2013,Best Canadian Feature Film,,False,False,Tom at the Farm,nm0230859,Xavier Dolan,Tom at the Farm,2015.0,Drama,737216
+tt2309961,2013,Best Canadian First Feature Film - Special Jury Citation,,True,True,Afflicted,nm1854114,Derek Lee,Afflicted,2013.0,Others,264507
+tt2802172,2013,International Critics' Award (FIPRESCI),Best Film,False,False,The Kids from the Port,nm3040251,Alberto Morais,The Kids from the Port,2013.0,Others,4117
+tt2414046,2013,International Critics' Award (FIPRESCI),Discovery,True,True,The Amazing Catfish,nm2404755,Claudia Sainte-Luce,The Amazing Catfish,2014.0,Comedy,345741
+tt2718492,2013,International Critics' Award (FIPRESCI),Special Presentations,True,True,Ida,nm0667734,Pawel Pawlikowski,Ida,2013.0,Drama,16372301
+tt3997238,2014,People's Choice Award,Documentary,False,False,Do I Sound Gay?,nm6737306,David Thorpe,Do I Sound Gay?,2015.0,Others,259112
+tt2219650,2014,People's Choice Award,Documentary,False,False,Seymour: An Introduction,nm0000160,Ethan Hawke,Seymour: An Introduction,2014.0,Others,1772802
+tt3416742,2014,People's Choice Award,Midnight Madness,True,False,What We Do in the Shadows,nm0169806,Taika Waititi,What We Do in the Shadows,2015.0,Comedy,10595971
+tt3099498,2014,People's Choice Award,Midnight Madness,False,False,Tusk,nm0003620,Kevin Smith,Tusk,2014.0,Comedy,3981712
+tt2088003,2014,People's Choice Award,Midnight Madness,False,False,Big Game,nm1118351,Jalmari Helander,Big Game,2015.0,Others,8010196
+tt2084970,2014,People's Choice Award,,True,False,The Imitation Game,nm0878763,Morten Tyldum,The Imitation Game,2014.0,Others,347061623
+tt3062976,2014,People's Choice Award,,False,False,Learning to Drive,nm0170043,Isabel Coixet,Learning to Drive,2015.0,Comedy,10095933
+tt2170593,2014,People's Choice Award,,False,False,St. Vincent,nm0577647,Theodore Melfi,St. Vincent,2014.0,Comedy,106526260
+tt3685218,2014,Best Canadian Feature Film,,True,True,Félix & Meira,nm2113645,Maxime Giroux,Félix & Meira,2015.0,Drama,1019676
+tt3612616,2014,Best Canadian Feature Film,,False,False,Mommy,nm0230859,Xavier Dolan,Mommy,2014.0,Drama,17889741
+tt3146294,2014,International Critics' Award (FIPRESCI),Discovery,True,True,May Allah Bless France!,nm1601029,Abd Al Malik,May Allah Bless France!,2014.0,Drama,928389
+tt3505712,2014,International Critics' Award (FIPRESCI),Special Presentations,True,True,Time Out of Mind,nm0610219,Oren Moverman,Time Out of Mind,2015.0,Drama,516430
+tt3090634,2014,International Critics' Award,Special Presentations,False,False,Eden,nm0361135,Mia Hansen-Løve,Eden,2015.0,Others,614003
+tt1870548,2015,People's Choice Award,Documentary,False,False,This Changes Everything,nm1726688,Avi Lewis,This Changes Everything,2015.0,Others,35945
+tt3072482,2015,People's Choice Award,Midnight Madness,True,False,Hardcore Henry,nm5820154,Ilya Naishuller,Hardcore Henry,2016.0,Others,27836736
+tt4062536,2015,People's Choice Award,Midnight Madness,False,False,Green Room,nm1099918,Jeremy Saulnier,Green Room,2016.0,Others,7435299
+tt3170832,2015,People's Choice Award,,True,False,Room,nm1049433,Lenny Abrahamson,Room,2016.0,Drama,54017852
+tt3368222,2015,People's Choice Award,,False,False,Angry Indian Goddesses,nm0659023,Pan Nalin,Angry Indian Goddesses,2016.0,Comedy,305215
+tt1895587,2015,People's Choice Award,,False,False,Spotlight,nm0565336,Tom McCarthy,Spotlight,2015.0,Others,154329532
+tt4008758,2015,Discovery Award,,True,True,Black,nm4816401,Adil El Arbi,Black,2016.0,Others,1816578
+tt4429074,2015,Discovery Award,,False,False,Dégradé,nm5584045,Arab Nasser,Dégradé,2015.0,Drama,110019
+tt4971824,2015,Discovery Award,,False,False,Very Big Shot,nm5073582,Mir-Jean Bou Chaaya,Very Big Shot,2016.0,Others,457476
+tt3638396,2015,Best Canadian Feature Film,,True,True,Closet Monster,nm2997306,Stephen Dunn,Closet Monster,2016.0,Drama,90279
+tt4116116,2015,Best Canadian Feature Film,,False,True,My Internship in Canada,nm0265852,Philippe Falardeau,My Internship in Canada,2016.0,Comedy,176373
+tt3704050,2015,Best Canadian Feature Film,,False,False,Remember,nm0000382,Atom Egoyan,Remember,2015.0,Drama,5856479
+tt3066630,2015,Best Canadian Feature Film,,False,False,The Forbidden Room,nm0534665,Guy Maddin,The Forbidden Room,2015.0,Comedy,90194
+tt3777384,2015,International Critics' Award (FIPRESCI),Discovery,True,True,Eva Nová,nm3120448,Marko Skop,Eva Nová,2016.0,Drama,29633
+tt3147312,2015,International Critics' Award (FIPRESCI),Special Presentations,True,True,Desierto,nm0190861,Jonás Cuarón,Desierto,2016.0,Drama,5308007
+tt3838728,2015,Platform Prize,,False,False,Bang Gang (A Modern Love Story),nm0404067,Eva Husson,Bang Gang (A Modern Love Story),2016.0,Drama,146902
+tt0462335,2015,Platform Prize,,False,False,High-Rise,nm1296554,Ben Wheatley,High-Rise,2016.0,Drama,4951097
+tt3841424,2015,Platform Prize,,False,False,Land of Mine,nm1324710,Martin Zandvliet,Land of Mine,2016.0,Drama,3888316
+tt4000936,2015,Platform Prize,,False,False,Looking for Grace,nm0112262,Sue Brooks,Looking for Grace,2015.0,Drama,158122
+tt4899406,2015,Platform Prize,,False,True,Neon Bull,nm3486709,Gabriel Mascaro,Neon Bull,2015.0,Drama,214841
+tt4411504,2015,Platform Prize,,False,True,The Clan,nm0871086,Pablo Trapero,The Clan,2015.0,Others,22115899
+tt3597510,2015,Platform Prize,,False,False,The White Knights,nm1050098,Joachim Lafosse,The White Knights,2015.0,Drama,1221943
+tt5804038,2016,People's Choice Award,Documentary,True,False,I Am Not Your Negro,nm0669704,Raoul Peck,I Am Not Your Negro,2017.0,Others,16227745
+tt5952382,2016,People's Choice Award,Documentary,False,False,Abacus: Small Enough to Jail,nm0416945,Steve James,Abacus: Small Enough to Jail,2016.0,Others,239507
+tt5929776,2016,People's Choice Award,Documentary,False,False,Before the Flood,nm0001770,Fisher Stevens,Before the Flood,2016.0,Others,1044
+tt5952266,2016,People's Choice Award,Documentary,False,False,The Ivory Game,nm1375566,Richard Ladkani,The Ivory Game,2016.0,Others,111
+tt3783958,2016,People's Choice Award,Gala or Special Presentations,True,False,La La Land,nm3227090,Damien Chazelle,La La Land,2016.0,Comedy,632110793
+tt3741834,2016,People's Choice Award,Gala or Special Presentations,False,False,Lion,nm0204628,Garth Davis,Lion,2017.0,Others,202102882
+tt4341582,2016,People's Choice Award,Gala or Special Presentations,False,False,Queen of Katwe,nm0619762,Mira Nair,Queen of Katwe,2016.0,Others,20366898
+tt4158096,2016,People's Choice Award,Midnight Madness,True,False,Free Fire,nm1296554,Ben Wheatley,Free Fire,2017.0,Others,5767497
+tt3289956,2016,People's Choice Award,Midnight Madness,False,False,The Autopsy of Jane Doe,nm0004217,André Øvredal,The Autopsy of Jane Doe,2016.0,Others,6344339
+tt4954522,2016,People's Choice Award,Midnight Madness,False,False,Raw,nm4469445,Julia Ducournau,Raw,2016.0,Drama,3822915
+tt4730986,2016,Discovery Award,Best Film,False,False,Divines,nm3997700,Houda Benyamina,Divines,2016.0,Others,2432744
+tt5451054,2016,Discovery Award,Best Film,False,False,Godless,nm2432218,Ralitza Petrova,Godless,2016.0,Drama,7160
+tt4613254,2016,Discovery Award,Best Film,False,False,Heartstone,nm2003134,Guðmundur Arnar Guðmundsson,Heartstone,2016.0,Drama,382565
+tt5287168,2016,Discovery Award,Best Film,False,False,Sami Blood,nm1840544,Amanda Kernell,Sami Blood,2017.0,Drama,461548
+tt4771932,2016,Discovery Award,Best Film,False,False,The Happiest Day in the Life of Olli Mäki,nm3123366,Juho Kuosmanen,The Happiest Day in the Life of Olli Mäki,2016.0,Others,594695
+tt3666024,2016,Discovery Award,Best Film,False,False,The Red Turtle,nm0240196,Michael Dudok de Wit,The Red Turtle,2017.0,Others,7906996
+tt4645368,2016,Best Canadian Feature Film,,False,False,It's Only the End of the World,nm0230859,Xavier Dolan,It's Only the End of the World,2017.0,Drama,9631050
+tt3721954,2016,Best Canadian Feature Film,,False,False,Maudie,nm0909532,Aisling Walsh,Maudie,2016.0,Others,16835135
+tt5326364,2016,Best Canadian Feature Film,,False,False,Nelly,nm3503229,Anne Émond,Nelly,2017.0,Drama,7826
+tt5474522,2016,Best Canadian Feature Film,,False,True,Old Stone,nm3534176,Johnny Ma,Old Stone,2016.0,Others,16140
+tt5918090,2016,International Critics' Award (FIPRESCI),Special Presentations,True,True,I Am Not Madame Bovary,nm0271815,Xiaogang Feng,I Am Not Madame Bovary,2016.0,Comedy,75454286
+tt5974388,2016,NETPAC Award,,True,True,In Between,nm4092213,Maysaloun Hamoud,In Between,2017.0,Drama,1881500
+tt1619029,2016,Platform Prize,,True,True,Jackie,nm1883257,Pablo Larraín,Jackie,2016.0,Others,40466063
+tt4628882,2016,Platform Prize,,False,False,Daguerrotype,nm0475905,Kiyoshi Kurosawa,Daguerrotype,2017.0,Drama,1121
+tt4911996,2016,Platform Prize,,False,False,Goldstone,nm0784008,Ivan Sen,Goldstone,2016.0,Others,769654
+tt5096536,2016,Platform Prize,,False,False,Heal the Living,nm1580395,Katell Quillévéré,Heal the Living,2017.0,Drama,2327092
+tt4291600,2016,Platform Prize,,False,False,Lady Macbeth,nm4399706,William Oldroyd,Lady Macbeth,2017.0,Drama,6817983
+tt5712152,2016,Platform Prize,,False,False,Layla M.,nm0209010,Mijke de Jong,Layla M.,2016.0,Drama,281217
+tt4975722,2016,Platform Prize,,False,False,Moonlight,nm1503575,Barry Jenkins,Moonlight,2016.0,Drama,98365559
+tt4795546,2016,Platform Prize,,False,False,Nocturama,nm0094274,Bertrand Bonello,Nocturama,2017.0,Drama,364371
+tt3638644,2016,Grosch People's Choice Award,,False,False,White Sun,nm3581951,Deepak Rauniyar,White Sun,2017.0,Others,193514
+tt5225428,2017,People's Choice Award,Discovery,False,False,Kissing Candice,nm5685519,Aoife McArdle,Kissing Candice,2018.0,Drama,2282
+tt5598102,2017,People's Choice Award,Documentary,True,False,Faces Places,nm0889513,Agnès Varda,Faces Places,2017.0,Others,5127358
+tt5027774,2017,People's Choice Award,Gala or Special Presentations,True,False,"Three Billboards Outside Ebbing, Missouri",nm1732981,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri",2017.0,Others,221547257
+tt5580036,2017,People's Choice Award,Gala or Special Presentations,False,False,"I, Tonya",nm0318916,Craig Gillespie,"I, Tonya",2018.0,Others,86555430
+tt5726616,2017,People's Choice Award,Gala or Special Presentations,False,False,Call Me by Your Name,nm0345174,Luca Guadagnino,Call Me by Your Name,2018.0,Drama,61842081
+tt6953076,2017,People's Choice Award,Gala or Special Presentations,False,False,Sheikh Jackson,nm1782844,Amr Salama,Sheikh Jackson,2018.0,Drama,65071
+tt5883570,2017,People's Choice Award,Midnight Madness,True,False,Bodied,nm0994538,Joseph Kahn,Bodied,2018.0,Comedy,231086
+tt3521126,2017,People's Choice Award,Midnight Madness,False,False,The Disaster Artist,nm0290556,James Franco,The Disaster Artist,2017.0,Others,52805933
+tt5657856,2017,People's Choice Award,Midnight Madness,False,False,Brawl in Cell Block 99,nm0951975,S. Craig Zahler,Brawl in Cell Block 99,2017.0,Others,66774
+tt6796742,2017,Discovery Award,Best Film,False,False,Valley of Shadows,nm2838316,Jonas Matzow Gulbrandsen,Valley of Shadows,2018.0,Drama,21476
+tt6243140,2017,Best Canadian Feature Film,,True,True,Ravenous,nm0041315,Robin Aubert,Ravenous,2018.0,Drama,42011
+tt3364264,2017,Best Canadian Feature Film,,False,False,Adventures in Public School,nm2079911,Kyle Rideout,Adventures in Public School,2018.0,Comedy,8251
+tt6215208,2017,Best Canadian Feature Film,,False,False,Allure,nm8558869,Carlos Sanchez,Allure,2018.0,Drama,40
+tt5119116,2017,Best Canadian Feature Film,,False,False,Pyewacket,nm0531595,Adam MacDonald,Pyewacket,2018.0,Drama,170611
+tt7259986,2017,International Critics' Award (FIPRESCI),Discovery,True,True,Ava,nm2080959,Sadaf Foroughi,Ava,2018.0,Drama,42982
+tt5451244,2017,International Critics' Award (FIPRESCI),Special Presentations,True,True,The Motive,nm0554532,Manuel Martín Cuenca,The Motive,2017.0,Comedy,800503
+tt6958212,2017,Platform Prize,,True,True,Sweet Country,nm0861610,Warwick Thornton,Sweet Country,2018.0,Others,1990960
+tt5628302,2017,Platform Prize,,False,False,Beast,nm3705960,Michael Pearce,Beast,2018.0,Others,2584485
+tt5884230,2017,Platform Prize,,False,False,Brad's Status,nm0925234,Mike White,Brad's Status,2017.0,Comedy,6148603
+tt6002232,2017,Platform Prize,,False,False,Custody,nm0499488,Xavier Legrand,Custody,2017.0,Drama,4013736
+tt5700176,2017,Platform Prize,,False,True,Dark River,nm1163237,Clio Barnard,Dark River,2018.0,Drama,250383
+tt5698320,2017,Platform Prize,,False,False,Euphoria,nm2272926,Lisa Langseth,Euphoria,2019.0,Others,79451
+tt5504810,2017,Platform Prize,,False,False,If You Saw His Heart,nm2880164,Joan Chemla,If You Saw His Heart,2018.0,Others,3814
+tt5584756,2017,Platform Prize,,False,False,Mademoiselle Paradis,nm0016475,Barbara Albert,Mademoiselle Paradis,2018.0,Drama,17895
+tt7216256,2017,Platform Prize,,False,False,Razzia,nm0043953,Nabil Ayouch,Razzia,2018.0,Drama,1187265
+tt4686844,2017,Platform Prize,,False,False,The Death of Stalin,nm0406334,Armando Iannucci,The Death of Stalin,2018.0,Comedy,33479181
+tt7213936,2017,Platform Prize,,False,False,What Will People Say,nm1155348,Iram Haq,What Will People Say,2018.0,Drama,2222459
+tt4540384,2017,Wavelengths Section,Competition,False,False,The Nothing Factory,nm2167230,Pedro Pinho,The Nothing Factory,2018.0,Drama,43780
+tt4547194,2018,People's Choice Award,Best film,False,False,I Kill Giants,nm2225334,Anders Walter,I Kill Giants,2018.0,Drama,350785
+tt5149490,2018,People's Choice Award,Discovery,False,False,Gwen,nm3295899,William McGregor,Gwen,2019.0,Drama,29640
+tt7775622,2018,People's Choice Award,Documentary,True,False,Free Solo,nm3011011,Jimmy Chin,Free Solo,2018.0,Others,42242921
+tt5795282,2018,People's Choice Award,Documentary,False,False,This Changes Everything,nm0231999,Tom Donahue,This Changes Everything,2019.0,Others,129976
+tt8969332,2018,People's Choice Award,Documentary,False,False,The Biggest Little Farm,nm2092965,John Chester,The Biggest Little Farm,2019.0,Others,8712162
+tt8055888,2018,People's Choice Award,Midnight Madness,True,False,Mard Ko Dard Nahin Hota,nm3035236,Vasan Bala,Mard Ko Dard Nahin Hota,2019.0,Others,22094
+tt1502407,2018,People's Choice Award,Midnight Madness,False,False,Halloween,nm0337773,David Gordon Green,Halloween,2018.0,Others,419209020
+tt6205872,2018,People's Choice Award,Midnight Madness,False,False,Assassination Nation,nm0506094,Sam Levinson,Assassination Nation,2018.0,Others,4646661
+tt8137722,2018,Discovery Award,Best Film,False,False,Her Job,nm2614658,Nikos Labôt,Her Job,2019.0,Drama,16875
+tt8875366,2018,Discovery Award,Best Film,False,True,The Crossing,nm10063029,Bai Xue,The Crossing,2019.0,Drama,1680108
+tt8449092,2018,Best Canadian Feature Film,,True,True,The Fireflies Are Gone,nm3614028,Sébastien Pilote,The Fireflies Are Gone,2018.0,Drama,495172
+tt7574126,2018,Best Canadian Feature Film,,False,False,Carmine Street Guitars,nm0542951,Ron Mann,Carmine Street Guitars,2019.0,Others,88506
+tt4481066,2018,Best Canadian Feature Film,,False,False,Giant Little Ones,nm0067101,Keith Behrman,Giant Little Ones,2019.0,Drama,363014
+tt6026818,2018,Best Canadian Feature Film,,False,False,Sharkwater Extinction,nm2380267,Rob Stewart,Sharkwater Extinction,2019.0,Others,1712
+tt4042818,2018,Best Canadian Feature Film,,False,False,The Death and Life of John F. Donovan,nm0230859,Xavier Dolan,The Death and Life of John F. Donovan,2019.0,Drama,2964532
+tt7231342,2018,Best Canadian Feature Film,,False,False,The Fall of the American Empire,nm0000780,Denys Arcand,The Fall of the American Empire,2019.0,Comedy,6114592
+tt5580266,2018,Best Canadian Feature Film,,False,False,The Hate U Give,nm0863387,George Tillman Jr.,The Hate U Give,2018.0,Others,65334324
+tt7708476,2018,Best Canadian Feature Film,,False,False,What Is Democracy?,nm2025391,Astra Taylor,What Is Democracy?,2019.0,Others,89072
+tt7692966,2018,NETPAC Award,,True,True,The Third Wife,nm4451190,Ash Mayfair,The Third Wife,2019.0,Drama,378797
+tt7318102,2018,Platform Prize,,False,False,Angelo,nm0772207,Markus Schleinzer,Angelo,2018.0,Drama,470
+tt7137380,2018,Platform Prize,,False,False,Destroyer,nm0476201,Karyn Kusama,Destroyer,2018.0,Others,7210250
+tt7087210,2018,Platform Prize,,False,False,Donnybrook,nm4991744,Tim Sutton,Donnybrook,2019.0,Drama,52568
+tt7942742,2018,Platform Prize,,False,False,Her Smell,nm3504405,Alex Ross Perry,Her Smell,2019.0,Drama,516080
+tt7530986,2018,Platform Prize,,False,False,Lady J,nm0609981,Emmanuel Mouret,Lady J,2019.0,Drama,4139139
+tt6874254,2018,Platform Prize,,False,False,Out of Blue,nm1345246,Carol Morley,Out of Blue,2019.0,Others,261626
+tt8956390,2018,Platform Prize,,False,False,Rojo,nm3028737,Benjamín Naishtat,Rojo,2019.0,Drama,459634
+tt7482212,2018,Platform Prize,,False,False,The Good Girls,nm2004888,Alejandra Márquez Abella,The Good Girls,2018.0,Drama,741782
+tt7111818,2018,Platform Prize,,False,False,The River,nm5028357,Emir Baigazin,The River,2019.0,Drama,748
+tt7636672,2018,FIPRESCI Prize,Discovery,True,True,Float Like a Butterfly,nm1288939,Carmel Winters,Float Like a Butterfly,2019.0,Drama,10721
+tt6043142,2018,FIPRESCI Prize,Special Presentations,True,True,Skin,nm1142235,Guy Nattiv,Skin,2019.0,Others,9572
+tt7976904,2018,Eurimages Audentia Award - Honorable Mention,,True,True,Phoenix,nm0835602,Camilla Strøm Henriksen,Phoenix,2019.0,Drama,224718
+tt6966692,2018,Grolsch People's Choice Award,,True,True,Green Book,nm0268380,Peter Farrelly,Green Book,2018.0,Others,411286111
+tt7125860,2018,Grolsch People's Choice Award,,False,False,If Beale Street Could Talk,nm1503575,Barry Jenkins,If Beale Street Could Talk,2018.0,Drama,36097988
+tt6155172,2018,Grolsch People's Choice Award,,False,False,Roma,nm0190859,Alfonso Cuarón,Roma,2018.0,Drama,1164019

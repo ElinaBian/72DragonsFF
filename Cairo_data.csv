@@ -1,0 +1,107 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0109454,1994,Golden Pyramid,,True,False,Colonel Chabert,nm0002174,Yves Angelo,Colonel Chabert,1994.0,Drama,1585128
+tt0129923,1997,Golden Pyramid,,True,True,The Chambermaid on the Titanic,nm0000940,Bigas Luna,The Chambermaid on the Titanic,1998.0,Drama,2945297
+tt0119683,1998,Golden Pyramid,,False,False,Les Misérables,nm0000806,Bille August,Les Misérables,1998.0,Others,44254135
+tt0160513,2000,Golden Pyramid,,False,False,A Map of the World,nm0254623,Scott Elliott,A Map of the World,2000.0,Drama,1689028
+tt0256259,2001,Golden Pyramid,,True,False,Pauline and Paulette,nm0213529,Lieven Debrauwer,Pauline and Paulette,2001.0,Comedy,769324
+tt0181875,2001,Golden Pyramid,,False,True,Almost Famous,nm0001081,Cameron Crowe,Almost Famous,2000.0,Others,117576412
+tt0296008,2001,Golden Pyramid,,False,False,Inch'Allah dimanche,nm0071117,Yamina Benguigui,Inch'Allah dimanche,2002.0,Others,552592
+tt0290858,2001,Golden Pyramid,,False,False,"Sia, the Dream of the Python",nm0468125,Dani Kouyaté,"Sia, the Dream of the Python",2002.0,Drama,34810
+tt0279747,2002,Golden Pyramid,,False,False,Broken Hearts,nm0599472,Rafael Montero,Broken Hearts,2001.0,Others,885565
+tt0240521,2002,Golden Pyramid,,False,False,Ferocious,nm0537923,Gilles de Maistre,Ferocious,2002.0,Drama,280507
+tt0355715,2002,Golden Pyramid,,False,True,His Excellency the Minister,nm0782484,Samir Seif,His Excellency the Minister,2003.0,Drama,1025491
+tt0277027,2002,Golden Pyramid,,False,True,I Am Sam,nm0625458,Jessie Nelson,I Am Sam,2002.0,Drama,199315883
+tt0336018,2002,Golden Pyramid,,False,False,Sleeping Beauties,nm0523566,Eloy Lozano,Sleeping Beauties,2001.0,Drama,8003
+tt0362274,2002,Golden Pyramid,,False,False,"Va, petite!",nm0346365,Alain Guesnier,"Va, petite!",2003.0,Others,14917
+tt0366581,2003,Golden Pyramid,Best Film,False,True,Girl's Love,nm0015706,Khaled El Hagar,Girl's Love,2004.0,Comedy,677029
+tt0336432,2003,Golden Pyramid,Best Film,False,False,Only Girls,nm0427136,Pierre Jolivet,Only Girls,2004.0,Comedy,1647291
+tt0416494,2004,Golden Pyramid,,False,True,Al bahethat an al horeya,nm1405841,Enas El-Degheidy,Al bahethat an al horeya,2004.0,Drama,266077
+tt0387844,2004,Golden Pyramid,,False,False,Asmali konak: Hayat,nm1283973,Abdullah Oguz,Asmali konak: Hayat,2003.0,Drama,10939221
+tt0362789,2004,Golden Pyramid,,False,True,Ay Juancito,nm0647055,Héctor Olivera,Ay Juancito,2004.0,Others,343208
+tt0347334,2004,Golden Pyramid,,False,True,Bless the Woman,nm0332892,Stanislav Govorukhin,Bless the Woman,2003.0,Drama,833526
+tt0456902,2004,Golden Pyramid,,False,False,Concorso di colpa,nm0289576,Claudio Fragasso,Concorso di colpa,2005.0,Others,103806
+tt0452774,2004,Golden Pyramid,,False,True,Enta omry,nm0950352,Khaled Youssef,Enta omry,2004.0,Drama,600312
+tt0387952,2004,Golden Pyramid,,False,True,The Giraffe's Neck,nm1465130,Safy Nebbou,The Giraffe's Neck,2004.0,Drama,1857798
+tt0343221,2005,Golden Pyramid,,True,False,Mother of Mine,nm0405605,Klaus Härö,Mother of Mine,2006.0,Drama,3667812
+tt0478213,2005,Best Arabic Film,,True,True,A New Day in Old Sana'a,nm2026756,Bader Ben Hirsi,A New Day in Old Sana'a,2006.0,Drama,1869
+tt0446298,2006,Golden Pyramid,Best Film,False,False,Civic Duty,nm1199954,Jeff Renfroe,Civic Duty,2006.0,Drama,258896
+tt1050719,2006,Golden Pyramid,Best Film,False,True,Cut and Paste,nm1672004,Hala Khalil,Cut and Paste,2008.0,Comedy,50581
+tt0488414,2006,Golden Pyramid,Best Film,False,True,Omkara,nm0080235,Vishal Bhardwaj,Omkara,2006.0,Others,22240486
+tt0365737,2006,Special Award,Arabs in The International Cinema,True,True,Syriana,nm0906756,Amr Waked,Syriana,2005.0,Drama,188024167
+tt0853246,2007,Golden Pyramid,Best Film,False,True,Kicks,nm0855350,Albert Ter Heerdt,Kicks,2007.0,Others,600608
+tt0834951,2007,Golden Pyramid,Best Film,False,False,Seachd: The Inaccessible Pinnacle,nm2126684,Simon David Miller,Seachd: The Inaccessible Pinnacle,2007.0,Drama,24434
+tt1325618,2007,Best Actress,,True,True,Polnoe dykhanie,nm0529414,Tatyana Lyutaeva,Polnoe dykhanie,2007.0,Drama,22279
+tt0986379,2007,Best Actress,,True,True,Ópera,nm2586944,Marina Magro,Ópera,2008.0,Drama,9095
+tt1176942,2008,Golden Pyramid,Best Film,True,False,Return to Hansala,nm0349484,Chus Gutiérrez,Return to Hansala,2009.0,Drama,169713
+tt1086214,2008,Silver Pyramid,Special Jury Award,True,True,Cut Loose,nm0894178,Jan Verheyen,Cut Loose,2009.0,Drama,730455
+tt0905329,2008,Best Actor,,True,True,El Greco,nm0098709,Juan Diego Botto,El Greco,2009.0,Others,11495501
+tt1048171,2008,Best Actress,,True,True,Séraphine,nm0603446,Yolande Moreau,Séraphine,2009.0,Others,12170623
+tt1031237,2008,Best Director,,True,True,Dancers,nm0278803,Pernille Fischer Christensen,Dancers,2009.0,Drama,115262
+tt1087526,2008,Best Artistic Contribution,,True,True,Tandoori Love,nm0667393,Oliver Paulus,Tandoori Love,2010.0,Comedy,190336
+tt1364487,2009,Golden Pyramid,,True,True,Letters to Father Jacob,nm1818453,Risto Salomaa,Letters to Father Jacob,2010.0,Drama,1571563
+tt1234918,2009,Golden Pyramid,,False,False,Amália,nm2075606,Carlos Coelho da Silva,Amália,2008.0,Others,1470653
+tt1052348,2009,Golden Pyramid,,False,True,Luisa,nm1449455,Gonzalo Calzada,Luisa,2009.0,Drama,17031
+tt1328634,2009,Golden Pyramid,,False,False,New York,nm1203138,Kabir Khan,New York,2009.0,Others,3475253
+tt1427091,2009,Golden Pyramid,,False,True,One War,nm0321687,Vera Glagoleva,One War,2009.0,Drama,47047
+tt1173959,2009,Golden Pyramid,,False,False,Slaves in Their Bonds,nm0528068,Adonis Lykouresis,Slaves in Their Bonds,2009.0,Drama,174439
+tt1267498,2009,Golden Pyramid,,False,False,The Friends at the Margherita Cafe,nm0002194,Pupi Avati,The Friends at the Margherita Cafe,2009.0,Comedy,5111117
+tt1442519,2009,Golden Pyramid,,False,True,The Hedgehog,nm2130235,Mona Achache,The Hedgehog,2010.0,Drama,20949192
+tt1525344,2009,Golden Pyramid,,False,False,Vortex,nm0525739,Gytis Luksas,Vortex,2010.0,Drama,57751
+tt1161064,2009,Best Director,Children's International Jury Prize for Long Feature films,True,True,Super Capers: The Origins of Ed and the Missing Bullion,nm2050708,Ray Griggs,Super Capers: The Origins of Ed and the Missing Bullion,2009.0,Others,74378
+tt1190858,2009,Best Arabic Film,,True,True,Amreeka,nm1435062,Cherien Dabis,Amreeka,2009.0,Drama,3393388
+tt1616204,2010,Golden Pyramid,Best Film,False,True,Voice Over,nm0654042,Svetoslav Ovtcharov,Voice Over,2010.0,Drama,14728
+tt1408062,2010,Best Actor,,True,True,The Father and the Foreigner,nm0309348,Alessandro Gassmann,The Father and the Foreigner,2011.0,Drama,160249
+tt1415290,2010,Best Screenplay,Arabic Film Compitition,True,True,Son of Babylon,nm1865534,Mohamed Al Daradji,Son of Babylon,2010.0,Drama,56587
+tt2396639,2012,Golden Pyramid,Best Film,True,False,Rendezvous in Kiruna,nm1738978,Anna Novion,Rendezvous in Kiruna,2013.0,Drama,162
+tt1825842,2012,Silver Pyramid,,True,True,The Entrepreneur,nm0598855,Giuliano Montaldo,The Entrepreneur,2012.0,Drama,412493
+tt2369543,2012,Special Award,Arabs in The International Cinema,True,True,When I Saw You,nm1486975,Annemarie Jacir,When I Saw You,2014.0,Drama,48289
+tt1906470,2012,Jury Prize for Best Cinematography and Artistic Direction,,True,True,Tannoura Maxi,nm4488446,Joe Bou Eid,Tannoura Maxi,2012.0,Drama,130987
+tt3183630,2014,Silver Pyramid,Best Screenplay,True,True,Boy and the World,nm0994245,Alê Abreu,Boy and the World,2014.0,Others,436787
+tt3331150,2014,Best Arabic Film,,True,True,Scheherazade's Diary,nm3733101,Zeina Daccache,Scheherazade's Diary,2015.0,Others,45144
+tt3409392,2014,Best Arabic Film,,False,False,Timbuktu,nm0803066,Abderrahmane Sissako,Timbuktu,2014.0,Drama,8885318
+tt3170902,2014,Jury Prize for Best Cinematography and Artistic Direction,,True,True,Theeb,nm3578681,Naji Abu Nowar,Theeb,2015.0,Others,1149738
+tt3486542,2015,Golden Pyramid,Best Film,True,False,Mediterranea,nm3476432,Jonas Carpignano,Mediterranea,2015.0,Drama,73721
+tt3213684,2015,Golden Pyramid,Best Film,False,False,1944,nm0639297,Elmo Nüganen,1944,2015.0,Drama,118191
+tt4485178,2015,Golden Pyramid,Best Film,False,False,I Am a Soldier,nm1327391,Laurent Larivière,I Am a Soldier,2016.0,Drama,117543
+tt3784222,2015,Golden Pyramid,Best Film,False,False,Paulina,nm1377207,Santiago Mitre,Paulina,2017.0,Drama,1099495
+tt4593108,2015,Golden Pyramid,Best Film,False,True,The High Sun,nm0558094,Dalibor Matanic,The High Sun,2015.0,Drama,678448
+tt4515684,2015,Golden Pyramid,Best Film,False,True,The Treasure,nm1717949,Corneliu Porumboiu,The Treasure,2016.0,Comedy,143022
+tt2614722,2015,Golden Pyramid,Best Film,False,True,Umrika,nm3573399,Prashant Nair,Umrika,2015.0,Comedy,151668
+tt2611652,2015,Golden Pyramid,Best Film,False,False,Virgin Mountain,nm0477597,Dagur Kári,Virgin Mountain,2015.0,Drama,809754
+tt4160256,2015,Special Mention,Best Documentary,True,True,Olmo & the Seagull,nm3525467,Petra Costa,Olmo & the Seagull,2016.0,Others,6841
+tt4817256,2015,Cairo Film Critics' Week,Best Film,True,True,The Red Spider,nm1411830,Marcin Koszalka,The Red Spider,2015.0,Others,247277
+tt5606268,2016,Golden Pyramid,Best Film,True,True,Mimosas,nm3890574,Oliver Laxe,Mimosas,2016.0,Drama,110202
+tt3521306,2016,Golden Pyramid,Best Film,False,False,A Good Wife,nm0438905,Mirjana Karanovic,A Good Wife,2016.0,Drama,5732
+tt3296980,2016,Golden Pyramid,Best Film,False,False,A Heavy Heart,nm1635354,Thomas Stuber,A Heavy Heart,2017.0,Drama,12038
+tt5465642,2016,Golden Pyramid,Best Film,False,True,Anna's Life,nm7924713,Nino Basilia,Anna's Life,2017.0,Drama,1904
+tt3037164,2016,Golden Pyramid,Best Film,False,True,Kills on Wheels,nm2000966,Attila Till,Kills on Wheels,2016.0,Others,64757
+tt5712152,2016,Golden Pyramid,Best Film,False,False,Layla M.,nm0209010,Mijke de Jong,Layla M.,2016.0,Drama,281217
+tt4901306,2016,Golden Pyramid,Best Film,False,True,Perfect Strangers,nm0002645,Paolo Genovese,Perfect Strangers,2016.0,Comedy,33558195
+tt6128848,2016,Golden Pyramid,Best Film,False,False,Someone to Talk To,nm4451634,Yulin Liu,Someone to Talk To,2016.0,Drama,3177398
+tt3913244,2016,Golden Pyramid,Best Film,False,False,The Carer,nm0248953,János Edelényi,The Carer,2016.0,Comedy,296286
+tt4699444,2016,Golden Pyramid,Best Film,False,False,The Stopover,nm0183419,Delphine Coulin,The Stopover,2017.0,Drama,155016
+tt4524676,2016,Golden Pyramid,Best Film,False,False,The Train of Salt and Sugar,nm0044242,Licínio Azevedo,The Train of Salt and Sugar,2018.0,Others,2364
+tt4288518,2016,Golden Pyramid,Best Film,False,True,We Are Never Alone,nm0904605,Petr Václav,We Are Never Alone,2016.0,Drama,10736
+tt2953762,2016,Cairo Film Critics' Week,Best Film,False,False,"I, Olga",nm2606827,Tomás Weinreb,"I, Olga Hepnarová",2017.0,Others,238425
+tt6803924,2017,Golden Pyramid,Best Film,True,False,The Intrusion,nm0182450,Leonardo di Costanzo,The Intrusion,2017.0,Drama,178608
+tt7177156,2017,Golden Pyramid,Best Film,False,False,A Season in France,nm0757958,Mahamat-Saleh Haroun,A Season in France,2018.0,Drama,99426
+tt2610248,2017,Golden Pyramid,Best Film,False,True,Disappearance,nm2673025,Boudewijn Koole,Disappearance,2017.0,Drama,58226
+tt6306400,2017,Golden Pyramid,Best Film,False,False,Fortunata,nm0144812,Sergio Castellitto,Fortunata,2017.0,Drama,2671847
+tt6497898,2017,Golden Pyramid,Best Film,False,False,In Syria,nm0887375,Philippe Van Leeuw,In Syria,2017.0,Drama,285975
+tt7272242,2017,Golden Pyramid,Best Film,False,True,Killing Jesus,nm2005384,Laura Mora Ortega,Killing Jesus,2017.0,Drama,100402
+tt6596454,2017,Golden Pyramid,Best Film,False,True,Los Perros,nm1888700,Marcela Said,Los Perros,2017.0,Drama,87391
+tt6067428,2017,Golden Pyramid,Best Film,False,False,Nina,nm2996966,Juraj Lehotsky,Nina,2017.0,Drama,24337
+tt4736486,2017,International Panorama,International Panorama,False,False,Octav,nm0148053,Serge Ioan Celebidachi,Octav,2018.0,Drama,234540
+tt5764816,2017,Cinema of Tomorrow Award,Shadi Abdel Salam Award for Best Film,True,True,The Swan,nm3907579,Ása Helga Hjörleifsdóttir,Svanurinn,2018.0,Drama,65961
+tt6792282,2018,Golden Pyramid,Best Film,True,True,A Twelve-Year Night,nm1304308,Álvaro Brechner,A Twelve-Year Night,2018.0,Others,817524
+tt7434928,2018,Golden Pyramid,Best Film,False,False,Amin,nm0268999,Philippe Faucon,Amin,2018.0,Drama,401328
+tt6386748,2018,Golden Pyramid,Best Film,False,True,Birds of Passage,nm5305003,Cristina Gallego,Birds of Passage,2019.0,Drama,2822716
+tt8282042,2018,Golden Pyramid,Best Film,False,False,Donbass,nm0523665,Sergey Loznitsa,Donbass,2019.0,Drama,86985
+tt7779590,2018,Golden Pyramid,Best Film,False,False,Euphoria,nm0000420,Valeria Golino,Euphoria,2018.0,Drama,1968450
+tt8274146,2018,Golden Pyramid,Best Film,False,True,One Day,nm2931674,Zsófia Szilágyi,One Day,2018.0,Drama,87986
+tt7692966,2018,Golden Pyramid,Best Film,False,True,The Third Wife,nm4451190,Ash Mayfair,The Third Wife,2019.0,Drama,378797
+tt7583280,2018,Best Arabic Film,,False,False,Heaven Without People,nm3396318,Lucien Bourjeily,Heaven Without People,2018.0,Drama,5551
+tt6746304,2018,Cairo Film Critics' Week,Best Film,False,False,Pity,nm1702672,Babis Makridis,Pity,2018.0,Drama,30912
+tt8296592,2018,Cairo Film Critics' Week,Best Film,False,False,Sofia,nm6703326,Meryem Benm'Barek-Aloïsi,Sofia,2018.0,Drama,419809
+tt8266010,2018,Cairo Film Critics' Week,Best Film,False,False,The Snatch Thief,nm3188011,Agustín Toscano,The Snatch Thief,2018.0,Others,14319
+tt7279188,2018,Cairo Film Critics' Week,Best Film,False,False,Woman at War,nm0259574,Benedikt Erlingsson,Woman at War,2018.0,Others,5351222

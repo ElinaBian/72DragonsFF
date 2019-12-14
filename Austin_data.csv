@@ -1,0 +1,56 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0111712,1995,Feature Film Award,Best Film,True,False,Widows' Peak,nm0410139,John Irvin,Widows' Peak,1994.0,Comedy,21634856
+tt0118671,1997,Feature Film Award,,False,False,Bad Manners,nm0319429,David Gilman,Bad Manners,1998.0,Comedy,98750
+tt0161743,1997,Feature Film Award,,False,False,The Last Big Thing,nm0958539,Dan Zukovic,The Last Big Thing,1998.0,Comedy,71012
+tt0120095,1997,Feature Film Award,,False,False,Tinseltown,nm0819045,Tony Spiridakis,Tinseltown,1999.0,Comedy,4928
+tt0157913,1998,Feature Film Award,,True,False,La Cucaracha,nm0573140,James McManus,La Cucaracha,1999.0,Comedy,45180
+tt0157182,1998,Audience Award,,True,True,Went to Coney Island on a Mission from God... Be Back by Five,nm0001083,Jon Cryer,Went to Coney Island on a Mission from God... Be Back by Five,1998.0,Drama,25114
+tt0210357,2000,Feature Film Award,,True,False,Taliesin Jones,nm0863520,Maureen Tilyou,Taliesin Jones,2000.0,Drama,111203
+tt0249462,2000,Audience Award,Best Distributed Feature Film,True,True,Billy Elliot,nm0355822,Lee Hall,Billy Elliot,2000.0,Drama,192689248
+tt0229002,2001,Audience Award,Best Advanced Screening,True,True,Green Dragon,nm0004784,Tony Bui,Green Dragon,2001.0,Drama,822549
+tt0221074,2001,Audience Award,Best Competition Feature Film,True,True,Christmas in the Clouds,nm0007198,Kate Montgomery,Christmas in the Clouds,2005.0,Comedy,725156
+tt0314871,2002,Feature Film Award,,True,False,Washington Heights,nm1155935,Nat Moss,Washington Heights,2002.0,Drama,455640
+tt0296745,2002,Audience Award,Best Advance Screening,True,True,Master of the Game,nm1113306,Uygar Aktan,Master of the Game,2004.0,Drama,17537
+tt0314725,2002,Audience Award,Best Documentary Showcase Film,True,True,Standing in the Shadows of Motown,nm1175266,Walter Dallas,Standing in the Shadows of Motown,2002.0,Others,5731682
+tt0327919,2003,Audience Award,Best Advance Screening,True,True,I Am David,nm0082450,Paul Feig,I Am David,2004.0,Drama,780110
+tt0398830,2004,Feature Film Award,Best Narrative Feature,True,True,Cape of Good Hope,nm0051470,Mark Bamford,Cape of Good Hope,2004.0,Comedy,72029
+tt0402577,2004,Documentary Film Award,Best Documentary Feature,True,True,WMD: Weapons of Mass Deception,nm0770357,Danny Schechter,WMD: Weapons of Mass Deception,2004.0,Others,81392
+tt0372824,2004,Audience Award,Best Narrative Feature - Distributed,True,True,The Chorus,nm0056725,Christophe Barratier,The Chorus,2004.0,Drama,123183918
+tt0337584,2005,Audience Award,Narrative Feature,True,True,Backseat,nm1395408,Josh Alexander,Backseat,2008.0,Comedy,29543
+tt0758738,2006,Feature Film Award,Best Narrative Feature,True,True,Chalk,nm2158125,Chris Mass,Chalk,2007.0,Comedy,748879
+tt0495060,2006,Documentary Film Award,,True,True,Abduction: The Megumi Yokota Story,nm2143272,Patty Kim,Abduction: The Megumi Yokota Story,2006.0,Others,69226
+tt0477095,2006,Audience Award,Advance Screening,True,True,Starter for 10,nm0891114,Tom Vaughan,Starter for 10,2007.0,Comedy,2422780
+tt0489212,2007,Feature Film Award,Comedic Vision,True,False,The Living Wake,,[],The Living Wake,2007.0,Comedy,30005
+tt0952682,2007,Feature Film Award,Narrative Competition,True,False,Shotgun Stories,nm2158772,Jeff Nichols,Shotgun Stories,2008.0,Drama,277325
+tt0834941,2007,Audience Award,,True,True,A Plumm Summer,nm0954474,Caroline Zelder,A Plumm Summer,2007.0,Others,155384
+tt0831275,2008,Feature Film Award,Best Narrative Feature,False,False,Bigga Than Ben,nm0355070,S.A. Halewood,Bigga Than Ben,2008.0,Drama,600051
+tt1233611,2008,Audience Award,Documentary Feature,True,True,Visual Acoustics,,[],Visual Acoustics,2009.0,Others,124044
+tt1010048,2008,Audience Award,Out of Competition Feature,True,True,Slumdog Millionaire,nm0000965,Danny Boyle,Slumdog Millionaire,2008.0,Drama,631163825
+tt1224376,2009,Feature Film Award,,True,False,Tobruk,nm0546905,Václav Marhoul,Tobruk,2009.0,Others,690211
+tt1655442,2011,Audience Award,Out of Competition Feature,True,True,The Artist,nm0486627,Thomas Langmann,The Artist,2012.0,Comedy,200799675
+tt1822311,2012,Feature Film Award,Best Narrative Feature,True,False,Sparrows Dance,nm1231757,Noah Buschel,Sparrows Dance,2013.0,Comedy,5686
+tt2011300,2012,Feature Film Award,Best Narrative Feature,False,False,The Kitchen,nm1335694,Ishai Setton,The Kitchen,2012.0,Comedy,8993
+tt2294679,2012,Documentary Film Award,Best Documentary Feature,True,True,Informant,nm0578436,Jamie Meltzer,Informant,2013.0,Others,21976
+tt2088883,2012,Audience Award,Audience Choice Award,True,True,Rising from Ashes,nm1997420,T.C. Johnstone,Rising from Ashes,2012.0,Others,102085
+tt2014351,2012,Audience Award,Best Documentary,True,True,Spinning Plates,nm0506485,Joseph Levy,Spinning Plates,2013.0,Others,259661
+tt1045658,2012,Audience Award,Narrative Feature,True,True,Silver Linings Playbook,nm0751102,David O. Russell,Silver Linings Playbook,2012.0,Comedy,410149872
+tt3135556,2014,Audience Award,Comedy Vanguard,True,True,Jimmy Vestvood: Amerikan Hero,nm0423414,Maz Jobrani,Jimmy Vestvood: Amerikan Hero,2016.0,Comedy,553318
+tt2517300,2014,Audience Award,Dark Matters,True,True,The Suicide Theory,nm5414625,Michael J. Kospiah,The Suicide Theory,2015.0,Drama,13778
+tt2460872,2014,Audience Award,Stories from Abroad,True,True,Taking It Back,nm5360411,Andreas Schmied,Taking It Back,2014.0,Comedy,418139
+tt3878978,2015,Audience Award,Dark Matters,True,True,Reparation,nm0357221,Kyle Ham,Reparation,2016.0,Drama,47153
+tt3379352,2015,Audience Award,Documentary Feature,True,True,Mully,nm2020278,Scott Haze,Mully,2017.0,Others,3086867
+tt4457020,2015,Audience Award,Stories from Abroad,True,True,El Jeremías,nm3783253,Ana Sofía Clerici,El Jeremías,2016.0,Comedy,3373007
+tt3455830,2015,Jury Award,Narrative Feature,True,True,El destierro,nm1182332,Arturo Ruiz Serrano,El destierro,2015.0,Drama,5816
+tt3431782,2016,Feature Film Award,Dark Matters,False,False,The Writer's Burrow,nm2088066,Kurro González,The Writer's Burrow,2016.0,Drama,6322
+tt4660172,2016,Audience Award,Comedy Vanguard,True,True,Brave New Jersey,nm7603751,Michael Dowling,Brave New Jersey,2017.0,Comedy,34439
+tt3741834,2016,Audience Award,Marquee Feature,True,True,Lion,nm1729294,Luke Davies,Lion,2017.0,Others,202102882
+tt4994736,2016,Audience Award,Stories from Abroad,True,True,My Mother's Wound,nm1560896,Ozan Açiktan,My Mother's Wound,2016.0,Drama,1849729
+tt4176928,2016,Jury Award,Dark Matters Feature,True,True,The Cliff,nm2321796,Natxo López,The Cliff,2016.0,Others,101793
+tt5816712,2016,Jury Award,Documentary Feature,True,True,Santoalla,nm3478578,Andrew Becker,Santoalla,2017.0,Others,5604
+tt6922040,2017,Feature Film Award,Best Narrative Feature,False,False,Meerkat Maantuig,nm3491007,Hanneke Schutte,Meerkat Maantuig,2017.0,Drama,62401
+tt6140148,2017,Feature Film Award,Dark Matters,False,False,Bullitt County,nm3602711,David McCracken,Bullitt County,2018.0,Others,22751
+tt2396589,2017,Audience Award,Marquee Feature,True,True,Mudbound,nm2011696,Dee Rees,Mudbound,2017.0,Drama,121567
+tt5259236,2017,Jury Award,Narrative Feature,True,True,In Blue,nm2102282,Jan-Willem den Bok,In Blue,2017.0,Drama,44607
+tt7085054,2018,Feature Film Award,Best Film,False,False,Lost & Found,nm1015355,Liam O Mochain,Lost & Found,2019.0,Comedy,259864
+tt6966692,2018,Audience Award,Marquee Feature,True,True,Green Book,nm0885014,Nick Vallelonga,Green Book,2018.0,Others,411286111
+tt7014234,2018,Audience Award,Texas Independents,True,True,The Iron Orchard,nm1010213,Ty Roberts,The Iron Orchard,2019.0,Drama,409762

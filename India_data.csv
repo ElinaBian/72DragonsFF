@@ -1,0 +1,62 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0210916,2000,Golden Peacock,Best Film,False,True,Postmen in the Mountains,nm0403225,Jianqi Huo,Postmen in the Mountains,2003.0,Drama,565658
+tt0363303,2003,Golden Peacock,Best Film,True,False,At Five in the Afternoon,nm0538533,Samira Makhmalbaf,At Five in the Afternoon,2003.0,Drama,711589
+tt0472113,2005,Golden Peacock,Best Film,True,False,Iron Island,nm1488024,Mohammad Rasoulof,Iron Island,2005.0,Drama,69869
+tt0365479,2005,Silver Peacock,,True,True,Kept and Dreamless,nm0211412,Martín De Salvo,Kept and Dreamless,2005.0,Comedy,46086
+tt0470984,2007,Golden Peacock,Best Film,False,False,The Postmodern Life of My Aunt,nm0401176,Ann Hui,The Postmodern Life of My Aunt,2007.0,Comedy,1137097
+tt0784152,2007,Special Jury Award,,True,True,Más que a nada en el mundo,nm2225864,Julia Urbini,Más que a nada en el mundo,2007.0,Drama,188126
+tt0436854,2008,Golden Peacock,Best Film,True,False,Tulpan,nm0245361,Sergei Dvortsevoy,Tulpan,2008.0,Comedy,1563550
+tt1091999,2008,Golden Peacock,Best Film,False,False,Eszter hagyatéka,nm2202443,József Sipos,Eszter hagyatéka,2008.0,Drama,251112
+tt1774531,2011,Golden Peacock,Best Film,True,False,Porfirio,nm1622258,Alejandro Landes,Porfirio,2012.0,Comedy,3760
+tt2184331,2011,Golden Peacock,Best Film,False,False,Una noche,nm2280980,Lucy Mulloy,Una noche,2012.0,Drama,236339
+tt2333598,2012,Golden Peacock,Best Film,False,False,7 Boxes,nm1515311,Juan Carlos Maneglia,7 Boxes,2014.0,Others,373461
+tt2318625,2012,Golden Peacock,Best Film,False,False,Out in the Dark,nm3199492,Michael Mayer,Out in the Dark,2013.0,Drama,101480
+tt2062969,2012,Golden Peacock,Best Film,False,False,Sister,nm0576732,Ursula Meier,Sister,2012.0,Others,783500
+tt2298820,2013,Golden Peacock,Best Film,False,False,La cinquième saison,nm0112456,Peter Brosens,La cinquième saison,2013.0,Drama,43576
+tt2205002,2013,Golden Peacock,Best Film,False,False,Twa Timoun,nm5101513,Jonas D'Adesky,Twa Timoun,2013.0,Drama,3539
+tt2369543,2013,Golden Peacock,Best Film,False,False,When I Saw You,nm1486975,Annemarie Jacir,When I Saw You,2014.0,Drama,48289
+tt2802154,2014,Golden Peacock,Best Film,True,False,Leviathan,nm1168657,Andrey Zvyagintsev,Leviathan,2014.0,Others,5943878
+tt2642524,2014,Golden Peacock,Best Film,False,False,Mr. Kaplan,nm1304308,Álvaro Brechner,Mr. Kaplan,2014.0,Comedy,218497
+tt2937158,2014,Silver Peacock,Best Feature Film,True,True,Ek Hazarachi Note,nm2154797,Shrihari Sathe,Ek Hazarachi Note,2016.0,Drama,5089
+tt4285496,2015,Golden Peacock,Best Film,True,False,Embrace of the Serpent,nm1458734,Ciro Guerra,Embrace of the Serpent,2015.0,Others,5041646
+tt1702429,2015,Golden Peacock,Best Film,False,False,Eisenstein in Guanajuato,nm0000425,Peter Greenaway,Eisenstein in Guanajuato,2015.0,Others,139363
+tt2886632,2015,Golden Peacock,Best Film,False,True,Enclave,nm0705813,Goran Radovanovic,Enclave,2016.0,Drama,2120
+tt3825638,2015,Golden Peacock,Best Film,False,False,Labyrinth of Lies,nm0723285,Giulio Ricciarelli,Labyrinth of Lies,2015.0,Drama,5766418
+tt3966404,2015,Golden Peacock,Best Film,False,False,Mustang,nm2197025,Deniz Gamze Ergüven,Mustang,2015.0,Drama,6575847
+tt3296658,2015,Golden Peacock,Best Film,False,False,Rams,nm1963886,Grímur Hákonarson,Rams,2015.0,Drama,2101584
+tt2565982,2015,Golden Peacock,Best Film,False,True,Sealed Cargo,nm1382038,Julia Vargas Weise,Sealed Cargo,2017.0,Drama,12872
+tt4428814,2015,Golden Peacock,Best Film,False,False,The Measure of a Man,nm0110300,Stéphane Brizé,The Measure of a Man,2016.0,Drama,7082730
+tt4504626,2015,ICFT-UNESCO Fellini Award,,False,False,Among the Believers,nm1663144,Mohammed Naqvi,Among the Believers,2015.0,Others,9051
+tt4663992,2015,ICFT-UNESCO Fellini Award,,False,False,Land and Shade,nm6671999,César Augusto Acevedo,Land and Shade,2016.0,Drama,174858
+tt4377864,2015,ICFT-UNESCO Fellini Award,,False,False,The Pearl Button,nm0350099,Patricio Guzmán,The Pearl Button,2015.0,Others,173975
+tt4801604,2015,ICFT-UNESCO Fellini Award,,False,False,Wawa No Cidal,nm2308287,Yu-Chieh Cheng,Wawa No Cidal,2015.0,Drama,288845
+tt2953762,2016,Golden Peacock,Best Film,False,False,"I, Olga",nm2606827,Tomás Weinreb,"I, Olga Hepnarová",2017.0,Others,238425
+tt5326364,2016,Golden Peacock,Best Film,False,False,Nelly,nm3503229,Anne Émond,Nelly,2017.0,Drama,7826
+tt5695668,2016,Golden Peacock,Best Film,False,False,Personal Affairs,nm3326361,Maha Haj,Personal Affairs,2016.0,Drama,41435
+tt5280652,2016,Golden Peacock,Best Film,False,False,Rauf,nm4446337,Soner Caner,Rauf,2016.0,Drama,3142
+tt5204020,2016,Golden Peacock,Best Film,False,False,Scarred Hearts,nm1257492,Radu Jude,Scarred Hearts,2018.0,Others,14041
+tt5936692,2016,Golden Peacock,Best Film,False,False,The Last Family,nm4956873,Jan P. Matuszynski,The Last Family,2016.0,Others,2414898
+tt5623224,2016,Golden Peacock,Best Film,False,False,The Long Night of Francisco Sanctis,nm0617305,Francisco Márquez,The Long Night of Francisco Sanctis,2017.0,Drama,28063
+tt4874206,2016,Golden Peacock,Best Film,False,False,The Student,nm1970598,Kirill Serebrennikov,The Student,2017.0,Drama,333641
+tt4010918,2016,Golden Peacock,Best Film,False,True,The Throne,nm1045937,Joon-ik Lee,The Throne,2015.0,Drama,45401348
+tt5997928,2016,ICFT UNESCO - Ghandi Award,Best Film,True,True,Hotel Salvation,nm0802691,Pravesh Sippy,Hotel Salvation,2017.0,Comedy,85216
+tt4518234,2016,ICFT UNESCO - Ghandi Award,,True,True,Cold of Kalandar,nm2583919,Mustafa Kara,Cold of Kalandar,2016.0,Drama,61915
+tt1668016,2016,ICFT UNESCO - Ghandi Award,,False,False,A Real Vermeer,nm0073888,Rudolf van den Berg,A Real Vermeer,2017.0,Others,118776
+tt6135348,2017,Golden Peacock,Best Film,True,False,BPM (Beats Per Minute),nm0133028,Robin Campillo,BPM (Beats Per Minute),2017.0,Drama,8111584
+tt6776462,2017,Golden Peacock,Best Film,False,False,A Man of Integrity,nm1488024,Mohammad Rasoulof,A Man of Integrity,2017.0,Drama,947435
+tt6125690,2017,Golden Peacock,Best Film,False,False,"Ana, mon amour",nm0626754,Cãlin Peter Netzer,"Ana, mon amour",2018.0,Drama,189130
+tt7205208,2017,Golden Peacock,Best Film,False,False,Angels Wear White,nm2735954,Vivian Qu,Angels Wear White,2018.0,Drama,3428371
+tt6640390,2017,Golden Peacock,Best Film,False,False,Blank 13,nm1102191,Takumi Saitoh,Blank 13,2018.0,Comedy,35554
+tt5986738,2017,Golden Peacock,Best Film,False,False,Dark Skull,nm4576903,Kiro Russo,Dark Skull,2017.0,Others,9371
+tt8134688,2017,Golden Peacock,Best Film,False,False,Marionette,nm9695289,Han-Wook Lee,Marionette,2018.0,Others,1146949
+tt2586120,2017,Golden Peacock,Best Film,False,False,Racer and the Jailbird,nm1742427,Michaël R. Roskam,Racer and the Jailbird,2018.0,Others,453388
+tt6315524,2017,Golden Peacock,Best Film,False,True,Take Off,nm3525879,Mahesh Narayan,Take Off,2017.0,Others,924132
+tt6666648,2017,ICFT UNESCO - Ghandi Award,,False,False,Amok,nm0010653,Kasia Adamik,Amok,2017.0,Others,684162
+tt8282042,2018,Golden Peacock,Best Film,True,False,Donbass,nm0523665,Sergey Loznitsa,Donbass,2019.0,Drama,86985
+tt4488744,2018,Golden Peacock,Best Film,False,False,A Translator,nm2683029,Sebastián Barriuso,Un Traductor,2018.0,Drama,94422
+tt7231194,2018,Golden Peacock,Best Film,False,False,Ee. Ma. Yau,nm3859342,Lijo Jose Pellissery,Ee. Ma. Yau,2018.0,Comedy,46936
+tt7773210,2018,Golden Peacock,Best Film,False,False,Our Struggles,nm1879267,Guillaume Senez,Our Struggles,2018.0,Drama,1720607
+tt5639788,2018,Golden Peacock,Best Film,False,False,The Unseen,nm2763627,Nicolás Puenzo,The Unseen,2018.0,Drama,53039
+tt6982254,2018,Golden Peacock,Best Film,False,True,To Let,nm9046288,Chezhian Ra,To Let,2019.0,Others,6155
+tt7529350,2018,Golden Peacock,Best Film,False,False,Van Goghs,nm0515360,Sergey Livnev,Van Goghs,2019.0,Drama,258008
+tt7133202,2018,Golden Peacock,Best Film,False,False,When the Trees Fall,nm6071898,Marysia Nikitiuk,When the Trees Fall,2018.0,Drama,14494

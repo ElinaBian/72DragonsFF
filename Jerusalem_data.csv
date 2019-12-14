@@ -1,0 +1,196 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0135650,1997,Best Israeli Screenplay,,True,True,The Milky Way,nm0621956,Ali Nassar,The Milky Way,1997.0,Drama,1763
+tt0162050,1998,Wolgin Award,Best Israeli Feature Film,True,True,Yom Yom,nm0321159,Amos Gitai,Yom Yom,2001.0,Others,3549
+tt0162909,1999,Wolgin Award,Best Israeli Feature,True,True,Yana's Friends,nm0438438,Arik Kaplun,Yana's Friends,1999.0,Others,95639
+tt0202077,1999,Mayors' Award,Best Feature,True,True,Voyages,nm0277933,Emmanuel Finkiel,Voyages,2000.0,Drama,1549
+tt0188653,1999,In Spirit for Freedom Award - Honorable Mention,Best Documentary,True,True,Journey to the Sun,nm0882445,Yesim Ustaoglu,Journey to the Sun,2001.0,Drama,6382
+tt0287471,2001,Wolgin Award,Best Israeli Feature,True,True,Late Marriage,nm0467017,Dover Koshashvili,Late Marriage,2002.0,Others,5006898
+tt0295281,2001,Best Script Award,Best Script Award,True,True,Giraffes,,[],Giraffes,2002.0,Others,22702
+tt0317842,2002,Wolgin Award,Best Israeli Feature,True,True,Broken Wings,nm0074844,Nir Bergman,Broken Wings,2003.0,Drama,1662077
+tt0280491,2002,In Spirit for Freedom Award,Best Feature,True,False,Bloody Sunday,nm0339030,Paul Greengrass,Bloody Sunday,2002.0,Drama,3653451
+tt0388311,2004,Wolgin Award,Best Israeli Feature,True,True,Or (My Treasure),nm0947121,Keren Yedaya,Or (My Treasure),2004.0,Drama,326334
+tt0405461,2004,Best Cinematography,Documentary,True,True,Watermarks,nm0403809,Tom Hurwitz,Watermarks,2005.0,Documentary,659557
+tt0376177,2005,Mayors' Award,Best Feature,True,True,Only Human,nm0361828,Dominic Harari,Only Human,2005.0,Others,1726936
+tt0441001,2005,In Spirit for Freedom Award,Best Documentary,True,False,The Devil's Miner,nm0203400,Kief Davidson,The Devil's Miner,2005.0,Documentary,37528
+tt0498846,2006,Wolgin Award,Best Israeli Feature,False,False,Sweet Mud,nm0789496,Dror Shaul,Sweet Mud,2007.0,Drama,154411
+tt0464029,2006,In Spirit for Freedom Award,Best Feature,True,False,Esma's Secret - Grbavica,nm1120092,Jasmila Zbanic,Grbavica: The Land of My Dreams,2007.0,Drama,1119560
+tt0756231,2006,The Jewish Experience Award,The Avner Shalev Yad Vashem Chairman's Award,True,True,Ninas resa,nm0251846,Lena Einhorn,Ninas resa,2007.0,Drama,494474
+tt0418847,2006,The Jewish Experience Award,The Avner Shalev Yad Vashem Chairman's Award - Honorable Mention,False,False,Nina's House,nm0218252,Richard Dembo,Nina's House,2007.0,Drama,736643
+tt1032856,2007,Wolgin Award,Best Israeli Feature,True,True,The Band's Visit,nm0464115,Eran Kolirin,The Band's Visit,2008.0,Others,21075865
+tt0816672,2007,Wolgin Award,Best Israeli Feature,False,False,Tehilim,nm0618930,Raphaël Nadjari,Tehilim,2008.0,Drama,147994
+tt0808417,2007,In Spirit for Freedom Award,Best Feature,True,False,Persepolis,nm2277869,Marjane Satrapi,Persepolis,2008.0,Others,32832215
+tt1260396,2008,Wolgin Award,Best Israeli Feature,True,True,7 Days,nm1729095,Shlomi Elkabetz,7 Days,2008.0,Drama,779423
+tt1043869,2008,Wolgin Award,Best Israeli Feature,False,False,For My Father,nm0951944,Dror Zahavi,For My Father,2010.0,Drama,220404
+tt0986233,2008,In Spirit for Freedom Award,Best Feature,True,False,Hunger,nm2588606,Steve McQueen,Hunger,2008.0,Others,3900326
+tt0920460,2008,FIPRESCI Prize,,True,True,Gitmek: My Marlon and Brando,nm2345855,Hüseyin Karabey,Gitmek: My Marlon and Brando,2008.0,Drama,66493
+tt1077262,2009,Wolgin Award,Best Israeli Feature,True,True,Ajami,nm2738713,Scandar Copti,Ajami,2009.0,Others,2262881
+tt1424327,2009,Wolgin Award,Best Israeli Feature,False,True,Eyes Wide Open,nm3432861,Haim Tabakman,Eyes Wide Open,2009.0,Drama,357987
+tt1406160,2009,Wolgin Award,Best Israeli Feature,False,False,Jaffa,nm0947121,Keren Yedaya,Jaffa,2009.0,Drama,639746
+tt1483831,2009,Wolgin Award,Best Israeli Feature,False,False,Lebanon,nm1413443,Samuel Maoz,Lebanon,2009.0,Drama,1929109
+tt1333634,2009,FIPRESCI Prize,,True,True,Burma VJ: Reporting from a Closed Country,nm0960312,Anders Østergaard,Burma VJ: Reporting from a Closed Country,2009.0,Documentary,211984
+tt1568328,2010,In Spirit for Freedom Award,Best Documentary,True,False,Enemies of the People,nm2215000,Rob Lemkin,Enemies of the People,2010.0,Documentary,179070
+tt1503777,2010,In Spirit for Freedom Award,Best Feature,True,False,Illégal,nm0557267,Olivier Masset-Depasse,Illégal,2011.0,Drama,332500
+tt1542411,2010,In Spirit for Freedom Award - Honorable Mention,Best Documentary,True,True,Budrus,nm1646089,Julia Bacha,Budrus,2010.0,Others,159731
+tt1495823,2010,In Spirit for Freedom Award - Honorable Mention,Best Feature,True,True,Korkoro,nm0309697,Tony Gatlif,Korkoro,2011.0,Drama,726538
+tt1568923,2010,The Jewish Experience Award,Forum for the Preservation of Audio-Visual Memory,True,True,A Film Unfinished,nm2478131,Yael Hersonski,A Film Unfinished,2010.0,Documentary,756408
+tt0808526,2010,The Jewish Experience Award,Lia Award,True,True,Life During Wartime,nm0001754,Todd Solondz,Life During Wartime,2009.0,Others,1270105
+tt1826583,2011,In Spirit for Freedom Award,Best Documentary,True,False,A Bitter Taste of Freedom,nm0325960,Marina Goldovskaya,A Bitter Taste of Freedom,2011.0,Documentary,6690
+tt1710625,2011,The Avner Shalev Yad Vashem Chairman's Award,Best Feature,True,True,Wunderkinder,nm0742659,Marcus O. Rosenmüller,Wunderkinder,2011.0,Drama,177605
+tt1978447,2011,Haggiag Award,Best Israeli Feature,False,True,Policeman,nm2028715,Nadav Lapid,Policeman,2011.0,Drama,55897
+tt2069916,2011,Van Leer Group Foundation Award,Best Israeli Documentary,True,True,The Law in These Parts,nm0018924,Ra'anan Alexandrowicz,The Law in These Parts,2012.0,Documentary,30853
+tt2071620,2011,Van Leer Group Foundation Award,Best Israeli Documentary,False,False,The Flat,nm0325606,Arnon Goldfinger,The Flat,2012.0,Documentary,1172071
+tt1727491,2011,Special Mention,,False,False,"Connected: An Autoblogography About Love, Death & Technology",nm1286067,Tiffany Shlain,"Connected: An Autoblogography About Love, Death & Technology",2011.0,Documentary,108572
+tt1961438,2011,Forum for Preservation of Audio-Visual Memory Award,Best Documentary,True,True,Nicky's Family,nm0590882,Matej Minac,Nicky's Family,2011.0,Documentary,29978
+tt1874416,2012,In Spirit for Freedom Award,Best Feature,True,False,Aquí y Allá: Here and There,nm3564648,Antonio Méndez Esparza,Aquí y Allá: Here and There,2012.0,Drama,25423
+tt2075276,2012,The Jewish Experience Award,Lia Award,True,True,Papirosen,nm2644707,Gastón Solnicki,Papirosen,2014.0,Documentary,12362
+tt2125423,2012,Van Leer Group Foundation Award,Best Israeli Documentary,True,True,Five Broken Cameras,nm4796818,Emad Burnat,Five Broken Cameras,2012.0,Documentary,289137
+tt2852470,2013,In Spirit for Freedom Award,Best Documentary,True,False,The Missing Picture,nm0659454,Rithy Panh,The Missing Picture,2014.0,Documentary,140845
+tt2507592,2013,In Spirit for Freedom Award,Best Feature,True,False,An Episode in the Life of an Iron Picker,nm0849786,Danis Tanovic,An Episode in the Life of an Iron Picker,2013.0,Drama,47977
+tt2209300,2013,The Avner Shalev Yad Vashem Chairman's Award,Best Feature,True,True,Aftermath,nm0664582,Wladyslaw Pasikowski,Aftermath,2013.0,Drama,1855741
+tt2049589,2014,In Spirit for Freedom Award,Best Documentary,True,False,Watchers of the Sky,nm0069797,Edet Belzberg,Watchers of the Sky,2015.0,Others,41558
+tt3675486,2014,In Spirit for Freedom Award,Best Documentary,False,False,Maidan,nm0523665,Sergey Loznitsa,Maidan,2014.0,Documentary,8508
+tt3409392,2014,In Spirit for Freedom Award,Best Feature,True,False,Timbuktu,nm0803066,Abderrahmane Sissako,Timbuktu,2014.0,Drama,8885318
+tt2232578,2014,In Spirit for Freedom Award,Best Feature,False,False,Canopy,nm1462005,Aaron Wilson,Canopy,2014.0,Others,18179
+tt2236092,2014,In Spirit for Freedom Award,Best Feature,False,False,Come to My Voice,nm2345855,Hüseyin Karabey,Come to My Voice,2014.0,Drama,4067
+tt2611390,2014,In Spirit for Freedom Award,Best Feature,False,False,Difret,nm1877993,Zeresenay Mehari,Difret,2015.0,Others,157808
+tt3078242,2014,In Spirit for Freedom Award,Best Feature,False,False,Miss Violence,nm3189793,Alexandros Avranas,Miss Violence,2014.0,Drama,157429
+tt2991224,2014,In Spirit for Freedom Award,Best Feature,False,True,Tangerines,nm0882203,Zaza Urushadze,Tangerines,2015.0,Drama,1262227
+tt3499048,2014,FIPRESCI Prize,International First Film,True,True,Güeros,nm2091911,Alonso Ruizpalacios,Güeros,2014.0,Others,175129
+tt2861532,2014,FIPRESCI Prize,International First Film,False,False,A Wolf at the Door,nm2036500,Fernando Coimbra,A Wolf at the Door,2014.0,Others,481228
+tt2338864,2014,FIPRESCI Prize,International First Film,False,False,Finsterworld,nm2746964,Frauke Finsterwalder,Finsterworld,2015.0,Drama,656186
+tt2315628,2014,FIPRESCI Prize,International First Film,False,False,For Those in Peril,nm3591467,Paul Wright,For Those in Peril,2014.0,Drama,4174
+tt2414046,2014,FIPRESCI Prize,International First Film,False,False,The Amazing Catfish,nm2404755,Claudia Sainte-Luce,The Amazing Catfish,2014.0,Others,345741
+tt3077150,2014,FIPRESCI Prize,International First Film,False,False,White Shadow,nm1068981,Noaz Deshe,White Shadow,2015.0,Drama,1664
+tt3062880,2014,Haggiag Award,Audience Award,True,True,Gett: The Trial of Viviane Amsalem,nm0253813,Ronit Elkabetz,Gett: The Trial of Viviane Amsalem,2014.0,Drama,2418768
+tt3709678,2014,Haggiag Award,Best Israeli Feature,False,True,The Kindergarten Teacher,nm2028715,Nadav Lapid,The Kindergarten Teacher,2014.0,Drama,344688
+tt3600588,2014,The Jewish Experience Award,Lia Award,True,True,24 Days,nm0002178,Alexandre Arcady,24 Days,2015.0,Drama,1164897
+tt3358086,2014,The Jewish Experience Award,The Avner Shalev Yad Vashem Chairman's Award,True,True,Radical Evil,nm0752328,Stefan Ruzowitzky,Radical Evil,2014.0,Documentary,123830
+tt3508830,2014,Van Leer Group Foundation Award,Best Israeli Documentary,True,True,Der Anständige,nm6263561,Vanessa Lapa,Der Anständige,2014.0,Documentary,60820
+tt4377864,2015,In Spirit for Freedom Award,Best Documentary,True,False,The Pearl Button,nm0350099,Patricio Guzmán,The Pearl Button,2015.0,Documentary,173975
+tt4126312,2015,In Spirit for Freedom Award,Best Documentary,False,False,"3½ Minutes, Ten Bullets",nm3997712,Marc Silver,"3½ Minutes, Ten Bullets",2015.0,Others,76180
+tt3717068,2015,In Spirit for Freedom Award,Best Feature,False,False,Court,nm4058904,Chaitanya Tamhane,Court,2015.0,Drama,86922
+tt3146294,2015,In Spirit for Freedom Award,Best Feature,False,False,May Allah Bless France!,nm1601029,Abd Al Malik,May Allah Bless France!,2014.0,Drama,928389
+tt3982854,2015,In Spirit for Freedom Award,Best Feature,False,False,Song of My Mother,nm3646119,Erol Mintas,Song of My Mother,2015.0,Drama,11075
+tt3566788,2015,FIPRESCI Prize,International First Film,True,True,Songs My Brothers Taught Me,nm2125482,Chloé Zhao,Songs My Brothers Taught Me,2015.0,Drama,198713
+tt3685622,2015,FIPRESCI Prize,International First Film,False,False,600 Miles,nm2239581,Gabriel Ripstein,600 Miles,2016.0,Drama,299969
+tt4135844,2015,FIPRESCI Prize,International First Film,False,False,Ixcanul,nm3563342,Jayro Bustamante,Ixcanul,2015.0,Drama,955834
+tt4266638,2015,FIPRESCI Prize,International First Film,False,False,Krisha,nm4099092,Trey Edward Shults,Krisha,2016.0,Drama,310827
+tt4663992,2015,FIPRESCI Prize,International First Film,False,False,Land and Shade,nm6671999,César Augusto Acevedo,Land and Shade,2016.0,Drama,174858
+tt3958072,2015,FIPRESCI Prize,International First Film,False,False,The Lesson,nm1571492,Kristina Grozeva,The Lesson,2015.0,Drama,80769
+tt4794512,2015,FIPRESCI Prize,Israeli First Film,True,True,Wedding Doll,nm0317908,Nitzan Giladi,Wedding Doll,2016.0,Drama,120042
+tt4668808,2015,The Avner Shalev Yad Vashem Chairman's Award,Best Feature,True,True,What Our Fathers Did: A Nazi Legacy,nm0262678,David Evans,What Our Fathers Did: A Nazi Legacy,2015.0,Documentary,102308
+tt4552524,2015,Haggiag Award,Audience Award,True,True,Jeruzalem,nm3575912,Doron Paz,Jeruzalem,2015.0,Others,126865
+tt4482858,2015,Haggiag Award,Best Israeli Feature,True,True,Tikkun,nm3844801,Avishai Sivan,Tikkun,2015.0,Drama,29364
+tt3412684,2015,Van Leer Group Foundation Award,Best Israeli Documentary,False,False,Mr. Gaga,nm1334259,Tomer Heymann,Mr. Gaga,2017.0,Others,880781
+tt4161074,2015,Van Leer Group Foundation Award,Best Israeli Documentary,False,False,Presenting Princess Shaw,nm2609593,Ido Haar,Presenting Princess Shaw,2016.0,Documentary,128071
+tt3328716,2015,Cinematheque Young Critics Club Award for Best Children's Film,,True,True,Paper Planes,nm0175352,Robert Connolly,Paper Planes,2015.0,Drama,8259088
+tt4501276,2015,Cinematheque Young Critics Club Award for Best Children's Film,,False,False,Rettet Raffi!,nm0013044,Arend Agthe,Rettet Raffi!,2015.0,Others,148034
+tt2872750,2015,Cinematheque Young Critics Club Award for Best Children's Film,,False,False,Shaun the Sheep Movie,nm0123666,Mark Burton,Shaun the Sheep Movie,2015.0,Others,134666105
+tt1640718,2015,Cinematheque Young Critics Club Award for Best Children's Film,,False,False,The Prophet,nm0021249,Roger Allers,The Prophet,2015.0,Others,2130568
+tt3398268,2015,Cinematheque Young Critics Club Award for Best Children's Film,,False,False,When Marnie Was There,nm0948488,Hiromasa Yonebayashi,When Marnie Was There,2015.0,Others,38661378
+tt4079902,2016,In Spirit for Freedom Award,Best Documentary,True,False,Hooligan Sparrow,nm6811599,Nanfu Wang,Hooligan Sparrow,2016.0,Others,19982
+tt5116410,2016,In Spirit for Freedom Award,Best Documentary,False,False,Tower,nm1436428,Keith Maitland,Tower,2016.0,Others,218891
+tt4569240,2016,In Spirit for Freedom Award,Best Feature,False,False,A Monster with a Thousand Heads,nm0687751,Rodrigo Plá,A Monster with a Thousand Heads,2015.0,Drama,55567
+tt5221584,2016,In Spirit for Freedom Award,Best Feature,False,False,Aquarius,nm2207625,Kleber Mendonça Filho,Aquarius,2016.0,Drama,3564669
+tt4370784,2016,In Spirit for Freedom Award,Best Feature,False,False,The Innocents,nm0284774,Anne Fontaine,The Innocents,2016.0,Drama,9131787
+tt3597510,2016,In Spirit for Freedom Award,Best Feature,False,False,The White Knights,nm1050098,Joachim Lafosse,The White Knights,2015.0,Drama,1221943
+tt4909984,2016,FIPRESCI Prize,International First Film,True,True,Albüm,nm3172532,Mehmet Can Mertoglu,Albüm,2016.0,Others,18197
+tt3838728,2016,FIPRESCI Prize,International First Film,False,False,Bang Gang (A Modern Love Story),nm0404067,Eva Husson,Bang Gang (A Modern Love Story),2016.0,Drama,146902
+tt3828058,2016,FIPRESCI Prize,International First Film,False,False,Family Film,nm2601092,Olmo Omerzu,Family Film,2016.0,Drama,120127
+tt4123876,2016,FIPRESCI Prize,International First Film,False,False,Oscuro animal,nm2050643,Felipe Guerrero,Oscuro animal,2016.0,Drama,9499
+tt5070130,2016,FIPRESCI Prize,International First Film,False,False,Rara,nm1930893,Pepa San Martín,Rara,2016.0,Drama,83848
+tt2815902,2016,FIPRESCI Prize,International First Film,False,False,The Childhood of a Leader,nm1227232,Brady Corbet,The Childhood of a Leader,2016.0,Drama,260770
+tt4150494,2016,FIPRESCI Prize,International First Film,False,False,The Here After,nm3281319,Magnus von Horn,The Here After,2015.0,Drama,104973
+tt5623224,2016,FIPRESCI Prize,International First Film,False,False,The Long Night of Francisco Sanctis,nm0617305,Francisco Márquez,The Long Night of Francisco Sanctis,2017.0,Drama,28063
+tt4777584,2016,FIPRESCI Prize,Israeli First Film,True,True,One Week and a Day,nm3707393,Asaph Polonsky,One Week and a Day,2016.0,Others,204870
+tt4881016,2016,The Avner Shalev Yad Vashem Chairman's Award,Best Feature,True,True,No Home Movie,nm0001901,Chantal Akerman,No Home Movie,2015.0,Documentary,70392
+tt3830162,2016,Haggiag Award,Best International Feature - Honorable Mention,True,True,A War,nm2105585,Tobias Lindholm,A War,2016.0,Others,1334891
+tt5695672,2016,Haggiag Award,Best Israeli Feature,False,False,Beyond the Mountains and Hills,nm0464115,Eran Kolirin,Beyond the Mountains and Hills,2016.0,Drama,28357
+tt5129510,2016,The Wilf Family Foundation Award,Best International Film,True,True,The Death of Louis XIV,nm2247200,Albert Serra,The Death of Louis XIV,2016.0,Others,267833
+tt4468634,2016,The Wilf Family Foundation Award,Best International Film,False,False,Certain Women,nm0716980,Kelly Reichardt,Certain Women,2016.0,Drama,2819880
+tt4466648,2016,The Wilf Family Foundation Award,Best International Film,False,False,Death in Sarajevo,nm0849786,Danis Tanovic,Death in Sarajevo,2016.0,Drama,49131
+tt4466490,2016,The Wilf Family Foundation Award,Best International Film,False,False,Sieranevada,nm1090998,Cristi Puiu,Sieranevada,2016.0,Others,261327
+tt3823018,2016,The Wilf Family Foundation Award,Best International Film,False,False,Sparrows,nm1242172,Rúnar Rúnarsson,Sparrows,2015.0,Drama,135559
+tt4016934,2016,The Wilf Family Foundation Award,Best International Film,False,False,The Handmaiden,nm0661791,Chan-wook Park,The Handmaiden,2016.0,Drama,42021523
+tt4120176,2016,The Wilf Family Foundation Award,Best International Film,False,False,Things to Come,nm0361135,Mia Hansen-Løve,Things to Come,2016.0,Drama,6379314
+tt5278596,2016,The Wilf Family Foundation Award,Best International Film,False,False,Weiner,nm0825748,Elyse Steinberg,Weiner,2016.0,Documentary,3608369
+tt6803974,2017,Wolgin Award,Best Israeli Documentary,False,False,West of the Jordan River,nm0321159,Amos Gitai,West of the Jordan River,2018.0,Documentary,3971
+tt6333056,2017,In Spirit for Freedom Award,Best Documentary,True,False,City of Ghosts,nm1292648,Matthew Heineman,City of Ghosts,2017.0,Documentary,374883
+tt6642870,2017,In Spirit for Freedom Award,Best Documentary,False,True,The Venerable W.,nm0775447,Barbet Schroeder,The Venerable W.,2019.0,Documentary,559312
+tt6333066,2017,In Spirit for Freedom Award,Best Documentary,False,False,Trophy,nm7895182,Christina Clusiau,Trophy,2017.0,Documentary,45547
+tt5222918,2017,In Spirit for Freedom Award,Best Feature,True,False,The Other Side of Hope,nm0442454,Aki Kaurismäki,The Other Side of Hope,2017.0,Others,4624892
+tt5980798,2017,In Spirit for Freedom Award,Best Feature,False,False,Félicité,nm0327120,Alain Gomis,Félicité,2017.0,Drama,287939
+tt6484982,2017,In Spirit for Freedom Award,Best Feature,False,False,Newton,nm3536895,Amit Masurkar,Newton,2017.0,Drama,15076
+tt4540384,2017,In Spirit for Freedom Award,Best Feature,False,False,The Nothing Factory,nm2167230,Pedro Pinho,The Nothing Factory,2018.0,Drama,43780
+tt5584796,2017,FIPRESCI Prize,International First Film,True,True,Tehran Taboo,nm3468275,Ali Soozandeh,Tehran Taboo,2017.0,Others,439940
+tt6805302,2017,FIPRESCI Prize,International First Film,False,False,Bloody Milk,nm4209268,Hubert Charuel,Bloody Milk,2017.0,Drama,3984110
+tt5451054,2017,FIPRESCI Prize,International First Film,False,False,Godless,nm2432218,Ralitza Petrova,Godless,2016.0,Drama,7160
+tt4291600,2017,FIPRESCI Prize,International First Film,False,False,Lady Macbeth,nm4399706,William Oldroyd,Lady Macbeth,2017.0,Drama,6817983
+tt6333086,2017,FIPRESCI Prize,International First Film,False,False,Menashe,nm2922880,Joshua Z Weinstein,Menashe,2017.0,Drama,3826445
+tt4866448,2017,FIPRESCI Prize,International First Film,False,False,Most Beautiful Island,nm1626539,Ana Asensio,Most Beautiful Island,2017.0,Drama,6818
+tt5897636,2017,FIPRESCI Prize,International First Film,False,False,Summer 1993,nm3427032,Carla Simón,Summer 1993,2018.0,Drama,2201771
+tt6147512,2017,FIPRESCI Prize,International First Film,False,False,The Desert Bride,nm1170183,Cecilia Atán,The Desert Bride,2017.0,Drama,243941
+tt6107516,2017,FIPRESCI Prize,International First Film,False,False,The Family,nm2271584,Gustavo Rondón Córdova,The Family,2018.0,Drama,7491
+tt5815492,2017,The Avner Shalev Yad Vashem Chairman's Award,Best Feature,True,True,1945,nm0879559,Ferenc Török,1945,2017.0,Drama,2327732
+tt4830786,2017,Haggiag Award,Best Editing,True,True,The Cakemaker,nm9110286,Michal Oppenheim,The Cakemaker,2017.0,Drama,2241243
+tt5545984,2017,Haggiag Award,Best Israeli Feature,False,True,Longing,nm0300076,Savi Gabizon,Longing,2018.0,Drama,38812
+tt6412864,2017,The Wilf Family Foundation Award,Best International Film,True,True,On the Beach at Night Alone,nm0393254,Sang-soo Hong,On the Beach at Night Alone,2017.0,Drama,486828
+tt6776462,2017,The Wilf Family Foundation Award,Best International Film,False,True,A Man of Integrity,nm1488024,Mohammad Rasoulof,A Man of Integrity,2017.0,Drama,947435
+tt5078134,2017,The Wilf Family Foundation Award,Best International Film,False,False,A Woman's Life,nm0110300,Stéphane Brizé,A Woman's Life,2017.0,Drama,979347
+tt6125690,2017,The Wilf Family Foundation Award,Best International Film,False,False,"Ana, mon amour",nm0626754,Cãlin Peter Netzer,"Ana, mon amour",2018.0,Drama,189130
+tt6367558,2017,The Wilf Family Foundation Award,Best International Film,False,False,Double Lover,nm0654830,François Ozon,Double Lover,2018.0,Drama,5316306
+tt6805354,2017,The Wilf Family Foundation Award,Best International Film,False,False,Gabriel and the Mountain,nm1805204,Fellipe Barbosa,Gabriel and the Mountain,2018.0,Drama,537988
+tt4846232,2017,The Wilf Family Foundation Award,Best International Film,False,False,Good Time,nm1509478,Benny Safdie,Good Time,2017.0,Others,5526766
+tt5791536,2017,The Wilf Family Foundation Award,Best International Film,False,False,My Happy Family,nm2206574,Nana Ekvtimishvili,My Happy Family,2017.0,Drama,444152
+tt5592248,2017,The Wilf Family Foundation Award,Best International Film,False,False,The Beguiled,nm0001068,Sofia Coppola,The Beguiled,2017.0,Drama,39755603
+tt5843990,2017,The Wilf Family Foundation Award,Best International Film,False,False,The Woman Who Left,nm0225010,Lav Diaz,The Woman Who Left,2016.0,Drama,8837
+tt5157326,2017,The Wilf Family Foundation Award,Best International Film,False,True,Western,nm1007136,Valeska Grisebach,Western,2017.0,Drama,205911
+tt6752848,2017,The Lia Van Leer Award,,False,False,Bombshell: The Hedy Lamarr Story,nm2645944,Alexandra Dean,Bombshell: The Hedy Lamarr Story,2017.0,Others,1998802
+tt6288250,2017,The Lia Van Leer Award,,False,False,Patti Cake$,nm8401482,Jeremy Gaspar,Patti Cake$,2017.0,Drama,2375740
+tt3296908,2017,The Lia Van Leer Award,,False,False,The Man with the Iron Heart,nm1473428,Cédric Jimenez,The Man with the Iron Heart,2017.0,Others,4607638
+tt8731156,2018,Best Cinematography,Best Cinematography,True,True,The Dive,nm3887752,Oded Ashkenazi,The Dive,2019.0,Drama,38688
+tt7689484,2018,In Spirit for Freedom Award,Best Documentary,False,False,On Her Shoulders,nm5221728,Alexandria Bombach,On Her Shoulders,2018.0,Others,70553
+tt7689936,2018,In Spirit for Freedom Award,Best Documentary,False,False,The Cleaners,nm8146933,Hans Block,The Cleaners,2018.0,Documentary,45023
+tt6116682,2018,In Spirit for Freedom Award,Best Documentary,False,False,The Rape of Recy Taylor,nm1799233,Nancy Buirski,The Rape of Recy Taylor,2017.0,Documentary,8000
+tt5821220,2018,In Spirit for Freedom Award,Best Documentary,False,False,Theatre of War,nm8229588,Lola Arias,Theatre of War,2018.0,Documentary,600
+tt6752992,2018,In Spirit for Freedom Award,Best Feature,True,False,Happy as Lazzaro,nm3114621,Alice Rohrwacher,Happy as Lazzaro,2018.0,Drama,1816634
+tt7434928,2018,In Spirit for Freedom Award,Best Feature,False,False,Amin,nm0268999,Philippe Faucon,Amin,2018.0,Drama,401328
+tt7205208,2018,In Spirit for Freedom Award,Best Feature,False,False,Angels Wear White,nm2735954,Vivian Qu,Angels Wear White,2018.0,Drama,3428371
+tt5942864,2018,In Spirit for Freedom Award,Best Feature,False,False,Styx,nm1625151,Wolfgang Fischer,Styx,2018.0,Drama,211167
+tt6958212,2018,In Spirit for Freedom Award,Best Feature,False,False,Sweet Country,nm0861610,Warwick Thornton,Sweet Country,2018.0,Others,1990960
+tt7213936,2018,In Spirit for Freedom Award,Best Feature,False,False,What Will People Say,nm1155348,Iram Haq,What Will People Say,2018.0,Drama,2222459
+tt8307082,2018,FIPRESCI Prize,International First Film,True,True,Sauvage / Wild,nm1283911,Camille Vidal-Naquet,Sauvage / Wild,2019.0,Drama,379122
+tt6776106,2018,FIPRESCI Prize,International First Film,False,False,And Breathe Normally,nm1750324,Isold Uggadottir,And Breathe Normally,2019.0,Drama,96922
+tt7259986,2018,FIPRESCI Prize,International First Film,False,False,Ava,nm2080959,Sadaf Foroughi,Ava,2018.0,Drama,42982
+tt8254556,2018,FIPRESCI Prize,International First Film,False,False,Girl,nm4080113,Lukas Dhont,Girl,2019.0,Drama,4179831
+tt6506276,2018,FIPRESCI Prize,International First Film,False,False,Lemonade,nm2031842,Ioana Uricaru,Lemonade,2018.0,Drama,217705
+tt7545566,2018,FIPRESCI Prize,International First Film,False,False,Skate Kitchen,nm1145920,Crystal Moselle,Skate Kitchen,2018.0,Drama,531177
+tt6226610,2018,FIPRESCI Prize,International First Film,False,False,Until the Birds Return,nm3123196,Karim Moussaoui,Until the Birds Return,2017.0,Drama,252850
+tt7013830,2018,FIPRESCI Prize,International First Film,False,False,Virus Tropical,nm3234464,Santiago Caicedo,Virus Tropical,2017.0,Others,32220
+tt7349662,2018,The Lia Van Leer Award,,False,False,BlacKkKlansman,nm0000490,Spike Lee,BlacKkKlansman,2018.0,Others,144503314
+tt6566624,2018,The Lia Van Leer Award,,False,False,Hitler's Hollywood,nm0837086,Rüdiger Suchsland,Hitler's Hollywood,2018.0,Documentary,89279
+tt5061360,2018,The Lia Van Leer Award,,False,False,Promise at Dawn,nm0053613,Eric Barbier,Promise at Dawn,2018.0,Others,9315426
+tt7368554,2018,The Lia Van Leer Award,,False,False,The Interpreter,nm0838499,Martin Sulík,The Interpreter,2018.0,Others,132638
+tt6675244,2018,The Lia Van Leer Award,,False,False,Transit,nm0678857,Christian Petzold,Transit,2019.0,Drama,1778446
+tt6768578,2018,Gabriel Sherover Foundation Award,Best International Film,True,True,Dogman,nm0308520,Matteo Garrone,Dogman,2019.0,Others,4989967
+tt6593240,2018,Gabriel Sherover Foundation Award,Best International Film,False,False,A Paris Education,nm0163022,Jean-Paul Civeyrac,A Paris Education,2018.0,Drama,132751
+tt7298400,2018,Gabriel Sherover Foundation Award,Best International Film,False,False,Ash Is Purest White,nm0422605,Zhangke Jia,Ash Is Purest White,2018.0,Others,12346927
+tt5501104,2018,Gabriel Sherover Foundation Award,Best International Film,False,True,Border,nm4389150,Ali Abbasi,Border,2018.0,Drama,2846779
+tt5340300,2018,Gabriel Sherover Foundation Award,Best International Film,False,False,Lean on Pete,nm0354091,Andrew Haigh,Lean on Pete,2018.0,Others,3678644
+tt6257174,2018,Gabriel Sherover Foundation Award,Best International Film,False,False,The Miseducation of Cameron Post,nm3034178,Desiree Akhavan,The Miseducation of Cameron Post,2018.0,Drama,2429454
+tt7839456,2018,Gabriel Sherover Foundation Award,Best International Film,False,False,The Prayer,nm0434806,Cédric Kahn,The Prayer,2018.0,Drama,1756603
+tt6628102,2018,Gabriel Sherover Foundation Award,Best International Film,False,False,The Wild Pear Tree,nm0149196,Nuri Bilge Ceylan,The Wild Pear Tree,2019.0,Drama,1650979
+tt4949112,2018,Gabriel Sherover Foundation Award,Best International Film,False,False,Touch Me Not,nm2924350,Adina Pintilie,Touch Me Not,2019.0,Drama,88031
+tt8747596,2019,In Spirit for Freedom Award,Best Documentary,False,False,What You Gonna Do When the World's on Fire?,nm1667635,Roberto Minervini,What You Gonna Do When the World's on Fire?,2019.0,Documentary,29318
+tt4169146,2019,In Spirit for Freedom Award,Best Feature,True,False,Give Me Liberty,nm1699715,Kirill Mikhanovsky,Give Me Liberty,2019.0,Others,137025
+tt7128732,2019,In Spirit for Freedom Award,Best Feature,False,False,Tremors,nm3563342,Jayro Bustamante,Temblores,2019.0,Drama,69451
+tt7589524,2019,FIPRESCI Prize,International First Film,False,False,Aniara,nm2445423,Pella Kagerman,Aniara,2019.0,Drama,80248
+tt8125842,2019,FIPRESCI Prize,International First Film,False,False,Blind Spot,nm0637259,Tuva Novotny,Blind Spot,2018.0,Drama,244283
+tt5613484,2019,FIPRESCI Prize,International First Film,False,False,Mid90s,nm1706767,Jonah Hill,Mid90s,2018.0,Others,16691650
+tt6601502,2019,FIPRESCI Prize,International First Film,False,False,Ray & Liz,nm2843837,Richard Billingham,Ray & Liz,2019.0,Drama,58509
+tt8331988,2019,FIPRESCI Prize,International First Film,False,False,The Chambermaid,nm3569165,Lila Avilés,The Chambermaid,2019.0,Drama,149031
+tt7692966,2019,FIPRESCI Prize,International First Film,False,False,The Third Wife,nm4451190,Ash Mayfair,The Third Wife,2019.0,Drama,378797
+tt4827558,2019,Gabriel Sherover Foundation Award,Best International Film,False,False,High Life,nm0219136,Claire Denis,High Life,2019.0,Others,3328292
+tt8291806,2019,Gabriel Sherover Foundation Award,Best International Film,False,False,Pain & Glory,nm0000264,Pedro Almodóvar,Pain and Glory,2019.0,Drama,21044420
+tt8378126,2019,Gabriel Sherover Foundation Award,Best International Film,False,False,Queen of Hearts,nm1392439,May el-Toukhy,Queen of Hearts,2019.0,Drama,283696
+tt7902124,2019,Gabriel Sherover Foundation Award,Best International Film,False,False,The Ground Beneath My Feet,nm1001232,Marie Kreutzer,The Ground Beneath My Feet,2019.0,Drama,11622

@@ -1,0 +1,187 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0167260,2003,AAFCA Award,Best Picture,True,False,The Lord of the Rings: The Return of the King,,[],The Lord of the Rings: The Return of the King,2003.0,Others,2077482553
+tt0317248,2003,AAFCA Award,Top 10 Films,True,False,City of God,,[],City of God,2004.0,Others,52489246
+tt0301199,2003,AAFCA Award,Top 10 Films,True,False,Dirty Pretty Things,,[],Dirty Pretty Things,2003.0,Others,30380379
+tt0266543,2003,AAFCA Award,Top 10 Films,True,False,Finding Nemo,,[],Finding Nemo,2003.0,Others,1879867520
+tt0298845,2003,AAFCA Award,Top 10 Films,True,False,In America,,[],In America,2004.0,Drama,56163695
+tt0335266,2003,AAFCA Award,Top 10 Films,True,False,Lost in Translation,,[],Lost in Translation,2003.0,Drama,225532721
+tt0327056,2003,AAFCA Award,Top 10 Films,True,False,Mystic River,,[],Mystic River,2003.0,Others,340818679
+tt0317740,2003,AAFCA Award,Top 10 Films,True,True,The Italian Job,,[],The Italian Job,2003.0,Others,392999083
+tt0325710,2003,AAFCA Award,Top 10 Films,True,False,The Last Samurai,,[],The Last Samurai,2003.0,Others,784467919
+tt0343121,2003,AAFCA Award,Top 10 Films,True,False,Tupac: Resurrection,,[],Tupac: Resurrection,2003.0,Biography,21506871
+tt0350258,2004,AAFCA Award,Best Picture,True,False,Ray,,[],Ray,2004.0,Biography,266796631
+tt0367790,2004,AAFCA Award,Top 10 Films,True,False,Baadasssss!,,[],Baadasssss!,2004.0,Biography,1009295
+tt0306597,2004,AAFCA Award,Top 10 Films,True,False,Brother to Brother,,[],Brother to Brother,2004.0,Drama,223276
+tt0369339,2004,AAFCA Award,Top 10 Films,True,False,Collateral,,[],Collateral,2004.0,Others,429737269
+tt0308644,2004,AAFCA Award,Top 10 Films,True,False,Finding Neverland,,[],Finding Neverland,2004.0,Biography,226046811
+tt0395169,2004,AAFCA Award,Top 10 Films,True,False,Hotel Rwanda,,[],Hotel Rwanda,2005.0,Biography,76495369
+tt0405159,2004,AAFCA Award,Top 10 Films,True,False,Million Dollar Baby,,[],Million Dollar Baby,2005.0,Drama,425139474
+tt0375063,2004,AAFCA Award,Top 10 Films,True,False,Sideways,,[],Sideways,2005.0,Others,242831604
+tt0338751,2004,AAFCA Award,Top 10 Films,True,False,The Aviator,,[],The Aviator,2004.0,Biography,424790164
+tt0399901,2004,AAFCA Award,Top 10 Films,True,False,Woman Thou Art Loosed,,[],Woman Thou Art Loosed,2004.0,Drama,18419080
+tt0375679,2005,AAFCA Award,Best Picture,True,False,Crash,,[],Crash,2005.0,Others,201113069
+tt0372784,2005,AAFCA Award,Top 10 Films,True,False,Batman Begins,,[],Batman Begins,2005.0,Others,762394583
+tt0388795,2005,AAFCA Award,Top 10 Films,True,False,Brokeback Mountain,,[],Brokeback Mountain,2006.0,Drama,336486379
+tt0379725,2005,AAFCA Award,Top 10 Films,True,False,Capote,,[],Capote,2006.0,Biography,100294797
+tt0433383,2005,AAFCA Award,Top 10 Films,True,False,"Good Night, and Good Luck.",,[],"Good Night, and Good Luck.",2005.0,Biography,111477892
+tt0410097,2005,AAFCA Award,Top 10 Films,True,False,Hustle & Flow,,[],Hustle & Flow,2005.0,Others,59854384
+tt0395972,2005,AAFCA Award,Top 10 Films,True,False,North Country,,[],North Country,2005.0,Drama,55867638
+tt0365737,2005,AAFCA Award,Top 10 Films,True,False,Syriana,,[],Syriana,2005.0,Drama,188024167
+tt0387131,2005,AAFCA Award,Top 10 Films,True,False,The Constant Gardener,,[],The Constant Gardener,2005.0,Drama,150995124
+tt0358273,2005,AAFCA Award,Top 10 Films,True,False,Walk the Line,,[],Walk the Line,2005.0,Biography,395683339
+tt0443489,2006,AAFCA Award,Best Picture,True,False,Dreamgirls,,[],Dreamgirls,2006.0,Drama,327100979
+tt0437800,2006,AAFCA Award,Top 10 Films,True,False,Akeelah and the Bee,,[],Akeelah and the Bee,2006.0,Drama,47935040
+tt0308055,2006,AAFCA Award,Top 10 Films,True,False,Bobby,,[],Bobby,2006.0,Biography,40534363
+tt0437232,2006,AAFCA Award,Top 10 Films,True,False,Catch a Fire,,[],Catch a Fire,2006.0,Biography,12676103
+tt0417225,2006,AAFCA Award,Top 10 Films,True,False,Idlewild,,[],Idlewild,2006.0,Others,31600987
+tt0454848,2006,AAFCA Award,Top 10 Films,True,False,Inside Man,,[],Inside Man,2006.0,Others,349031179
+tt0407887,2006,AAFCA Award,Top 10 Films,True,False,The Departed,,[],The Departed,2006.0,Others,536738619
+tt0458352,2006,AAFCA Award,Top 10 Films,True,False,The Devil Wears Prada,,[],The Devil Wears Prada,2006.0,Others,568391592
+tt0455590,2006,AAFCA Award,Top 10 Films,True,False,The Last King of Scotland,,[],The Last King of Scotland,2007.0,Biography,83286660
+tt0427309,2007,AAFCA Award,Best Picture,True,False,The Great Debaters,,[],The Great Debaters,2007.0,Biography,73619231
+tt0765429,2007,AAFCA Award,Top 10 Films,True,False,American Gangster,,[],American Gangster,2007.0,Biography,482250303
+tt0452623,2007,AAFCA Award,Top 10 Films,True,False,Gone Baby Gone,,[],Gone Baby Gone,2007.0,Others,67154374
+tt0467406,2007,AAFCA Award,Top 10 Films,True,False,Juno,,[],Juno,2007.0,Others,456144163
+tt0465538,2007,AAFCA Award,Top 10 Films,True,False,Michael Clayton,,[],Michael Clayton,2007.0,Others,173710552
+tt0477348,2007,AAFCA Award,Top 10 Films,True,False,No Country for Old Men,,[],No Country for Old Men,2007.0,Others,298995659
+tt0408236,2007,AAFCA Award,Top 10 Films,True,False,Sweeney Todd: The Demon Barber of Fleet Street,,[],Sweeney Todd: The Demon Barber of Fleet Street,2007.0,Drama,249933279
+tt0796368,2007,AAFCA Award,Top 10 Films,True,False,Talk to Me,,[],Talk to Me,2007.0,Biography,11444808
+tt0469494,2007,AAFCA Award,Top 10 Films,True,False,There Will Be Blood,,[],There Will Be Blood,2008.0,Drama,140926778
+tt0469623,2007,AAFCA Award,Top 10 Films,True,False,Things We Lost in the Fire,,[],Things We Lost in the Fire,2007.0,Drama,14475355
+tt0468569,2008,AAFCA Award,Best Picture,True,False,The Dark Knight,,[],The Dark Knight,2008.0,Others,1789324020
+tt1042877,2008,AAFCA Award,Top 10 Films,True,False,Cadillac Records,,[],Cadillac Records,2008.0,Biography,20760290
+tt0918927,2008,AAFCA Award,Top 10 Films,True,False,Doubt,,[],Doubt,2008.0,Drama,102673133
+tt0371746,2008,AAFCA Award,Top 10 Films,True,False,Iron Man,,[],Iron Man,2008.0,Others,1066360560
+tt1013753,2008,AAFCA Award,Top 10 Films,True,False,Milk,,[],Milk,2009.0,Biography,104604332
+tt1046997,2008,AAFCA Award,Top 10 Films,True,False,Miracle at St. Anna,,[],Miracle at St. Anna,2008.0,Others,20140510
+tt0814314,2008,AAFCA Award,Top 10 Films,True,False,Seven Pounds,,[],Seven Pounds,2008.0,Drama,289452861
+tt1010048,2008,AAFCA Award,Top 10 Films,True,False,Slumdog Millionaire,,[],Slumdog Millionaire,2008.0,Drama,631163825
+tt0421715,2008,AAFCA Award,Top 10 Films,True,False,The Curious Case of Benjamin Button,,[],The Curious Case of Benjamin Button,2008.0,Drama,560916857
+tt0416212,2008,AAFCA Award,Top 10 Films,True,False,The Secret Life of Bees,,[],The Secret Life of Bees,2008.0,Drama,91703710
+tt0929632,2009,AAFCA Award,Best Picture,True,False,Precious,,[],Precious,2009.0,Drama,131376168
+tt0780521,2009,AAFCA Award,Best Screenplay,True,False,The Princess and the Frog,nm0615780,John Musker,The Princess and the Frog,2009.0,Others,439559581
+tt1152397,2009,AAFCA Award,Top 10 Films,True,False,American Violet,,[],American Violet,2009.0,Drama,1328873
+tt1213585,2009,AAFCA Award,Top 10 Films,True,False,Good Hair,,[],Good Hair,2009.0,Others,9835694
+tt1095442,2009,AAFCA Award,Top 10 Films,True,False,Goodbye Solo,,[],Goodbye Solo,2009.0,Drama,2183417
+tt1133989,2009,AAFCA Award,Top 10 Films,True,False,Medicine for Melancholy,,[],Medicine for Melancholy,2008.0,Drama,267006
+tt0887912,2009,AAFCA Award,Top 10 Films,True,False,The Hurt Locker,,[],The Hurt Locker,2009.0,Drama,78614415
+tt1477715,2009,AAFCA Award,Top 10 Films,True,True,This Is It,,[],This Is It,2009.0,Others,393971877
+tt1049413,2009,AAFCA Award,Top 10 Films,True,False,Up,,[],Up,2009.0,Others,1228535689
+tt1193138,2009,AAFCA Award,Top 10 Films,True,False,Up in the Air,,[],Up in the Air,2009.0,Others,296631267
+tt1566648,2010,AAFCA Award,Best Documentary,True,False,Waiting for 'Superman',nm0346550,Davis Guggenheim,Waiting for 'Superman',2010.0,Others,15006809
+tt1285016,2010,AAFCA Award,Best Picture,True,False,The Social Network,,[],The Social Network,2010.0,Biography,376097037
+tt0775543,2010,AAFCA Award,Best Screenplay,True,False,Night Catches Us,nm0358184,Tanya Hamilton,Night Catches Us,2010.0,Drama,177653
+tt1405500,2010,AAFCA Award,Best Song,True,False,For Colored Girls,nm0800510,Nina Simone,For Colored Girls,2010.0,Drama,88152005
+tt0947798,2010,AAFCA Award,Top 10 Films,True,False,Black Swan,,[],Black Swan,2010.0,Drama,508757982
+tt1210039,2010,AAFCA Award,Top 10 Films,True,False,Blood Done Sign My Name,,[],Blood Done Sign My Name,2010.0,Drama,257935
+tt1221208,2010,AAFCA Award,Top 10 Films,True,False,Frankie & Alice,,[],Frankie & Alice,2014.0,Biography,1518224
+tt1194263,2010,AAFCA Award,Top 10 Films,True,False,Get Low,,[],Get Low,2010.0,Drama,22091120
+tt1375666,2010,AAFCA Award,Top 10 Films,True,False,Inception,,[],Inception,2010.0,Others,1315737764
+tt0964517,2010,AAFCA Award,Top 10 Films,True,False,The Fighter,,[],The Fighter,2010.0,Biography,259779028
+tt1504320,2010,AAFCA Award,Top 10 Films,True,False,The King's Speech,,[],The King's Speech,2010.0,Biography,644807404
+tt1592527,2011,AAFCA Award,Best Documentary,True,False,The Black Power Mixtape 1967-1975,,[],The Black Power Mixtape 1967-1975,2011.0,Others,633538
+tt1572154,2011,AAFCA Award,Best Foreign Film,True,False,Kinyarwanda,nm1591341,Alrick Brown,Kinyarwanda,2011.0,Drama,82184
+tt1233334,2011,AAFCA Award,Best Independent Film,True,False,Pariah,,[],Pariah,2011.0,Drama,1785984
+tt0478304,2011,AAFCA Award,Best Picture,True,False,The Tree of Life,,[],The Tree of Life,2011.0,Drama,76457936
+tt1624426,2011,AAFCA Award,Best Screenplay,True,False,I Will Follow,nm1148550,Ava DuVernay,I Will Follow,2010.0,Drama,317761
+tt1210166,2011,AAFCA Award,Best Song,True,False,Moneyball,nm7777298,Jason Reeves,Moneyball,2011.0,Biography,209282117
+tt1554091,2011,AAFCA Award,Top 10 Films,True,False,A Better Life,,[],A Better Life,2011.0,Drama,4101454
+tt0780504,2011,AAFCA Award,Top 10 Films,True,False,Drive,,[],Drive,2011.0,Others,125288325
+tt1655420,2011,AAFCA Award,Top 10 Films,True,False,My Week with Marilyn,,[],My Week with Marilyn,2011.0,Biography,56232113
+tt1640548,2011,AAFCA Award,Top 10 Films,True,False,Rampart,,[],Rampart,2011.0,Others,2869639
+tt1723811,2011,AAFCA Award,Top 10 Films,True,False,Shame,,[],Shame,2011.0,Drama,24381664
+tt1033575,2011,AAFCA Award,Top 10 Films,True,False,The Descendants,,[],The Descendants,2011.0,Others,294225062
+tt1454029,2011,AAFCA Award,Top 10 Films,True,False,The Help,,[],The Help,2011.0,Drama,435808604
+tt1446192,2012,AAFCA Award,Best Animation,True,False,Rise of the Guardians,,[],Rise of the Guardians,2012.0,Others,455498209
+tt2125653,2012,AAFCA Award,Best Documentary,True,False,The House I Live In,,[],The House I Live In,2012.0,Others,474945
+tt1675434,2012,AAFCA Award,Best Foreign Film,True,False,The Intouchables,,[],The Intouchables,2012.0,Biography,485125621
+tt1211890,2012,AAFCA Award,Best Independent Film,True,False,Middle of Nowhere,,[],Middle of Nowhere,2012.0,Drama,533962
+tt1790885,2012,AAFCA Award,Best Picture,True,False,Zero Dark Thirty,,[],Zero Dark Thirty,2013.0,Drama,253618663
+tt2125435,2012,AAFCA Award,Breakout Performance,True,False,Beasts of the Southern Wild,nm4832920,Quvenzhané Wallis,Beasts of the Southern Wild,2012.0,Others,38223676
+tt1024648,2012,AAFCA Award,Top 10 Films,True,False,Argo,,[],Argo,2012.0,Biography,406936640
+tt1853728,2012,AAFCA Award,Top 10 Films,True,False,Django Unchained,,[],Django Unchained,2012.0,Drama,654642643
+tt1707386,2012,AAFCA Award,Top 10 Films,True,False,Les Misérables,,[],Les Misérables,2012.0,Drama,657364916
+tt0454876,2012,AAFCA Award,Top 10 Films,True,False,Life of Pi,,[],Life of Pi,2012.0,Others,814752559
+tt0443272,2012,AAFCA Award,Top 10 Films,True,False,Lincoln,,[],Lincoln,2012.0,Biography,507831925
+tt1748122,2012,AAFCA Award,Top 10 Films,True,False,Moonrise Kingdom,,[],Moonrise Kingdom,2012.0,Others,126701187
+tt1621045,2012,AAFCA Award,Top 10 Films,True,False,Think Like a Man,,[],Think Like a Man,2012.0,Others,208380950
+tt2294629,2013,AAFCA Award,Best Animation,True,False,Frozen,,[],Frozen,2013.0,Others,1836502992
+tt2545088,2013,AAFCA Award,Best Documentary,True,False,American Promise,,[],American Promise,2013.0,Others,325598
+tt2334649,2013,AAFCA Award,Best Independent Film,True,False,Fruitvale Station,,[],Fruitvale Station,2013.0,Biography,36634099
+tt1425922,2013,AAFCA Award,Best Music,True,False,Black Nativity,nm1277289,Raphael Saadiq,Black Nativity,2013.0,Drama,15868203
+tt2024544,2013,AAFCA Award,Best Picture,True,False,12 Years a Slave,,[],12 Years a Slave,2013.0,Biography,267977546
+tt2094890,2013,AAFCA Award,Best World Cinema,True,False,Mother of George,,[],Mother of George,2013.0,Drama,350533
+tt0453562,2013,AAFCA Award,Top 10 Films,True,False,42,,[],42,2013.0,Biography,211544560
+tt1800241,2013,AAFCA Award,Top 10 Films,True,False,American Hustle,,[],American Hustle,2013.0,Others,440030887
+tt0790636,2013,AAFCA Award,Top 10 Films,True,False,Dallas Buyers Club,,[],Dallas Buyers Club,2013.0,Biography,90453185
+tt1454468,2013,AAFCA Award,Top 10 Films,True,False,Gravity,,[],Gravity,2013.0,Drama,1091238094
+tt1327773,2013,AAFCA Award,Top 10 Films,True,False,Lee Daniels' The Butler,,[],Lee Daniels' The Butler,2013.0,Biography,320401734
+tt2304771,2013,AAFCA Award,Top 10 Films,True,False,Mandela: Long Walk to Freedom,,[],Mandela: Long Walk to Freedom,2013.0,Biography,39099307
+tt1206543,2013,AAFCA Award,Top 10 Films,True,False,Out of the Furnace,,[],Out of the Furnace,2013.0,Others,29350161
+tt2140373,2013,AAFCA Award,Top 10 Films,True,False,Saving Mr. Banks,,[],Saving Mr. Banks,2013.0,Biography,214753526
+tt0787474,2014,AAFCA Award,Best Animated Feature,True,False,The Boxtrolls,,[],The Boxtrolls,2014.0,Others,170800934
+tt2382298,2014,AAFCA Award,Best Documentary,True,False,Life Itself,,[],Life Itself,2014.0,Biography,1744160
+tt2473602,2014,AAFCA Award,Best Ensemble,True,False,Get on Up,,[],Get on Up,2014.0,Biography,68924934
+tt2235108,2014,AAFCA Award,Best Independent Film,True,False,Dear White People,,[],Dear White People,2014.0,Others,9873938
+tt1020072,2014,AAFCA Award,Best Music,True,False,Selma,nm1775466,John Legend,Selma,2015.0,Biography,129973282
+tt3125324,2014,AAFCA Award,Best Screenplay,True,False,Beyond the Lights,nm0697656,Gina Prince-Bythewood,Beyond the Lights,2014.0,Drama,31638963
+tt3409392,2014,AAFCA Award,Best World Cinema,True,False,Timbuktu,,[],Timbuktu,2014.0,Drama,8885318
+tt2404181,2014,AAFCA Award,Top 10 Films,True,False,Belle,,[],Belle,2014.0,Biography,29862007
+tt2562232,2014,AAFCA Award,Top 10 Films,True,False,Birdman or (The Unexpected Virtue of Ignorance),,[],Birdman or (The Unexpected Virtue of Ignorance),2014.0,Others,157511363
+tt2883434,2014,AAFCA Award,Top 10 Films,True,False,Black or White,,[],Black or White,2015.0,Drama,47461568
+tt2084970,2014,AAFCA Award,Top 10 Films,True,False,The Imitation Game,,[],The Imitation Game,2014.0,Biography,347061623
+tt2980516,2014,AAFCA Award,Top 10 Films,True,False,The Theory of Everything,,[],The Theory of Everything,2014.0,Biography,172731130
+tt2784678,2014,AAFCA Award,Top 10 Films,True,False,Top Five,,[],Top Five,2014.0,Others,55977107
+tt1809398,2014,AAFCA Award,Top 10 Films,True,False,Unbroken,,[],Unbroken,2014.0,Biography,301567352
+tt2452042,2015,AAFCA Award,Best Animated Feature,True,False,The Peanuts Movie,,[],The Peanuts Movie,2015.0,Others,405295497
+tt4504040,2015,AAFCA Award,Best Documentary,True,False,A Ballerina's Tale,,[],A Ballerina's Tale,2015.0,Others,283647
+tt1398426,2015,AAFCA Award,Best Ensemble,True,False,Straight Outta Compton,,[],Straight Outta Compton,2015.0,Biography,389068254
+tt4594834,2015,AAFCA Award,Best Independent Film,True,False,Chi-Raq,,[],Chi-Raq,2015.0,Others,5804843
+tt3850214,2015,AAFCA Award,Best Screenplay,True,False,Dope,nm0266622,Rick Famuyiwa,Dope,2015.0,Others,38008319
+tt2820852,2015,AAFCA Award,Best Song,True,False,Furious 7,,[],Furious 7,2015.0,Others,2017665502
+tt3076658,2015,AAFCA Award,Breakthrough Performance,True,False,Creed,nm0430107,Michael B. Jordan,Creed,2015.0,Drama,305076911
+tt4126312,2015,AAFCA Award,Top 10 Films,True,False,"3½ Minutes, Ten Bullets",,[],"3½ Minutes, Ten Bullets",2015.0,Others,76180
+tt1365050,2015,AAFCA Award,Top 10 Films,True,False,Beasts of No Nation,,[],Beasts of No Nation,2015.0,Drama,195072
+tt2402927,2015,AAFCA Award,Top 10 Films,True,False,Carol,,[],Carol,2016.0,Drama,57150465
+tt1392190,2015,AAFCA Award,Top 10 Films,True,False,Mad Max: Fury Road,,[],Mad Max: Fury Road,2015.0,Others,568757186
+tt1596363,2015,AAFCA Award,Top 10 Films,True,False,The Big Short,,[],The Big Short,2015.0,Biography,220083782
+tt0810819,2015,AAFCA Award,Top 10 Films,True,False,The Danish Girl,,[],The Danish Girl,2016.0,Biography,81227863
+tt3659388,2015,AAFCA Award,Top 10 Films,True,False,The Martian,,[],The Martian,2015.0,Others,922528680
+tt2948356,2016,AAFCA Award,Best Animated Feature,True,False,Zootopia,,[],Zootopia,2016.0,Others,1464886792
+tt5895028,2016,AAFCA Award,Best Documentary,True,False,13th,,[],13th,2016.0,Others,598
+tt4846340,2016,AAFCA Award,Best Ensemble,True,False,Hidden Figures,,[],Hidden Figures,2017.0,Biography,426789421
+tt4239726,2016,AAFCA Award,Best Foreign Film,True,False,Tanna,,[],Tanna,2016.0,Others,158372
+tt4975722,2016,AAFCA Award,Best Independent Film,True,False,Moonlight,,[],Moonlight,2016.0,Drama,98365559
+tt2671706,2016,AAFCA Award,Best Screenplay,True,False,Fences,nm0933025,August Wilson,Fences,2016.0,Drama,129236447
+tt2582782,2016,AAFCA Award,Top 10 Films,True,False,Hell or High Water,,[],Hell or High Water,2016.0,Others,68847814
+tt3783958,2016,AAFCA Award,Top 10 Films,True,False,La La Land,,[],La La Land,2016.0,Others,632110793
+tt3741834,2016,AAFCA Award,Top 10 Films,True,False,Lion,,[],Lion,2017.0,Biography,202102882
+tt4669986,2016,AAFCA Award,Top 10 Films,True,False,Loving,,[],Loving,2016.0,Biography,21927232
+tt4034228,2016,AAFCA Award,Top 10 Films,True,False,Manchester by the Sea,,[],Manchester by the Sea,2016.0,Drama,134090426
+tt4341582,2016,AAFCA Award,Top 10 Films,True,False,Queen of Katwe,,[],Queen of Katwe,2016.0,Biography,20366898
+tt4196450,2016,AAFCA Award,Top 10 Films,True,False,The Birth of a Nation,,[],The Birth of a Nation,2016.0,Biography,34506763
+tt2380307,2017,AAFCA Award,Best Animated Feature,True,False,Coco,,[],Coco,2017.0,Others,1053408838
+tt3564472,2017,AAFCA Award,Best Comedy Film,True,False,Girls Trip,,[],Girls Trip,2017.0,Others,266964926
+tt5758404,2017,AAFCA Award,Best Documentary,True,False,Step,,[],Step,2017.0,Others,2393046
+tt5390504,2017,AAFCA Award,Best Ensemble,True,False,Detroit,nm3915784,John Boyega,Detroit,2017.0,Others,41785098
+tt6333070,2017,AAFCA Award,Best Foreign Film,True,False,The Wound,,[],The Wound,2017.0,Drama,256476
+tt3268340,2017,AAFCA Award,Best Independent Film,True,False,Crown Heights,,[],Crown Heights,2017.0,Biography,496605
+tt2396589,2017,AAFCA Award,Best New Media,True,False,Mudbound,,[],Mudbound,2017.0,Drama,121567
+tt5052448,2017,AAFCA Award,Best Picture,True,False,Get Out,,[],Get Out,2017.0,Others,452610297
+tt5726616,2017,AAFCA Award,Top 10 Films,True,False,Call Me by Your Name,,[],Call Me by Your Name,2018.0,Drama,61842081
+tt6057032,2017,AAFCA Award,Top 10 Films,True,False,Gook,,[],Gook,2017.0,Drama,527925
+tt5301662,2017,AAFCA Award,Top 10 Films,True,False,Marshall,,[],Marshall,2017.0,Biography,20894959
+tt5580390,2017,AAFCA Award,Top 10 Films,True,False,The Shape of Water,,[],The Shape of Water,2017.0,Others,268587349
+tt5027774,2017,AAFCA Award,Top 10 Films,True,False,"Three Billboards Outside Ebbing, Missouri",,[],"Three Billboards Outside Ebbing, Missouri",2017.0,Others,221547257
+tt4633694,2018,AAFCA Award,Best Animated Feature,True,False,Spider-Man: Into the Spider-Verse,,[],Spider-Man: Into the Spider-Verse,2018.0,Others,575460690
+tt6155172,2018,AAFCA Award,Best Foreign Film,True,False,Roma,,[],Roma,2018.0,Drama,1164019
+tt7125860,2018,AAFCA Award,Best Independent Film,True,False,If Beale Street Could Talk,,[],If Beale Street Could Talk,2018.0,Drama,36097988
+tt1825683,2018,AAFCA Award,Best Picture,True,False,Black Panther,,[],Black Panther,2018.0,Others,2100878290
+tt7349662,2018,AAFCA Award,Best Screenplay,True,False,BlacKkKlansman,nm4478735,Charlie Wachtel,BlacKkKlansman,2018.0,Biography,144503314
+tt5580266,2018,AAFCA Award,Breakout Performance,True,False,The Hate U Give,nm3964350,Amandla Stenberg,The Hate U Give,2018.0,Others,65334324
+tt1517451,2018,AAFCA Award,Top 10 Films,True,False,A Star Is Born,,[],A Star Is Born,2018.0,Drama,657024414
+tt7242142,2018,AAFCA Award,Top 10 Films,True,False,Blindspotting,,[],Blindspotting,2018.0,Others,9326245
+tt5688932,2018,AAFCA Award,Top 10 Films,True,False,Sorry to Bother You,,[],Sorry to Bother You,2018.0,Others,36165065
+tt5083738,2018,AAFCA Award,Top 10 Films,True,False,The Favourite,,[],The Favourite,2018.0,Biography,132523180
+tt4218572,2018,AAFCA Award,Top 10 Films,True,False,Widows,,[],Widows,2018.0,Others,120036049
+tt3104988,2018,Special Achievement Award,,True,True,Crazy Rich Asians,,[],Crazy Rich Asians,2018.0,Others,418639001

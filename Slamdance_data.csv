@@ -1,0 +1,42 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0116041,1996,Grand Jury Prize,,True,False,The Daytrippers,nm0609549,Greg Mottola,The Daytrippers,1997.0,Comedy,6707103
+tt0119054,1997,Audience Award,Best Feature,True,True,Eight Days a Week,nm0205157,Michael Davis,Eight Days a Week,1999.0,Comedy,28242
+tt0138987,1998,Grand Jury Prize,,False,True,20 Dates,nm0075483,Myles Berkowitz,20 Dates,1999.0,Others,1682844
+tt0151905,1998,Grand Jury Prize,,False,False,Gang Land,nm0470968,Randolph Kret,Gang Land,1999.0,Others,1236224
+tt0118736,1998,Grand Jury Prize,,False,True,Six-String Samurai,nm0612812,Lance Mungia,Six-String Samurai,1998.0,Others,456503
+tt0154506,1999,Grand Jury Prize,,False,True,Following,nm0634240,Christopher Nolan,Following,1999.0,Others,149091
+tt0138537,1999,Grand Jury Prize,,False,True,Man of the Century,nm0008917,Adam Abraham,Man of the Century,1999.0,Comedy,108431
+tt0184007,1999,Grand Jury Prize,,False,False,The Wetonkawa Flash,nm0354863,Boyd Hale,The Wetonkawa Flash,1999.0,Others,7823
+tt0162023,2000,Grand Jury Prize,,False,True,Tuvalu,nm0375691,Veit Helmer,Tuvalu,1999.0,Comedy,1250933
+tt0267563,2001,Grand Jury Prize,Best Documentary,True,False,Hybrid,nm0566144,Monteith McCollum,Hybrid,2001.0,Others,472005
+tt0264355,2001,Grand Jury Prize,,False,True,American Chai,nm0576542,Anurag Mehta,American Chai,2001.0,Comedy,372209
+tt0269743,2001,Grand Jury Prize,,False,True,Barking Dogs Never Bite,nm0094435,Joon-ho Bong,Barking Dogs Never Bite,2001.0,Comedy,65334
+tt0266075,2001,Grand Jury Prize,,False,True,Memento Mori,nm0453707,Tae-yong Kim,Memento Mori,2001.0,Drama,75775
+tt0276607,2001,Grand Jury Prize,,False,False,Virgil Bliss,nm0535984,John Maggio,Virgil Bliss,2001.0,Others,6476
+tt0466943,2001,Spirit of Slamdance Award,,True,True,Randy and the Mob,nm0571964,Ray McKinnon,Randy and the Mob,2007.0,Comedy,111081
+tt0315634,2002,Grand Jury Prize,Best Documentary,False,False,Standing by Yourself,nm1159483,Josh Koury,Standing by Yourself,2002.0,Others,7106
+tt0324080,2002,Grand Jury Prize,Best Documentary,False,True,Stone Reader,nm1195672,Mark Moskowitz,Stone Reader,2002.0,Others,751847
+tt0283387,2002,Grand Jury Prize,,True,False,The Holy Land,nm1148912,Eitan Gorlin,The Holy Land,2001.0,Drama,1743678
+tt0368711,2003,Grand Jury Prize,Best Documentary,False,False,End of the Century,nm1385244,Michael Gramaglia,End of the Century,2003.0,Others,1102499
+tt0361322,2003,Grand Jury Prize,,True,False,Assisted Living,nm1355169,Elliot Greenebaum,Assisted Living,2003.0,Comedy,136910
+tt0323633,2003,Grand Jury Prize,,False,False,Melvin Goes to Dinner,nm0644022,Bob Odenkirk,Melvin Goes to Dinner,2003.0,Comedy,11558
+tt0301777,2003,Grand Jury Prize,,False,False,Robot Stories,nm0657062,Greg Pak,Robot Stories,2003.0,Drama,369752
+tt0389235,2005,Grand Jury Prize,,True,False,On the Outs,nm1091262,Lori Silverbush,On the Outs,2005.0,Drama,131162
+tt0439774,2005,Audience Award,Best Documentary Feature,True,True,The Real Dirt on Farmer John,nm0797019,Taggart Siegel,The Real Dirt on Farmer John,2006.0,Others,267311
+tt0468580,2006,Grand Jury Prize,,True,True,We Go Way Back,nm1119645,Lynn Shelton,We Go Way Back,2011.0,Drama,14837
+tt0495060,2006,Audience Award,Best Documentary,True,True,Abduction: The Megumi Yokota Story,nm2143272,Patty Kim,Abduction: The Megumi Yokota Story,2006.0,Others,69226
+tt0460925,2006,Audience Award,Best Narrative Feature,True,True,The Sasquatch Gang,nm1417016,Tim Skousen,The Sasquatch Gang,2006.0,Comedy,24376
+tt1268962,2007,Screenplay Competition Award,,True,True,Drool,nm1550026,Nancy Kissam,Drool,2009.0,Comedy,3396
+tt1057581,2008,Grand Jury Prize,Honorable Mention,True,False,How to Be,,[],How to Be,2008.0,Comedy,37464
+tt0902290,2009,Vision Award for Cinematography,Best Cinematography,True,True,I Sell the Dead,nm1117076,Richard Lopez,I Sell the Dead,2009.0,Comedy,19485
+tt2099788,2012,Grand Jury Prize,Best Narrative Feature,True,False,Welcome to Pine Hill,nm2142624,Keith Miller,Welcome to Pine Hill,2013.0,Drama,13426
+tt2104896,2012,Vision Award for Cinematography,Best Cinematography,True,True,"Faith, Love + Whiskey",nm1932518,Alexander Stanishev,"Faith, Love + Whiskey",2012.0,Drama,32614
+tt2245756,2013,Grand Jury Prize,Best Narrative Feature,False,False,What Isn't There,nm1667629,Marie Jamora,What Isn't There,2013.0,Drama,33266
+tt2330270,2013,Audience Award,Best Narrative Feature,True,True,Hank and Asha,nm5205784,James E. Duff,Hank and Asha,2013.0,Comedy,37459
+tt2960270,2014,Slamdance Trailer Competition Grand Prize,,True,True,Love Steaks,nm3401991,Jakob Lass,Love Steaks,2014.0,Comedy,113295
+tt3263718,2015,Grand Jury Prize,Best Narrative Feature,False,True,Across the Sea,nm4047337,Nisan Dag,Across the Sea,2015.0,Comedy,15884
+tt3732950,2015,Grand Jury Prize,Best Narrative Feature,False,False,Body,nm3228270,Dan Berk,Body,2015.0,Others,5691
+tt3560672,2015,Grand Jury Prize,Best Narrative Feature,False,False,High Performance,nm2588669,Johanna Moder,High Performance,2014.0,Comedy,49746
+tt3836512,2015,Grand Jury Prize,Best Narrative Feature,False,False,Ratter,nm4734352,Branden Kramer,Ratter,2016.0,Drama,22863
+tt4457344,2017,Audience Award,Best Narrative Feature,True,True,Dave Made a Maze,nm1826889,Bill Watterson,Dave Made a Maze,2017.0,Others,71021
+tt6835498,2019,Grand Jury Prize,Best Narrative Feature,False,False,Crystal Swan,nm2660273,Darya Zhuk,Crystal Swan,2019.0,Drama,63603

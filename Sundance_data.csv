@@ -1,0 +1,953 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0088782,1985,Grand Jury Prize,Documentary,False,False,Before Stonewall,nm0771652,Greta Schiller,Before Stonewall,1985.0,Documentary,88938
+tt0088196,1985,Grand Jury Prize,Documentary,False,True,Streetwise,nm0068385,Martin Bell,Streetwise,1984.0,Documentary,36465
+tt0088275,1985,Grand Jury Prize,Documentary,False,True,The Times of Harvey Milk,nm0258531,Rob Epstein,The Times of Harvey Milk,1984.0,Biography,146519
+tt0086979,1985,Grand Jury Prize,Dramatic,True,False,Blood Simple,nm0001054,Joel Coen,Blood Simple,1985.0,Crime,19571110
+tt0086876,1985,Grand Jury Prize,Dramatic,False,True,Almost You,nm0111845,Adam Brooks,Almost You,1985.0,Comedy,456335
+tt0087397,1985,Grand Jury Prize,Dramatic,False,False,Heartbreakers,nm0744794,Bobby Roth,Heartbreakers,1984.0,Drama,724052
+tt0088184,1985,Grand Jury Prize,Dramatic,False,True,Stranger Than Paradise,nm0000464,Jim Jarmusch,Stranger Than Paradise,1984.0,Comedy,11857427
+tt0087004,1985,Grand Jury Prize,Dramatic,False,True,The Brother from Another Planet,nm0000626,John Sayles,The Brother from Another Planet,1984.0,Comedy,17899112
+tt0090092,1986,Grand Jury Prize,Documentary,False,False,Stripper,nm0308877,Jerome Gary,Stripper,1986.0,Documentary,419695
+tt0090037,1986,Grand Jury Prize,Dramatic,True,False,Smooth Talk,nm0159154,Joyce Chopra,Smooth Talk,1985.0,Drama,78704
+tt0090710,1986,Grand Jury Prize,Dramatic,False,False,Belizaire the Cajun,nm0685789,Glen Pitre,Belizaire the Cajun,1986.0,Drama,5331468
+tt0089015,1986,Grand Jury Prize,Dramatic,False,True,Desert Hearts,nm0215123,Donna Deitch,Desert Hearts,1986.0,Drama,11706766
+tt0091725,1986,Grand Jury Prize,Dramatic,False,True,Parting Glances,nm0792795,Bill Sherwood,Parting Glances,1986.0,Drama,1257120
+tt0089997,1986,Grand Jury Prize,Dramatic,False,True,Seven Minutes in Heaven,nm0270376,Linda Feferman,Seven Minutes in Heaven,1985.0,Comedy,74854
+tt0093429,1987,Grand Jury Prize,Dramatic,False,False,Living on Tokyo Time,nm0645574,Steven Okazaki,Living on Tokyo Time,1987.0,Comedy,636962
+tt0091583,1987,Grand Jury Prize,Dramatic,False,False,My Little Girl,nm0435232,Connie Kaiserman,My Little Girl,1987.0,Drama,112974
+tt0093763,1987,Grand Jury Prize,Dramatic,False,False,Positive I.D.,nm0026339,Andy Anderson,Positive I.D.,1986.0,Crime,861055
+tt0091860,1987,Grand Jury Prize,Dramatic,False,True,River's Edge,nm0006853,Tim Hunter,River's Edge,1987.0,Crime,20787282
+tt0092238,1987,Grand Jury Prize,Dramatic,False,True,Working Girls,nm0001962,Lizzie Borden,Working Girls,1987.0,Drama,8103575
+tt0095270,1988,Grand Jury Prize,Dramatic,False,False,Hairspray,nm0000691,John Waters,Hairspray,1988.0,Comedy,29392901
+tt0095835,1988,Grand Jury Prize,Dramatic,False,False,Patti Rocks,nm0606483,David Burton Morris,Patti Rocks,1988.0,Comedy,762005
+tt0095916,1988,Grand Jury Prize,Dramatic,False,False,Promised Land,nm0001355,Michael Hoffman,Promised Land,1988.0,Drama,1396785
+tt0093816,1988,Grand Jury Prize,Dramatic,False,True,Rachel River,nm0810553,Sandy Smolan,Rachel River,1989.0,Drama,255119
+tt0094027,1988,Grand Jury Prize,Dramatic,False,False,Stand and Deliver,nm0579466,Ramón Menéndez,Stand and Deliver,1988.0,Biography,61396975
+tt0097372,1989,Grand Jury Prize,Documentary,True,True,For All Mankind,nm0718031,Al Reinert,For All Mankind,1989.0,Documentary,3179413
+tt0095289,1989,Grand Jury Prize,Documentary,False,False,Heavy Petting,nm0002312,Obie Benz,Heavy Petting,1989.0,Documentary,1113661
+tt0095515,1989,Grand Jury Prize,Documentary,False,False,Let's Get Lost,nm0916510,Bruce Weber,Let's Get Lost,1989.0,Biography,1125696
+tt0098528,1989,Grand Jury Prize,Dramatic,True,False,True Love,nm0001700,Nancy Savoca,True Love,1989.0,Comedy,5537287
+tt0096744,1989,Grand Jury Prize,Dramatic,False,False,84C MoPic,nm0242059,Patrick Sheane Duncan,84C MoPic,1989.0,Drama,320242
+tt0094667,1989,Grand Jury Prize,Dramatic,False,False,Apartment Zero,nm0233026,Martin Donovan,Apartment Zero,1988.0,Drama,5407796
+tt0103947,1989,Grand Jury Prize,Dramatic,False,False,Cheap Shots,nm0881839,Jeff Ureles,Cheap Shots,1989.0,Comedy,9804
+tt0097493,1989,Grand Jury Prize,Dramatic,False,False,Heathers,nm0499724,Michael Lehmann,Heathers,1989.0,Comedy,4748284
+tt0097889,1989,Grand Jury Prize,Dramatic,False,False,Miracle Mile,nm0208923,Steve De Jarnatt,Miracle Mile,1989.0,Others,4728686
+tt0098112,1989,Grand Jury Prize,Dramatic,False,True,Powwow Highway,nm0905237,Jonathan Wacks,Powwow Highway,1989.0,Drama,1192614
+tt0098724,1989,Grand Jury Prize,Dramatic,False,True,"Sex, Lies, and Videotape",nm0001752,Steven Soderbergh,"Sex, Lies, and Videotape",1989.0,Drama,101162936
+tt0101561,1990,Grand Jury Prize,Dramatic,True,False,Chameleon Street,nm0364389,Wendell B. Harris Jr.,Chameleon Street,1990.0,Comedy,471401
+tt0099800,1990,Grand Jury Prize,Dramatic,False,True,House Party,nm0399737,Reginald Hudlin,House Party,1990.0,Comedy,104783126
+tt0099857,1990,Grand Jury Prize,Dramatic,False,False,Iron & Silk,nm0838986,Shirley Sun,Iron & Silk,1990.0,Comedy,1428489
+tt0100049,1990,Grand Jury Prize,Dramatic,False,True,Longtime Companion,nm0720000,Norman René,Longtime Companion,1989.0,Drama,18758985
+tt0100142,1990,Grand Jury Prize,Dramatic,False,False,Metropolitan,nm0001775,Whit Stillman,Metropolitan,1990.0,Comedy,11497687
+tt0100188,1990,Grand Jury Prize,Dramatic,False,False,Mortal Passions,nm0485229,Andrew Lane,Mortal Passions,1990.0,Crime,395844
+tt0064820,1990,Grand Jury Prize,Dramatic,False,False,The Plot Against Harry,nm0736394,Michael Roemer,The Plot Against Harry,1989.0,Comedy,560533
+tt0100791,1990,Grand Jury Prize,Dramatic,False,True,To Sleep with Anger,nm0122344,Charles Burnett,To Sleep with Anger,1990.0,Drama,4445329
+tt0099028,1991,Grand Jury Prize,Documentary,True,True,American Dream,nm0465932,Barbara Kopple,American Dream,1990.0,Documentary,1032999
+tt0100332,1991,Grand Jury Prize,Documentary,True,False,Paris Is Burning,nm0515255,Jennie Livingston,Paris Is Burning,1991.0,Documentary,14560313
+tt0102687,1991,Grand Jury Prize,Dramatic,True,False,Poison,nm0001331,Todd Haynes,Poison,1991.0,Drama,2989417
+tt0104057,1991,Grand Jury Prize,Dramatic,False,True,Daughters of the Dust,nm0201969,Julie Dash,Daughters of the Dust,1991.0,Drama,6250909
+tt0101998,1991,Grand Jury Prize,Dramatic,False,True,Hangin' with the Homeboys,nm0890687,Joseph B. Vasquez,Hangin' with the Homeboys,1991.0,Comedy,2014644
+tt0105109,1991,Grand Jury Prize,Dramatic,False,True,Pastime,nm0035883,Robin B. Armstrong,Pastime,1991.0,Drama,999985
+tt0102943,1991,Grand Jury Prize,Dramatic,False,False,Slacker,nm0000500,Richard Linklater,Slacker,1991.0,Comedy,4608524
+tt0102989,1991,Grand Jury Prize,Dramatic,False,True,Straight Out of Brooklyn,nm0723685,Matty Rich,Straight Out of Brooklyn,1991.0,Crime,10192956
+tt0103130,1991,Grand Jury Prize,Dramatic,False,True,Trust,nm0001325,Hal Hartley,Trust,1991.0,Comedy,1348662
+tt0103143,1991,Grand Jury Prize,Dramatic,False,False,Twenty-One,nm0101750,Don Boyd,Twenty-One,1991.0,Drama,954198
+tt0103882,1992,Grand Jury Prize,Documentary,True,True,A Brief History of Time,nm0001554,Errol Morris,A Brief History of Time,1991.0,Biography,8479923
+tt0103888,1992,Grand Jury Prize,Documentary,False,True,Brother's Keeper,nm0075666,Joe Berlinger,Brother's Keeper,1992.0,Crime,4723623
+tt0104503,1992,Grand Jury Prize,Dramatic,True,True,In the Soup,nm0734319,Alexandre Rockwell,In the Soup,1992.0,Comedy,948355
+tt0104240,1992,Grand Jury Prize,Dramatic,False,False,Fathers & Sons,nm0597857,Paul Mones,Fathers & Sons,1992.0,Drama,25758
+tt0104321,1992,Grand Jury Prize,Dramatic,False,False,Gas Food Lodging,nm0025978,Allison Anders,Gas Food Lodging,1992.0,Drama,4884015
+tt0104567,1992,Grand Jury Prize,Dramatic,False,False,Johnny Suede,nm0001139,Tom DiCillo,Johnny Suede,1992.0,Comedy,326793
+tt0102174,1992,Grand Jury Prize,Dramatic,False,False,Jumpin' at the Boneyard,nm0822863,Jeff Stanzler,Jumpin' at the Boneyard,1992.0,Drama,58126
+tt0105156,1992,Grand Jury Prize,Dramatic,False,False,Poison Ivy,nm0002240,Katt Shea,Poison Ivy,1992.0,Drama,6694384
+tt0105236,1992,Grand Jury Prize,Dramatic,False,False,Reservoir Dogs,nm0000233,Quentin Tarantino,Reservoir Dogs,1992.0,Crime,10532387
+tt0104448,1992,Grand Jury Prize,Dramatic,False,True,The Hours and Times,nm0618405,Christopher Munch,The Hours and Times,1992.0,Drama,4711
+tt0104745,1992,Grand Jury Prize,Dramatic,False,False,The Living End,nm0000777,Gregg Araki,The Living End,1992.0,Comedy,2512259
+tt0105654,1992,Grand Jury Prize,Dramatic,False,False,The Tune,nm0687739,Bill Plympton,The Tune,1992.0,Others,32596
+tt0105789,1992,Grand Jury Prize,Dramatic,False,True,The Waterdance,nm0422791,Neal Jimenez,The Waterdance,1992.0,Drama,6304806
+tt0105885,1992,Grand Jury Prize,Dramatic,False,True,Zebrahead,nm0237292,Anthony Drazan,Zebrahead,1992.0,Drama,5614742
+tt0106556,1993,Grand Jury Prize,Documentary,True,True,Children of Fate: Life and Death in a Sicilian Family,nm0949255,Andrew Young,Children of Fate: Life and Death in a Sicilian Family,1993.0,Documentary,6229
+tt0107974,1993,Grand Jury Prize,Documentary,False,False,Road Scholar,nm0918724,Roger Weisberg,Road Scholar,1993.0,Documentary,2115045
+tt0108000,1993,Grand Jury Prize,Dramatic,True,False,Ruby in Paradise,nm0638033,Victor Nunez,Ruby in Paradise,1993.0,Drama,3510496
+tt0106264,1993,Grand Jury Prize,Dramatic,False,False,Amongst Friends,nm0731146,Rob Weiss,Amongst Friends,1993.0,Crime,937953
+tt0106447,1993,Grand Jury Prize,Dramatic,False,False,"Bodies, Rest & Motion",nm0825790,Michael Steinberg,"Bodies, Rest & Motion",1993.0,Drama,2714217
+tt0106471,1993,Grand Jury Prize,Dramatic,False,False,Boxing Helena,nm0528337,Jennifer Lynch,Boxing Helena,1993.0,Drama,6327548
+tt0104815,1993,Grand Jury Prize,Dramatic,False,True,El mariachi,nm0001675,Robert Rodriguez,El Mariachi,1993.0,Others,7289350
+tt0107220,1993,Grand Jury Prize,Dramatic,False,False,Inside Monkey Zetterland,nm0506461,Jefery Levy,Inside Monkey Zetterland,1993.0,Comedy,214383
+tt0104575,1993,Grand Jury Prize,Dramatic,False,True,Just Another Girl on the I.R.T.,nm0365001,Leslie Harris,Just Another Girl on the I.R.T.,1993.0,Drama,1705441
+tt0107419,1993,Grand Jury Prize,Dramatic,False,True,Lillian,nm0930393,David D. Williams,Lillian,1993.0,Biography,11298
+tt0108410,1993,Grand Jury Prize,Dramatic,False,False,Twenty Bucks,nm0742553,Keva Rosenfeld,Twenty Bucks,1993.0,Comedy,314157
+tt0109839,1994,Grand Jury Prize,Documentary,True,False,Freedom on My Mind,nm0275908,Connie Field,Freedom on My Mind,1994.0,Documentary,245795
+tt0109619,1994,Grand Jury Prize,Documentary,False,True,Dialogues with Madwomen,nm0509921,Allie Light,Dialogues with Madwomen,1994.0,Documentary,135970
+tt0109774,1994,Grand Jury Prize,Documentary,False,False,"Fast Trip, Long Drop",nm0096259,Gregg Bordowitz,"Fast Trip, Long Drop",1994.0,Biography,36790
+tt0110057,1994,Grand Jury Prize,Documentary,False,True,Hoop Dreams,nm0416945,Steve James,Hoop Dreams,1994.0,Documentary,33607932
+tt0110473,1994,Grand Jury Prize,Documentary,False,False,Martha & Ethel,nm0426927,Jyll Johnstone,Martha & Ethel,1995.0,Documentary,310148
+tt0108323,1994,Grand Jury Prize,Documentary,False,True,Theremin: An Electronic Odyssey,nm0553094,Steven M. Martin,Theremin: An Electronic Odyssey,1995.0,Biography,846737
+tt0106579,1994,Grand Jury Prize,Dramatic,False,False,"Clean, Shaven",nm0449868,Lodge Kerrigan,"Clean, Shaven",1995.0,Crime,88662
+tt0109445,1994,Grand Jury Prize,Dramatic,False,True,Clerks,nm0003620,Kevin Smith,Clerks,1994.0,Comedy,11015936
+tt0109816,1994,Grand Jury Prize,Dramatic,False,False,Floundering,nm0565292,Peter McCarthy,Floundering,1994.0,Comedy,70025
+tt0109842,1994,Grand Jury Prize,Dramatic,False,True,Fresh,nm0945026,Boaz Yakin,Fresh,1994.0,Crime,27691605
+tt0109913,1994,Grand Jury Prize,Dramatic,False,False,Go Fish,nm0873266,Rose Troche,Go Fish,1994.0,Comedy,8283905
+tt0107045,1994,Grand Jury Prize,Dramatic,False,False,Grief,nm0322144,Richard Glatzer,Grief,1994.0,Comedy,373488
+tt0110671,1994,Grand Jury Prize,Dramatic,False,False,Nina Takes a Lover,nm0414312,Alan Jacobs,Nina Takes a Lover,1995.0,Comedy,319872
+tt0110998,1994,Grand Jury Prize,Dramatic,False,False,River of Grass,nm0716980,Kelly Reichardt,River of Grass,1995.0,Drama,38416
+tt0111252,1994,Grand Jury Prize,Dramatic,False,True,Spanking the Monkey,nm0751102,David O. Russell,Spanking the Monkey,1994.0,Comedy,4682989
+tt0108260,1994,Grand Jury Prize,Dramatic,False,True,Suture,nm0569166,Scott McGehee,Suture,1994.0,Drama,359305
+tt0109508,1995,Grand Jury Prize,Documentary,True,True,Crumb,nm0959062,Terry Zwigoff,Crumb,1995.0,Biography,10232293
+tt0112452,1995,Grand Jury Prize,Documentary,False,True,Ballot Measure 9,nm0531748,Heather MacDonald,Ballot Measure 9,1995.0,Documentary,180371
+tt0109285,1995,Grand Jury Prize,Documentary,False,True,Black Is... Black Ain't,nm0726705,Marlon Riggs,Black Is... Black Ain't,1994.0,Documentary,35124
+tt0110217,1995,Grand Jury Prize,Documentary,False,True,Jupiter's Wife,nm0624516,Michel Negroponte,Jupiter's Wife,1995.0,Biography,35436
+tt0114667,1995,Grand Jury Prize,Documentary,False,False,Tie-died: Rock 'n Roll's Most Deadicated Fans,nm0066863,Andrew Behar,Tie-died: Rock 'n Roll's Most Deadicated Fans,1995.0,Documentary,244543
+tt0114805,1995,Grand Jury Prize,Documentary,False,True,Unzipped,nm0444857,Douglas Keeve,Unzipped,1995.0,Documentary,9610496
+tt0112585,1995,Grand Jury Prize,Dramatic,True,False,The Brothers McMullen,nm0122653,Edward Burns,The Brothers McMullen,1995.0,Comedy,34852488
+tt0115033,1995,Grand Jury Prize,Dramatic,True,False,The Young Poisoner's Handbook,nm0743239,Benjamin Ross,The Young Poisoner's Handbook,1996.0,Crime,1771266
+tt0112702,1995,Grand Jury Prize,Dramatic,False,False,Coldblooded,nm0938645,Wallace Wolodarsky,Coldblooded,1995.0,Others,54038
+tt0113280,1995,Grand Jury Prize,Dramatic,False,True,Heavy,nm0003506,James Mangold,Heavy,1996.0,Drama,3070535
+tt0113677,1995,Grand Jury Prize,Dramatic,False,True,Living in Oblivion,nm0001139,Tom DiCillo,Living in Oblivion,1995.0,Comedy,3726107
+tt0110620,1995,Grand Jury Prize,Dramatic,False,False,Nadja,nm0021899,Michael Almereyda,Nadja,1995.0,Drama,1478471
+tt0113967,1995,Grand Jury Prize,Dramatic,False,False,New Jersey Drive,nm0327064,Nick Gomez,New Jersey Drive,1995.0,Crime,11996819
+tt0114095,1995,Grand Jury Prize,Dramatic,False,False,Party Girl,nm0902939,Daisy von Scherler Mayer,Party Girl,1995.0,Comedy,1583124
+tt0114129,1995,Grand Jury Prize,Dramatic,False,True,Picture Bride,nm0368981,Kayo Hatta,Picture Bride,1995.0,Drama,4160311
+tt0110876,1995,Grand Jury Prize,Dramatic,False,False,Postcards from America,nm0572656,Steve McLean,Postcards from America,1995.0,Drama,140068
+tt0106966,1995,Honorable Mention,Latin American Cinema,True,True,Strawberry and Chocolate,nm0349425,Tomás Gutiérrez Alea,Strawberry and Chocolate,1995.0,Comedy,7087289
+tt1614420,1996,Grand Jury Prize,Documentary,True,True,Troublesome Creek: A Midwestern,nm0038507,Steven Ascher,Troublesome Creek: A Midwestern,1995.0,Documentary,466146
+tt0116589,1996,Grand Jury Prize,Documentary,False,False,Hype!,nm0695629,Doug Pray,Hype!,1996.0,Documentary,432659
+tt0112651,1996,Grand Jury Prize,Documentary,False,True,The Celluloid Closet,nm0258531,Rob Epstein,The Celluloid Closet,1996.0,Documentary,4597536
+tt0118147,1996,Grand Jury Prize,Documentary,False,True,When We Were Kings,nm0309382,Leon Gast,When We Were Kings,1997.0,Documentary,8934524
+tt0114906,1996,Grand Jury Prize,Dramatic,True,False,Welcome to the Dollhouse,nm0001754,Todd Solondz,Welcome to the Dollhouse,1996.0,Comedy,14911924
+tt0112454,1996,Grand Jury Prize,Dramatic,False,False,Bandwagon,nm0776271,John Schultz,Bandwagon,1997.0,Comedy,141229
+tt0115678,1996,Grand Jury Prize,Dramatic,False,True,Big Night,nm0001804,Stanley Tucci,Big Night,1996.0,Drama,38893744
+tt0115906,1996,Grand Jury Prize,Dramatic,False,False,Citizen Ruth,nm0668247,Alexander Payne,Citizen Ruth,1996.0,Comedy,918786
+tt0115925,1996,Grand Jury Prize,Dramatic,False,True,Color of a Brisk and Leaping Day,nm0618405,Christopher Munch,Color of a Brisk and Leaping Day,1997.0,Drama,29368
+tt0119049,1996,Grand Jury Prize,Dramatic,False,False,Eden,nm0325219,Howard Goldberg,Eden,1998.0,Drama,13265
+tt0116293,1996,Grand Jury Prize,Dramatic,False,False,Female Perversions,nm0834201,Susan Streitfeld,Female Perversions,1997.0,Drama,2957318
+tt0119138,1996,Grand Jury Prize,Dramatic,False,False,Follow Me Home,nm0105571,Peter Bratt,Follow Me Home,1997.0,Drama,167018
+tt0116361,1996,Grand Jury Prize,Dramatic,False,False,Freeway,nm0109165,Matthew Bright,Freeway,1996.0,Comedy,978143
+tt0116418,1996,Grand Jury Prize,Dramatic,False,True,Girls Town,nm0570995,Jim McKay,Girls Town,1996.0,Comedy,1636504
+tt0116594,1996,Grand Jury Prize,Dramatic,False,True,I Shot Andy Warhol,nm0366004,Mary Harron,I Shot Andy Warhol,1996.0,Biography,6121164
+tt0116834,1996,Grand Jury Prize,Dramatic,False,False,Late Bloomers,nm0245747,Julia Dyer,Late Bloomers,1996.0,Comedy,57748
+tt0118163,1996,Grand Jury Prize,Dramatic,False,False,The Whole Wide World,nm0006959,Dan Ireland,The Whole Wide World,1996.0,Biography,1210894
+tt0118113,1996,Grand Jury Prize,Dramatic,False,False,Walking and Talking,nm0392237,Nicole Holofcener,Walking and Talking,1996.0,Comedy,4191247
+tt0109949,1996,Latin America Cinema Award - Honorable Mention,,True,True,Guantanamera,nm0349425,Tomás Gutiérrez Alea,Guantanamera,1997.0,Comedy,2878186
+tt0117718,1996,Audience Award,Dramatic,True,True,The Spitfire Grill,nm0957453,Lee David Zlotoff,The Spitfire Grill,1996.0,Drama,40999376
+tt0120126,1997,Grand Jury Prize,Documentary,False,True,"Sick: The Life & Death of Bob Flanagan, Supermasochist",nm0225269,Kirby Dick,"Sick: The Life & Death of Bob Flanagan, Supermasochist",1997.0,Documentary,184826
+tt0119561,1997,Grand Jury Prize,Documentary,False,False,The Long Way Home,nm0365057,Mark Jonathan Harris,The Long Way Home,1997.0,Documentary,191848
+tt0118586,1997,Grand Jury Prize,Dramatic,False,False,All Over Me,nm0796357,Alex Sichel,All Over Me,1997.0,Crime,931681
+tt0118866,1997,Grand Jury Prize,Dramatic,False,False,Clockwatchers,nm0819613,Jill Sprecher,Clockwatchers,1998.0,Comedy,1688839
+tt0119209,1997,Grand Jury Prize,Dramatic,False,True,Going All the Way,nm0671210,Mark Pellington,Going All the Way,1997.0,Comedy,358493
+tt0119338,1997,Grand Jury Prize,Dramatic,False,True,Hurricane Streets,nm0293533,Morgan J. Freeman,Hurricane Streets,1997.0,Crime,1206694
+tt0119361,1997,Grand Jury Prize,Dramatic,False,True,In the Company of Men,nm0001438,Neil LaBute,In the Company of Men,1997.0,Comedy,8913898
+tt0119572,1997,Grand Jury Prize,Dramatic,False,True,Love Jones,nm0936673,Theodore Witcher,Love Jones,1997.0,Drama,40347969
+tt0116070,1997,Grand Jury Prize,Dramatic,False,False,The Delta,nm0755158,Ira Sachs,The Delta,1997.0,Drama,28819
+tt0119324,1997,Grand Jury Prize,Dramatic,False,True,The House of Yes,nm0914134,Mark Waters,The House of Yes,1997.0,Comedy,1980044
+tt0119746,1997,Grand Jury Prize,Dramatic,False,False,The Myth of Fingerprints,nm0294505,Bart Freundlich,The Myth of Fingerprints,1997.0,Comedy,1658287
+tt0139057,1998,Grand Jury Prize,Documentary,False,False,Beautopia,nm0653267,Katharina Otto-Bernstein,Beautopia,1999.0,Documentary,8889
+tt0150338,1998,Grand Jury Prize,Documentary,False,True,Divine Trash,nm0947036,Steve Yeager,Divine Trash,1998.0,Documentary,63004
+tt0139468,1998,Grand Jury Prize,Documentary,False,False,Modulations,nm0497422,Iara Lee,Modulations,1998.0,Documentary,216223
+tt0141699,1998,Grand Jury Prize,Documentary,False,True,Out of the Past,nm0243391,Jeff Dupre,Out of the Past,1998.0,Documentary,28429
+tt0140559,1998,Grand Jury Prize,Documentary,False,False,Some Nudity Required,nm0819749,Odette Springer,Some Nudity Required,1998.0,Documentary,9120
+tt0141986,1998,Grand Jury Prize,Documentary,False,True,Wild Man Blues,nm0465932,Barbara Kopple,Wild Man Blues,1998.0,Documentary,1678782
+tt0139615,1998,Grand Jury Prize,Dramatic,True,False,Slam,nm0505660,Marc Levin,Slam,1998.0,Drama,3147039
+tt0120113,1998,Grand Jury Prize,Dramatic,False,True,2by4,nm0806570,Jimmy Smallhorne,2by4,1998.0,Drama,54278
+tt0137386,1998,Grand Jury Prize,Dramatic,False,False,Billy's Hollywood Screen Kiss,nm0641373,Tommy O'Haver,Billy's Hollywood Screen Kiss,1998.0,Comedy,6483901
+tt0118789,1998,Grand Jury Prize,Dramatic,False,False,Buffalo '66,nm0001252,Vincent Gallo,Buffalo '66,1998.0,Comedy,7447255
+tt0126938,1998,Grand Jury Prize,Dramatic,False,False,Hav Plenty,nm0156017,Christopher Scott Cherot,Hav Plenty,1998.0,Comedy,7161721
+tt0139362,1998,Grand Jury Prize,Dramatic,False,True,High Art,nm0158966,Lisa Cholodenko,High Art,1998.0,Drama,6146371
+tt0119346,1998,Grand Jury Prize,Dramatic,False,False,I Married a Strange Person!,nm0687739,Bill Plympton,I Married a Strange Person!,1998.0,Others,645194
+tt0158792,1998,Grand Jury Prize,Dramatic,False,True,Miss Monday,nm0496863,Benson Lee,Miss Monday,1998.0,Drama,8703
+tt0119778,1998,Grand Jury Prize,Dramatic,False,False,Next Stop Wonderland,nm0026442,Brad Anderson,Next Stop Wonderland,1998.0,Comedy,10620978
+tt0138704,1998,Grand Jury Prize,Dramatic,False,True,Pi,nm0004716,Darren Aronofsky,Pi,1998.0,Drama,10087732
+tt0120321,1998,Grand Jury Prize,Dramatic,False,True,Smoke Signals,nm0264220,Chris Eyre,Smoke Signals,1998.0,Comedy,21333710
+tt0181288,1999,Grand Jury Prize,Documentary,True,False,American Movie,nm0807687,Chris Smith,American Movie,1999.0,Comedy,3626495
+tt0179074,1999,Grand Jury Prize,Documentary,False,False,American Pimp,nm0400436,Albert Hughes,American Pimp,1999.0,Documentary,895037
+tt0181733,1999,Grand Jury Prize,Documentary,False,True,On the Ropes,nm0123379,Nanette Burstein,On the Ropes,1999.0,Documentary,145387
+tt0181786,1999,Grand Jury Prize,Documentary,False,True,Regret to Inform,nm0814384,Barbara Sonneborn,Regret to Inform,1998.0,Documentary,139804
+tt0181835,1999,Grand Jury Prize,Documentary,False,False,Speaking in Strings,nm0223814,Paola di Florio,Speaking in Strings,1999.0,Documentary,21336
+tt0181833,1999,Grand Jury Prize,Documentary,False,False,The Source: The Story of the Beats and the Beat Generation,nm0941457,Chuck Workman,The Source: The Story of the Beats and the Beat Generation,1999.0,Biography,1128109
+tt0138874,1999,Grand Jury Prize,Dramatic,True,True,Three Seasons,nm0004784,Tony Bui,Three Seasons,1999.0,Drama,6217098
+tt0162662,1999,Grand Jury Prize,Dramatic,False,False,A Slipping-Down Life,nm0435677,Toni Kalem,A Slipping-Down Life,1999.0,Drama,333158
+tt0160338,1999,Grand Jury Prize,Dramatic,False,True,Guinevere,nm0920108,Audrey Wells,Guinevere,1999.0,Drama,1972157
+tt0162360,1999,Grand Jury Prize,Dramatic,False,True,"Happy, Texas",nm0407842,Mark Illsley,"Happy, Texas",1999.0,Comedy,6084415
+tt0160672,1999,Grand Jury Prize,Dramatic,False,True,Joe the King,nm0001844,Frank Whaley,Joe the King,1999.0,Crime,187512
+tt0181618,1999,Grand Jury Prize,Dramatic,False,True,Judy Berlin,nm0578857,Eric Mendelsohn,Judy Berlin,1999.0,Comedy,190489
+tt0168449,1999,Grand Jury Prize,Dramatic,False,False,The Adventures of Sebastian Cole,nm0931095,Tod Williams,The Adventures of Sebastian Cole,1999.0,Comedy,313691
+tt0120593,1999,Grand Jury Prize,Dramatic,False,False,The Autumn Heart,nm0539369,Steven Maler,The Autumn Heart,2000.0,Drama,17054
+tt0151582,1999,Grand Jury Prize,Dramatic,False,False,The Minus Man,nm0266684,Hampton Fancher,The Minus Man,1999.0,Crime,1126319
+tt0162710,1999,Grand Jury Prize,Dramatic,False,False,Trick,nm0266302,Jim Fall,Trick,1999.0,Comedy,6399363
+tt0161023,1999,Grand Jury Prize,Dramatic,False,True,Tumbleweeds,nm0640334,Gavin O'Connor,Tumbleweeds,1999.0,Comedy,4200282
+tt0192745,1999,Special Jury Prize,Latin America Cinema,True,True,Life is to Whistle,nm0702148,Fernando Pérez,Life is to Whistle,1999.0,Drama,98881
+tt0126651,1999,Latin America Cinema Award,,True,True,Santitos,nm0819702,Alejandro Springall,Santitos,1999.0,Comedy,755911
+tt0187859,1999,Audience Award,Documentary,True,True,Genghis Blues,nm0067861,Roko Belic,Genghis Blues,1999.0,Documentary,1165130
+tt0133189,1999,Audience Award,Dramatic,False,False,SLC Punk!,nm0580669,James Merendino,SLC Punk!,1999.0,Comedy,921230
+tt0170705,1999,Audience Award,World Cinema,True,True,Train of Life,nm0586123,Radu Mihaileanu,Train of Life,1999.0,Comedy,5303591
+tt0240419,1999,NHK Award,,True,True,La Ciénaga,nm0551506,Lucrecia Martel,La Ciénaga,2001.0,Comedy,386875
+tt0210358,1999,NHK Award,,True,True,Things You Can Tell Just by Looking at Her,nm0006554,Rodrigo García,Things You Can Tell Just by Looking at Her,2000.0,Drama,2170444
+tt0188128,1999,NHK Award,,True,True,Very Annie Mary,nm0837406,Sara Sugarman,Very Annie Mary,2002.0,Comedy,632355
+tt0236447,2000,Grand Jury Prize,Documentary,True,False,Long Night's Journey Into Day,nm0717266,Frances Reid,Long Night's Journey Into Day,2000.0,Documentary,153555
+tt0235327,2000,Grand Jury Prize,Documentary,False,True,Dark Days,nm0003786,Marc Singer,Dark Days,2000.0,Documentary,974187
+tt0236576,2000,Grand Jury Prize,Documentary,False,True,Paragraph 175,nm0258531,Rob Epstein,Paragraph 175,2000.0,Documentary,297157
+tt0240885,2000,Grand Jury Prize,Documentary,False,False,Scottsboro: An American Tragedy,nm0329014,Barak Goodman,Scottsboro: An American Tragedy,2000.0,Documentary,18539
+tt0240912,2000,Grand Jury Prize,Documentary,False,False,Sound and Fury,nm0036977,Josh Aronson,Sound and Fury,2000.0,Documentary,347842
+tt0236008,2000,Grand Jury Prize,Documentary,False,True,The Ballad of Ramblin' Jack,nm0254357,Aiyana Elliott,The Ballad of Ramblin' Jack,2000.0,Biography,683324
+tt0233687,2000,Grand Jury Prize,Documentary,False,False,The Eyes of Tammy Faye,nm0047259,Fenton Bailey,The Eyes of Tammy Faye,2000.0,Biography,3024251
+tt0210075,2000,Grand Jury Prize,Dramatic,True,True,Girlfight,nm0476201,Karyn Kusama,Girlfight,2000.0,Drama,4746554
+tt0203230,2000,Grand Jury Prize,Dramatic,True,True,You Can Count on Me,nm0518836,Kenneth Lonergan,You Can Count on Me,2000.0,Drama,30341661
+tt0205778,2000,Grand Jury Prize,Dramatic,False,False,A Question of Faith,nm0228400,Tim Disney,A Question of Faith,2000.0,Drama,22779
+tt0200530,2000,Grand Jury Prize,Dramatic,False,False,Chuck & Buck,nm0037708,Miguel Arteta,Chuck & Buck,2000.0,Comedy,3309311
+tt0144142,2000,Grand Jury Prize,Dramatic,False,True,Committed,nm0472495,Lisa Krueger,Committed,2000.0,Comedy,122205
+tt0197384,2000,Grand Jury Prize,Dramatic,False,False,Crime + Punishment in Suburbia,nm0003343,Rob Schmidt,Crime + Punishment in Suburbia,2000.0,Drama,39958
+tt0228277,2000,Grand Jury Prize,Dramatic,False,False,Everything Put Together,nm0286975,Marc Forster,Everything Put Together,2000.0,Drama,17718
+tt0234407,2000,Grand Jury Prize,Dramatic,False,False,Our Song,nm0570995,Jim McKay,Our Song,2000.0,Drama,384834
+tt0226430,2000,Grand Jury Prize,Dramatic,False,False,Shadow Hours,nm0247826,Isaac H. Eaton,Shadow Hours,2000.0,Drama,115605
+tt0210299,2000,Grand Jury Prize,Dramatic,False,True,Songcatcher,nm0339245,Maggie Greenwald,Songcatcher,2001.0,Drama,8970968
+tt0234853,2000,Grand Jury Prize,Dramatic,False,True,The Tao of Steve,nm0329116,Jenniphr Goodman,The Tao of Steve,2000.0,Comedy,12870428
+tt0182508,2000,Grand Jury Prize,Dramatic,False,False,Urbania,nm0790398,Jon Shear,Urbania,2000.0,Drama,3124937
+tt0221344,2000,Latin America Cinema Award,,True,True,Herod's Law,nm0261840,Luis Estrada,Herod's Law,2000.0,Comedy,157446
+tt0202641,2000,Audience Award,Dramatic,True,True,Two Family House,nm0208343,Raymond De Felitta,Two Family House,2000.0,Comedy,2981751
+tt0195234,2000,Audience Award,World Cinema,True,True,Saving Grace,nm0170719,Nigel Cole,Saving Grace,2000.0,Comedy,60201535
+tt0264476,2001,Grand Jury Prize,Documentary,False,True,Children Underground,nm0069797,Edet Belzberg,Children Underground,2001.0,Documentary,37355
+tt0275309,2001,Grand Jury Prize,Documentary,False,True,Dogtown and Z-Boys,nm0672769,Stacy Peralta,Dogtown and Z-Boys,2002.0,Documentary,4013399
+tt0270971,2001,Grand Jury Prize,Documentary,False,False,Go Tigers!,nm0007189,Kenneth A. Carlson,Go Tigers!,2001.0,Documentary,443024
+tt0275408,2001,Grand Jury Prize,Documentary,False,False,Home Movie,nm0807687,Chris Smith,Home Movie,2001.0,Documentary,347498
+tt0143861,2001,Grand Jury Prize,Documentary,False,False,Scratch,nm0695629,Doug Pray,Scratch,2001.0,Documentary,846139
+tt0256408,2001,Grand Jury Prize,Documentary,False,False,Startup.com,nm0373698,Chris Hegedus,Startup.com,2001.0,Documentary,4469741
+tt0264578,2001,Grand Jury Prize,Documentary,False,False,The Endurance,nm1000159,George Butler,The Endurance,2001.0,Documentary,7095421
+tt0278102,2001,Grand Jury Prize,Documentary,False,False,Trembling Before G-d,nm0239552,Sandi Simcha Dubowski,Trembling Before G-d,2001.0,Documentary,2302693
+tt0247199,2001,Grand Jury Prize,Dramatic,True,False,The Believer,nm0063785,Henry Bean,The Believer,2001.0,Drama,2519345
+tt0273048,2001,Grand Jury Prize,Dramatic,False,False,30 Years to Life,nm0585583,Vanessa Middleton,30 Years to Life,2003.0,Comedy,285739
+tt0246578,2001,Grand Jury Prize,Dramatic,False,False,Donnie Darko,nm0446819,Richard Kelly,Donnie Darko,2001.0,Drama,8266307
+tt0229002,2001,Grand Jury Prize,Dramatic,False,False,Green Dragon,nm0119613,Timothy Linh Bui,Green Dragon,2001.0,Drama,822549
+tt0248845,2001,Grand Jury Prize,Dramatic,False,True,Hedwig and the Angry Inch,nm0593463,John Cameron Mitchell,Hedwig and the Angry Inch,2001.0,Comedy,9662611
+tt0247425,2001,Grand Jury Prize,Dramatic,False,True,In the Bedroom,nm0276062,Todd Field,In the Bedroom,2002.0,Crime,115979389
+tt0242587,2001,Grand Jury Prize,Dramatic,False,False,L.I.E.,nm0191147,Michael Cuesta,L.I.E.,2001.0,Crime,4356276
+tt0209144,2001,Grand Jury Prize,Dramatic,False,True,Memento,nm0634240,Christopher Nolan,Memento,2001.0,Others,93860987
+tt0265713,2001,Grand Jury Prize,Dramatic,False,False,"Scotland, Pa.",nm0607365,Billy Morrissette,"Scotland, Pa.",2001.0,Comedy,1121136
+tt0274868,2001,Grand Jury Prize,Dramatic,False,False,Some Body,nm0057347,Henry Barrial,Some Body,2001.0,Drama,5960
+tt0243759,2001,Grand Jury Prize,Dramatic,False,False,The American Astronaut,nm0563826,Cory McAbee,The American Astronaut,2001.0,Comedy,55706
+tt0270259,2001,Grand Jury Prize,Dramatic,False,False,The Business of Strangers,nm0828099,Patrick Stettner,The Business of Strangers,2001.0,Drama,3353099
+tt0250323,2001,Grand Jury Prize,Dramatic,False,True,The Deep End,nm0569166,Scott McGehee,The Deep End,2001.0,Crime,27145155
+tt0235060,2001,Audience Award,World Cinema,True,True,The Road Home,nm0955443,Yimou Zhang,The Road Home,2001.0,Drama,11572850
+tt0303297,2002,Grand Jury Prize,Documentary,False,True,Amandla! A Revolution in Four Part Harmony,nm1097276,Lee Hirsch,Amandla! A Revolution in Four Part Harmony,2002.0,Documentary,1189390
+tt0303326,2002,Grand Jury Prize,Documentary,False,False,Derrida,nm0225269,Kirby Dick,Derrida,2002.0,Documentary,453666
+tt0303334,2002,Grand Jury Prize,Documentary,False,False,Family Fundamentals,nm0232472,Arthur Dong,Family Fundamentals,2002.0,Documentary,32737
+tt0303348,2002,Grand Jury Prize,Documentary,False,True,How to Draw a Bunny,nm0910058,John W. Walter,How to Draw a Bunny,2002.0,Documentary,13442
+tt0303392,2002,Grand Jury Prize,Documentary,False,True,Missing Young Woman,nm0692409,Lourdes Portillo,Missing Young Woman,2002.0,Documentary,25563
+tt0303394,2002,Grand Jury Prize,Documentary,False,True,Sister Helen,nm0296638,Rob Fruchtman,Sister Helen,2002.0,Documentary,10219
+tt0303321,2002,Grand Jury Prize,Documentary,False,False,The Cockettes,nm0916501,Bill Weber,The Cockettes,2002.0,Documentary,635378
+tt0303282,2002,Grand Jury Prize,Documentary,False,False,The Execution of Wanda Jean,nm0305017,Liz Garbus,The Execution of Wanda Jean,2002.0,Documentary,3999
+tt0295238,2002,Grand Jury Prize,Dramatic,True,True,Personal Velocity,nm0589182,Rebecca Miller,Personal Velocity,2002.0,Drama,2404045
+tt0280477,2002,Grand Jury Prize,Dramatic,False,False,Better Luck Tomorrow,nm0510912,Justin Lin,Better Luck Tomorrow,2003.0,Crime,10582879
+tt0298798,2002,Grand Jury Prize,Dramatic,False,False,Cherish,nm0852363,Finn Taylor,Cherish,2002.0,Comedy,518746
+tt0293146,2002,Grand Jury Prize,Dramatic,False,False,Face,nm0658997,Bertha Bay-Sa Pan,Face,2002.0,Drama,154308
+tt0282698,2002,Grand Jury Prize,Dramatic,False,True,Love Liza,nm0521974,Todd Louiso,Love Liza,2002.0,Comedy,629942
+tt0298050,2002,Grand Jury Prize,Dramatic,False,True,Manito,nm1067858,Eric Eason,Manito,2002.0,Drama,31745
+tt0272207,2002,Grand Jury Prize,Dramatic,False,False,Narc,nm0138620,Joe Carnahan,Narc,2003.0,Crime,32487655
+tt0265459,2002,Grand Jury Prize,Dramatic,False,False,One Hour Photo,nm0738796,Mark Romanek,One Hour Photo,2002.0,Drama,118343342
+tt0265591,2002,Grand Jury Prize,Dramatic,False,False,Pumpkin,nm0009159,Anthony Abrams,Pumpkin,2002.0,Comedy,890455
+tt0296166,2002,Grand Jury Prize,Dramatic,False,True,Real Women Have Curves,nm0136603,Patricia Cardoso,Real Women Have Curves,2002.0,Comedy,19213296
+tt0274812,2002,Grand Jury Prize,Dramatic,False,True,Secretary,nm0787601,Steven Shainberg,Secretary,2002.0,Comedy,18837381
+tt0271219,2002,Grand Jury Prize,Dramatic,False,True,Tadpole,nm0935095,Gary Winick,Tadpole,2002.0,Comedy,8614709
+tt0266971,2002,Grand Jury Prize,Dramatic,False,False,The Slaughter Rule,nm0807243,Alex Smith,The Slaughter Rule,2002.0,Drama,38703
+tt0245573,2002,Grand Jury Prize,Dramatic,False,False,XX/XY,nm0157222,Austin Chick,XX/XY,2002.0,Drama,300510
+tt0303408,2002,Latin America Cinema Award,,True,True,The Trespasser,nm0105242,Beto Brant,The Trespasser,2002.0,Drama,47676
+tt0280491,2002,Audience Award,World Cinema,True,True,Bloody Sunday,nm0339030,Paul Greengrass,Bloody Sunday,2002.0,Drama,3653451
+tt0265930,2002,Audience Award,World Cinema,True,True,The Last Kiss,nm0610831,Gabriele Muccino,The Last Kiss,2002.0,Comedy,27176603
+tt0804529,2002,NHK Award,,True,True,Sleep Dealer,nm1642796,Alex Rivera,Sleep Dealer,2008.0,Drama,227236
+tt0342172,2003,Grand Jury Prize,Documentary,True,False,Capturing the Friedmans,nm1285613,Andrew Jarecki,Capturing the Friedmans,2003.0,Biography,9999726
+tt0342275,2003,Grand Jury Prize,Documentary,False,False,A Decade Under the Influence,nm0481418,Richard LaGravenese,A Decade Under the Influence,2003.0,Documentary,97991
+tt0342150,2003,Grand Jury Prize,Documentary,False,False,Bukowski: Born into This,nm1521023,John Dullaghan,Bukowski: Born into This,2003.0,Biography,911243
+tt0342804,2003,Grand Jury Prize,Documentary,False,True,My Flesh and Blood,nm1285615,Jonathan Karsh,My Flesh and Blood,2003.0,Documentary,114126
+tt0334416,2003,Grand Jury Prize,Documentary,False,True,Stevie,nm0416945,Steve James,Stevie,2003.0,Documentary,290852
+tt0343168,2003,Grand Jury Prize,Documentary,False,False,The Weather Underground,nm0338316,Sam Green,The Weather Underground,2002.0,Documentary,1591732
+tt0343107,2003,Grand Jury Prize,Documentary,False,False,Tom Dowd & the Language of Music,nm0602128,Mark Moormann,Tom Dowd & the Language of Music,2003.0,Documentary,115099
+tt0305206,2003,Grand Jury Prize,Dramatic,True,False,American Splendor,nm0075849,Shari Springer Berman,American Splendor,2003.0,Biography,19313845
+tt0299458,2003,Grand Jury Prize,Dramatic,False,True,All the Real Girls,nm0337773,David Gordon Green,All the Real Girls,2003.0,Drama,1588774
+tt0342167,2003,Grand Jury Prize,Dramatic,False,False,Camp,nm0333804,Todd Graff,Camp,2003.0,Comedy,6004685
+tt0322023,2003,Grand Jury Prize,Dramatic,False,True,"Die, Mommie, Die!",nm1177692,Mark Rucker,"Die, Mommie, Die!",2003.0,Comedy,884312
+tt0342300,2003,Grand Jury Prize,Dramatic,False,True,Dopamine,nm1285607,Mark Decena,Dopamine,2003.0,Comedy,195617
+tt0320244,2003,Grand Jury Prize,Dramatic,False,False,Party Monster,nm0047259,Fenton Bailey,Party Monster,2003.0,Biography,2145511
+tt0311648,2003,Grand Jury Prize,Dramatic,False,False,Pieces of April,nm0373282,Peter Hedges,Pieces of April,2003.0,Comedy,8048702
+tt0342916,2003,Grand Jury Prize,Dramatic,False,True,Quattro Noza,nm0193387,Joey Curtis,Quattro Noza,2003.0,Others,15389
+tt0318374,2003,Grand Jury Prize,Dramatic,False,False,The Cooler,nm0469694,Wayne Kramer,The Cooler,2004.0,Drama,25880941
+tt0339419,2003,Grand Jury Prize,Dramatic,False,False,The Mudge Boy,nm0121800,Michael Burke,The Mudge Boy,2003.0,Crime,176793
+tt0340377,2003,Grand Jury Prize,Dramatic,False,True,The Station Agent,nm0565336,Tom McCarthy,The Station Agent,2003.0,Comedy,20023306
+tt0301976,2003,Grand Jury Prize,Dramatic,False,False,The United States of Leland,nm1097297,Matthew Ryan Hoge,The United States of Leland,2003.0,Drama,967192
+tt0328538,2003,Grand Jury Prize,Dramatic,False,True,Thirteen,nm0362566,Catherine Hardwicke,Thirteen,2003.0,Drama,20325177
+tt0343172,2003,Grand Jury Prize,Dramatic,False,True,What Alice Found,nm0067999,A. Dean Bell,What Alice Found,2016.0,Crime,142582
+tt0298228,2003,Audience Award,World Cinema,True,True,Whale Rider,nm0138927,Niki Caro,Whale Rider,2003.0,Drama,85610853
+tt0388888,2004,Grand Jury Prize,Documentary,True,False,Dig!,nm0863756,Ondi Timoner,Dig!,2004.0,Documentary,491081
+tt0388789,2004,Grand Jury Prize,Documentary,False,True,Born Into Brothels: Calcutta's Red Light Kids,nm1502104,Ross Kauffman,Born Into Brothels: Calcutta's Red Light Kids,2005.0,Documentary,9312711
+tt0884842,2004,Grand Jury Prize,Documentary,False,False,Guerrilla: The Taking of Patty Hearst,nm0832134,Robert Stone,Guerrilla: The Taking of Patty Hearst,2004.0,Documentary,289917
+tt0389009,2004,Grand Jury Prize,Documentary,False,False,Home of the Brave,nm0223814,Paola di Florio,Home of the Brave,2004.0,Documentary,13450
+tt0390109,2004,Grand Jury Prize,Documentary,False,False,I Like Killing Flies,nm0537268,Matt Mahurin,I Like Killing Flies,2004.0,Documentary,44745
+tt0160398,2004,Grand Jury Prize,Documentary,False,True,Imelda,nm0225035,Ramona S. Diaz,Imelda,2004.0,Biography,554677
+tt0390123,2004,Grand Jury Prize,Documentary,False,False,In the Realms of the Unreal,nm0950506,Jessica Yu,In the Realms of the Unreal,2004.0,Biography,1151125
+tt0390365,2004,Grand Jury Prize,Documentary,False,False,Persons of Interest,nm0533744,Alison Maclean,Persons of Interest,2004.0,Documentary,4614
+tt0390521,2004,Grand Jury Prize,Documentary,False,True,Super Size Me,nm1041597,Morgan Spurlock,Super Size Me,2004.0,Comedy,43346810
+tt0390632,2004,Grand Jury Prize,Documentary,False,False,Word Wars,nm0678012,Julian Petrillo,Word Wars,2004.0,Comedy,305269
+tt0390384,2004,Grand Jury Prize,Dramatic,True,True,Primer,nm1503403,Shane Carruth,Primer,2004.0,Drama,1338723
+tt0306597,2004,Grand Jury Prize,Dramatic,False,True,Brother to Brother,nm0263179,Rodney Evans,Brother to Brother,2004.0,Drama,223276
+tt0362506,2004,Grand Jury Prize,Dramatic,False,False,Chrystal,nm0571964,Ray McKinnon,Chrystal,2004.0,Crime,223143
+tt0363579,2004,Grand Jury Prize,Dramatic,False,True,Down to the Bone,nm0335138,Debra Granik,Down to the Bone,2004.0,Drama,83456
+tt0379270,2004,Grand Jury Prize,Dramatic,False,False,Easy,nm0918487,Jane Weinstock,Easy,2004.0,Comedy,148540
+tt0333766,2004,Grand Jury Prize,Dramatic,False,False,Garden State,nm0103785,Zach Braff,Garden State,2004.0,Comedy,84428787
+tt0390080,2004,Grand Jury Prize,Dramatic,False,False,Harry + Max,nm0618405,Christopher Munch,Harry + Max,2004.0,Drama,42077
+tt0390221,2004,Grand Jury Prize,Dramatic,False,True,Maria Full of Grace,nm0551358,Joshua Marston,Maria Full of Grace,2004.0,Crime,25789788
+tt0374900,2004,Grand Jury Prize,Dramatic,False,False,Napoleon Dynamite,nm0381478,Jared Hess,Napoleon Dynamite,2004.0,Comedy,122285237
+tt0368089,2004,Grand Jury Prize,Dramatic,False,True,November,nm0365615,Greg Harrison,November,2004.0,Drama,530375
+tt0361127,2004,Grand Jury Prize,Dramatic,False,False,The Woodsman,nm0975026,Nicole Kassell,The Woodsman,2004.0,Drama,8630452
+tt0361309,2004,Grand Jury Prize,Dramatic,False,True,We Don't Live Here Anymore,nm0192845,John Curran,We Don't Live Here Anymore,2004.0,Drama,7269764
+tt0390425,2004,Freedom of Expression Award,,True,True,Repatriation,nm1162595,Dong-won Kim,Repatriation,2004.0,Documentary,20414
+tt0379225,2004,Audience Award,World Cinema - Documentary,True,True,The Corporation,nm0007989,Jennifer Abbott,The Corporation,2004.0,Documentary,10910563
+tt0366532,2004,Audience Award,World Cinema - Dramatic,True,True,Seducing Doctor Lewis,nm0693648,Jean-François Pouliot,Seducing Doctor Lewis,2004.0,Comedy,31985795
+tt0436971,2005,Grand Jury Prize,Documentary,True,False,Why We Fight,nm0418659,Eugene Jarecki,Why We Fight,2005.0,Documentary,3859275
+tt0436039,2005,Grand Jury Prize,Documentary,False,True,After Innocence,nm1124618,Jessica Sanders,After Innocence,2005.0,Documentary,306239
+tt1016268,2005,Grand Jury Prize,Documentary,False,False,Enron: The Smartest Guys in the Room,nm0316795,Alex Gibney,Enron: The Smartest Guys in the Room,2005.0,Documentary,11733470
+tt0436613,2005,Grand Jury Prize,Documentary,False,True,Murderball,nm0748066,Henry Alex Rubin,Murderball,2005.0,Documentary,4271774
+tt0436629,2005,Grand Jury Prize,Documentary,False,False,New York Doll,nm1789501,Greg Whiteley,New York Doll,2005.0,Documentary,586025
+tt0436728,2005,Grand Jury Prize,Documentary,False,False,Romántico,nm0065521,Mark Becker,Romántico,2005.0,Documentary,78955
+tt0368264,2005,Grand Jury Prize,Documentary,False,False,Shakespeare Behind Bars,nm0737276,Hank Rogerson,Shakespeare Behind Bars,2005.0,Documentary,130237
+tt0436078,2005,Grand Jury Prize,Documentary,False,False,The Aristocrats,nm0699037,Paul Provenza,The Aristocrats,2005.0,Comedy,16950686
+tt0436231,2005,Grand Jury Prize,Documentary,False,True,The Devil and Daniel Johnston,nm0275418,Jeff Feuerzeig,The Devil and Daniel Johnston,2005.0,Biography,1025719
+tt0436295,2005,Grand Jury Prize,Documentary,False,False,The Fall of Fujimori,nm1788079,Ellen Perry,The Fall of Fujimori,2006.0,Documentary,11685
+tt0395796,2005,Grand Jury Prize,Documentary,False,False,Trudell,nm0706010,Heather Rae,Trudell,2005.0,Documentary,71708
+tt0436857,2005,Grand Jury Prize,Documentary,False,False,Twist of Faith,nm0225269,Kirby Dick,Twist of Faith,2004.0,Documentary,21924
+tt0395543,2005,Grand Jury Prize,Dramatic,True,False,Forty Shades of Blue,nm0755158,Ira Sachs,Forty Shades of Blue,2005.0,Drama,332865
+tt0393109,2005,Grand Jury Prize,Dramatic,False,True,Brick,nm0426059,Rian Johnson,Brick,2006.0,Others,7638947
+tt0436262,2005,Grand Jury Prize,Dramatic,False,False,Ellie Parker,nm0168892,Scott Coffey,Ellie Parker,2005.0,Comedy,46111
+tt0385006,2005,Grand Jury Prize,Dramatic,False,False,How the Garcia Girls Spent Their Summer,nm1203987,Georgina Garcia Riedel,How the Garcia Girls Spent Their Summer,2008.0,Comedy,507960
+tt0410097,2005,Grand Jury Prize,Dramatic,False,True,Hustle & Flow,nm0108132,Craig Brewer,Hustle & Flow,2005.0,Crime,59854384
+tt0418773,2005,Grand Jury Prize,Dramatic,False,True,Junebug,nm0607275,Phil Morrison,Junebug,2005.0,Comedy,7812877
+tt0406038,2005,Grand Jury Prize,Dramatic,False,False,Loggerheads,nm0456693,Tim Kirkman,Loggerheads,2005.0,Drama,309053
+tt0385056,2005,Grand Jury Prize,Dramatic,False,False,Lonesome Jim,nm0000114,Steve Buscemi,Lonesome Jim,2005.0,Comedy,451014
+tt0415978,2005,Grand Jury Prize,Dramatic,False,True,Me and You and Everyone We Know,nm0432380,Miranda July,Me and You and Everyone We Know,2005.0,Comedy,15481175
+tt0381505,2005,Grand Jury Prize,Dramatic,False,False,Pretty Persuasion,nm0796864,Marcos Siega,Pretty Persuasion,2005.0,Comedy,1129565
+tt0384929,2005,Grand Jury Prize,Dramatic,False,False,The Dying Gaul,nm0524108,Craig Lucas,The Dying Gaul,2005.0,Drama,921671
+tt0367089,2005,Grand Jury Prize,Dramatic,False,True,The Squid and the Whale,nm0000876,Noah Baumbach,The Squid and the Whale,2005.0,Comedy,23984718
+tt0318761,2005,Grand Jury Prize,Dramatic,False,True,Thumbsucker,nm0590122,Mike Mills,Thumbsucker,2005.0,Comedy,4166607
+tt0436794,2005,Grand Jury Prize,World Cinema - Documentary,True,False,Shape of the Moon,nm0720503,Leonard Retel Helmrich,Shape of the Moon,2005.0,Documentary,25286
+tt0427312,2005,Grand Jury Prize,World Cinema - Documentary,False,True,Grizzly Man,nm0001348,Werner Herzog,Grizzly Man,2005.0,Biography,9309996
+tt0424272,2005,Grand Jury Prize,World Cinema - Documentary,False,False,Melancholian 3 huonetta,nm0393345,Pirjo Honkasalo,Melancholian 3 huonetta,2005.0,Documentary,51771
+tt0424435,2005,Grand Jury Prize,World Cinema - Documentary,False,True,Shake Hands with the Devil: The Journey of Roméo Dallaire,nm0713394,Peter Raymont,Shake Hands with the Devil: The Journey of Roméo Dallaire,2005.0,Documentary,182914
+tt0436864,2005,Grand Jury Prize,World Cinema - Documentary,False,False,Unknown White Male,nm1783716,Rupert Murray,Unknown White Male,2005.0,Biography,345856
+tt0413018,2005,Grand Jury Prize,World Cinema - Documentary,False,True,Wall,nm0084585,Simone Bitton,Wall,2005.0,Documentary,92911
+tt0436978,2005,Grand Jury Prize,World Cinema - Documentary,False,False,Yang Ban Xi: The 8 Modelworks,nm1211089,Yan Ting Yuen,Yang Ban Xi: The 8 Modelworks,2005.0,Documentary,56936
+tt0386342,2005,Grand Jury Prize,World Cinema - Dramatic,False,True,Brothers,nm0081540,Susanne Bier,Brothers,2005.0,Drama,1177806
+tt0382621,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Cronicas,nm0179542,Sebastián Cordero,Cronicas,2005.0,Crime,1452750
+tt0424237,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Lila Says,nm0234780,Ziad Doueiri,Lila Says,2005.0,Crime,883410
+tt0356453,2005,Grand Jury Prize,World Cinema - Dramatic,False,True,Live-In Maid,nm0300861,Jorge Gaggero,Live-In Maid,2005.0,Drama,1097096
+tt0399365,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Monsterthursday,nm0648433,Arild Østin Ommundsen,Monsterthursday,2005.0,Drama,714364
+tt0386651,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Mountain Patrol,nm1283651,Chuan Lu,Mountain Patrol,2005.0,Others,441283
+tt0410400,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,On a Clear Day,nm0217433,Gaby Dellal,On a Clear Day,2005.0,Comedy,1619171
+tt0422907,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Palermo Hollywood,nm0684644,Eduardo Pinto,Palermo Hollywood,2005.0,Drama,18877
+tt0386862,2005,Grand Jury Prize,World Cinema - Dramatic,False,True,The Forest for the Trees,nm0011752,Maren Ade,The Forest for the Trees,2005.0,Drama,3778
+tt0436979,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,This Charming Girl,nm1785660,Yoon-ki Lee,This Charming Girl,2005.0,Drama,302258
+tt0420260,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Tony Takitani,nm0406722,Jun Ichikawa,Tony Takitani,2005.0,Drama,919344
+tt0395173,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Unconscious,nm0649875,Joaquín Oristrell,Unconscious,2005.0,Comedy,1163349
+tt0416315,2005,Grand Jury Prize,World Cinema - Dramatic,False,False,Wolf Creek,nm0572562,Greg McLean,Wolf Creek,2005.0,Others,60966413
+tt0301555,2006,Grand Jury Prize,Documentary,True,True,God Grew Tired of Us,nm1077724,Christopher Dillon Quinn,God Grew Tired of Us,2007.0,Documentary,761147
+tt0491877,2006,Grand Jury Prize,Documentary,False,False,'Tis Autumn: The Search for Jackie Paris,nm0208343,Raymond De Felitta,'Tis Autumn: The Search for Jackie Paris,2007.0,Documentary,5868
+tt0492499,2006,Grand Jury Prize,Documentary,False,False,An Unreasonable Man,nm0544055,Henriette Mantel,An Unreasonable Man,2006.0,Biography,455287
+tt0492466,2006,Grand Jury Prize,Documentary,False,True,Iraq in Fragments,nm1228118,James Longley,Iraq in Fragments,2006.0,Documentary,573919
+tt0492488,2006,Grand Jury Prize,Documentary,False,False,So Much So Fast,nm0038507,Steven Ascher,So Much So Fast,2006.0,Documentary,54516
+tt0492494,2006,Grand Jury Prize,Documentary,False,True,TV Junkie,nm0128937,Michael Cain,TV Junkie,2013.0,Documentary,1087
+tt0446345,2006,Grand Jury Prize,Documentary,False,False,The Ground Truth,nm0288326,Patricia Foulkrod,The Ground Truth,2006.0,Documentary,51581
+tt0446055,2006,Grand Jury Prize,Documentary,False,False,The Trials of Darryl Hunt,nm0827830,Ricki Stern,The Trials of Darryl Hunt,2006.0,Crime,3136
+tt0492506,2006,Grand Jury Prize,Documentary,False,False,Wordplay,nm0187091,Patrick Creadon,Wordplay,2006.0,Documentary,7909940
+tt0451176,2006,Grand Jury Prize,Dramatic,True,True,Quinceañera,nm0322144,Richard Glatzer,Quinceañera,2006.0,Drama,5432463
+tt0473488,2006,Grand Jury Prize,Dramatic,False,True,A Guide to Recognizing Your Saints,nm1996918,Dito Montiel,A Guide to Recognizing Your Saints,2006.0,Crime,3233324
+tt0457308,2006,Grand Jury Prize,Dramatic,False,False,Come Early Morning,nm0000725,Joey Lauren Adams,Come Early Morning,2006.0,Drama,361942
+tt0432290,2006,Grand Jury Prize,Dramatic,False,False,Flannel Pajamas,nm0513790,Jeff Lipsky,Flannel Pajamas,2006.0,Others,317794
+tt0468489,2006,Grand Jury Prize,Dramatic,False,False,Half Nelson,nm0281396,Ryan Fleck,Half Nelson,2006.0,Drama,9267763
+tt0492463,2006,Grand Jury Prize,Dramatic,False,True,In Between Days,nm0811611,So Yong Kim,In Between Days,2007.0,Drama,213505
+tt0492481,2006,Grand Jury Prize,Dramatic,False,False,Puccini for Beginners,nm0535940,Maria Maggenti,Puccini for Beginners,2007.0,Comedy,251565
+tt0458367,2006,Grand Jury Prize,Dramatic,False,True,Right at Your Door,nm0329755,Chris Gorak,Right at Your Door,2006.0,Drama,2819736
+tt0423169,2006,Grand Jury Prize,Dramatic,False,False,Sherrybaby,nm0172877,Laurie Collyer,Sherrybaby,2006.0,Drama,1059283
+tt0492492,2006,Grand Jury Prize,Dramatic,False,False,Sleeping Dogs Lie,nm0001281,Bobcat Goldthwait,Sleeping Dogs Lie,2006.0,Comedy,843285
+tt0439833,2006,Grand Jury Prize,Dramatic,False,False,Steel City,nm0432420,Brian Jun,Steel City,2006.0,Crime,26358
+tt0483812,2006,Grand Jury Prize,Dramatic,False,True,Stephanie Daley,nm0112668,Hilary Brougher,Stephanie Daley,2006.0,Drama,66370
+tt0412808,2006,Grand Jury Prize,Dramatic,False,False,The Hawk Is Dying,nm0325341,Julian Goldberger,The Hawk Is Dying,2006.0,Drama,39395
+tt0477139,2006,Grand Jury Prize,Dramatic,False,False,Wristcutters: A Love Story,nm1058247,Goran Dukic,Wristcutters: A Love Story,2007.0,Comedy,1094515
+tt0492464,2006,Grand Jury Prize,World Cinema - Documentary,True,False,In the Pit,nm0750032,Juan Carlos Rulfo,In the Pit,2006.0,Documentary,261803
+tt0492447,2006,Grand Jury Prize,World Cinema - Documentary,False,False,Black Gold,nm2126549,Marc J. Francis,Black Gold,2006.0,Documentary,413132
+tt0492454,2006,Grand Jury Prize,World Cinema - Documentary,False,True,Dear Pyongyang,nm2134169,Yong-hi Yang,Dear Pyongyang,2006.0,Documentary,20209
+tt0464022,2006,Grand Jury Prize,World Cinema - Documentary,False,False,Glastonbury,nm0854697,Julien Temple,Glastonbury,2007.0,Documentary,264289
+tt0490984,2006,Grand Jury Prize,World Cinema - Documentary,False,False,I for India,nm2119066,Sandhya Suri,I for India,2007.0,Documentary,55213
+tt0478160,2006,Grand Jury Prize,World Cinema - Documentary,False,True,Into Great Silence,nm0344973,Philip Gröning,Into Great Silence,2006.0,Documentary,7260498
+tt0460427,2006,Grand Jury Prize,World Cinema - Documentary,False,False,Unfolding Florence: The Many Lives of Florence Broadhurst,nm0000788,Gillian Armstrong,Unfolding Florence: The Many Lives of Florence Broadhurst,2006.0,Documentary,158071
+tt0482633,2006,Grand Jury Prize,World Cinema - Documentary,False,False,Viva Zapatero!,nm0350127,Sabina Guzzanti,Viva Zapatero!,2006.0,Documentary,2453896
+tt0475169,2006,Grand Jury Prize,World Cinema - Dramatic,True,False,13 Tzameti,nm1201875,Géla Babluani,13 Tzameti,2006.0,Crime,1172365
+tt0424789,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,Allegro,nm1061993,Christoffer Boe,Allegro,2006.0,Drama,22696
+tt0464029,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,Esma's Secret - Grbavica,nm1120092,Jasmila Zbanic,Grbavica: The Land of My Dreams,2007.0,Drama,1119560
+tt0373747,2006,Grand Jury Prize,World Cinema - Dramatic,False,True,House of Sand,nm0905343,Andrucha Waddington,House of Sand,2006.0,Drama,2152493
+tt0492473,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,Little Red Flowers,nm0955451,Yuan Zhang,Little Red Flowers,2006.0,Comedy,384839
+tt0476298,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,Madeinusa,nm2013191,Claudia Llosa,Madeinusa,2006.0,Drama,313286
+tt0452345,2006,Grand Jury Prize,World Cinema - Dramatic,False,True,Naming Number Two,nm1089736,Toa Fraser,Naming Number Two,2006.0,Comedy,559169
+tt0434292,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,Princesas,nm0508208,Fernando León de Aranoa,Princesas,2006.0,Drama,10922527
+tt0492490,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,Son of Man,nm0233919,Mark Dornford-May,Son of Man,2006.0,Drama,2871
+tt0420509,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,The Aura,nm0081433,Fabián Bielinsky,The Aura,2006.0,Crime,2377363
+tt0479506,2006,Grand Jury Prize,World Cinema - Dramatic,False,False,The Blossoming of Maximo Oliveros,nm2039919,Auraeus Solito,The Blossoming of Maximo Oliveros,2006.0,Drama,85824
+tt0912590,2007,Grand Jury Prize,Documentary,True,True,Manda Bala (Send a Bullet),nm1161623,Jason Kohn,Manda Bala (Send a Bullet),2007.0,Documentary,315685
+tt0790706,2007,Grand Jury Prize,Documentary,False,False,Crazy Love,nm0460031,Dan Klores,Crazy Love,2007.0,Documentary,807891
+tt0810970,2007,Grand Jury Prize,Documentary,False,False,Everything's Cool,nm1096915,Daniel B. Gold,Everything's Cool,2007.0,Documentary,12018
+tt0912583,2007,Grand Jury Prize,Documentary,False,False,For the Bible Tells Me So,nm1081568,Daniel G. Karslake,For the Bible Tells Me So,2007.0,Documentary,765046
+tt0912592,2007,Grand Jury Prize,Documentary,False,False,My Kid Could Paint That,nm0052737,Amir Bar-Lev,My Kid Could Paint That,2007.0,Documentary,617657
+tt0893356,2007,Grand Jury Prize,Documentary,False,True,Nanking,nm0349702,Bill Guttentag,Nanking,2007.0,Biography,2180861
+tt0912593,2007,Grand Jury Prize,Documentary,False,True,No End in Sight,nm2480587,Charles Ferguson,No End in Sight,2007.0,Documentary,3619099
+tt0905361,2007,Grand Jury Prize,Documentary,False,False,Protagonist,nm0950506,Jessica Yu,Protagonist,2007.0,Documentary,34970
+tt0912599,2007,Grand Jury Prize,Documentary,False,True,War Dance,nm0277658,Sean Fine,War Dance,2007.0,Documentary,319645
+tt0874423,2007,Grand Jury Prize,Documentary,False,False,Zoo,nm0222894,Robinson Devor,Zoo,2007.0,Documentary,176167
+tt0834938,2007,Grand Jury Prize,Dramatic,True,False,Sangre de mi sangre,nm2343031,Christopher Zalla,Sangre de mi sangre,2007.0,Drama,800410
+tt0497316,2007,Grand Jury Prize,Dramatic,False,False,Adrift in Manhattan,nm0212137,Alfredo Rodriguez de Villa,Adrift in Manhattan,2007.0,Drama,116617
+tt0772157,2007,Grand Jury Prize,Dramatic,False,False,Broken English,nm0144023,Zoe R. Cassavetes,Broken English,2007.0,Comedy,3662568
+tt0772168,2007,Grand Jury Prize,Dramatic,False,True,Grace Is Gone,nm1475479,Jim Strouse,Grace Is Gone,2007.0,Drama,1410250
+tt0415856,2007,Grand Jury Prize,Dramatic,False,False,Hounddog,nm1380487,Deborah Kampmeier,Hounddog,2007.0,Drama,333198
+tt0808331,2007,Grand Jury Prize,Dramatic,False,True,Joshua,nm0711807,George Ratliff,Joshua,2007.0,Drama,1475049
+tt0817544,2007,Grand Jury Prize,Dramatic,False,False,Never Forever,nm1346562,Gina Kim,Never Forever,2008.0,Drama,837410
+tt0477078,2007,Grand Jury Prize,Dramatic,False,True,Rocket Science,nm0998825,Jeffrey Blitz,Rocket Science,2007.0,Comedy,1866616
+tt0453548,2007,Grand Jury Prize,Dramatic,False,False,Snow Angels,nm0337773,David Gordon Green,Snow Angels,2007.0,Drama,1031784
+tt0758784,2007,Grand Jury Prize,Dramatic,False,False,Starting Out in the Evening,nm1253674,Andrew Wagner,Starting Out in the Evening,2007.0,Drama,2269415
+tt0780622,2007,Grand Jury Prize,Dramatic,False,True,Teeth,nm0509033,Mitchell Lichtenstein,Teeth,2007.0,Comedy,3393176
+tt0911024,2007,Grand Jury Prize,Dramatic,False,True,The Pool,nm0807687,Chris Smith,The Pool,2007.0,Drama,240130
+tt0924165,2007,Grand Jury Prize,World Cinema - Documentary,False,False,A Very British Gangster,nm1605098,Donal MacIntyre,A Very British Gangster,2007.0,Crime,120663
+tt0896692,2007,Grand Jury Prize,World Cinema - Documentary,False,False,Bajo Juárez: La ciudad devorando a sus hijas,nm1527069,Alejandra Sánchez,Bajo Juárez: La ciudad devorando a sus hijas,2007.0,Documentary,95245
+tt0925230,2007,Grand Jury Prize,World Cinema - Documentary,False,False,Cocalero,nm1622258,Alejandro Landes,Cocalero,2007.0,Documentary,94003
+tt0893513,2007,Grand Jury Prize,World Cinema - Documentary,False,False,Comrades in Dreams,nm0310088,Uli Gaulke,Comrades in Dreams,2006.0,Documentary,9458
+tt0473181,2007,Grand Jury Prize,World Cinema - Documentary,False,False,Crossing the Line,nm1326085,Daniel Gordon,Crossing the Line,2007.0,Documentary,36487
+tt0925248,2007,Grand Jury Prize,World Cinema - Documentary,False,True,In the Shadow of the Moon,nm2270163,David Sington,In the Shadow of the Moon,2007.0,Documentary,4160819
+tt0800099,2007,Grand Jury Prize,World Cinema - Documentary,False,False,Joe Strummer: The Future Is Unwritten,nm0854697,Julien Temple,Joe Strummer: The Future Is Unwritten,2007.0,Biography,1713326
+tt0832903,2007,Grand Jury Prize,World Cinema - Documentary,False,False,Manufactured Landscapes,nm0047028,Jennifer Baichwal,Manufactured Landscapes,2007.0,Documentary,744185
+tt0925259,2007,Grand Jury Prize,World Cinema - Documentary,False,False,The Monastery: Mr. Vig and the Nun,nm1279549,Pernille Rose Grønkjær,The Monastery: Mr. Vig and the Nun,2007.0,Documentary,30787
+tt0925307,2007,Grand Jury Prize,World Cinema - Documentary,False,False,VHS - Kahloucha,nm0067946,Néjib Belkadhi,VHS - Kahloucha,2007.0,Documentary,2768
+tt0924166,2007,Grand Jury Prize,World Cinema - Documentary,False,False,Welcome Europa,nm1760900,Bruno Ulmer,Welcome Europa,2007.0,Documentary,9142
+tt0498846,2007,Grand Jury Prize,World Cinema - Dramatic,True,False,Sweet Mud,nm0789496,Dror Shaul,Sweet Mud,2007.0,Drama,154411
+tt0792966,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Blame it on Fidel,nm0310614,Julie Gavras,Blame it on Fidel,2007.0,Drama,1878422
+tt0489458,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Drained,nm1104944,Heitor Dhalia,Drained,2007.0,Comedy,978701
+tt0943958,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Driving with My Wife's Lover,nm0453708,Tai-sik Kim,Driving with My Wife's Lover,2007.0,Drama,56983
+tt0494222,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Eagle vs Shark,nm0169806,Taika Waititi,Eagle vs Shark,2007.0,Comedy,1918835
+tt0923688,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Ezra,nm0012529,Newton I. Aduaka,Ezra,2008.0,Drama,39632
+tt0770810,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,How She Move,nm0711149,Ian Iqbal Rashid,How She Move,2008.0,Drama,18891069
+tt0475241,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Khadak,nm0112456,Peter Brosens,Khadak,2007.0,Drama,50048
+tt0498134,2007,Grand Jury Prize,World Cinema - Dramatic,False,True,L'héritage,nm1201875,Géla Babluani,L'héritage,2007.0,Drama,17167
+tt0809931,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Noise,nm1234242,Matthew Saville,Noise,2007.0,Crime,990059
+tt0907657,2007,Grand Jury Prize,World Cinema - Dramatic,False,True,Once,nm0138809,John Carney,Once,2007.0,Drama,36980127
+tt0899095,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,Rêves de poussière,nm1137945,Laurent Salgues,Rêves de poussière,2007.0,Drama,10477
+tt0851577,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,The Island,nm0526732,Pavel Lungin,The Island,2007.0,Drama,4491315
+tt0483577,2007,Grand Jury Prize,World Cinema - Dramatic,False,False,The Night Buffalo,nm2052102,Jorge Hernandez Aldana,The Night Buffalo,2007.0,Drama,1960895
+tt0416675,2007,Alfred P. Sloan Feature Film Prize,,True,True,Dark Matter,nm1360804,Shi-Zheng Chen,Dark Matter,2007.0,Drama,126211
+tt1149405,2008,Grand Jury Prize,Documentary,True,False,Trouble the Water,nm0504357,Tia Lessin,Trouble the Water,2008.0,Documentary,1262627
+tt0486259,2008,Grand Jury Prize,Documentary,False,True,American Teen,nm0123379,Nanette Burstein,American Teen,2008.0,Documentary,2417667
+tt1151309,2008,Grand Jury Prize,Documentary,False,False,Bigger Stronger Faster*,nm0068106,Chris Bell,Bigger Stronger Faster*,2008.0,Documentary,747164
+tt1149583,2008,Grand Jury Prize,Documentary,False,False,Flow: For Love of Water,nm0758335,Irena Salina,Flow: For Love of Water,2008.0,Documentary,345207
+tt0479468,2008,Grand Jury Prize,Documentary,False,False,Gonzo: The Life and Work of Dr. Hunter S. Thompson,nm0316795,Alex Gibney,Gonzo: The Life and Work of Dr. Hunter S. Thompson,2008.0,Biography,3187969
+tt0963807,2008,Grand Jury Prize,Documentary,False,False,I.O.U.S.A.,nm0187091,Patrick Creadon,I.O.U.S.A.,2008.0,Documentary,1994994
+tt0940620,2008,Grand Jury Prize,Documentary,False,True,Patti Smith: Dream of Life,nm1429461,Steven Sebring,Patti Smith: Dream of Life,2008.0,Documentary,135632
+tt1157705,2008,Grand Jury Prize,Documentary,False,True,Roman Polanski: Wanted and Desired,nm0954912,Marina Zenovich,Roman Polanski: Wanted and Desired,2008.0,Crime,193283
+tt1157685,2008,Grand Jury Prize,Documentary,False,False,The Betrayal - Nerakhoon,nm0475578,Ellen Kuras,The Betrayal - Nerakhoon,2008.0,Documentary,99298
+tt1157694,2008,Grand Jury Prize,Documentary,False,False,The Order of Myths,nm0114183,Margaret Brown,The Order of Myths,2008.0,Documentary,151684
+tt0978759,2008,Grand Jury Prize,Dramatic,True,False,Frozen River,nm2581581,Courtney Hunt,Frozen River,2008.0,Crime,9257629
+tt1153690,2008,Grand Jury Prize,Dramatic,False,True,Ballast,nm0358475,Lance Hammer,Ballast,2008.0,Drama,193004
+tt1024715,2008,Grand Jury Prize,Dramatic,False,True,Choke,nm0163988,Clark Gregg,Choke,2008.0,Comedy,8070038
+tt0411323,2008,Grand Jury Prize,Dramatic,False,False,Downloading Nancy,nm0719307,Johan Renck,Downloading Nancy,2008.0,Drama,53952
+tt0944101,2008,Grand Jury Prize,Dramatic,False,False,Good Dick,nm0657734,Marianna Palka,Good Dick,2008.0,Comedy,81743
+tt1034325,2008,Grand Jury Prize,Dramatic,False,False,Phoebe in Wonderland,nm1400426,Daniel Barnz,Phoebe in Wonderland,2008.0,Drama,88815
+tt0990413,2008,Grand Jury Prize,Dramatic,False,False,Sugar,nm1349818,Anna Boden,Sugar,2009.0,Drama,2668324
+tt0862846,2008,Grand Jury Prize,Dramatic,False,False,Sunshine Cleaning,nm0420422,Christine Jeffs,Sunshine Cleaning,2009.0,Comedy,34325700
+tt0876233,2008,Grand Jury Prize,Dramatic,False,False,The Last Word,nm0355092,Geoffrey Haley,The Last Word,2008.0,Drama,10046
+tt0768218,2008,Grand Jury Prize,Dramatic,False,False,The Mysteries of Pittsburgh,nm1098493,Rawson Marshall Thurber,The Mysteries of Pittsburgh,2008.0,Others,194392
+tt1082886,2008,Grand Jury Prize,Dramatic,False,True,The Wackness,nm1349522,Jonathan Levine,The Wackness,2008.0,Comedy,6126761
+tt1155592,2008,Grand Jury Prize,World Cinema - Documentary,True,True,Man on Wire,nm1016428,James Marsh,Man on Wire,2008.0,Biography,9588982
+tt1037033,2008,Grand Jury Prize,World Cinema - Documentary,False,False,A Complete History of My Sexual Failures,nm1632389,Chris Waitt,A Complete History of My Sexual Failures,2008.0,Comedy,481788
+tt1172992,2008,Grand Jury Prize,World Cinema - Documentary,False,False,Derek,nm0432264,Isaac Julien,Derek,2008.0,Documentary,4066
+tt0866436,2008,Grand Jury Prize,World Cinema - Documentary,False,False,In Prison My Whole Life,nm0263009,Marc Evans,In Prison My Whole Life,2008.0,Documentary,2865
+tt1157720,2008,Grand Jury Prize,World Cinema - Documentary,False,False,Stranded: I've Come from a Plane That Crashed on the Mountains,nm0034820,Gonzalo Arijon,Stranded: I've Come from a Plane That Crashed on the Mountains,2008.0,Documentary,444764
+tt1114277,2008,Grand Jury Prize,World Cinema - Documentary,False,False,Up the Yangtze,nm1374747,Yung Chang,Up the Yangtze,2008.0,Documentary,2195160
+tt1073548,2008,Grand Jury Prize,World Cinema - Documentary,False,False,Yasukuni,nm0948067,Ying Li,Yasukuni,2009.0,Documentary,4644
+tt1110272,2008,Grand Jury Prize,World Cinema - Dramatic,True,True,The King of Ping Pong,nm0429634,Jens Jonsson,The King of Ping Pong,2008.0,Drama,355060
+tt1027658,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,Absurdistan,nm0375691,Veit Helmer,Absurdistan,2008.0,Comedy,185174
+tt0481320,2008,Grand Jury Prize,World Cinema - Dramatic,False,True,Blue Eyelids,nm0176496,Ernesto Contreras,Blue Eyelids,2007.0,Comedy,467863
+tt1017428,2008,Grand Jury Prize,World Cinema - Dramatic,False,True,Captain Abu Raed,nm1691239,Amin Matalqa,Captain Abu Raed,2008.0,Drama,97883
+tt1157631,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,Dog Eat Dog,nm2872021,Carlos Moreno,Dog Eat Dog,2008.0,Others,193
+tt1016307,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,Glasses,nm0644688,Naoko Ogigami,Glasses,2007.0,Comedy,5077267
+tt1153116,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,Good Morning Heartache,nm0624448,Anna Negri,Good Morning Heartache,2008.0,Comedy,337136
+tt0827713,2008,Grand Jury Prize,World Cinema - Dramatic,False,True,I Always Wanted to Be a Gangster,nm0996471,Samuel Benchetrit,I Always Wanted to Be a Gangster,2008.0,Comedy,3042614
+tt1024942,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,Just Another Love Story,nm0097079,Ole Bornedal,Just Another Love Story,2008.0,Crime,3108463
+tt0995747,2008,Grand Jury Prize,World Cinema - Dramatic,False,True,Mermaid,nm1346885,Anna Melikyan,Mermaid,2008.0,Comedy,1733657
+tt1003023,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,Máncora,nm1662693,Ricardo de Montreuil,Máncora,2008.0,Drama,273327
+tt0831386,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,The Drummer,nm0080456,Kenneth Bi,The Drummer,2008.0,Crime,781767
+tt1063669,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,The Wave,nm0304541,Dennis Gansel,The Wave,2011.0,Drama,36586095
+tt1094275,2008,Grand Jury Prize,World Cinema - Dramatic,False,False,Under the Bombs,nm2127004,Philippe Aractingi,Under the Bombs,2008.0,Drama,591081
+tt1127886,2008,NHK Award,,True,True,Here,nm0454512,Braden King,Here,2011.0,Others,67501
+tt1157549,2008,NHK Award,,True,True,The Happiest Girl in the World,nm1257492,Radu Jude,The Happiest Girl in the World,2010.0,Comedy,7748
+tt0498329,2009,Grand Jury Prize,Documentary,True,False,We Live in Public,nm0863756,Ondi Timoner,We Live in Public,2009.0,Documentary,100966
+tt1326204,2009,Grand Jury Prize,Documentary,False,False,Crude,nm0075666,Joe Berlinger,Crude,2009.0,Documentary,431082
+tt1213585,2009,Grand Jury Prize,Documentary,False,True,Good Hair,nm0830352,Jeff Stilson,Good Hair,2009.0,Comedy,9835694
+tt1313104,2009,Grand Jury Prize,Documentary,False,True,The Cove,nm3174775,Louie Psihoyos,The Cove,2009.0,Crime,2391006
+tt1333667,2009,Grand Jury Prize,Documentary,False,False,The Doors: When You're Strange,nm0001139,Tom DiCillo,The Doors: When You're Strange,2010.0,Documentary,1631692
+tt1333639,2009,Grand Jury Prize,Documentary,False,True,The General,nm1094895,Natalia Almada,The General,2009.0,Documentary,11441
+tt1333668,2009,Grand Jury Prize,Documentary,False,False,The Horse Boy,nm2205492,Michel Orion Scott,The Horse Boy,2009.0,Documentary,379097
+tt1331025,2009,Grand Jury Prize,Documentary,False,True,The September Issue,nm0191712,R.J. Cutler,The September Issue,2009.0,Documentary,12143073
+tt1074194,2009,Grand Jury Prize,Documentary,False,False,William Kunstler: Disturbing the Universe,nm2527562,Emily Kunstler,William Kunstler: Disturbing the Universe,2009.0,Documentary,108862
+tt0929632,2009,Grand Jury Prize,Dramatic,True,True,Precious,nm0200005,Lee Daniels,Precious,2009.0,Drama,131376168
+tt1185836,2009,Grand Jury Prize,Dramatic,False,True,Adam,nm0562470,Max Mayer,Adam,2009.0,Comedy,5716670
+tt1190858,2009,Grand Jury Prize,Dramatic,False,False,Amreeka,nm1435062,Cherien Dabis,Amreeka,2009.0,Drama,3393388
+tt1228953,2009,Grand Jury Prize,Dramatic,False,False,Big Fan,nm1557909,Robert Siegel,Big Fan,2009.0,Comedy,567731
+tt0790627,2009,Grand Jury Prize,Dramatic,False,False,Brief Interviews with Hideous Men,nm1024677,John Krasinski,Brief Interviews with Hideous Men,2009.0,Comedy,81683
+tt1127877,2009,Grand Jury Prize,Dramatic,False,False,Cold Souls,nm1754436,Sophie Barthes,Cold Souls,2009.0,Comedy,2467409
+tt1241316,2009,Grand Jury Prize,Dramatic,False,False,Dare,nm1270069,Adam Salky,Dare,2009.0,Drama,42719
+tt1334537,2009,Grand Jury Prize,Dramatic,False,True,Humpday,nm1119645,Lynn Shelton,Humpday,2009.0,Comedy,1066713
+tt1331064,2009,Grand Jury Prize,Dramatic,False,True,Paper Heart,nm2074328,Nicholas Jasenovec,Paper Heart,2009.0,Comedy,3044109
+tt1144551,2009,Grand Jury Prize,Dramatic,False,False,Peter and Vandy,nm2842549,Jay DiPietro,Peter and Vandy,2009.0,Drama,27824
+tt1127715,2009,Grand Jury Prize,Dramatic,False,True,Sin nombre,nm1560977,Cary Joji Fukunaga,Sin Nombre,2009.0,Others,9153926
+tt1187041,2009,Grand Jury Prize,Dramatic,False,False,The Answer Man,nm1668051,John Hindman,The Answer Man,2009.0,Comedy,64572
+tt1226232,2009,Grand Jury Prize,Dramatic,False,False,The Greatest,nm0275277,Shana Feste,The Greatest,2009.0,Drama,1147683
+tt1209364,2009,Grand Jury Prize,Dramatic,False,False,Toe to Toe,nm0009435,Emily Abt,Toe to Toe,2010.0,Drama,51048
+tt1334510,2009,Grand Jury Prize,World Cinema - Documentary,False,True,Afghan Star,nm2035483,Havana Marking,Afghan Star,2009.0,Documentary,260245
+tt1333634,2009,Grand Jury Prize,World Cinema - Documentary,False,True,Burma VJ: Reporting from a Closed Country,nm0960312,Anders Østergaard,Burma VJ: Reporting from a Closed Country,2009.0,Documentary,211984
+tt1307963,2009,Grand Jury Prize,World Cinema - Documentary,False,False,Let's Make Money,nm2025932,Erwin Wagenhofer,Let's Make Money,2010.0,Documentary,4319227
+tt1334549,2009,Grand Jury Prize,World Cinema - Documentary,False,False,Old Partner,,[],Old Partner,2009.0,Documentary,18097222
+tt1176727,2009,Grand Jury Prize,World Cinema - Documentary,False,False,The End of the Line,nm1783716,Rupert Murray,The End of the Line,2009.0,Documentary,123566
+tt1180311,2009,Grand Jury Prize,World Cinema - Documentary,False,False,The Flower of Kim Jong II,nm2912984,N.C. Heikin,The Flower of Kim Jong II,2009.0,Documentary,14292
+tt1334556,2009,Grand Jury Prize,World Cinema - Documentary,False,False,The Queen and I,nm1901761,Nahid Persson,The Queen and I,2009.0,Documentary,283836
+tt1187044,2009,Grand Jury Prize,World Cinema - Dramatic,True,True,The Maid,nm2928364,Sebastián Silva,The Maid,2009.0,Comedy,2744574
+tt1091992,2009,Grand Jury Prize,World Cinema - Dramatic,False,False,A French Gigolo,nm0001929,Josiane Balasko,A French Gigolo,2009.0,Drama,7181372
+tt1174732,2009,Grand Jury Prize,World Cinema - Dramatic,False,True,An Education,nm0771054,Lone Scherfig,An Education,2010.0,Drama,45595860
+tt1172570,2009,Grand Jury Prize,World Cinema - Dramatic,False,False,Bronson,nm0716347,Nicolas Winding Refn,Bronson,2009.0,Others,2863214
+tt0842675,2009,Grand Jury Prize,World Cinema - Dramatic,False,False,"Carmo, Hit the Road",nm1233826,Murilo Pasta,"Carmo, Hit the Road",2010.0,Others,268431
+tt1238291,2009,Grand Jury Prize,World Cinema - Dramatic,False,True,Five Minutes of Heaven,nm0386570,Oliver Hirschbiegel,Five Minutes of Heaven,2009.0,Drama,363361
+tt1132594,2009,Grand Jury Prize,World Cinema - Dramatic,False,True,Louise-Michel,nm1086956,Gustave Kervern,Louise-Michel,2009.0,Comedy,6070376
+tt0763844,2009,Grand Jury Prize,World Cinema - Dramatic,False,False,Lulu and Jimi,nm0753912,Oskar Roehler,Lulu and Jimi,2009.0,Drama,169207
+tt1327908,2009,Grand Jury Prize,World Cinema - Dramatic,False,False,One Day in a Life,nm0876545,Stefano Tummolini,One Day in a Life,2008.0,Drama,515817
+tt0997263,2009,Grand Jury Prize,World Cinema - Dramatic,False,False,Unmade Beds,nm2063526,Alexis Dos Santos,Unmade Beds,2009.0,Comedy,213157
+tt1191140,2009,Grand Jury Prize,World Cinema - Dramatic,False,False,Zion and His Brother,nm1342992,Eran Merav,Zion and His Brother,2009.0,Drama,47302
+tt1559549,2010,Grand Jury Prize,Documentary,True,False,Restrepo,nm0432631,Sebastian Junger,Restrepo,2010.0,Documentary,3239282
+tt1262958,2010,Grand Jury Prize,Documentary,False,False,A Small Act,nm0036496,Jennifer Arnold,A Small Act,2010.0,Documentary,1546
+tt1524095,2010,Grand Jury Prize,Documentary,False,False,Bhutto,nm2256967,Jessica Hernández,Bhutto,2010.0,Biography,234059
+tt1540814,2010,Grand Jury Prize,Documentary,False,False,Casino Jack and the United States of Money,nm0316795,Alex Gibney,Casino Jack and the United States of Money,2010.0,Documentary,417168
+tt1558250,2010,Grand Jury Prize,Documentary,False,True,GasLand,nm1068198,Josh Fox,GasLand,2010.0,Documentary,94670
+tt1568335,2010,Grand Jury Prize,Documentary,False,False,Jean-Michel Basquiat: The Radiant Child,nm0205542,Tamra Davis,Jean-Michel Basquiat: The Radiant Child,2011.0,Documentary,582306
+tt1568150,2010,Grand Jury Prize,Documentary,False,True,Joan Rivers: A Piece of Work,nm0827830,Ricki Stern,Joan Rivers: A Piece of Work,2010.0,Biography,6870581
+tt1557720,2010,Grand Jury Prize,Documentary,False,False,My Perestroika,nm1623464,Robin Hessman,My Perestroika,2010.0,Biography,572468
+tt1280015,2010,Grand Jury Prize,Documentary,False,True,Smash His Camera,nm0309382,Leon Gast,Smash His Camera,2010.0,Documentary,8595
+tt1522857,2010,Grand Jury Prize,Documentary,False,True,The Oath,nm0688636,Laura Poitras,The Oath,2010.0,Documentary,99708
+tt1568334,2010,Grand Jury Prize,Documentary,False,False,The Tillman Story,nm0052737,Amir Bar-Lev,The Tillman Story,2010.0,Biography,1892925
+tt1566648,2010,Grand Jury Prize,Documentary,False,True,Waiting for 'Superman',nm0346550,Davis Guggenheim,Waiting for 'Superman',2010.0,Documentary,15006809
+tt1399683,2010,Grand Jury Prize,Dramatic,True,True,Winter's Bone,nm0335138,Debra Granik,Winter's Bone,2010.0,Drama,23828457
+tt1314190,2010,Grand Jury Prize,Dramatic,False,True,3 Backyards,nm0578857,Eric Mendelsohn,3 Backyards,2010.0,Drama,101595
+tt1120985,2010,Grand Jury Prize,Dramatic,False,False,Blue Valentine,nm0161834,Derek Cianfrance,Blue Valentine,2011.0,Drama,26236743
+tt1535568,2010,Grand Jury Prize,Dramatic,False,False,Douchebag,nm2035886,Drake Doremus,Douchebag,2010.0,Comedy,48624
+tt1481572,2010,Grand Jury Prize,Dramatic,False,True,Happythankyoumoreplease,nm1102140,Josh Radnor,Happythankyoumoreplease,2010.0,Comedy,1261862
+tt1403177,2010,Grand Jury Prize,Dramatic,False,False,Hesher,nm1127632,Spencer Susser,Hesher,2010.0,Comedy,981976
+tt1143896,2010,Grand Jury Prize,Dramatic,False,False,Holy Rollers,nm0038475,Kevin Asch,Holy Rollers,2010.0,Biography,1074487
+tt1049402,2010,Grand Jury Prize,Dramatic,False,False,Howl,nm0258531,Rob Epstein,Howl,2010.0,Biography,2520267
+tt0775543,2010,Grand Jury Prize,Dramatic,False,False,Night Catches Us,nm0358184,Tanya Hamilton,Night Catches Us,2010.0,Drama,177653
+tt1312254,2010,Grand Jury Prize,Dramatic,False,False,Skateland,nm0122567,Anthony Burns,Skateland,2011.0,Drama,43904
+tt1270277,2010,Grand Jury Prize,Dramatic,False,True,Sympathy for Delicious,nm0749263,Mark Ruffalo,Sympathy for Delicious,2010.0,Drama,32611
+tt1322264,2010,Grand Jury Prize,Dramatic,False,False,The Dry Land,nm1215600,Ryan Piers Williams,The Dry Land,2010.0,Drama,27778
+tt1423593,2010,Grand Jury Prize,Dramatic,False,False,The Imperialists Are Still Alive!,nm1884759,Zeina Durra,The Imperialists Are Still Alive!,2010.0,Drama,13854
+tt1183923,2010,Grand Jury Prize,Dramatic,False,False,Welcome to the Rileys,nm0779265,Jake Scott,Welcome to the Rileys,2010.0,Drama,566350
+tt1546653,2010,Grand Jury Prize,World Cinema - Documentary,True,False,The Red Chapel,nm1366561,Mads Brügger,The Red Chapel,2010.0,Comedy,14448
+tt1568923,2010,Grand Jury Prize,World Cinema - Documentary,False,True,A Film Unfinished,nm2478131,Yael Hersonski,A Film Unfinished,2010.0,Documentary,756408
+tt1568328,2010,Grand Jury Prize,World Cinema - Documentary,False,True,Enemies of the People,nm2215000,Rob Lemkin,Enemies of the People,2010.0,Documentary,179070
+tt1512201,2010,Grand Jury Prize,World Cinema - Documentary,False,False,Last Train Home,nm2887720,Lixin Fan,Last Train Home,2010.0,Documentary,705299
+tt1523980,2010,Grand Jury Prize,World Cinema - Documentary,False,False,Sins of My Father,nm1139728,Nicolas Entel,Sins of My Father,2010.0,Documentary,49880
+tt1268204,2010,Grand Jury Prize,World Cinema - Documentary,False,True,Waste Land,nm1013671,Lucy Walker,Waste Land,2010.0,Documentary,547358
+tt1313092,2010,Grand Jury Prize,World Cinema - Dramatic,True,False,Animal Kingdom,nm2391575,David Michôd,Animal Kingdom,2010.0,Crime,9245686
+tt1442584,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,All That I Love,nm0096066,Jacek Borcuch,All That I Love,2010.0,Comedy,1179910
+tt1560139,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,Boy,nm0169806,Taika Waititi,Boy,2010.0,Comedy,51663849
+tt1341167,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,Four Lions,nm0606439,Christopher Morris,Four Lions,2010.0,Comedy,5854080
+tt1289449,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,Me Too,nm0619560,Antonio Naharro,Me Too,2010.0,Drama,2520158
+tt1447508,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,Peepli (Live),nm3470556,Anusha Rizvi,Peepli (Live),2010.0,Comedy,11961847
+tt1415290,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,Son of Babylon,nm1865534,Mohamed Al Daradji,Son of Babylon,2010.0,Drama,56587
+tt1526317,2010,Grand Jury Prize,World Cinema - Dramatic,False,True,Southern District,nm0883741,Juan Carlos Valdivia,Southern District,2010.0,Drama,127079
+tt1529252,2010,Grand Jury Prize,World Cinema - Dramatic,False,True,The Man Next Door,nm1286935,Mariano Cohn,The Man Next Door,2010.0,Others,646381
+tt1247696,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,The Temptation of St. Tony,nm1803711,Veiko Õunpuu,The Temptation of St. Tony,2010.0,Drama,4630
+tt1368491,2010,Grand Jury Prize,World Cinema - Dramatic,False,True,Undertow,nm1659906,Javier Fuentes-León,Undertow,2010.0,Drama,719252
+tt1517269,2010,Grand Jury Prize,World Cinema - Dramatic,False,False,Vegetarian,nm3211945,Seong-woon Lim,Vegetarian,2010.0,Drama,24034
+tt2125435,2010,NHK Award,,True,True,Beasts of the Southern Wild,nm1022455,Benh Zeitlin,Beasts of the Southern Wild,2012.0,Others,38223676
+tt1925421,2010,NHK Award,,True,True,Elena,nm1168657,Andrey Zvyagintsev,Elena,2012.0,Crime,2774916
+tt2852376,2010,NHK Award,,True,True,Heli,nm1661334,Amat Escalante,Heli,2013.0,Crime,402528
+tt1613023,2011,Grand Jury Prize,Documentary,False,False,"Beats, Rhymes & Life: The Travels of A Tribe Called Quest",nm0001650,Michael Rapaport,"Beats, Rhymes & Life: The Travels of A Tribe Called Quest",2011.0,Documentary,2785729
+tt1787660,2011,Grand Jury Prize,Documentary,False,True,Being Elmo: A Puppeteer's Journey,nm0548789,Constance Marks,Being Elmo: A Puppeteer's Journey,2011.0,Documentary,713491
+tt1753549,2011,Grand Jury Prize,Documentary,False,True,Buck,nm4137350,Cindy Meehl,Buck,2011.0,Documentary,9849104
+tt1727491,2011,Grand Jury Prize,Documentary,False,True,"Connected: An Autoblogography About Love, Death & Technology",nm1286067,Tiffany Shlain,"Connected: An Autoblogography About Love, Death & Technology",2011.0,Documentary,108572
+tt1746153,2011,Grand Jury Prize,Documentary,False,False,Crime After Crime,nm0693014,Yoav Potash,Crime After Crime,2011.0,Biography,136394
+tt1787725,2011,Grand Jury Prize,Documentary,False,True,If a Tree Falls: A Story of the Earth Liberation Front,nm2014414,Sam Cullman,If a Tree Falls: A Story of the Earth Liberation Front,2011.0,Biography,143412
+tt1787777,2011,Grand Jury Prize,Documentary,False,False,Page One: Inside the New York Times,nm1427149,Andrew Rossi,Page One: Inside the New York Times,2011.0,Documentary,2489081
+tt1787791,2011,Grand Jury Prize,Documentary,False,True,Resurrect Dead: The Mystery of the Toynbee Tiles,nm3198924,Jon Foy,Resurrect Dead: The Mystery of the Toynbee Tiles,2011.0,Documentary,47922
+tt1787797,2011,Grand Jury Prize,Documentary,False,False,Sing Your Song,nm0744595,Susanne Rostock,Sing Your Song,2011.0,Biography,131158
+tt1787816,2011,Grand Jury Prize,Documentary,False,False,The Last Mountain,nm1683671,Bill Haney,The Last Mountain,2011.0,Documentary,285369
+tt1787837,2011,Grand Jury Prize,Documentary,False,False,We Were Here,nm2406324,Bill Weber,We Were Here,2011.0,Biography,2109
+tt1758692,2011,Grand Jury Prize,Dramatic,True,True,Like Crazy,nm2035886,Drake Doremus,Like Crazy,2011.0,Drama,8410387
+tt1549572,2011,Grand Jury Prize,Dramatic,False,True,Another Earth,nm2648685,Mike Cahill,Another Earth,2011.0,Drama,3595086
+tt1719071,2011,Grand Jury Prize,Dramatic,False,True,Another Happy Day,nm0506094,Sam Levinson,Another Happy Day,2011.0,Comedy,422564
+tt1684628,2011,Grand Jury Prize,Dramatic,False,True,Circumstance,nm1991486,Maryam Keshavarz,Circumstance,2011.0,Drama,1171582
+tt1525838,2011,Grand Jury Prize,Dramatic,False,False,Gun Hill Road,nm2165614,Rashaad Ernesto Green,Gun Hill Road,2011.0,Drama,345786
+tt1562568,2011,Grand Jury Prize,Dramatic,False,False,Higher Ground,nm0267812,Vera Farmiga,Higher Ground,2011.0,Drama,2187358
+tt1623745,2011,Grand Jury Prize,Dramatic,False,False,Little Birds,nm1990437,Elgin James,Little Birds,2011.0,Drama,41168
+tt1441326,2011,Grand Jury Prize,Dramatic,False,True,Martha Marcy May Marlene,nm1699934,Sean Durkin,Martha Marcy May Marlene,2011.0,Drama,7576370
+tt1663660,2011,Grand Jury Prize,Dramatic,False,False,On the Ice,nm1843186,Andrew Okpeaha MacLean,On the Ice,2011.0,Drama,170561
+tt1233334,2011,Grand Jury Prize,Dramatic,False,True,Pariah,nm2011696,Dee Rees,Pariah,2011.0,Drama,1785984
+tt1675192,2011,Grand Jury Prize,Dramatic,False,False,Take Shelter,nm2158772,Jeff Nichols,Take Shelter,2011.0,Drama,5604306
+tt1687281,2011,Grand Jury Prize,Dramatic,False,False,Terri,nm0414337,Azazel Jacobs,Terri,2011.0,Comedy,1521992
+tt1645080,2011,Grand Jury Prize,Dramatic,False,False,The Art of Getting By,nm1026883,Gavin Wiesen,The Art of Getting By,2011.0,Drama,3761375
+tt1535970,2011,Grand Jury Prize,Dramatic,False,False,The Ledge,nm0152466,Matthew Chapman,The Ledge,2011.0,Drama,719685
+tt1748043,2011,Grand Jury Prize,World Cinema - Documentary,True,True,Hell and Back Again,nm3653362,Danfung Dennis,Hell and Back Again,2011.0,Others,92077
+tt1674131,2011,Grand Jury Prize,World Cinema - Documentary,False,False,An African Election,nm2011575,Kevin Merz,An African Election,2011.0,Documentary,3772
+tt1606259,2011,Grand Jury Prize,World Cinema - Documentary,False,False,Knuckle,nm3817974,Ian Palmer,Knuckle,2011.0,Biography,31681
+tt1742178,2011,Grand Jury Prize,World Cinema - Documentary,False,True,Position Among the Stars,nm0720503,Leonard Retel Helmrich,Position Among the Stars,2011.0,Documentary,2191
+tt1814836,2011,Grand Jury Prize,World Cinema - Documentary,False,True,Project Nim,nm1016428,James Marsh,Project Nim,2011.0,Documentary,1188282
+tt1424432,2011,Grand Jury Prize,World Cinema - Documentary,False,True,Senna,nm0438090,Asif Kapadia,Senna,2011.0,Biography,11400822
+tt1766085,2011,Grand Jury Prize,World Cinema - Documentary,False,False,Shut Up Little Man! An Audio Misadventure,nm2800579,Matthew Bate,Shut Up Little Man! An Audio Misadventure,2011.0,Comedy,53921
+tt1592527,2011,Grand Jury Prize,World Cinema - Documentary,False,True,The Black Power Mixtape 1967-1975,nm0648057,Göran Olsson,The Black Power Mixtape 1967-1975,2011.0,Documentary,633538
+tt1667130,2011,Grand Jury Prize,World Cinema - Documentary,False,False,The Green Wave,nm1893665,Ali Samadi Ahadi,The Green Wave,2011.0,Documentary,81302
+tt1664892,2011,Grand Jury Prize,World Cinema - Dramatic,True,False,"Happy, Happy",nm3205815,Anne Sewitsky,"Happy, Happy",2011.0,Comedy,449888
+tt1787664,2011,Grand Jury Prize,World Cinema - Dramatic,False,False,Boleto al paraíso,nm0157387,Gerardo Chijona,Boleto al paraíso,2010.0,Drama,2875
+tt1572154,2011,Grand Jury Prize,World Cinema - Dramatic,False,True,Kinyarwanda,nm1591341,Alrick Brown,Kinyarwanda,2011.0,Drama,82184
+tt1529273,2011,Grand Jury Prize,World Cinema - Dramatic,False,False,Lost Kisses,nm0868404,Roberta Torre,Lost Kisses,2011.0,Drama,175748
+tt1787758,2011,Grand Jury Prize,World Cinema - Dramatic,False,False,Mad Bastards,nm1051863,Brendan Fletcher,Mad Bastards,2010.0,Drama,337917
+tt1540133,2011,Grand Jury Prize,World Cinema - Dramatic,False,False,The Guard,nm0567620,John Michael McDonagh,The Guard,2011.0,Comedy,28917943
+tt1787747,2011,Grand Jury Prize,World Cinema - Dramatic,False,False,The Salesman,nm3614028,Sébastien Pilote,The Salesman,2011.0,Drama,31948
+tt1204340,2011,Grand Jury Prize,World Cinema - Dramatic,False,True,Tyrannosaur,nm0175916,Paddy Considine,Tyrannosaur,2011.0,Drama,810464
+tt2040560,2011,Short Filmmaking Award,US Fiction,False,False,The Pact,nm1130275,Nicholas McCarthy,The Pact,2012.0,Others,3422205
+tt3278224,2011,Sundance Institute/Mahindra Global Filmmaking Award,,True,True,I Dream in Another Language,nm0176496,Ernesto Contreras,I Dream in Another Language,2017.0,Drama,70260
+tt2125653,2012,Grand Jury Prize,Documentary,True,False,The House I Live In,nm0418659,Eugene Jarecki,The House I Live In,2012.0,Documentary,474945
+tt1736049,2012,Grand Jury Prize,Documentary,False,False,A Place at the Table,nm1097475,Kristi Jacobson,A Place at the Table,2013.0,Documentary,508033
+tt1845773,2012,Grand Jury Prize,Documentary,False,True,Ai Weiwei: Never Sorry,nm3052903,Alison Klayman,Ai Weiwei: Never Sorry,2012.0,Documentary,1596165
+tt1579361,2012,Grand Jury Prize,Documentary,False,True,Chasing Ice,nm2341611,Jeff Orlowski,Chasing Ice,2012.0,Biography,3029545
+tt2125490,2012,Grand Jury Prize,Documentary,False,True,Detropia,nm1823216,Heidi Ewing,Detropia,2012.0,Documentary,879446
+tt2093109,2012,Grand Jury Prize,Documentary,False,False,Escape Fire: The Fight to Rescue American Healthcare,nm1292648,Matthew Heineman,Escape Fire: The Fight to Rescue American Healthcare,2012.0,Documentary,278923
+tt2124803,2012,Grand Jury Prize,Documentary,False,False,How to Survive a Plague,nm0289800,David France,How to Survive a Plague,2012.0,Documentary,297764
+tt2073029,2012,Grand Jury Prize,Documentary,False,False,Marina Abramovic: The Artist Is Present,nm1128830,Matthew Akers,Marina Abramovic: The Artist Is Present,2012.0,Biography,274338
+tt1606829,2012,Grand Jury Prize,Documentary,False,False,The Other Dream Team,nm2101256,Marius A. Markevicius,The Other Dream Team,2012.0,Documentary,298670
+tt2125666,2012,Grand Jury Prize,Documentary,False,True,The Queen of Versailles,nm1132362,Lauren Greenfield,The Queen of Versailles,2012.0,Documentary,5521799
+tt1869425,2012,Grand Jury Prize,Dramatic,False,False,Filly Brown,nm0216459,Youssef Delara,Filly Brown,2013.0,Drama,6363965
+tt1570583,2012,Grand Jury Prize,Dramatic,False,False,For Ellen,nm0811611,So Yong Kim,For Ellen,2012.0,Drama,37365
+tt2063666,2012,Grand Jury Prize,Dramatic,False,False,Hello I Must Be Going,nm0521974,Todd Louiso,Hello I Must Be Going,2012.0,Comedy,520473
+tt2011953,2012,Grand Jury Prize,Dramatic,False,False,Keep the Lights On,nm0755158,Ira Sachs,Keep the Lights On,2012.0,Drama,715287
+tt1907707,2012,Grand Jury Prize,Dramatic,False,False,LUV,nm1068020,Sheldon Candis,LUV,2012.0,Crime,354002
+tt1211890,2012,Grand Jury Prize,Dramatic,False,True,Middle of Nowhere,nm1148550,Ava DuVernay,Middle of Nowhere,2012.0,Drama,533962
+tt1907731,2012,Grand Jury Prize,Dramatic,False,False,Nobody Walks,nm1735543,Ry Russo-Young,Nobody Walks,2012.0,Drama,55971
+tt1862079,2012,Grand Jury Prize,Dramatic,False,True,Safety Not Guaranteed,nm1119880,Colin Trevorrow,Safety Not Guaranteed,2012.0,Comedy,9510577
+tt1965065,2012,Grand Jury Prize,Dramatic,False,False,Save the Date,nm2278537,Michael Mohan,Save the Date,2012.0,Comedy,12696
+tt1790834,2012,Grand Jury Prize,Dramatic,False,False,Simon Killer,nm1290515,Antonio Campos,Simon Killer,2013.0,Drama,60971
+tt2063781,2012,Grand Jury Prize,Dramatic,False,False,Smashed,nm1242054,James Ponsoldt,Smashed,2012.0,Drama,987988
+tt2112293,2012,Grand Jury Prize,Dramatic,False,False,The Comedy,nm3687830,Rick Alverson,The Comedy,2012.0,Comedy,92703
+tt1827578,2012,Grand Jury Prize,Dramatic,False,False,The End of Love,nm0916406,Mark Webber,The End of Love,2012.0,Drama,21064
+tt1763303,2012,Grand Jury Prize,Dramatic,False,False,The First Time,nm0440459,Jonathan Kasdan,The First Time,2012.0,Comedy,130206
+tt1866249,2012,Grand Jury Prize,Dramatic,False,True,The Sessions,nm0506802,Ben Lewin,The Sessions,2012.0,Biography,16806452
+tt2069916,2012,Grand Jury Prize,World Cinema - Documentary,True,False,The Law in These Parts,nm0018924,Ra'anan Alexandrowicz,The Law in These Parts,2012.0,Documentary,30853
+tt2090463,2012,Grand Jury Prize,World Cinema - Documentary,False,False,Big Boys Gone Bananas!*,nm0314995,Fredrik Gertten,Big Boys Gone Bananas!*,2012.0,Biography,1324
+tt2082232,2012,Grand Jury Prize,World Cinema - Documentary,False,False,China Heavyweight,nm1374747,Yung Chang,China Heavyweight,2012.0,Documentary,23788
+tt2125423,2012,Grand Jury Prize,World Cinema - Documentary,False,True,Five Broken Cameras,nm4796818,Emad Burnat,Five Broken Cameras,2012.0,Documentary,289137
+tt1430625,2012,Grand Jury Prize,World Cinema - Documentary,False,False,Payback,nm0047028,Jennifer Baichwal,Payback,2012.0,Documentary,40539
+tt2094920,2012,Grand Jury Prize,World Cinema - Documentary,False,True,Putin's Kiss,nm1459798,Lise Birk Pedersen,Putin's Kiss,2012.0,Documentary,22633
+tt2125608,2012,Grand Jury Prize,World Cinema - Documentary,False,True,Searching for Sugar Man,nm0070594,Malik Bendjelloul,Searching for Sugar Man,2012.0,Biography,14464641
+tt2048877,2012,Grand Jury Prize,World Cinema - Documentary,False,False,The Ambassador,nm1366561,Mads Brügger,The Ambassador,2012.0,Documentary,63365
+tt1966604,2012,Grand Jury Prize,World Cinema - Documentary,False,False,The Imposter,nm1717925,Bart Layton,The Imposter,2012.0,Biography,3266822
+tt2014392,2012,Grand Jury Prize,World Cinema - Dramatic,True,False,Violeta Went to Heaven,nm0939540,Andrés Wood,Violeta Went to Heaven,2012.0,Biography,1390193
+tt1729226,2012,Grand Jury Prize,World Cinema - Dramatic,False,True,10 timer til Paradis,nm1323584,Mads Matthiesen,10 timer til Paradis,2012.0,Drama,41664
+tt1890472,2012,Grand Jury Prize,World Cinema - Dramatic,False,False,About the Pink Sky,nm2796318,Keiichi Kobayashi,About the Pink Sky,2012.0,Drama,21413
+tt2170327,2012,Grand Jury Prize,World Cinema - Dramatic,False,True,Can,nm1628235,Rasit Çelikezer,Can,2012.0,Drama,44192
+tt2125425,2012,Grand Jury Prize,World Cinema - Dramatic,False,False,Father's Chair,nm0609931,Luciano Moura,Father's Chair,2012.0,Drama,2074282
+tt2106292,2012,Grand Jury Prize,World Cinema - Dramatic,False,False,Four Suns,nm0805246,Bohdan Sláma,Four Suns,2012.0,Comedy,335323
+tt1760980,2012,Grand Jury Prize,World Cinema - Dramatic,False,False,"Madrid, 1987",nm0874093,David Trueba,"Madrid, 1987",2012.0,Drama,62090
+tt2076897,2012,Grand Jury Prize,World Cinema - Dramatic,False,True,My Brother the Devil,nm2260751,Sally El Hosaini,My Brother the Devil,2012.0,Crime,199511
+tt2125500,2012,Grand Jury Prize,World Cinema - Dramatic,False,False,The Last Elvis,nm3174584,Armando Bo,The Last Elvis,2012.0,Drama,948522
+tt1684925,2012,Grand Jury Prize,World Cinema - Dramatic,False,False,Wish You Were Here,nm0201061,Kieran Darcy-Smith,Wish You Were Here,2013.0,Drama,1744249
+tt1901040,2012,Grand Jury Prize,World Cinema - Dramatic,False,False,Wrong,nm1189197,Quentin Dupieux,Wrong,2013.0,Comedy,167799
+tt2125698,2012,Grand Jury Prize,World Cinema - Dramatic,False,True,Young and Wild,nm0729086,Marialy Rivas,Young and Wild,2012.0,Comedy,242135
+tt2077851,2012,Audience Award,Best of Next!,True,True,Sleepwalk with Me,nm1898126,Mike Birbiglia,Sleepwalk with Me,2012.0,Comedy,5109645
+tt2124074,2012,Audience Award,Best of Next!,False,False,28 Hotel Rooms,nm0743671,Matt Ross,28 Hotel Rooms,2012.0,Drama,166587
+tt1971352,2012,Audience Award,Best of Next!,False,False,Compliance,nm0957505,Craig Zobel,Compliance,2012.0,Biography,1027537
+tt1978480,2012,Audience Award,Best of Next!,False,False,Mosquita y Mari,nm1312731,Aurora Guerrero,Mosquita y Mari,2012.0,Drama,20293
+tt2120152,2012,Audience Award,Documentary,True,True,The Invisible War,nm0225269,Kirby Dick,The Invisible War,2012.0,Crime,162277
+tt1990314,2012,Alfred P. Sloan Feature Film Prize,,True,True,Robot & Frank,nm1500577,Jake Schreier,Robot & Frank,2012.0,Comedy,9167620
+tt2265179,2013,Grand Jury Prize,Documentary,True,True,Blood Brother,nm4240055,Steve Hoover,Blood Brother,2013.0,Documentary,134454
+tt2396566,2013,Grand Jury Prize,Documentary,False,False,20 Feet from Stardom,nm1365879,Morgan Neville,20 Feet from Stardom,2013.0,Documentary,11799401
+tt2430104,2013,Grand Jury Prize,Documentary,False,False,After Tiller,nm2029577,Martha Shane,After Tiller,2013.0,Biography,160078
+tt2545088,2013,Grand Jury Prize,Documentary,False,True,American Promise,nm0108284,Joe Brewster,American Promise,2013.0,Documentary,325598
+tt2545118,2013,Grand Jury Prize,Documentary,False,False,Blackfish,nm1363250,Gabriela Cowperthwaite,Blackfish,2013.0,Documentary,4857275
+tt2545338,2013,Grand Jury Prize,Documentary,False,False,Citizen Koch,nm1179906,Carl Deal,Citizen Koch,2013.0,Documentary,341591
+tt2355540,2013,Grand Jury Prize,Documentary,False,True,Cutie and the Boxer,nm2784978,Zachary Heinzerling,Cutie and the Boxer,2013.0,Biography,443970
+tt2532528,2013,Grand Jury Prize,Documentary,False,True,Dirty Wars,nm0746823,Rick Rowley,Dirty Wars,2013.0,Crime,889253
+tt1874513,2013,Grand Jury Prize,Documentary,False,False,God Loves Uganda,nm2141317,Roger Ross Williams,God Loves Uganda,2013.0,Documentary,112110
+tt2215151,2013,Grand Jury Prize,Documentary,False,True,Inequality for All,nm0466428,Jacob Kornbluth,Inequality for All,2013.0,Documentary,2675048
+tt2504022,2013,Grand Jury Prize,Documentary,False,False,Narco Cultura,nm5356362,Shaul Schwarz,Narco Cultura,2013.0,Documentary,342659
+tt2334649,2013,Grand Jury Prize,Dramatic,True,True,Fruitvale Station,nm3363032,Ryan Coogler,Fruitvale Station,2013.0,Biography,36634099
+tt2312890,2013,Grand Jury Prize,Dramatic,False,True,Afternoon Delight,nm0813561,Jill Soloway,Afternoon Delight,2013.0,Comedy,388683
+tt2388637,2013,Grand Jury Prize,Dramatic,False,True,Ain't Them Bodies Saints,nm1108007,David Lowery,Ain't Them Bodies Saints,2013.0,Crime,1560058
+tt1985019,2013,Grand Jury Prize,Dramatic,False,False,Austenland,nm1415801,Jerusha Hess,Austenland,2013.0,Comedy,4963310
+tt1650393,2013,Grand Jury Prize,Dramatic,False,False,C.O.G.,nm1547859,Kyle Patrick Alvarez,C.O.G.,2013.0,Comedy,122738
+tt2296697,2013,Grand Jury Prize,Dramatic,False,False,Concussion,nm4945419,Stacie Passon,Concussion,2013.0,Drama,134901
+tt2294677,2013,Grand Jury Prize,Dramatic,False,True,In a World...,nm1128572,Lake Bell,In a World...,2013.0,Comedy,6745871
+tt1311071,2013,Grand Jury Prize,Dramatic,False,False,Kill Your Darlings,nm1045865,John Krokidas,Kill Your Darlings,2013.0,Biography,3227073
+tt2492664,2013,Grand Jury Prize,Dramatic,False,False,May in the Summer,nm1435062,Cherien Dabis,May in the Summer,2013.0,Comedy,274388
+tt2094890,2013,Grand Jury Prize,Dramatic,False,False,Mother of George,nm0234506,Andrew Dosunmu,Mother of George,2013.0,Drama,350533
+tt2179116,2013,Grand Jury Prize,Dramatic,False,False,The Kings of Summer,nm3611349,Jordan Vogt-Roberts,The Kings of Summer,2013.0,Others,3126307
+tt1714206,2013,Grand Jury Prize,Dramatic,False,True,The Spectacular Now,nm1242054,James Ponsoldt,The Spectacular Now,2013.0,Comedy,15031942
+tt1838520,2013,Grand Jury Prize,Dramatic,False,False,The Truth About Emanuel,nm1036527,Francesca Gregorini,The Truth About Emanuel,2014.0,Drama,9622
+tt2364949,2013,Grand Jury Prize,Dramatic,False,False,Touchy Feely,nm1119645,Lynn Shelton,Touchy Feely,2013.0,Drama,80184
+tt2084989,2013,Grand Jury Prize,Dramatic,False,True,Upstream Color,nm1503403,Shane Carruth,Upstream Color,2013.0,Drama,1144430
+tt1787067,2013,Grand Jury Prize,World Cinema - Documentary,False,False,Fire in the Blood,nm4204662,Dylan Mohan Gray,Fire in the Blood,2013.0,Documentary,64350
+tt2481238,2013,Grand Jury Prize,World Cinema - Documentary,False,True,Pussy Riot: A Punk Prayer,nm0503631,Mike Lerner,Pussy Riot: A Punk Prayer,2013.0,Biography,4603
+tt2433336,2013,Grand Jury Prize,World Cinema - Documentary,False,False,The Moo Man,nm0372725,Andy Heathcote,The Moo Man,2013.0,Comedy,3358
+tt2486682,2013,Grand Jury Prize,World Cinema - Documentary,False,True,The Square,nm0636675,Jehane Noujaim,The Square,2013.0,Documentary,275753
+tt2578290,2013,Grand Jury Prize,World Cinema - Documentary,False,False,The Stuart Hall Project,nm0015497,John Akomfrah,The Stuart Hall Project,2013.0,Biography,43233
+tt2363471,2013,Grand Jury Prize,World Cinema - Documentary,False,True,The Summit,nm2501199,Nick Ryan,The Summit,2013.0,Others,578390
+tt1847750,2013,Grand Jury Prize,World Cinema - Documentary,False,True,Who Is Dayani Cristal?,nm3997712,Marc Silver,Who Is Dayani Cristal?,2013.0,Documentary,40371
+tt1839522,2013,Grand Jury Prize,World Cinema - Dramatic,False,True,Circles,nm0326740,Srdan Golubovic,Circles,2013.0,Drama,79475
+tt2332579,2013,Grand Jury Prize,World Cinema - Dramatic,False,True,Crystal Fairy & the Magical Cactus,nm2928364,Sebastián Silva,Crystal Fairy & the Magical Cactus,2013.0,Others,472955
+tt1992156,2013,Grand Jury Prize,World Cinema - Dramatic,False,False,Il futuro,nm1022157,Alicia Scherson,Il Futuro,2013.0,Drama,30561
+tt2551428,2013,Grand Jury Prize,World Cinema - Dramatic,False,True,Lasting,nm0096066,Jacek Borcuch,Lasting,2013.0,Drama,594452
+tt1845838,2013,Grand Jury Prize,World Cinema - Dramatic,False,True,Metro Manila,nm1193346,Sean Ellis,Metro Manila,2013.0,Others,222593
+tt2551456,2013,Grand Jury Prize,World Cinema - Dramatic,False,False,Shopping,nm2713006,Mark Albiston,Shopping,2013.0,Drama,91836
+tt2551460,2013,Grand Jury Prize,World Cinema - Dramatic,False,False,Soldier Jane,nm1825897,Daniel Hoesl,Soldier Jane,2013.0,Drama,24533
+tt1951299,2013,Grand Jury Prize,World Cinema - Dramatic,False,False,Un giorno devi andare,nm2056836,Giorgio Diritti,Un giorno devi andare,2013.0,Drama,1419714
+tt1798291,2013,Audience Award,Best of Next!,True,True,This Is Martin Bonner,nm1029961,Chad Hartigan,This Is Martin Bonner,2013.0,Drama,30823
+tt2201548,2013,Audience Award,Best of Next!,False,False,A Teacher,nm4227232,Hannah Fidell,A Teacher,2013.0,Drama,18221
+tt2027064,2013,Audience Award,Best of Next!,False,False,Blue Caprice,nm1633043,Alexandre Moors,Blue Caprice,2013.0,Biography,208617
+tt2007360,2013,Audience Award,Best of Next!,False,True,Computer Chess,nm1216004,Andrew Bujalski,Computer Chess,2013.0,Comedy,255118
+tt2187884,2013,Audience Award,Best of Next!,False,False,Escape from Tomorrow,nm5090157,Randy Moore,Escape from Tomorrow,2013.0,Drama,381661
+tt2147728,2013,Audience Award,Best of Next!,False,False,I Used to Be Darker,nm2275041,Matthew Porterfield,I Used to Be Darker,2013.0,Drama,67901
+tt2328922,2013,Audience Award,Best of Next!,False,False,It Felt Like Love,nm2151374,Eliza Hittman,It Felt Like Love,2014.0,Drama,73145
+tt2548738,2014,Grand Jury Prize,Documentary,True,False,Rich Hill,nm1463198,Tracy Droz Tragos,Rich Hill,2014.0,Biography,239324
+tt2593392,2014,Grand Jury Prize,Documentary,False,True,Alive Inside,nm3303929,Michael Rossato-Bennett,Alive Inside,2014.0,Documentary,560838
+tt2381335,2014,Grand Jury Prize,Documentary,False,False,Fed Up,nm3253001,Stephanie Soechtig,Fed Up,2014.0,Documentary,3370433
+tt3263520,2014,Grand Jury Prize,Documentary,False,False,Ivory Tower,nm1427149,Andrew Rossi,Ivory Tower,2014.0,Documentary,233289
+tt3268458,2014,Grand Jury Prize,Documentary,False,False,The Internet's Own Boy: The Story of Aaron Swartz,nm0460534,Brian Knappenberger,The Internet's Own Boy: The Story of Aaron Swartz,2014.0,Biography,104883
+tt3263996,2014,Grand Jury Prize,Documentary,False,True,The Overnighters,nm0608999,Jesse Moss,The Overnighters,2014.0,Documentary,242012
+tt2049589,2014,Grand Jury Prize,Documentary,False,True,Watchers of the Sky,nm0069797,Edet Belzberg,Watchers of the Sky,2015.0,Biography,41558
+tt2582802,2014,Grand Jury Prize,Dramatic,True,True,Whiplash,nm3227090,Damien Chazelle,Whiplash,2014.0,Drama,67814501
+tt2994190,2014,Grand Jury Prize,Dramatic,False,False,Camp X-Ray,nm0972104,Peter Sattler,Camp X-Ray,2014.0,Drama,100015
+tt1179031,2014,Grand Jury Prize,Dramatic,False,False,Cold in July,nm0585344,Jim Mickle,Cold in July,2014.0,Crime,2157695
+tt2235108,2014,Grand Jury Prize,Dramatic,False,True,Dear White People,nm2282177,Justin Simien,Dear White People,2014.0,Comedy,9873938
+tt2920808,2014,Grand Jury Prize,Dramatic,False,False,God's Pocket,nm0805476,John Slattery,God's Pocket,2014.0,Crime,637507
+tt2955096,2014,Grand Jury Prize,Dramatic,False,False,Happy Christmas,nm1846132,Joe Swanberg,Happy Christmas,2014.0,Comedy,65000
+tt3186318,2014,Grand Jury Prize,Dramatic,False,False,Hellion,nm0133773,Kat Candler,Hellion,2014.0,Drama,119458
+tt1969062,2014,Grand Jury Prize,Dramatic,False,False,Infinitely Polar Bear,nm0285379,Maya Forbes,Infinitely Polar Bear,2015.0,Comedy,3486007
+tt3263614,2014,Grand Jury Prize,Dramatic,False,True,"Kumiko, the Treasure Hunter",nm0954655,David Zellner,"Kumiko, the Treasure Hunter",2014.0,Drama,1489053
+tt2581244,2014,Grand Jury Prize,Dramatic,False,False,Life After Beth,nm1337885,Jeff Baena,Life After Beth,2014.0,Comedy,389344
+tt1864405,2014,Grand Jury Prize,Dramatic,False,True,Low Down,nm0695857,Jeff Preiss,Low Down,2015.0,Biography,118204
+tt2182972,2014,Grand Jury Prize,Dramatic,False,False,Song One,nm2293399,Kate Barker-Froyland,Song One,2014.0,Drama,481967
+tt1571249,2014,Grand Jury Prize,Dramatic,False,True,The Skeleton Twins,nm2574897,Craig Johnson,The Skeleton Twins,2014.0,Comedy,12083839
+tt2723576,2014,Grand Jury Prize,Dramatic,False,False,The Sleepwalker,nm2178754,Mona Fastvold,The Sleepwalker,2014.0,Drama,10847
+tt2920540,2014,Grand Jury Prize,World Cinema - Documentary,False,True,"20,000 Days on Earth",nm3558632,Iain Forsyth,"20,000 Days on Earth",2014.0,Documentary,2581024
+tt3263690,2014,Grand Jury Prize,World Cinema - Documentary,False,False,Concerning Violence,nm0648057,Göran Olsson,Concerning Violence,2014.0,Documentary,27705
+tt2304915,2014,Grand Jury Prize,World Cinema - Documentary,False,True,The Green Prince,nm0771953,Nadav Schirman,The Green Prince,2014.0,Biography,652695
+tt3362914,2014,Grand Jury Prize,World Cinema - Documentary,False,True,We Come as Friends,nm0767012,Hubert Sauper,We Come as Friends,2015.0,Documentary,134632
+tt3100636,2014,Grand Jury Prize,World Cinema - Dramatic,False,True,52 Tuesdays,nm1170520,Sophie Hyde,52 Tuesdays,2014.0,Drama,10754
+tt2616810,2014,Grand Jury Prize,World Cinema - Dramatic,False,True,Blind,nm1258777,Eskil Vogt,Blind,2015.0,Drama,42351
+tt2611390,2014,Grand Jury Prize,World Cinema - Dramatic,False,True,Difret,nm1877993,Zeresenay Mehari,Difret,2015.0,Biography,157808
+tt2141751,2014,Grand Jury Prize,World Cinema - Dramatic,False,True,God Help the Girl,nm1060010,Stuart Murdoch,God Help the Girl,2014.0,Drama,564776
+tt2560102,2014,Grand Jury Prize,World Cinema - Dramatic,False,True,Lilting,nm0393234,Hong Khaou,Lilting,2014.0,Drama,299809
+tt3460184,2014,Grand Jury Prize,World Cinema - Dramatic,False,False,Lock Charmer,nm0807023,Natalia Smirnoff,Lock Charmer,2014.0,Drama,19253
+tt3400872,2014,Grand Jury Prize,World Cinema - Dramatic,False,False,Viktoria,nm0900035,Maya Vitkova,Viktoria,2014.0,Drama,24720
+tt2524674,2014,Grand Jury Prize,World Cinema - Dramatic,False,False,Wetlands,nm1177494,David Wnendt,Wetlands,2014.0,Comedy,11602886
+tt3077150,2014,Grand Jury Prize,World Cinema - Dramatic,False,False,White Shadow,nm1068981,Noaz Deshe,White Shadow,2015.0,Drama,1664
+tt2326554,2014,Audience Award,Best of Next!,False,False,A Girl Walks Home Alone at Night,nm3235877,Ana Lily Amirpour,A Girl Walks Home Alone at Night,2015.0,Drama,1121415
+tt3077108,2014,Audience Award,Best of Next!,False,False,Appropriate Behaviour,nm3034178,Desiree Akhavan,Appropriate Behavior,2015.0,Comedy,186555
+tt3283556,2014,Audience Award,Best of Next!,False,False,Land Ho!,nm1369800,Aaron Katz,Land Ho!,2014.0,Others,1589760
+tt3093546,2014,Audience Award,Best of Next!,False,False,Listen Up Philip,nm3504405,Alex Ross Perry,Listen Up Philip,2014.0,Comedy,446092
+tt3092606,2014,Audience Award,Best of Next!,False,False,Memphis,nm4991744,Tim Sutton,Memphis,2014.0,Drama,46508
+tt2910274,2014,Audience Award,Best of Next!,False,True,Obvious Child,nm3521871,Gillian Robespierre,Obvious Child,2014.0,Comedy,7045803
+tt2402985,2014,Audience Award,Best of Next!,False,False,Ping Pong Summer,nm1054429,Michael Tully,Ping Pong Summer,2014.0,Comedy,113456
+tt2884206,2014,Alfred P. Sloan Feature Film Prize,,True,True,I Origins,nm2648685,Mike Cahill,I Origins,2014.0,Drama,893325
+tt2674430,2014,NHK Award,,True,True,Approaching the Unknown,nm5457825,Mark Elijah Rosenberg,Approaching the Unknown,2016.0,Drama,21697
+tt3830162,2014,Sundance Institute/Mahindra Global Filmmaking Award,,True,True,A War,nm2105585,Tobias Lindholm,A War,2016.0,Crime,1334891
+tt4635372,2014,Sundance Institute/Mahindra Global Filmmaking Award,,True,True,Masaan,nm4784536,Neeraj Ghaywan,Masaan,2015.0,Drama,129369
+tt2415458,2015,Grand Jury Prize,Documentary,True,False,The Wolfpack,nm1145920,Crystal Moselle,The Wolfpack,2015.0,Biography,2908086
+tt4126312,2015,Grand Jury Prize,Documentary,False,True,"3½ Minutes, Ten Bullets",nm3997712,Marc Silver,"3½ Minutes, Ten Bullets",2015.0,Crime,76180
+tt3518012,2015,Grand Jury Prize,Documentary,False,False,Best of Enemies: Buckley vs. Vidal,nm1365879,Morgan Neville,Best of Enemies: Buckley vs. Vidal,2015.0,Documentary,1912004
+tt4126304,2015,Grand Jury Prize,Documentary,False,True,Cartel Land,nm1292648,Matthew Heineman,Cartel Land,2015.0,Documentary,1959998
+tt2614776,2015,Grand Jury Prize,Documentary,False,False,City of Gold,nm0299990,Laura Gabbert,City of Gold,2016.0,Biography,1418253
+tt3462002,2015,Grand Jury Prize,Documentary,False,False,Finders Keepers,nm2540391,Bryan Carberry,Finders Keepers,2015.0,Documentary,76370
+tt2545428,2015,Grand Jury Prize,Documentary,False,True,Meru,nm3011011,Jimmy Chin,Meru,2015.0,Others,5006019
+tt3962848,2015,Grand Jury Prize,Documentary,False,False,Welcome to Leith,nm3607620,Michael Beach Nichols,Welcome to Leith,2015.0,Documentary,78212
+tt2582496,2015,Grand Jury Prize,Dramatic,True,True,Me and Earl and the Dying Girl,nm0004234,Alfonso Gomez-Rejon,Me and Earl and the Dying Girl,2015.0,Comedy,16953973
+tt3850214,2015,Grand Jury Prize,Dramatic,False,True,Dope,nm0266622,Rick Famuyiwa,Dope,2015.0,Comedy,38008319
+tt3640682,2015,Grand Jury Prize,Dramatic,False,False,I Smile Back,nm1270069,Adam Salky,I Smile Back,2015.0,Drama,131481
+tt4104022,2015,Grand Jury Prize,Dramatic,False,False,People Places Things,nm1475479,Jim Strouse,People Places Things,2015.0,Comedy,262054
+tt3824412,2015,Grand Jury Prize,Dramatic,False,False,Results,nm1216004,Andrew Bujalski,Results,2015.0,Comedy,224608
+tt3566788,2015,Grand Jury Prize,Dramatic,False,False,Songs My Brothers Taught Me,nm2125482,Chloé Zhao,Songs My Brothers Taught Me,2015.0,Drama,198713
+tt3859304,2015,Grand Jury Prize,Dramatic,False,False,The Bronze,nm1519252,Bryan Buckley,The Bronze,2016.0,Comedy,1321708
+tt2690138,2015,Grand Jury Prize,Dramatic,False,False,The D Train,nm0666871,Jarrad Paul,The D Train,2015.0,Comedy,1555963
+tt3172532,2015,Grand Jury Prize,Dramatic,False,True,The Diary of a Teenage Girl,nm1716636,Marielle Heller,The Diary of a Teenage Girl,2015.0,Comedy,3487288
+tt3844362,2015,Grand Jury Prize,Dramatic,False,False,The Overnight,nm2674307,Patrick Brice,The Overnight,2015.0,Comedy,2378428
+tt0420293,2015,Grand Jury Prize,Dramatic,False,True,The Stanford Prison Experiment,nm1547859,Kyle Patrick Alvarez,The Stanford Prison Experiment,2015.0,Biography,1417376
+tt4263482,2015,Grand Jury Prize,Dramatic,False,True,The Witch,nm3211470,Robert Eggers,The Witch,2016.0,Others,70660593
+tt4145304,2015,Grand Jury Prize,Dramatic,False,False,Unexpected,nm1829290,Kris Rey,Unexpected,2015.0,Comedy,64662
+tt1598642,2015,Grand Jury Prize,Dramatic,False,False,Z for Zachariah,nm0957505,Craig Zobel,Z for Zachariah,2015.0,Drama,539692
+tt3457376,2015,Grand Jury Prize,World Cinema - Documentary,False,False,Censored Voices,nm3024142,Mor Loushy,Censored Voices,2015.0,Documentary,90231
+tt4137902,2015,Grand Jury Prize,World Cinema - Documentary,False,True,Dark Horse,nm1031790,Louise Osmond,Dark Horse,2015.0,Documentary,2258036
+tt4144504,2015,Grand Jury Prize,World Cinema - Documentary,False,True,How to Change the World,nm1935753,Jerry Rothwell,How to Change the World,2015.0,Others,34105
+tt4145178,2015,Grand Jury Prize,World Cinema - Documentary,False,False,Listen to Me Marlon,nm2257147,Stevan Riley,Listen to Me Marlon,2015.0,Biography,1008862
+tt4344782,2015,Grand Jury Prize,World Cinema - Documentary,False,False,Sembene!,nm7046188,Samba Gadjigo,Sembene!,2015.0,Biography,61362
+tt3205376,2015,Grand Jury Prize,World Cinema - Dramatic,True,False,Slow West,nm3304468,John Maclean,Slow West,2015.0,Others,1646777
+tt4309356,2015,Grand Jury Prize,World Cinema - Dramatic,False,False,Ivy,nm3796645,Tolga Karaçelik,Ivy,2015.0,Drama,86232
+tt3155242,2015,Grand Jury Prize,World Cinema - Dramatic,False,True,Partisan,nm3510385,Ariel Kleiman,Partisan,2015.0,Drama,77523
+tt2325977,2015,Grand Jury Prize,World Cinema - Dramatic,False,False,Strangerland,nm2040537,Kim Farrant,Strangerland,2015.0,Drama,137680
+tt3742378,2015,Grand Jury Prize,World Cinema - Dramatic,False,True,The Second Mother,nm1155957,Anna Muylaert,The Second Mother,2015.0,Comedy,3624984
+tt2994832,2015,Grand Jury Prize,World Cinema - Dramatic,False,True,The Summer of Sangaile,nm1626079,Alante Kavaite,The Summer of Sangaile,2015.0,Drama,64225
+tt2614722,2015,Grand Jury Prize,World Cinema - Dramatic,False,True,Umrika,nm3573399,Prashant Nair,Umrika,2015.0,Comedy,151668
+tt4288636,2015,Audience Award,Best of Next!,True,True,James White,nm1317614,Josh Mond,James White,2015.0,Drama,218292
+tt3894188,2015,Audience Award,Best of Next!,False,False,"Christmas, Again",nm2972085,Charles Poekel,"Christmas, Again",2015.0,Drama,18735
+tt3343784,2015,Audience Award,Best of Next!,False,False,Entertainment,nm3687830,Rick Alverson,Entertainment,2015.0,Drama,119530
+tt3121332,2015,Audience Award,Best of Next!,False,False,Nasty Baby,nm2928364,Sebastián Silva,Nasty Baby,2015.0,Drama,172528
+tt3142366,2015,Audience Award,Best of Next!,False,False,Take Me to the River,nm3241497,Matt Sobel,Take Me to the River,2015.0,Drama,61323
+tt3824458,2015,Audience Award,Best of Next!,False,False,Tangerine,nm0048918,Sean Baker,Tangerine,2015.0,Comedy,1639621
+tt5952594,2015,NHK Award,,True,True,The Mustang,nm0166438,Laure de Clermont-Tonnerre,The Mustang,2019.0,Drama,11404016
+tt5278596,2016,Grand Jury Prize,Documentary,True,False,Weiner,nm4361978,Josh Kriegman,Weiner,2016.0,Documentary,3608369
+tt5278462,2016,Grand Jury Prize,Documentary,False,False,Author: The JT LeRoy Story,nm0275418,Jeff Feuerzeig,Author: The JT LeRoy Story,2016.0,Biography,209898
+tt4632316,2016,Grand Jury Prize,Documentary,False,False,Gleason,nm1943168,Clay Tweel,Gleason,2016.0,Documentary,1239707
+tt5278464,2016,Grand Jury Prize,Documentary,False,False,Holy Hell,nm2943514,Will Allen,Holy Hell,2016.0,Documentary,38404
+tt5246328,2016,Grand Jury Prize,Documentary,False,False,How to Let Go of the World and Love All the Things Climate Can't Change,nm1068198,Josh Fox,How to Let Go of the World and Love All the Things Climate Can't Change,2016.0,Documentary,77725
+tt5278466,2016,Grand Jury Prize,Documentary,False,True,Jim: The James Foley Story,nm2200708,Brian Oakes,Jim: The James Foley Story,2016.0,Biography,8883
+tt5278592,2016,Grand Jury Prize,Documentary,False,True,Kate Plays Christine,nm1914992,Robert Greene,Kate Plays Christine,2016.0,Biography,57090
+tt3917210,2016,Grand Jury Prize,Documentary,False,True,"Life, Animated",nm2141317,Roger Ross Williams,"Life, Animated",2016.0,Comedy,645085
+tt5278578,2016,Grand Jury Prize,Documentary,False,False,Newtown,nm0811502,Kim A. Snyder,Newtown,2016.0,Documentary,30437
+tt5236900,2016,Grand Jury Prize,Documentary,False,True,Nuts!,nm3704075,Penny Lane,Nuts!,2016.0,Others,95416
+tt5278458,2016,Grand Jury Prize,Documentary,False,True,The Bad Kids,nm0672492,Louis Pepe,The Bad Kids,2016.0,Documentary,13180
+tt5259692,2016,Grand Jury Prize,Documentary,False,True,Trapped,nm2929021,Dawn Porter,Trapped,2016.0,Documentary,136429
+tt2634548,2016,Grand Jury Prize,Documentary,False,False,Uncle Howard,nm1774379,Aaron Brookner,Uncle Howard,2016.0,Biography,2377
+tt4196450,2016,Grand Jury Prize,Dramatic,True,True,The Birth of a Nation,nm1676649,Nate Parker,The Birth of a Nation,2016.0,Biography,34506763
+tt4666726,2016,Grand Jury Prize,Dramatic,False,False,Christine,nm1290515,Antonio Campos,Christine,2016.0,Biography,646975
+tt3958780,2016,Grand Jury Prize,Dramatic,False,False,Equity,nm3652021,Meera Menon,Equity,2016.0,Drama,3481005
+tt4437216,2016,Grand Jury Prize,Dramatic,False,False,Goat,nm0624157,Andrew Neel,Goat,2016.0,Drama,48732
+tt4305148,2016,Grand Jury Prize,Dramatic,False,False,Lovesong,nm0811611,So Yong Kim,Lovesong,2017.0,Drama,22294
+tt3652862,2016,Grand Jury Prize,Dramatic,False,True,Morris from America,nm1029961,Chad Hartigan,Morris from America,2016.0,Comedy,193427
+tt4158876,2016,Grand Jury Prize,Dramatic,False,False,Other People,nm6287571,Chris Kelly,Other People,2016.0,Comedy,193577
+tt4258698,2016,Grand Jury Prize,Dramatic,False,False,Southside with You,nm1973681,Richard Tanne,Southside with You,2016.0,Biography,13598400
+tt5254640,2016,Grand Jury Prize,Dramatic,False,True,Spa Night,nm3821224,Andrew Ahn,Spa Night,2016.0,Drama,83223
+tt4034354,2016,Grand Jury Prize,Dramatic,False,True,Swiss Army Man,nm3453283,Dan Kwan,Swiss Army Man,2016.0,Others,9713044
+tt4872078,2016,Grand Jury Prize,Dramatic,False,True,The Intervention,nm0245112,Clea DuVall,The Intervention,2016.0,Comedy,69856
+tt4129870,2016,Grand Jury Prize,Dramatic,False,False,White Girl,nm2559080,Elizabeth Wood,White Girl,2016.0,Crime,423899
+tt5278928,2016,Grand Jury Prize,World Cinema - Documentary,True,True,Sonita,nm5090090,Rokhsareh Ghaemmaghami,Sonita,2017.0,Biography,18009
+tt5146068,2016,Grand Jury Prize,World Cinema - Documentary,False,True,All These Sleepless Nights,nm2777808,Michal Marczak,All These Sleepless Nights,2017.0,Documentary,43396
+tt4079902,2016,Grand Jury Prize,World Cinema - Documentary,False,False,Hooligan Sparrow,nm6811599,Nanfu Wang,Hooligan Sparrow,2016.0,Crime,19982
+tt5278930,2016,Grand Jury Prize,World Cinema - Documentary,False,False,Sky Ladder: The Art of Cai Guo-Qiang,nm0531817,Kevin Macdonald,Sky Ladder: The Art of Cai Guo-Qiang,2016.0,Documentary,299605
+tt2338774,2016,Grand Jury Prize,World Cinema - Documentary,False,True,The Land of the Enlightened,nm4689260,Pieter-Jan De Pue,The Land of the Enlightened,2016.0,Documentary,656
+tt5278868,2016,Grand Jury Prize,World Cinema - Documentary,False,False,The Lovers & the Despot,nm5366685,Ross Adam,The Lovers & the Despot,2016.0,Documentary,159865
+tt5278914,2016,Grand Jury Prize,World Cinema - Documentary,False,False,The Settlers,nm0234520,Shimon Dotan,The Settlers,2016.0,Documentary,89661
+tt5278506,2016,Grand Jury Prize,World Cinema - Documentary,False,False,Tickled,nm1190816,Dylan Reeve,Tickled,2016.0,Documentary,1489145
+tt4835086,2016,Grand Jury Prize,World Cinema - Documentary,False,True,We Are X,nm0452772,Stephen Kijak,We Are X,2016.0,Documentary,640062
+tt5278932,2016,Grand Jury Prize,World Cinema - Documentary,False,True,When Two Worlds Collide,nm7797855,Mathew Orzel,When Two Worlds Collide,2016.0,Documentary,26060
+tt3521306,2016,Grand Jury Prize,World Cinema - Dramatic,False,False,A Good Wife,nm0438905,Mirjana Karanovic,A Good Wife,2016.0,Drama,5732
+tt3544218,2016,Grand Jury Prize,World Cinema - Dramatic,False,True,Belgica,nm0886976,Felix van Groeningen,Belgica,2016.0,Drama,647677
+tt3777860,2016,Grand Jury Prize,World Cinema - Dramatic,False,False,Mammal,nm2884816,Rebecca Daly,Mammal,2016.0,Drama,10901
+tt3826628,2016,Grand Jury Prize,World Cinema - Dramatic,False,True,My Friend from the Park,nm1195064,Ana Katz,My Friend from the Park,2016.0,Drama,29356
+tt5278832,2016,Grand Jury Prize,World Cinema - Dramatic,False,True,The Lure,nm2835452,Agnieszka Smoczynska,The Lure,2016.0,Comedy,227057
+tt4071086,2016,Grand Jury Prize,World Cinema - Dramatic,False,False,Wild,nm0470514,Nicolette Krebitz,Wild,2016.0,Drama,77686
+tt5281134,2016,Audience Award,Best of Next!,False,False,Dark Night,nm4991744,Tim Sutton,Dark Night,2016.0,Drama,391
+tt3776826,2016,Audience Award,Best of Next!,False,False,Operation Avalanche,nm4798740,Matt Johnson,Operation Avalanche,2016.0,Drama,33432
+tt4573516,2016,Audience Award,Best of Next!,False,False,Sleight,nm2300570,J.D. Dillard,Sleight,2017.0,Others,8335533
+tt5225338,2016,Audience Award,Best of Next!,False,False,The Eyes of My Mother,nm2073372,Nicolas Pesce,The Eyes of My Mother,2016.0,Drama,59949
+tt4238858,2016,Audience Award,Best of Next!,False,False,The Fits,nm2326407,Anna Rose Holmer,The Fits,2016.0,Drama,362058
+tt5164412,2016,Audience Award,Best of Next!,False,False,The Land,nm4023702,Steven Caple Jr.,The Land,2016.0,Drama,92852
+tt4285496,2016,Alfred P. Sloan Feature Film Prize,,True,True,Embrace of the Serpent,nm1458734,Ciro Guerra,Embrace of the Serpent,2015.0,Others,5041646
+tt6343058,2016,NHK Award,,True,True,Oh Lucy!,nm1454680,Atsuko Hirayanagi,Oh Lucy!,2018.0,Comedy,989314
+tt5375434,2016,Sundance Institute/Mahindra Global Filmmaking Award,,True,True,Sicilian Ghost Story,nm0988803,Antonio Piazza,Sicilian Ghost Story,2018.0,Crime,223243
+tt6333058,2017,Grand Jury Prize,Documentary,True,False,Dina,nm3974804,Dan Sickles,Dina,2017.0,Documentary,196815
+tt6333056,2017,Grand Jury Prize,Documentary,False,False,City of Ghosts,nm1292648,Matthew Heineman,City of Ghosts,2017.0,Documentary,374883
+tt6013154,2017,Grand Jury Prize,Documentary,False,False,Dolores,nm0105571,Peter Bratt,Dolores,2017.0,Biography,1168742
+tt6149818,2017,Grand Jury Prize,Documentary,False,False,Quest,nm4046336,Jonathan Olshefski,Quest,2017.0,Documentary,99113
+tt5758404,2017,Grand Jury Prize,Documentary,False,True,Step,nm3094606,Amanda Lipitz,Step,2017.0,Documentary,2393046
+tt6159518,2017,Grand Jury Prize,Documentary,False,True,The Force,nm2426403,Peter Nicks,The Force,2017.0,Documentary,126094
+tt6333066,2017,Grand Jury Prize,Documentary,False,False,Trophy,nm5356362,Shaul Schwarz,Trophy,2017.0,Documentary,45547
+tt3268850,2017,Grand Jury Prize,Documentary,False,True,Unrest,nm2334508,Jennifer Brea,Unrest,2017.0,Documentary,82997
+tt6176928,2017,Grand Jury Prize,Documentary,False,False,Whose Streets?,nm8635060,Sabaah Folayan,Whose Streets?,2017.0,Documentary,380532
+tt5816374,2017,Grand Jury Prize,Dramatic,False,False,Band Aid,nm1830380,Zoe Lister-Jones,Band Aid,2017.0,Comedy,518221
+tt6303866,2017,Grand Jury Prize,Dramatic,False,True,Beach Rats,nm2151374,Eliza Hittman,Beach Rats,2017.0,Drama,1010656
+tt5805752,2017,Grand Jury Prize,Dramatic,False,False,Brigsby Bear,nm5050824,Dave McCary,Brigsby Bear,2017.0,Comedy,1277851
+tt3268340,2017,Grand Jury Prize,Dramatic,False,True,Crown Heights,nm1016937,Matt Ruskin,Crown Heights,2017.0,Biography,496605
+tt5687814,2017,Grand Jury Prize,Dramatic,False,False,Golden Exits,nm3504405,Alex Ross Perry,Golden Exits,2018.0,Drama,85982
+tt5962210,2017,Grand Jury Prize,Dramatic,False,True,Ingrid Goes West,nm0818485,Matt Spicer,Ingrid Goes West,2017.0,Comedy,6423218
+tt5737862,2017,Grand Jury Prize,Dramatic,False,False,Landline,nm3521871,Gillian Robespierre,Landline,2017.0,Comedy,1964437
+tt4513316,2017,Grand Jury Prize,Dramatic,False,True,Novitiate,nm0079448,Maggie Betts,Novitiate,2017.0,Drama,1221436
+tt6288250,2017,Grand Jury Prize,Dramatic,False,False,Patti Cake$,nm3017455,Geremy Jasper,Patti Cake$,2017.0,Drama,2375740
+tt5655222,2017,Grand Jury Prize,Dramatic,False,False,The Hero,nm1417640,Brett Haley,The Hero,2017.0,Drama,8532731
+tt3739110,2017,Grand Jury Prize,Dramatic,False,True,The Yellow Birds,nm1633043,Alexandre Moors,The Yellow Birds,2018.0,Drama,58764
+tt5420886,2017,Grand Jury Prize,Dramatic,False,False,Walking Out,nm0807243,Alex Smith,Walking Out,2017.0,Others,273915
+tt6333074,2017,Grand Jury Prize,World Cinema - Documentary,True,False,Last Men in Aleppo,nm5926047,Feras Fayyad,Last Men in Aleppo,2017.0,Documentary,30539
+tt5433330,2017,Grand Jury Prize,World Cinema - Documentary,False,False,It's Not Yet Dark,,[],It's Not Yet Dark,2017.0,Documentary,6761
+tt5690244,2017,Grand Jury Prize,World Cinema - Documentary,False,True,Machines,,[],Machines,2017.0,Documentary,25299
+tt6333080,2017,Grand Jury Prize,World Cinema - Documentary,False,True,Rumble: The Indians Who Rocked the World,,[],Rumble: The Indians Who Rocked the World,2017.0,Documentary,471884
+tt5475022,2017,Grand Jury Prize,World Cinema - Documentary,False,False,School Life,,[],School Life,2017.0,Documentary,128382
+tt5540188,2017,Grand Jury Prize,World Cinema - Dramatic,True,False,The Nile Hilton Incident,nm0757975,Tarik Saleh,The Nile Hilton Incident,2017.0,Crime,4273126
+tt5061564,2017,Grand Jury Prize,World Cinema - Dramatic,False,True,Axolotl Overkill,nm3173663,Helene Hegemann,Axolotl Overkill,2017.0,Drama,5202
+tt3335606,2017,Grand Jury Prize,World Cinema - Dramatic,False,False,Berlin Syndrome,nm0795153,Cate Shortland,Berlin Syndrome,2017.0,Drama,445287
+tt5635086,2017,Grand Jury Prize,World Cinema - Dramatic,False,True,God's Own Country,nm0497274,Francis Lee,God's Own Country,2017.0,Drama,3047086
+tt5791536,2017,Grand Jury Prize,World Cinema - Dramatic,False,False,My Happy Family,nm2206574,Nana Ekvtimishvili,My Happy Family,2017.0,Drama,444152
+tt3740066,2017,Grand Jury Prize,World Cinema - Dramatic,False,True,Pop Aye,nm3562611,Kirsten Tan,Pop Aye,2017.0,Drama,297221
+tt6333070,2017,Grand Jury Prize,World Cinema - Dramatic,False,False,The Wound,nm1626716,John Trengove,The Wound,2017.0,Drama,256476
+tt6057032,2017,Audience Award,Best of Next!,True,True,Gook,nm2014390,Justin Chon,Gook,2017.0,Drama,527925
+tt6265828,2017,Audience Award,Best of Next!,False,False,A Ghost Story,nm1108007,David Lowery,A Ghost Story,2017.0,Drama,3733741
+tt5990474,2017,Audience Award,Best of Next!,False,False,Columbus,nm3226379,Kogonada,Columbus,2017.0,Drama,2196381
+tt6266218,2017,Audience Award,Best of Next!,False,False,Dayveon,nm3500450,Amman Abbasi,Dayveon,2017.0,Drama,4371
+tt5973364,2017,Audience Award,Best of Next!,False,False,Lemon,nm1891632,Janicza Bravo,Lemon,2017.0,Comedy,60906
+tt6333086,2017,Audience Award,Best of Next!,False,False,Menashe,nm2922880,Joshua Z Weinstein,Menashe,2017.0,Drama,3826445
+tt5247026,2017,Audience Award,Best of Next!,False,False,Person to Person,nm1037451,Dustin Guy Defa,Person to Person,2017.0,Comedy,101262
+tt5649108,2017,Audience Award,Best of Next!,False,False,Thoroughbreds,nm8083973,Cory Finley,Thoroughbreds,2018.0,Comedy,6410214
+tt4978710,2017,Alfred P. Sloan Feature Film Prize,,True,True,Marjorie Prime,nm0021899,Michael Almereyda,Marjorie Prime,2017.0,Drama,415110
+tt7520286,2018,Grand Jury Prize,Documentary,False,False,Bisbee '17,nm1914992,Robert Greene,Bisbee '17,2018.0,Documentary,237833
+tt7689908,2018,Grand Jury Prize,Documentary,False,True,Crime + Punishment,nm0537737,Stephen Maing,Crime + Punishment,2018.0,Documentary,37791
+tt6633182,2018,Grand Jury Prize,Documentary,False,False,Dark Money,nm3141066,Kimberly Reed,Dark Money,2018.0,Documentary,441990
+tt5844196,2018,Grand Jury Prize,Documentary,False,False,Hal,nm2331256,Amy Scott,Hal,2018.0,Biography,98946
+tt6634646,2018,Grand Jury Prize,Documentary,False,True,"Hale County This Morning, This Evening",nm8840476,RaMell Ross,"Hale County This Morning, This Evening",2018.0,Documentary,227329
+tt1893269,2018,Grand Jury Prize,Documentary,False,False,Kusama: Infinity,nm1405022,Heather Lenz,Kusama: Infinity,2018.0,Documentary,918369
+tt7476236,2018,Grand Jury Prize,Documentary,False,True,Minding the Gap,nm3294913,Bing Liu,Minding the Gap,2018.0,Documentary,103706
+tt7689484,2018,Grand Jury Prize,Documentary,False,True,On Her Shoulders,nm5221728,Alexandria Bombach,On Her Shoulders,2018.0,Biography,70553
+tt3261114,2018,Grand Jury Prize,Documentary,False,False,The Last Race,nm6016411,Michael Dweck,The Last Race,2018.0,Documentary,24226
+tt7475540,2018,Grand Jury Prize,Documentary,False,False,The Price of Everything,nm0434896,Nathaniel Kahn,The Price of Everything,2018.0,Documentary,234287
+tt7664504,2018,Grand Jury Prize,Documentary,False,True,Three Identical Strangers,nm2268736,Tim Wardle,Three Identical Strangers,2018.0,Biography,26551698
+tt6257174,2018,Grand Jury Prize,Dramatic,True,False,The Miseducation of Cameron Post,nm3034178,Desiree Akhavan,The Miseducation of Cameron Post,2018.0,Drama,2429454
+tt6212478,2018,Grand Jury Prize,Dramatic,False,False,American Animals,nm1717925,Bart Layton,American Animals,2018.0,Biography,7023374
+tt6443294,2018,Grand Jury Prize,Dramatic,False,True,Blaze,nm0000160,Ethan Hawke,Blaze,2018.0,Biography,1428932
+tt7242142,2018,Grand Jury Prize,Dramatic,False,False,Blindspotting,nm2788015,Carlos López Estrada,Blindspotting,2018.0,Comedy,9326245
+tt7014006,2018,Grand Jury Prize,Dramatic,False,False,Eighth Grade,nm3102998,Bo Burnham,Eighth Grade,2018.0,Comedy,28263400
+tt6169694,2018,Grand Jury Prize,Dramatic,False,True,I Think We're Alone Now,nm1543747,Reed Morano,I Think We're Alone Now,2018.0,Drama,3200
+tt5160938,2018,Grand Jury Prize,Dramatic,False,False,Lizzie,nm1646022,Craig William Macneill,Lizzie,2018.0,Biography,1505255
+tt7689906,2018,Grand Jury Prize,Dramatic,False,True,Monsters and Men,nm3232264,Reinaldo Marcus Green,Monsters and Men,2018.0,Crime,1023520
+tt6509058,2018,Grand Jury Prize,Dramatic,False,True,Nancy,nm1357921,Christina Choe,Nancy,2018.0,Drama,165195
+tt5688932,2018,Grand Jury Prize,Dramatic,False,False,Sorry to Bother You,nm1108556,Boots Riley,Sorry to Bother You,2018.0,Comedy,36165065
+tt6952960,2018,Grand Jury Prize,Dramatic,False,True,The Kindergarten Teacher,nm2528690,Sara Colangelo,The Kindergarten Teacher,2018.0,Drama,688944
+tt6729000,2018,Grand Jury Prize,Dramatic,False,False,Tyrel,nm2928364,Sebastián Silva,Tyrel,2018.0,Comedy,43649
+tt5929754,2018,Grand Jury Prize,Dramatic,False,False,Wildlife,nm0200452,Paul Dano,Wildlife,2019.0,Drama,4249755
+tt7519174,2018,Grand Jury Prize,World Cinema - Documentary,True,False,Of Fathers and Sons,nm5957513,Talal Derki,Kinder des Kalifats,2018.0,Documentary,25508
+tt7689932,2018,Grand Jury Prize,World Cinema - Documentary,False,False,A Polar Year,nm1848357,Samuel Collardey,A Polar Year,2018.0,Others,634931
+tt6862536,2018,Grand Jury Prize,World Cinema - Documentary,False,True,Genesis 2.0,nm8975290,Maxim Arbugaev,Genesis 2.0,2019.0,Documentary,11596
+tt3041550,2018,Grand Jury Prize,World Cinema - Documentary,False,True,Matangi/Maya/M.I.A.,nm3010986,Steve Loveridge,Matangi/Maya/M.I.A.,2018.0,Biography,708921
+tt6617656,2018,Grand Jury Prize,World Cinema - Documentary,False,True,Our New President,nm3680682,Maxim Pozdorovkin,Our New President,2018.0,Documentary,37509
+tt7689936,2018,Grand Jury Prize,World Cinema - Documentary,False,False,The Cleaners,nm8146933,Hans Block,The Cleaners,2018.0,Documentary,45023
+tt4378628,2018,Grand Jury Prize,World Cinema - Documentary,False,False,"Westwood: Punk, Icon, Activist",nm2503036,Lorna Tucker,"Westwood: Punk, Icon, Activist",2018.0,Documentary,452131
+tt7318202,2018,Grand Jury Prize,World Cinema - Dramatic,True,False,Butterflies,nm3796645,Tolga Karaçelik,Butterflies,2018.0,Comedy,362992
+tt4488744,2018,Grand Jury Prize,World Cinema - Dramatic,False,False,A Translator,nm3344880,Rodrigo Barriuso,Un Traductor,2018.0,Drama,94422
+tt6776106,2018,Grand Jury Prize,World Cinema - Dramatic,False,True,And Breathe Normally,nm1750324,Isold Uggadottir,And Breathe Normally,2019.0,Drama,96922
+tt7476810,2018,Grand Jury Prize,World Cinema - Dramatic,False,True,Dead Pigs,nm4014166,Cathy Yan,Dead Pigs,2018.0,Comedy,4545
+tt5707048,2018,Grand Jury Prize,World Cinema - Dramatic,False,False,Loveling,nm3221896,Gustavo Pizzi,Loveling,2018.0,Drama,141053
+tt6746304,2018,Grand Jury Prize,World Cinema - Dramatic,False,False,Pity,nm1702672,Babis Makridis,Pity,2018.0,Drama,30912
+tt6742252,2018,Grand Jury Prize,World Cinema - Dramatic,False,True,The Guilty,nm7546166,Gustav Möller,The Guilty,2018.0,Crime,4846012
+tt7689928,2018,Grand Jury Prize,World Cinema - Dramatic,False,True,The Queen of Fear,nm0078452,Valeria Bertuccelli,The Queen of Fear,2018.0,Drama,569033
+tt6444140,2018,Grand Jury Prize,World Cinema - Dramatic,False,True,Time Share,nm2003820,Sebastián Hofmann,Time Share,2018.0,Drama,381754
+tt5862902,2018,Grand Jury Prize,World Cinema - Dramatic,False,False,Yardie,nm0252961,Idris Elba,Yardie,2018.0,Crime,1636359
+tt7668870,2018,Audience Award,Best of Next!,True,True,Searching,nm3792134,Aneesh Chaganty,Searching,2018.0,Drama,102852221
+tt6296764,2018,Audience Award,Best of Next!,False,False,306 Hollywood,nm3176784,Elan Bogarín,306 Hollywood,2018.0,Documentary,37251
+tt6905402,2018,Audience Award,Best of Next!,False,False,A Boy. A Girl. A Dream.,nm2881794,Qasim Basir,A Boy. A Girl. A Dream.,2018.0,Others,227876
+tt6518270,2018,Audience Award,Best of Next!,False,False,An Evening with Beverly Luff Linn,nm1671995,Jim Hosking,An Evening with Beverly Luff Linn,2018.0,Comedy,23756
+tt6101602,2018,Audience Award,Best of Next!,False,False,Madeline's Madeline,nm2528451,Josephine Decker,Madeline's Madeline,2018.0,Drama,388050
+tt7545566,2018,Audience Award,Best of Next!,False,False,Skate Kitchen,nm1145920,Crystal Moselle,Skate Kitchen,2018.0,Drama,531177
+tt7681824,2018,Audience Award,Best of Next!,False,True,We the Animals,nm1476102,Jeremiah Zagar,We the Animals,2018.0,Drama,846979
+tt7153434,2018,Audience Award,Festival Favorite,True,True,Science Fair,nm8201031,Cristina Costantini,Science Fair,2018.0,Documentary,570686
+tt8760684,2019,Grand Jury Prize,Documentary,False,True,Apollo 11,nm1530433,Todd Douglas Miller,Apollo 11,2019.0,Documentary,20694770
+tt5884004,2019,Grand Jury Prize,Documentary,False,False,David Crosby: Remember My Name,nm1740505,A.J. Eaton,David Crosby: Remember My Name,2019.0,Documentary,172494
+tt9358044,2019,Grand Jury Prize,Documentary,False,False,Hail Satan?,nm3704075,Penny Lane,Hail Satan?,2019.0,Documentary,870333
+tt9353436,2019,Grand Jury Prize,Documentary,False,False,Mike Wallace Is Here,nm7537549,Avi Belkin,Mike Wallace Is Here,2019.0,Documentary,55570
+tt8637428,2019,Grand Jury Prize,Dramatic,False,False,The Farewell,nm2304675,Lulu Wang,The Farewell,2019.0,Comedy,8817020
+tt4353250,2019,Grand Jury Prize,Dramatic,False,True,The Last Black Man in San Francisco,nm7050300,Joe Talbot,The Last Black Man in San Francisco,2019.0,Drama,8331294
+tt8991268,2019,Grand Jury Prize,World Cinema - Documentary,True,True,Honeyland,nm9393813,Tamara Kotevska,Honeyland,2019.0,Documentary,88312
+tt6920356,2019,Grand Jury Prize,World Cinema - Dramatic,True,False,The Souvenir,nm0389712,Joanna Hogg,The Souvenir,2019.0,Drama,2073474
+tt7334342,2019,Grand Jury Prize,World Cinema - Dramatic,False,False,Dirty God,nm2383508,Sacha Polak,Dirty God,2019.0,Drama,204591
+tt9358106,2019,Grand Jury Prize,World Cinema - Dramatic,False,True,Dolce Fine Giornata,nm0096066,Jacek Borcuch,Dolce Fine Giornata,2019.0,Drama,747716
+tt8378126,2019,Grand Jury Prize,World Cinema - Dramatic,False,True,Queen of Hearts,nm1392439,May el-Toukhy,Queen of Hearts,2019.0,Drama,283696
+tt9358136,2019,Grand Jury Prize,World Cinema - Dramatic,False,True,The Sharks,nm8738226,Lucía Garibaldi,The Sharks,2019.0,Drama,4108
+tt4169146,2019,NEXT Innovator Award,,False,False,Give Me Liberty,nm1699715,Kirill Mikhanovsky,Give Me Liberty,2019.0,Comedy,137025

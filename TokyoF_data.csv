@@ -1,0 +1,66 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0234837,2000,Grand Prize,,True,False,Suzhou River,nm0521601,Ye Lou,Suzhou River,2000.0,Drama,142789
+tt0260332,2000,Grand Prize,,False,False,The Day I Became a Woman,nm0581863,Marzieh Makhmalbaf,The Day I Became a Woman,2000.0,Others,440514
+tt0293082,2001,Grand Prize,,False,True,Delbaran,nm0416119,Abolfazl Jalili,Delbaran,2002.0,Drama,37197
+tt0277444,2001,Grand Prize,,False,False,I Love Beijing,nm0948075,Ying Ning,I Love Beijing,2002.0,Drama,29668
+tt0290823,2001,Grand Prize,,False,False,Secret Ballot,nm0668165,Babak Payami,Secret Ballot,2002.0,Others,337772
+tt0269217,2001,Grand Prize,,False,False,Tears of the Black Tiger,nm0765685,Wisit Sasanatieng,Tears of the Black Tiger,2001.0,Action,306379
+tt0317171,2002,Grand Prize,,True,False,Blissfully Yours,nm0917405,Apichatpong Weerasethakul,Blissfully Yours,2002.0,Drama,26386
+tt0317476,2002,Grand Prize,,False,True,Angel on the Right,nm0882403,Jamshed Usmonov,Angel on the Right,2004.0,Others,115572
+tt0333692,2002,Grand Prize,,False,True,Too Young to Die,nm1252754,Jin-pyo Park,Too Young to Die,2002.0,Others,497906
+tt0372937,2003,Grand Prize,,False,False,Into the Mirror,nm1193005,Sung-ho Kim,Into the Mirror,2010.0,Action,82113
+tt0354668,2003,Grand Prize,,False,False,Save the Green Planet!,nm2287741,Joon-Hwan Jang,Save the Green Planet!,2004.0,Others,41847
+tt0381668,2004,Grand Prize,,True,False,Tropical Malady,nm0917405,Apichatpong Weerasethakul,Tropical Malady,2004.0,Drama,125163
+tt0423277,2004,Grand Prize,,False,False,Stray Dogs,nm0581863,Marzieh Makhmalbaf,Stray Dogs,2004.0,Drama,60386
+tt0424227,2004,Grand Prize,,False,True,Turtles Can Fly,nm0315842,Bahman Ghobadi,Turtles Can Fly,2004.0,Drama,1785932
+tt0456836,2005,Grand Prize,,True,False,Bashing,nm0462029,Masahiro Kobayashi,Bashing,2006.0,Drama,4806
+tt0469692,2005,Grand Prize,,False,False,A Perfect Day,nm0352858,Joana Hadjithomas,A Perfect Day,2006.0,Drama,6929
+tt0478024,2005,Grand Prize,,False,True,SPL: Kill Zone,nm0948159,Wilson Yip,SPL: Kill Zone,2005.0,Action,1234042
+tt0478025,2005,Grand Prize,,False,False,Sa-kwa,nm1118549,Yi-kwan Kang,Sa-kwa,2008.0,Drama,322942
+tt0792988,2006,Grand Prize,,True,False,To Get to Heaven First You Have to Die,nm0882403,Jamshed Usmonov,To Get to Heaven First You Have to Die,2006.0,Others,311
+tt0478999,2006,Grand Prize,,False,False,Close to Home,nm0353263,Dalia Hager,Close to Home,2006.0,Drama,112606
+tt0847050,2006,Grand Prize,,False,False,Half Moon,nm0315842,Bahman Ghobadi,Half Moon,2007.0,Others,305725
+tt0479506,2006,Grand Prize,,False,False,The Blossoming of Maximo Oliveros,nm2039919,Auraeus Solito,The Blossoming of Maximo Oliveros,2006.0,Drama,85824
+tt0499537,2006,Audience Award,,True,True,Offside,nm0070159,Jafar Panahi,Offside,2006.0,Others,926581
+tt0816672,2007,Grand Prize,,True,False,Tehilim,nm0618930,Raphaël Nadjari,Tehilim,2008.0,Drama,147994
+tt1094627,2007,Grand Prize,,False,False,Buddha Collapsed Out of Shame,nm0538529,Hana Makhmalbaf,Buddha Collapsed Out of Shame,2008.0,Drama,1888332
+tt0901488,2007,Grand Prize,,False,True,Eye in the Sky,nm0946883,Nai-Hoi Yau,Eye in the Sky,2007.0,Action,2192847
+tt1076251,2007,Grand Prize,,False,False,"Help Me, Eros",nm0497642,Kang-sheng Lee,"Help Me, Eros",2008.0,Drama,95966
+tt0807721,2007,Grand Prize,,False,False,Jellyfish,nm0449316,Etgar Keret,Jellyfish,2007.0,Drama,1573356
+tt0831386,2007,Grand Prize,,False,False,The Drummer,nm0080456,Kenneth Bi,The Drummer,2008.0,Others,781767
+tt1499354,2007,Grand Prize,,False,False,The Wonder Years,nm3587010,Hee-jung Kim,The Wonder Years,2007.0,Drama,43433
+tt0796212,2007,Audience Award,,True,True,Exiled,nm0864775,Johnnie To,Exiled,2007.0,Action,1595485
+tt1185616,2008,Grand Prize,,True,False,Waltz with Bashir,nm0284369,Ari Folman,Waltz with Bashir,2008.0,Others,15641444
+tt1068652,2008,Grand Prize,,False,False,I Want to See,nm0352858,Joana Hadjithomas,I Want to See,2008.0,Drama,106655
+tt1143155,2008,Grand Prize,,False,True,Treeless Mountain,nm0811611,So Yong Kim,Treeless Mountain,2009.0,Drama,223131
+tt1373120,2009,Grand Prize,,True,True,Breathless,nm3344655,Ik-joon Yang,Breathless,2009.0,Others,813589
+tt1202514,2009,Grand Prize,,False,False,Accident,nm1110912,Soi Cheang,Accident,2010.0,Others,1433182
+tt1502406,2009,Grand Prize,,False,False,Green Days,nm0538529,Hana Makhmalbaf,Green Days,2009.0,Drama,379671
+tt1426378,2009,Grand Prize,,False,True,No One Knows About Persian Cats,nm0315842,Bahman Ghobadi,No One Knows About Persian Cats,2009.0,Drama,1160975
+tt1424366,2009,Grand Prize,,False,False,Nymph,nm0711579,Pen-Ek Ratanaruang,Nymph,2009.0,Drama,206676
+tt1286172,2009,Grand Prize,,False,False,Sell Out!,nm2373086,Joon Han Yeo,Sell Out!,2009.0,Others,70930
+tt1646959,2010,Grand Prize,,False,False,Bedevilled,nm1564550,Cheol-soo Jang,Bedevilled,2010.0,Drama,1315166
+tt1190072,2010,Grand Prize,,False,False,The Hunter,nm0686020,Rafi Pitts,The Hunter,2011.0,Drama,8071
+tt1535492,2010,Grand Prize,,False,False,The Stool Pigeon,nm0482592,Dante Lam,The Stool Pigeon,2011.0,Action,11187614
+tt2901736,2010,Next Masters Tokyo Best Project,,True,True,Ilo Ilo,nm2021547,Anthony Chen,Ilo Ilo,2013.0,Drama,1347479
+tt1814665,2011,Grand Prize,,False,False,Countdown,nm4259348,Jong-ho Huh,Countdown,2011.0,Action,3127040
+tt1773020,2011,Grand Prize,,False,False,Poongsan,nm2766748,Jai-hong Juhn,Poongsan,2011.0,Action,5657573
+tt1802806,2011,Grand Prize,,False,True,The Journals of Musan,nm4238438,Jung-bum Park,The Journals of Musan,2011.0,Drama,83540
+tt1922551,2011,Audience Award,,True,True,Arirang,nm1104118,Ki-duk Kim,Arirang,2012.0,Others,2316
+tt2299842,2012,Audience Award,,True,True,Pieta,nm1104118,Ki-duk Kim,Pieta,2013.0,Others,4012548
+tt2741806,2013,Grand Prize,,True,False,In Bloom,nm2206574,Nana Ekvtimishvili,In Bloom,2014.0,Drama,167507
+tt3661798,2014,Grand Prize,,False,False,A Girl at My Door,nm4772133,July Jung,A Girl at My Door,2014.0,Drama,613282
+tt3569978,2014,Grand Prize,,False,True,Next to Her,nm2135674,Asaf Korman,Next to Her,2014.0,Drama,1695
+tt3170902,2014,Grand Prize,,False,False,Theeb,nm3578681,Naji Abu Nowar,Theeb,2015.0,Others,1149738
+tt3966942,2014,Audience Award,,True,True,The President,nm0538532,Mohsen Makhmalbaf,The President,2014.0,Drama,24664
+tt4923042,2015,Grand Prize,,True,True,Tharlo,nm2120871,Pema Tseden,Tharlo,2016.0,Drama,188749
+tt3752930,2015,Audience Award,,True,True,Dearest,nm0151066,Peter Ho-Sun Chan,Dearest,2014.0,Drama,54330157
+tt6312872,2016,Grand Prize,,False,False,Knife in the Clear Water,nm8182350,Xuebo Wang,Knife in the Clear Water,2016.0,Drama,94473
+tt6129730,2016,Grand Prize,,False,False,Our Love Story,nm6293229,Hyun-ju Lee,Our Love Story,2016.0,Drama,154488
+tt5502816,2016,Grand Prize,,False,True,The World of Us,nm6020022,Ga-eun Yoon,The World of Us,2017.0,Drama,255780
+tt5923026,2017,Grand Prize,,True,False,Marlina the Murderer in Four Acts,nm3029226,Mouly Surya,Marlina the Murderer in Four Acts,2017.0,Drama,45708
+tt8305116,2018,Grand Prize,,True,False,Ayka,nm0245361,Sergei Dvortsevoy,Ayka,2019.0,Drama,43523
+tt8020896,2018,Grand Prize,,False,False,An Elephant Sitting Still,nm8904554,Bo Hu,An Elephant Sitting Still,2019.0,Drama,72155
+tt8836292,2018,Grand Prize,,False,True,Jinpa,nm2120871,Pema Tseden,Jinpa,2019.0,Drama,1520781
+tt8185182,2018,Grand Prize,,False,True,Long Day's Journey Into Night,nm7267981,Gan Bi,Long Day's Journey Into Night,2018.0,Drama,42971620
+tt8696440,2018,Grand Prize,,False,False,Sibel,nm1597572,Guillaume Giovanetti,Sibel,2018.0,Drama,419053

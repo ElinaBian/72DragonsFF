@@ -1,0 +1,51 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0056049,1962,Golden Charybdis,,True,True,The Naked Island,nm0793881,Kaneto Shindô,The Naked Island,1962.0,Drama,123343
+tt0066808,1971,Golden Charybdis,,False,False,Bananas,nm0000095,Woody Allen,Bananas,1971.0,Comedy,867971
+tt0069987,1973,Golden Charybdis,,False,True,A Doll's House,nm0307559,Patrick Garland,A Doll's House,1973.0,Drama,30875
+tt0071615,1973,Golden Charybdis,,False,True,The Holy Mountain,nm0423524,Alejandro Jodorowsky,The Holy Mountain,1973.0,Others,873311
+tt0073155,1975,Golden Charybdis,,False,True,L'important c'est d'aimer,nm0958558,Andrzej Zulawski,L'important c'est d'aimer,1977.0,Drama,162869
+tt0073540,1976,Golden Charybdis,,True,True,Picnic at Hanging Rock,nm0001837,Peter Weir,Picnic at Hanging Rock,1979.0,Drama,487956
+tt0076855,1977,Golden Charybdis,,True,True,"One Sings, the Other Doesn't",nm0889513,Agnès Varda,"One Sings, the Other Doesn't",1977.0,Drama,165806
+tt0075276,1977,Golden Charybdis,,False,True,Stroszek,nm0001348,Werner Herzog,Stroszek,1977.0,Comedy,12040
+tt0080724,1980,Golden Charybdis,,False,True,Fatso,nm0000843,Anne Bancroft,Fatso,1980.0,Comedy,49574763
+tt0084361,1982,Golden Charybdis,,False,False,Mourir à 30 ans,nm0332647,Romain Goupil,Mourir à 30 ans,1983.0,Others,93325
+tt0085622,1982,Golden Charybdis,,False,True,The Grey Fox,nm0097491,Phillip Borsos,The Grey Fox,1983.0,Others,28797518
+tt0089838,1985,Golden Charybdis,,False,True,A Private Function,nm0610261,Malcolm Mowbray,A Private Function,1985.0,Comedy,12138952
+tt0090993,1986,Golden Charybdis,,False,True,Eat the Peach,nm0650275,Peter Ormrod,Eat the Peach,1987.0,Comedy,488363
+tt0089221,1986,Golden Charybdis,,False,True,The Gospel According to Vic,nm0331146,Charles Gormley,The Gospel According to Vic,1987.0,Comedy,1218464
+tt0100024,1991,Golden Charybdis,,True,True,Life Is Sweet,nm0005139,Mike Leigh,Life Is Sweet,1991.0,Comedy,5620254
+tt0105622,1992,Silver Charybdis,,True,True,Tokyo Decadence,nm0613487,Ryû Murakami,Tokyo Decadence,1993.0,Drama,986149
+tt0103800,1992,Best Actress,,True,True,Betty,nm0873005,Marie Trintignant,Betty,1993.0,Drama,203803
+tt0108188,1993,Golden Charybdis,,True,True,Sonatine,nm0001429,Takeshi Kitano,Sonatine,1998.0,Others,185045
+tt0106579,1994,Golden Charybdis,,False,True,"Clean, Shaven",nm0449868,Lodge Kerrigan,"Clean, Shaven",1995.0,Others,88662
+tt0119361,1997,Best Actor,,True,True,In the Company of Men,nm0001173,Aaron Eckhart,In the Company of Men,1997.0,Comedy,8913898
+tt0116783,1997,Best Actress,,True,True,Kissed,nm0662504,Molly Parker,Kissed,1997.0,Drama,1050302
+tt0184819,1999,Golden Charybdis,,True,True,Little Brothers,nm0230695,Jacques Doillon,Little Brothers,2001.0,Comedy,3093
+tt0120586,1999,Best Actor,,True,True,American History X,nm0001570,Edward Norton,American History X,1998.0,Drama,47673711
+tt0251141,2000,FIPRESCI Prize,,True,True,Innocence,nm0185187,Paul Cox,Innocence,2001.0,Drama,7544517
+tt0363095,2004,Best First Film,,True,True,Freeze Frame,nm0801055,John Simpson,Freeze Frame,2004.0,Others,54739
+tt0408828,2005,Best Actor,,True,True,Guy X,nm0004755,Jason Biggs,Guy X,2007.0,Comedy,51093
+tt0418110,2006,Best Actor,,True,True,Romanzo criminale,nm0744107,Kim Rossi Stuart,Romanzo Criminale,2005.0,Others,10432898
+tt0420897,2006,Best Actress,,True,True,Mario's War,nm0000420,Valeria Golino,Mario's War,2006.0,Drama,348949
+tt0325011,2006,Best Director,,True,True,The Goodbye Kiss,nm0811714,Michele Soavi,The Goodbye Kiss,2006.0,Others,1051475
+tt0433624,2006,Best Cinematography,,True,True,The Wedding Director,nm0546938,Pasquale Mari,The Wedding Director,2008.0,Drama,2885831
+tt0772187,2006,Best Costume Design,,True,True,Notte prima degli esami,nm1391655,Monica Simeone,Notte prima degli esami,2006.0,Comedy,20455453
+tt0429727,2006,Best Score,,True,True,The Caiman,nm0006228,Franco Piersanti,The Caiman,2007.0,Comedy,13021579
+tt0427461,2006,Best Story,,True,True,In ascolto,nm1760810,Giacomo Martelli,In ascolto,2006.0,Others,459355
+tt1002765,2007,Best Director,,True,True,My Father My Lord,nm2615274,David Volach,My Father My Lord,2008.0,Drama,947557
+tt0945602,2007,Best Screenplay,,True,True,L'uomo di vetro,nm0772144,Heidrun Schleef,L'uomo di vetro,2007.0,Drama,154958
+tt1179793,2008,Special Jury Prize,,True,True,Summer Book,nm1626419,Seyfi Teoman,Summer Book,2008.0,Drama,49302
+tt1364478,2009,Best Director,,True,True,Casanegra,nm0482236,Nour Eddine Lakhmari,Casanegra,2010.0,Drama,106060
+tt1183672,2009,Best Acting Performance,,True,True,The Girl on the Train,nm0220183,Émilie Dequenne,The Girl on the Train,2009.0,Drama,2260204
+tt1637679,2010,Golden Tauro,,True,True,Petty Letters and Love Crimes,nm0493948,Gianfrancesco Lazotti,Petty Letters and Love Crimes,2010.0,Comedy,157207
+tt1671616,2010,Golden Tauro,,False,True,18 Meals,nm0170030,Jorge Coira,18 Meals,2010.0,Comedy,608647
+tt1322325,2010,Golden Tauro,,False,False,Chicas,nm0722078,Yasmina Reza,Chicas,2010.0,Drama,186294
+tt1558877,2010,Golden Tauro,,False,False,Vavien,nm1533201,Durul Taylan,Vavien,2009.0,Comedy,1041092
+tt1322277,2010,TaorminaFilmFest Award,Feature Film,True,False,The Assailant,nm1700273,João Daniel Tikhomiroff,The Assailant,2011.0,Others,2294579
+tt1764141,2011,Golden Tauro,,False,False,678,nm2559996,Mohamed Diab,678,2011.0,Drama,563925
+tt1654054,2011,Golden Tauro,,False,False,Mil cretins,nm0690532,Ventura Pons,Mil cretins,2011.0,Comedy,185531
+tt1355638,2011,Golden Tauro,,False,True,The Rabbi's Cat,nm2677924,Joann Sfar,The Rabbi's Cat,2012.0,Others,4186711
+tt0906778,2011,Audience Award,,True,True,Black Butterflies,nm0644309,Paula van der Oest,Black Butterflies,2011.0,Others,1609571
+tt2195552,2014,TaorminaFilmFest Award,Feature Film,False,False,The Elevator: Three Minutes Can Change Your Life,nm1318602,Massimo Coglitore,The Elevator: Three Minutes Can Change Your Life,2019.0,Drama,6516
+tt4266638,2015,TaorminaFilmFest Award,Feature Film,True,False,Krisha,nm4099092,Trey Edward Shults,Krisha,2016.0,Drama,310827
+tt3892172,2018,Taormina Arte Award,Best Screenplay,True,True,Leave No Trace,nm0335138,Debra Granik,Leave No Trace,2018.0,Drama,14154472

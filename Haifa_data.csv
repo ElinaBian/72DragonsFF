@@ -1,0 +1,102 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0169145,1998,Golden Anchor Award,,True,False,Cabaret Balkan,nm0664607,Goran Paskaljevic,Cabaret Balkan,1999.0,Drama,165719
+tt0213569,1999,Israeli Film Competition Award,Best Documentary,True,True,The Komediant,nm0325606,Arnon Goldfinger,The Komediant,2000.0,Others,356561
+tt0305229,2003,Golden Anchor Award,,True,False,Rana's Wedding,nm0009463,Hany Abu-Assad,Rana's Wedding,2003.0,Comedy,49976
+tt0313211,2003,Golden Anchor Award,,True,False,The Wind Horse,nm0031866,Daoud Aoulad-Syad,The Wind Horse,2002.0,Drama,11721
+tt0756359,2005,Israeli Film Competition Award,Best Film,True,True,Frozen Days,nm2118165,Danny Lerner,Frozen Days,2006.0,Drama,20528
+tt0450680,2006,Golden Anchor Award,,True,False,Flanders,nm0241622,Bruno Dumont,Flanders,2007.0,Drama,525522
+tt1002765,2006,Israeli Film Competition Award,Best Cinematography,True,True,My Father My Lord,nm2012534,Boaz Yehonatan Yaacov,My Father My Lord,2008.0,Drama,947557
+tt1090316,2006,Israeli Film Competition Award,,True,True,Foul Gesture,nm0333523,Tzahi Grad,Foul Gesture,2008.0,Comedy,10990
+tt1233381,2008,Golden Anchor Award,,True,False,Three Monkeys,nm0149196,Nuri Bilge Ceylan,Three Monkeys,2009.0,Drama,2419643
+tt1286798,2008,Haifa Cultural Foundation Award,Best Documentary,True,True,Unmistaken Child,nm2886257,Nati Baratz,Unmistaken Child,2009.0,Others,809980
+tt1204366,2008,FIPRESCI Prize,,True,True,Desierto adentro,nm0687751,Rodrigo Plá,Desierto adentro,2009.0,Drama,58512
+tt1366981,2009,Golden Anchor Award,,True,False,Uzak Ihtimal,nm3312722,Mahmut Fazil Coskun,Uzak Ihtimal,2009.0,Drama,194953
+tt1351734,2009,Golden Anchor Award,,False,False,Ander,nm1954420,Roberto Castón,Ander,2009.0,Drama,3653
+tt1156173,2009,Golden Anchor Award,,False,False,Vincere,nm0069166,Marco Bellocchio,Vincere,2009.0,Others,7474861
+tt1371574,2010,Golden Anchor Award,,True,False,Kosmos,nm0258732,Reha Erdem,Kosmos,2010.0,Drama,93674
+tt1371700,2010,Golden Anchor Award,,False,False,Lo spazio bianco,nm0173726,Francesca Comencini,Lo spazio bianco,2009.0,Drama,1712581
+tt1641410,2011,Golden Anchor Award,,False,False,Terraferma,nm0187740,Emanuele Crialese,Terraferma,2011.0,Drama,2669566
+tt1680139,2011,Golden Anchor Award,,False,False,When the Night,nm0173724,Cristina Comencini,When the Night,2011.0,Drama,746513
+tt2184331,2012,Golden Anchor Award,,False,False,Una noche,nm2280980,Lucy Mulloy,Una noche,2012.0,Drama,236339
+tt2219514,2012,Israeli Film Competition Award,Best Cinematography,True,True,Fill the Void,nm0837231,Asaf Sudri,Fill the Void,2012.0,Drama,5493857
+tt2318625,2012,Israeli Film Competition Award,Full Length Feature Films,True,True,Out in the Dark,nm3199492,Michael Mayer,Out in the Dark,2013.0,Drama,101480
+tt2184227,2013,Golden Anchor Award,,False,False,Dormant Beauty,nm0069166,Marco Bellocchio,Dormant Beauty,2013.0,Drama,1257253
+tt2357461,2013,Golden Anchor Award,,False,True,Honey,nm0000420,Valeria Golino,Honey,2013.0,Drama,1023417
+tt2608766,2013,Golden Anchor Award,,False,False,The Long Way Home,nm5465109,Alphan Eseli,The Long Way Home,2013.0,Drama,248595
+tt1954315,2013,Fedeora Award,,True,True,Borgman,nm0912334,Alex van Warmerdam,Borgman,2013.0,Drama,1164456
+tt2659190,2013,Special Mention Award,,True,True,Just a Sigh,nm0222922,Emmanuelle Devos,Just a Sigh,2014.0,Drama,1448589
+tt2324384,2013,Special Mention Award,,True,True,The Notebook,nm0844444,János Szász,The Notebook,2013.0,Drama,4317762
+tt2758880,2014,Golden Anchor Award,,True,False,Winter Sleep,nm0149196,Nuri Bilge Ceylan,Winter Sleep,2014.0,Drama,4325312
+tt3569978,2014,Haifa Cultural Foundation Award,Best Feature,True,True,Next to Her,nm2135674,Asaf Korman,Next to Her,2014.0,Drama,1695
+tt2802154,2014,Fedeora Award,Filmmakers of Tomorrow,True,True,Leviathan,nm1168657,Andrey Zvyagintsev,Leviathan,2014.0,Others,5943878
+tt3685218,2014,Tobias Spencer Award,,True,True,Félix & Meira,nm2113645,Maxime Giroux,Félix & Meira,2015.0,Drama,1019676
+tt4949088,2015,Golden Anchor Award,,False,False,Thirst,nm0875159,Svetla Tsotsorkova,Thirst,2016.0,Drama,14768
+tt3757218,2015,Haifa Cultural Foundation Award,Best Feature,False,False,Baba Joon,nm2168805,Yuval Delshad,Baba Joon,2015.0,Drama,12400
+tt3792960,2015,Fedeora Award,Best International Film,True,True,The Brand New Testament,nm0233757,Jaco Van Dormael,The Brand New Testament,2016.0,Comedy,16819560
+tt4935158,2015,Tobias Spencer Award,,True,True,Demon,nm1672085,Marcin Wrona,Demon,2016.0,Drama,220245
+tt5289412,2015,Tobias Spencer Award,,False,False,Through the Eyes of the Photographer,nm0590882,Matej Minac,Through the Eyes of the Photographer,2015.0,Others,1289
+tt3685554,2015,Carmel Award,Best International Film,True,True,Alias Maria,nm3061273,José Luis Rugeles,Alias Maria,2015.0,Drama,2372
+tt4374460,2015,Carmel Award,Best International Film,False,False,Aferim!,nm1257492,Radu Jude,Aferim!,2016.0,Others,494256
+tt2196488,2015,Carmel Award,Best International Film,False,False,Atlantic.,nm2438008,Jan-Willem van Ewijk,Atlantic.,2015.0,Drama,15564
+tt4285496,2015,Carmel Award,Best International Film,False,False,Embrace of the Serpent,nm1458734,Ciro Guerra,Embrace of the Serpent,2015.0,Others,5041646
+tt2886632,2015,Carmel Award,Best International Film,False,False,Enclave,nm0705813,Goran Radovanovic,Enclave,2016.0,Drama,2120
+tt3486542,2015,Carmel Award,Best International Film,False,False,Mediterranea,nm3476432,Jonas Carpignano,Mediterranea,2015.0,Drama,73721
+tt3296658,2015,Carmel Award,Best International Film,False,False,Rams,nm1963886,Grímur Hákonarson,Rams,2015.0,Drama,2101584
+tt4298958,2015,Carmel Award,Best International Film,False,True,Sweet Bean,nm0442905,Naomi Kawase,Sweet Bean,2015.0,Drama,5214527
+tt3646344,2015,Carmel Award,Best International Film,False,False,Sworn Virgin,nm3053575,Laura Bispuri,Sworn Virgin,2015.0,Drama,122392
+tt4938930,2015,Carmel Award,Best International Film,False,False,The Visitor,nm2241019,Mehmet Eryilmaz,The Visitor,2015.0,Drama,2029
+tt4518234,2016,Golden Anchor Award,,True,True,Cold of Kalandar,nm2583919,Mustafa Kara,Cold of Kalandar,2016.0,Drama,61915
+tt3455830,2016,Golden Anchor Award,,False,False,El destierro,,[],El destierro,2015.0,Drama,5816
+tt5695668,2016,Haifa Cultural Foundation Award,Best Feature,True,True,Personal Affairs,nm3326361,Maha Haj,Personal Affairs,2016.0,Drama,41435
+tt5974388,2016,Fedeora Award,Artistic Achievement in an Israeli Feature Film,True,True,In Between,nm6562625,Mouna Hawa,In Between,2017.0,Drama,1881500
+tt4562518,2016,Carmel Award,Best International Film,True,True,The Distinguished Citizen,nm1286935,Mariano Cohn,The Distinguished Citizen,2017.0,Comedy,4685710
+tt5204020,2016,Tobias Spencer Award - Special Mention,,True,True,Scarred Hearts,nm1257492,Radu Jude,Scarred Hearts,2018.0,Others,14041
+tt4373956,2016,Golden Anchor Award - Special Mention,,True,True,Clair Obscur,nm0882445,Yesim Ustaoglu,Clair Obscur,2017.0,Drama,52060
+tt5598102,2017,Golden Anchor Award,Best Film,True,False,Faces Places,nm0889513,Agnès Varda,Faces Places,2017.0,Others,5127358
+tt6002232,2017,Golden Anchor Award,Best Film,False,False,Custody,nm0499488,Xavier Legrand,Custody,2017.0,Drama,4013736
+tt6467968,2017,Golden Anchor Award,Best Film,False,False,Directions,nm0464526,Stephan Komandarev,Directions,2017.0,Drama,203785
+tt5598160,2017,Golden Anchor Award,Best Film,False,False,Jeune femme,nm4874872,Léonor Serraille,Montparnasse Bienvenüe,2017.0,Drama,439010
+tt6313378,2017,Golden Anchor Award,Best Film,False,False,Memoir of War,nm0277933,Emmanuel Finkiel,Memoir of War,2018.0,Drama,3126236
+tt4997108,2017,Golden Anchor Award,Best Film,False,False,Radiogram,nm3253073,Rouzie Hassanova,Radiogram,2018.0,Drama,10423
+tt5952238,2017,Golden Anchor Award,Best Film,False,False,Rainbow: A Private Affair,nm0851752,Paolo Taviani,Rainbow: A Private Affair,2017.0,Drama,636447
+tt6802896,2017,Golden Anchor Award,Best Film,False,False,The Ciambra,nm3476432,Jonas Carpignano,A Ciambra,2018.0,Others,151289
+tt5057904,2017,Golden Anchor Award,Best Film,False,False,Tomorrow and Thereafter,nm0527852,Noémie Lvovsky,Tomorrow and Thereafter,2017.0,Drama,250754
+tt6123206,2017,Golden Anchor Award,Best Film,False,False,Zer,nm1078399,Kazim Öz,Zer,2017.0,Drama,79709
+tt6777056,2017,Golden Anchor Award,Special Mention,True,False,Closeness,nm8921482,Kantemir Balagov,Closeness,2017.0,Drama,103132
+tt6856132,2017,Israeli Film Competition Award,Full Length Feature Films,True,True,The Testament,nm8971343,Amichai Greenberg,The Testament,2017.0,Drama,15010
+tt5859238,2017,Fedeora Award,Filmmakers of Tomorrow,True,True,Lucky,nm0002253,John Carroll Lynch,Lucky,2017.0,Comedy,2917340
+tt6952604,2017,Carmel Award,Best International Film,True,True,Arrhythmia,nm1402557,Boris Khlebnikov,Arrhythmia,2017.0,Drama,1484996
+tt7106928,2017,Carmel Award,Best International Film,False,False,Birds Are Singing in Kigali,nm1732806,Joanna Kos-Krauze,Birds Are Singing in Kigali,2017.0,Drama,64927
+tt6464290,2017,Carmel Award,Best International Film,False,False,Frost,nm0058401,Sharunas Bartas,Frost,2017.0,Drama,39211
+tt5207262,2017,Carmel Award,Best International Film,False,False,Hostages,nm2475544,Rezo Gigineishvili,Hostages,2017.0,Others,376106
+tt6304162,2017,Carmel Award,Best International Film,False,False,Loveless,nm1168657,Andrey Zvyagintsev,Loveless,2017.0,Drama,6291068
+tt5607714,2017,Carmel Award,Best International Film,False,False,On Body and Soul,nm0258221,Ildikó Enyedi,On Body and Soul,2018.0,Drama,2187363
+tt5328350,2017,Carmel Award,Best International Film,False,False,Spoor,nm0002140,Agnieszka Holland,Spoor,2017.0,Others,1074245
+tt5247768,2017,Carmel Award,Best International Film,False,False,"The Butcher, the Whore and the One-Eyed Man",nm0844444,János Szász,"The Butcher, the Whore and the One-Eyed Man",2018.0,Drama,107367
+tt6775942,2017,Carmel Award,Best International Film,False,True,The King,nm0418659,Eugene Jarecki,The King,2018.0,Others,540418
+tt4673790,2017,Carmel Award,Best International Film,False,False,Vazante,nm0858680,Daniela Thomas,Vazante,2018.0,Others,50492
+tt7765120,2018,Golden Anchor Award,Best Film,True,False,Daughter of Mine,nm3053575,Laura Bispuri,Daughter of Mine,2019.0,Drama,389638
+tt8137722,2018,Golden Anchor Award,Best Film,False,False,Her Job,nm2614658,Nikos Labôt,Her Job,2019.0,Drama,16875
+tt6040806,2018,Golden Anchor Award,Best Film,False,False,Petra,nm0740963,Jaime Rosales,Petra,2018.0,Drama,161834
+tt7216256,2018,Golden Anchor Award,Best Film,False,False,Razzia,nm0043953,Nabil Ayouch,Razzia,2018.0,Drama,1187265
+tt6256546,2018,Golden Anchor Award,Best Film,False,False,Ricordi?,nm2307631,Valerio Mieli,Ricordi?,2019.0,Drama,348965
+tt8696440,2018,Golden Anchor Award,Best Film,False,False,Sibel,nm1597572,Guillaume Giovanetti,Sibel,2018.0,Drama,419053
+tt6053948,2018,Golden Anchor Award,Best Film,False,False,Sunday's Illness,nm0757749,Ramón Salazar,Sunday's Illness,2018.0,Drama,44395
+tt8751804,2018,Golden Anchor Award,Best Film,True,False,The Announcement,nm5035688,Halil Kardas,The Announcement,2019.0,Comedy,22193
+tt7216918,2018,Golden Anchor Award,Best Film,False,False,The Summer House,nm0116254,Valeria Bruni Tedeschi,The Summer House,2019.0,Comedy,1333152
+tt5791098,2018,Israeli Film Competition Award,Best Film,True,True,Tel Aviv on Fire,nm2108295,Sameh Zoabi,Tel Aviv on Fire,2019.0,Comedy,958257
+tt3887158,2018,Special Mention Award,Best Animation,False,False,The Legend of King Solomon,nm0436712,Albert Hanan Kaminski,The Legend of King Solomon,2017.0,Others,23070
+tt8327492,2018,Special Mention Award,Best Animation,False,False,Tito and the Birds,nm0825756,Gustavo Steinberg,Tito and the Birds,2018.0,Others,8755
+tt7368554,2018,Tobias Spencer Award,,True,True,The Interpreter,nm0838499,Martin Sulík,The Interpreter,2018.0,Comedy,132638
+tt7664504,2018,Tobias Spencer Award,,False,False,Three Identical Strangers,nm2268736,Tim Wardle,Three Identical Strangers,2018.0,Others,26551698
+tt6212478,2018,Carmel Award,Best International Film,False,False,American Animals,nm1717925,Bart Layton,American Animals,2018.0,Others,7023374
+tt7318102,2018,Carmel Award,Best International Film,False,False,Angelo,nm0772207,Markus Schleinzer,Angelo,2018.0,Drama,470
+tt6386748,2018,Carmel Award,Best International Film,False,False,Birds of Passage,nm5305003,Cristina Gallego,Birds of Passage,2019.0,Drama,2822716
+tt7282468,2018,Carmel Award,Best International Film,False,False,Burning,nm0496969,Chang-dong Lee,Burning,2018.0,Drama,8165687
+tt7763020,2018,Carmel Award,Best International Film,False,False,Dovlatov,nm1531700,Aleksey German Jr.,Dovlatov,2018.0,Others,2210690
+tt8506840,2018,Carmel Award,Best International Film,False,False,I Do Not Care If We Go Down in History as Barbarians,nm1257492,Radu Jude,I Do Not Care If We Go Down in History as Barbarians,2019.0,Comedy,38829
+tt6263618,2018,Carmel Award,Best International Film,False,False,In the Aisles,nm1635354,Thomas Stuber,In the Aisles,2019.0,Drama,712368
+tt8462858,2018,Carmel Award,Best International Film,False,False,Jumpman,nm6592335,Ivan I. Tverdovskiy,Jumpman,2018.0,Others,18931
+tt7279188,2018,Carmel Award,Best International Film,False,True,Woman at War,nm0259574,Benedikt Erlingsson,Woman at War,2018.0,Others,5351222
+tt7319496,2019,Carmel Award,Best International Film,False,False,Out Stealing Horses,nm0596407,Hans Petter Moland,Out Stealing Horses,2019.0,Drama,1352900
+tt8740778,2019,Carmel Award,Best International Film,False,False,Piranhas,nm2465833,Claudio Giovannesi,Piranhas,2019.0,Others,2113086

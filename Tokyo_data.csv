@@ -1,0 +1,266 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0089424,1985,Special Jury Distinguished Award,,True,True,Kiss of the Spider Woman,nm0002199,Hector Babenco,Kiss of the Spider Woman,1985.0,Drama,80634836
+tt0092822,1987,Tokyo Grand Prix,,False,False,Dancers,nm0006889,Herbert Ross,Dancers,1987.0,Comedy,5276815
+tt0093209,1987,Tokyo Grand Prix,,False,True,Hope and Glory,nm0000958,John Boorman,Hope and Glory,1988.0,Comedy,44153054
+tt0093225,1987,Tokyo Grand Prix,,False,True,Housekeeping,nm0287025,Bill Forsyth,Housekeeping,1987.0,Drama,4797756
+tt0092843,1987,Tokyo Grand Prix,,False,True,The Dead,nm0001379,John Huston,The Dead,1987.0,Drama,19354674
+tt0093106,1987,Tokyo Grand Prix,,False,True,The Good Wife,nm0131643,Ken Cameron,The Good Wife,1987.0,Drama,5219505
+tt0093354,1987,Gold Award,,True,True,The Kitchen Toto,nm0393591,Harry Hook,The Kitchen Toto,1988.0,Drama,439098
+tt0097243,1989,Tokyo Grand Prix,,False,True,A Dry White Season,nm0657484,Euzhan Palcy,A Dry White Season,1989.0,Drama,15401894
+tt0096976,1989,Tokyo Grand Prix,,False,False,Breaking In,nm0287025,Bill Forsyth,Breaking In,1989.0,Others,7640470
+tt0098596,1989,Tokyo Grand Prix,,False,True,Life and Nothing But,nm0851724,Bertrand Tavernier,Life and Nothing But,1989.0,Drama,3255
+tt0098067,1989,Tokyo Grand Prix,,False,False,Parenthood,nm0000165,Ron Howard,Parenthood,1989.0,Comedy,464222959
+tt0101588,1991,Tokyo Grand Prix,,True,False,City of Hope,nm0000626,John Sayles,City of Hope,1991.0,Others,5107219
+tt0103282,1991,Tokyo Grand Prix,,False,False,A Woman's Tale,nm0185187,Paul Cox,A Woman's Tale,1992.0,Drama,741102
+tt0101605,1991,Tokyo Grand Prix,,False,True,The Commitments,nm0000570,Alan Parker,The Commitments,1991.0,Comedy,55578225
+tt0102050,1991,Tokyo Grand Prix,,False,False,Voyager,nm0772522,Volker Schlöndorff,Voyager,1992.0,Drama,1911584
+tt0101773,1991,Best Director Award,Young Cinema Competition,False,False,Drive,nm0506461,Jefery Levy,Drive,1992.0,Others,54715
+tt0102721,1991,Bronze Award,,True,True,Proof,nm0602104,Jocelyn Moorhouse,Proof,1992.0,Drama,1925023
+tt0103671,1992,Tokyo Grand Prix,,False,False,American Me,nm0001579,Edward James Olmos,American Me,1992.0,Others,48014515
+tt0104073,1992,Tokyo Grand Prix,,False,False,Deep Cover,nm0004886,Bill Duke,Deep Cover,1992.0,Others,60964406
+tt0103994,1992,Tokyo Grand Prix,,False,True,Like Water for Chocolate,nm0000778,Alfonso Arau,Like Water for Chocolate,1993.0,Drama,76929640
+tt0103850,1992,Bronze Award,,True,True,Bob Roberts,nm0000209,Tim Robbins,Bob Roberts,1992.0,Comedy,16202683
+tt0107358,1993,Tokyo Grand Prix,,True,True,The Blue Kite,nm0862514,Zhuangzhuang Tian,The Blue Kite,1994.0,Drama,617992
+tt0106469,1993,Tokyo Grand Prix,,False,True,"Blood In, Blood Out",nm0000431,Taylor Hackford,"Blood In, Blood Out",1993.0,Others,15959622
+tt0104812,1993,Tokyo Grand Prix,,False,True,Map of the Human Heart,nm0911910,Vincent Ward,Map of the Human Heart,1993.0,Others,9948582
+tt0108065,1993,Tokyo Grand Prix,,False,True,Searching for Bobby Fischer,nm0001873,Steven Zaillian,Searching for Bobby Fischer,1993.0,Others,25647923
+tt0108135,1993,Tokyo Grand Prix,,False,False,Silent Tongue,nm0001731,Sam Shepard,Silent Tongue,1993.0,Drama,219613
+tt0103935,1993,Bronze Award,,True,True,Rebels of the Neon God,nm0158857,Ming-liang Tsai,Rebels of the Neon God,1993.0,Others,100994
+tt0106661,1994,Tokyo Grand Prix,,False,True,A Dangerous Woman,nm0350455,Stephen Gyllenhaal,A Dangerous Woman,1993.0,Drama,5248451
+tt0109702,1994,Tokyo Grand Prix,,False,False,Cold Water,nm0000801,Olivier Assayas,Cold Water,1994.0,Drama,103344
+tt0111001,1994,Tokyo Grand Prix,,False,False,The Road to Wellville,nm0000570,Alan Parker,The Road to Wellville,1994.0,Comedy,22435278
+tt0111112,1994,Tokyo Grand Prix,,False,False,The Secret of Roan Inish,nm0000626,John Sayles,The Secret of Roan Inish,1995.0,Drama,20861350
+tt0109093,1994,Silver Award,,True,True,Amateur,nm0001325,Hal Hartley,Amateur,1995.0,Comedy,2542343
+tt0109842,1994,Bronze Award,,True,True,Fresh,nm0945026,Boaz Yakin,Fresh,1994.0,Others,27691605
+tt0109642,1995,Tokyo Grand Prix,,False,True,Dolores Claiborne,nm0000431,Taylor Hackford,Dolores Claiborne,1995.0,Others,82240771
+tt0113337,1995,Tokyo Grand Prix,,False,False,Hotel Sorrento,nm0002207,Richard Franklin,Hotel Sorrento,1995.0,Drama,152775
+tt0113542,1995,Tokyo Grand Prix,,False,False,Killer: A Journal of Murder,nm0582481,Tim Metcalfe,Killer: A Journal of Murder,1996.0,Others,265682
+tt0109255,1995,Tokyo Grand Prix,,False,False,Maybe... Maybe Not,nm0941811,Sönke Wortmann,Maybe... Maybe Not,1996.0,Comedy,1526549
+tt0112445,1995,Gold Award,,True,True,The White Balloon,nm0070159,Jafar Panahi,The White Balloon,1996.0,Drama,3061743
+tt0114814,1995,Silver Award,,True,True,The Usual Suspects,nm0001741,Bryan Singer,The Usual Suspects,1995.0,Others,77870639
+tt0116790,1996,Tokyo Grand Prix,,True,True,Kolya,nm0841232,Jan Sverák,Kolya,1997.0,Comedy,18536478
+tt0116384,1996,Tokyo Grand Prix,,False,True,Gabbeh,nm0538532,Mohsen Makhmalbaf,Gabbeh,1997.0,Drama,1698219
+tt0116722,1996,Tokyo Grand Prix,,False,False,Jude,nm0935863,Michael Winterbottom,Jude,1996.0,Drama,1320984
+tt0115669,1996,Tokyo Grand Prix,,False,True,The King of Masks,nm0943177,Tian-Ming Wu,The King of Masks,1997.0,Drama,3575754
+tt0117817,1996,Tokyo Grand Prix,,False,True,The Other Side of Sunday,nm0626406,Berit Nesheim,The Other Side of Sunday,1998.0,Comedy,14971
+tt0112454,1996,Bronze Award,,True,True,Bandwagon,nm0776271,John Schultz,Bandwagon,1997.0,Comedy,141229
+tt0116692,1997,Tokyo Grand Prix,,True,True,Beyond Silence,nm0512862,Caroline Link,Beyond Silence,1998.0,Drama,570298
+tt0115744,1997,Tokyo Grand Prix,,False,True,Brassed Off,nm0379179,Mark Herman,Brassed Off,1997.0,Comedy,8224562
+tt0118818,1997,Tokyo Grand Prix,,False,False,Career Girls,nm0005139,Mike Leigh,Career Girls,1997.0,Comedy,7681486
+tt0118531,1997,Tokyo Grand Prix,,False,False,One Eight Seven,nm0721817,Kevin Reynolds,One Eight Seven,1997.0,Drama,18237465
+tt0118636,1998,Tokyo Grand Prix,,False,True,Apt Pupil,nm0001741,Bryan Singer,Apt Pupil,1998.0,Others,27621600
+tt0120735,1998,Tokyo Grand Prix,,False,True,"Lock, Stock and Two Smoking Barrels",nm0005363,Guy Ritchie,"Lock, Stock and Two Smoking Barrels",1999.0,Comedy,11627988
+tt0120321,1998,Tokyo Grand Prix,,False,True,Smoke Signals,nm0264220,Chris Eyre,Smoke Signals,1998.0,Comedy,21333710
+tt0156901,1998,Tokyo Grand Prix,,False,False,The Apple,nm0538533,Samira Makhmalbaf,The Apple,1999.0,Drama,47247
+tt0146664,1998,Tokyo Grand Prix,,False,False,The Day Silence Died,nm0012910,Paolo Agazzi,The Day Silence Died,2000.0,Comedy,2558
+tt0120802,1998,Tokyo Grand Prix,,False,True,The Red Violin,nm0320660,François Girard,The Red Violin,1999.0,Drama,30810628
+tt0200689,1999,Tokyo Grand Prix,,True,True,Darkness and Light,nm0151844,Tso-chi Chang,Darkness and Light,2001.0,Drama,53
+tt0205735,1999,Tokyo Grand Prix,,False,False,Criminal Lovers,nm0654830,François Ozon,Criminal Lovers,2000.0,Others,74638
+tt0119079,1999,Tokyo Grand Prix,,False,True,Onegin,nm0276397,Martha Fiennes,Onegin,1999.0,Drama,625972
+tt0162830,1999,Tokyo Grand Prix,,False,False,Twin Falls Idaho,nm0689187,Michael Polish,Twin Falls Idaho,1999.0,Drama,3065148
+tt0245712,2000,Tokyo Grand Prix,,True,True,Amores perros,nm0327944,Alejandro G. Iñárritu,Amores Perros,2001.0,Drama,38017184
+tt0209055,2000,Tokyo Grand Prix,,False,False,Janice Beard,nm0453270,Clare Kilner,Janice Beard,2000.0,Comedy,35213
+tt0171433,2000,Tokyo Grand Prix,,False,True,Keeping the Faith,nm0001570,Edward Norton,Keeping the Faith,2000.0,Comedy,144695757
+tt0279998,2000,Tokyo Grand Prix,,False,True,One More Day,nm0668165,Babak Payami,One More Day,2003.0,Drama,4655
+tt0238588,2000,Tokyo Grand Prix,,False,False,Shadow Magic,nm0398866,Ann Hu,Shadow Magic,2001.0,Drama,215616
+tt0208911,2000,Tokyo Grand Prix,,False,True,The King Is Alive,nm0506290,Kristian Levring,The King Is Alive,2001.0,Drama,51566
+tt0253378,2000,Tokyo Grand Prix,,False,True,Virgin Stripped Bare by Her Bachelors,nm0393254,Sang-soo Hong,Virgin Stripped Bare by Her Bachelors,2001.0,Comedy,5708
+tt0219822,2001,Tokyo Grand Prix,,False,False,Human Nature,nm0327273,Michel Gondry,Human Nature,2002.0,Comedy,3289899
+tt0304285,2001,Tokyo Grand Prix,,False,True,Kewaishi,nm1098764,Mitsutoshi Tanaka,Kewaishi,2002.0,Drama,5575907
+tt0184791,2001,Tokyo Grand Prix,,False,False,O,nm0625789,Tim Blake Nelson,O,2001.0,Drama,50801465
+tt0295192,2001,Tokyo Grand Prix,,False,True,One Fine Spring Day,nm0403297,Jin-ho Hur,One Fine Spring Day,2002.0,Drama,53559
+tt0301587,2001,Tokyo Grand Prix,,False,False,The Chimp,nm0008332,Aktan Arym Kubat,The Chimp,2002.0,Drama,65452
+tt0280927,2001,Asian Film Award - Special Mention,,True,True,This Is My Moon,nm0359491,Asoka Handagama,This Is My Moon,2001.0,Others,9392
+tt0317842,2002,Tokyo Grand Prix,,True,False,Broken Wings,nm0074844,Nir Bergman,Broken Wings,2003.0,Drama,1662077
+tt0287914,2002,Tokyo Grand Prix,,False,True,Angela,nm0868404,Roberta Torre,Angela,2003.0,Others,245731
+tt0333764,2002,Tokyo Grand Prix,,False,False,Blue Gate Crossing,nm0947140,Chih-yen Yee,Blue Gate Crossing,2003.0,Drama,323168
+tt0317248,2002,Tokyo Grand Prix,,False,False,City of God,nm0576987,Fernando Meirelles,City of God,2004.0,Others,52489246
+tt0317226,2002,Tokyo Grand Prix,,False,False,Marooned in Iraq,nm0315842,Bahman Ghobadi,Marooned in Iraq,2002.0,Drama,444848
+tt0292648,2002,Tokyo Grand Prix,,False,True,Sass,nm0738001,Carlo Rola,Sass,2002.0,Others,2536633
+tt0284494,2002,Tokyo Grand Prix,,False,True,Skins,nm0264220,Chris Eyre,Skins,2002.0,Others,719182
+tt0337909,2003,Tokyo Grand Prix,,False,False,Calendar Girls,nm0170719,Nigel Cole,Calendar Girls,2004.0,Comedy,171711860
+tt0296587,2003,Tokyo Grand Prix,,False,False,Feathers in My Head,nm0211934,Thomas De Thier,Feathers in My Head,2004.0,Drama,73656
+tt0400586,2003,Tokyo Grand Prix,,False,False,Kyô no dekigoto,nm0950834,Isao Yukisada,Kyô no dekigoto,2004.0,Drama,46061
+tt0301730,2003,Tokyo Grand Prix,,False,False,The Pharmacist,nm0891556,Jean Veber,The Pharmacist,2003.0,Others,1930279
+tt0357169,2003,Tokyo Grand Prix,,False,True,The Suit,nm0451998,Bakhtyar Khudojnazarov,The Suit,2003.0,Comedy,74104
+tt0346180,2003,Tokyo Grand Prix,,False,False,"¡Buen viaje, excelencia!",nm1209316,Albert Boadella,"¡Buen viaje, excelencia!",2003.0,Comedy,882148
+tt0353969,2003,Asian Film Award,,True,True,Memories of Murder,nm0094435,Joon-ho Bong,Memories of Murder,2003.0,Others,779543
+tt0342555,2003,Asian Film Award,,False,False,I Love You,nm0955451,Yuan Zhang,I Love You,2003.0,Drama,54
+tt0379587,2003,Asian Film Award,,False,False,My Father and I,nm1292891,Jinglei Xu,My Father and I,2005.0,Drama,26
+tt0331370,2004,Tokyo Grand Prix,,True,True,Whisky,nm0714261,Juan Pablo Rebella,Whisky,2004.0,Comedy,848383
+tt0338133,2004,Tokyo Grand Prix,,False,False,Dandelion,nm1269479,Mark Milgard,Dandelion,2004.0,Drama,209398
+tt0416499,2004,Tokyo Grand Prix,,False,False,Fighter in the Wind,nm0946092,Yun-ho Yang,Fighter in the Wind,2004.0,Others,2047
+tt0368962,2004,Tokyo Grand Prix,,False,False,Mirage,nm1387046,Svetozar Ristovski,Mirage,2005.0,Drama,1211021
+tt0386651,2004,Tokyo Grand Prix,,False,True,Mountain Patrol,nm1283651,Chuan Lu,Mountain Patrol,2005.0,Others,441283
+tt0383388,2004,Tokyo Grand Prix,,False,False,Rice Rhapsody,nm0080456,Kenneth Bi,Rice Rhapsody,2005.0,Comedy,149566
+tt0406216,2004,Tokyo Grand Prix,,False,True,Schizo,nm0648344,Gulshat Omarova,Schizo,2004.0,Others,145529
+tt0381429,2004,Tokyo Grand Prix,,False,False,Somersault,nm0795153,Cate Shortland,Somersault,2005.0,Drama,2097851
+tt0447349,2004,Tokyo Grand Prix,,False,False,The Passage,nm0155641,Wen-tang Cheng,The Passage,2005.0,Drama,36130
+tt0406853,2004,Tokyo Grand Prix,,False,True,The President's Barber,nm1595301,Chan-sang Lim,The President's Barber,2004.0,Comedy,7011
+tt0495919,2005,Tokyo Grand Prix,,True,True,What the Snow Brings,nm0624377,Kichitaro Negishi,What the Snow Brings,2016.0,Drama,18245
+tt0420971,2005,Tokyo Grand Prix,,False,False,13dici a tavola,nm0646179,Enrico Oldoini,13dici a tavola,2004.0,Comedy,164068
+tt0435623,2005,Tokyo Grand Prix,,False,True,Conversations with Other Women,nm0134396,Hans Canosa,Conversations with Other Women,2005.0,Comedy,1751084
+tt0464762,2005,Tokyo Grand Prix,,False,False,Rules of Dating,nm1954072,Jae-rim Han,Rules of Dating,2005.0,Comedy,14474322
+tt0386038,2005,Tokyo Grand Prix,,False,False,Silentium,nm0613996,Wolfgang Murnberger,Silentium,2006.0,Others,2632887
+tt0410806,2005,Tokyo Grand Prix,,False,False,Tre giorni di anarchia,nm0951829,Vito Zagarrio,Tre giorni di anarchia,2006.0,Drama,51592
+tt0463903,2005,Asian Film Award - Special Mention,,True,True,Be with Me,nm0451799,Eric Khoo,Be with Me,2005.0,Drama,119112
+tt0456873,2005,Japanese Eyes: Best Film,,True,True,Who's Camus Anyway,nm0945847,Mitsuo Yanagimachi,Who's Camus Anyway,2005.0,Drama,9199
+tt0464913,2006,Tokyo Grand Prix,,True,False,"OSS 117: Cairo, Nest of Spies",nm0371890,Michel Hazanavicius,"OSS 117: Cairo, Nest of Spies",2008.0,Others,27538913
+tt0472582,2006,Tokyo Grand Prix,,False,False,2:37,nm1994122,Murali K. Thalluri,2:37,2007.0,Drama,563227
+tt0906666,2006,Tokyo Grand Prix,,False,False,Awakening,nm0757081,Junji Sakamoto,Awakening,2006.0,Drama,14291
+tt0759509,2006,Tokyo Grand Prix,,False,False,Change of Address,nm0609981,Emmanuel Mouret,Change of Address,2006.0,Comedy,937412
+tt0819765,2006,Tokyo Grand Prix,,False,False,Dog Bite Dog,nm1110912,Soi Cheang,Dog Bite Dog,2007.0,Others,235794
+tt0970494,2006,Tokyo Grand Prix,,False,False,Graffiti,nm0031974,Igor Apasyan,Graffiti,2006.0,Comedy,520375
+tt0449059,2006,Tokyo Grand Prix,,False,True,Little Miss Sunshine,nm0206760,Jonathan Dayton,Little Miss Sunshine,2006.0,Comedy,201047318
+tt0839960,2006,Tokyo Grand Prix,,False,False,Quale amore,nm0778420,Maurizio Sciarra,Quale amore,2006.0,Drama,922359
+tt0495040,2006,Tokyo Grand Prix,,False,False,The Art of Crying,nm0283844,Peter Schønau Fog,The Art of Crying,2007.0,Comedy,20783
+tt0956191,2006,Tokyo Grand Prix,,False,False,The Matsugane Potshot Affair,nm0633729,Nobuhiro Yamashita,The Matsugane Potshot Affair,2007.0,Comedy,3962
+tt0835787,2006,Tokyo Grand Prix,,False,False,Woman on the Beach,nm0393254,Sang-soo Hong,Woman on the Beach,2006.0,Comedy,1053908
+tt0768114,2006,Best Artistic Contribution Award,,True,True,After This Our Exile,nm0848376,Patrick Tam,After This Our Exile,2007.0,Drama,1186995
+tt0799976,2006,Japanese Eyes: Best Film,,True,True,The Cats of Mirikitani,nm0369002,Linda Hattendorf,The Cats of Mirikitani,2006.0,Others,110853
+tt1032856,2007,Tokyo Grand Prix,,True,False,The Band's Visit,nm0464115,Eran Kolirin,The Band's Visit,2008.0,Comedy,21075865
+tt0481320,2007,Tokyo Grand Prix,,False,False,Blue Eyelids,nm0176496,Ernesto Contreras,Blue Eyelids,2007.0,Comedy,467863
+tt0417586,2007,Tokyo Grand Prix,,False,True,Dangerous Parking,nm0398185,Peter Howitt,Dangerous Parking,2008.0,Drama,8727
+tt0459293,2007,Tokyo Grand Prix,,False,True,"Gandhi, My Father",nm2073234,Feroz Abbas Khan,"Gandhi, My Father",2007.0,Others,2732000
+tt0898323,2007,Tokyo Grand Prix,,False,True,Leroy,nm2445091,Armin Völckers,Leroy,2008.0,Comedy,339127
+tt0490204,2007,Tokyo Grand Prix,,False,False,Reign Over Me,nm0082802,Mike Binder,Reign Over Me,2007.0,Drama,52122442
+tt0482358,2007,Tokyo Grand Prix,,False,False,The Early Years: Erik Nietzsche Part 1,nm0862002,Jacob Thuesen,The Early Years: Erik Nietzsche Part 1,2008.0,Others,290904
+tt0847897,2007,Tokyo Grand Prix,,False,False,The Stone Angel,nm0804556,Kari Skogland,The Stone Angel,2008.0,Drama,1081249
+tt1094278,2007,Tokyo Grand Prix,,False,True,Tricks,nm1435889,Andrzej Jakimowski,Tricks,2009.0,Comedy,1532045
+tt0814690,2007,Tokyo Grand Prix,,False,False,Waiting for Someone,nm1062000,Jérôme Bonnell,Waiting for Someone,2007.0,Others,1398332
+tt0768837,2007,Asian Film Award,,True,True,Singapore Dreaming,nm1029720,Colin Goh,Singapore Dreaming,2006.0,Drama,952
+tt0949869,2007,Asian Film Award - Special Mention,,True,True,Dancing Bells,nm1840899,Deepak Kumaran Menon,Dancing Bells,2007.0,Drama,3307
+tt0923869,2007,Japanese Eyes: Best Film,,True,True,United Red Army,nm0906709,Kôji Wakamatsu,United Red Army,2011.0,Others,13545
+tt0436854,2008,Tokyo Grand Prix,,True,True,Tulpan,nm0245361,Sergei Dvortsevoy,Tulpan,2008.0,Comedy,1563550
+tt1087829,2008,Tokyo Grand Prix,,False,True,"Aide-toi, le ciel t'aidera",nm0243191,François Dupeyron,"Aide-toi, le ciel t'aidera",2009.0,Comedy,1090272
+tt1303846,2008,Tokyo Grand Prix,,False,False,Claustrophobia,nm0387306,Ivy Ho,Claustrophobia,2009.0,Drama,684697
+tt1225290,2008,Tokyo Grand Prix,,False,True,Four Nights with Anna,nm0804592,Jerzy Skolimowski,Four Nights with Anna,2008.0,Others,181246
+tt1259014,2008,Tokyo Grand Prix,,False,False,Mesrine Part 1: Killer Instinct,nm0724938,Jean-François Richet,Mesrine Part 1: Killer Instinct,2009.0,Others,37903446
+tt1277728,2008,Tokyo Grand Prix,,False,False,Mid-August Lunch,nm0223924,Gianni Di Gregorio,Mid-August Lunch,2009.0,Comedy,12058628
+tt1313008,2008,Tokyo Grand Prix,,False,False,Okean,nm3173399,Mikhail Kosyrev-Nesterov,Okean,2009.0,Others,16857
+tt1293094,2008,Tokyo Grand Prix,,False,True,School Days with a Pig,nm0535351,Tetsu Maeda,School Days with a Pig,2009.0,Comedy,110413
+tt1313153,2008,Tokyo Grand Prix,,False,False,Super Typhoon,nm0271816,Xiaoning Feng,Super Typhoon,2008.0,Others,2703316
+tt0411272,2008,Best Actor Award,,True,True,Mesrine Part 2: Public Enemy #1,nm0001993,Vincent Cassel,Mesrine Part 2: Public Enemy #1,2009.0,Others,715136
+tt0920460,2008,Asian Film Award,,True,True,Gitmek: My Marlon and Brando,nm2345855,Hüseyin Karabey,Gitmek: My Marlon and Brando,2008.0,Drama,66493
+tt0769507,2008,Asian Film Award - Special Mention,,True,True,The Sun Also Rises,nm0422638,Wen Jiang,The Sun Also Rises,2007.0,Drama,2786557
+tt1233499,2008,Asian Film Award - Special Mention,,True,True,The Way We Are,nm0401176,Ann Hui,The Way We Are,2008.0,Drama,5925
+tt1077076,2008,Earth Grand Prix,,True,True,Ashes from the Sky,nm0704424,José Antonio Quirós,Ashes from the Sky,2008.0,Drama,339865
+tt0892391,2008,Earth Grand Prix - Special Award,,True,True,Meerkats: The Movie,nm1435800,James Honeyborne,The Meerkats,2008.0,Others,4809071
+tt1426361,2009,Tokyo Grand Prix,,True,True,Eastern Plays,nm1189816,Kamen Kalev,Eastern Plays,2009.0,Drama,67825
+tt0976246,2009,Tokyo Grand Prix,,False,False,Little New York,nm0218621,James DeMonaco,Little New York,2009.0,Comedy,902182
+tt1117978,2009,Tokyo Grand Prix,,False,False,Optical Illusions,nm1825141,Cristián Jiménez,Optical Illusions,2010.0,Comedy,12436
+tt1151923,2009,Tokyo Grand Prix,,False,True,Rage,nm0179542,Sebastián Cordero,Rage,2011.0,Others,480598
+tt1538399,2009,Tokyo Grand Prix,,False,False,Snowfall in Taipei,nm0403225,Jianqi Huo,Snowfall in Taipei,2010.0,Drama,24755
+tt1526317,2009,Tokyo Grand Prix,,False,False,Southern District,nm0883741,Juan Carlos Valdivia,Southern District,2010.0,Drama,127079
+tt1364481,2009,Tokyo Grand Prix,,False,False,Ten Winters,nm2307631,Valerio Mieli,Ten Winters,2011.0,Others,795161
+tt1485698,2009,Tokyo Grand Prix,,False,False,The Dark House,nm1500530,Wojciech Smarzowski,The Dark House,2010.0,Others,1433326
+tt1287875,2009,Asian Film Award,,True,True,A Brand New Life,nm0496293,Ounie Lecomte,A Brand New Life,2010.0,Drama,199635
+tt1483799,2009,Asian Film Award,,False,False,At the End of Daybreak,nm1012525,Yuhang Ho,At the End of Daybreak,2010.0,Drama,16057
+tt1522145,2009,Asian Film Award,,False,False,Best of Times,nm0861129,Yongyoot Thongkongtoon,Best of Times,2011.0,Drama,1623768
+tt1347521,2009,Asian Film Award,,False,True,I Saw the Sun,nm1749449,Mahsun Kirmizigül,I Saw the Sun,2010.0,Drama,31226171
+tt1468337,2009,Asian Film Award,,False,False,Lifting King Kong,nm3529688,Geon-yong Park,Lifting King Kong,2009.0,Comedy,8557260
+tt1275891,2009,Asian Film Award,,False,False,Like You Know It All,nm0393254,Sang-soo Hong,Like You Know It All,2010.0,Drama,247083
+tt0886539,2009,Asian Film Award,,False,False,Luck by Chance,nm0015295,Zoya Akhtar,Luck by Chance,2009.0,Drama,5882560
+tt1494775,2009,Asian Film Award,,False,False,Metallic Attraction: Kungfu Cyborg,nm0311508,Jeffrey Lau,Metallic Attraction: Kungfu Cyborg,2009.0,Others,517769
+tt1392249,2009,Asian Film Award,,False,False,Night and Fog,nm0401176,Ann Hui,Night and Fog,2009.0,Others,186337
+tt1284587,2009,Asian Film Award,,False,False,Shirin,nm0452102,Abbas Kiarostami,Shirin,2010.0,Drama,30788
+tt1351669,2009,Asian Film Award,,False,False,Talentime,nm1379108,Yasmin Ahmad,Talentime,2010.0,Drama,9709
+tt1353157,2009,Asian Film Award,,False,False,The Blue Mansion,nm0324380,Glen Goei,The Blue Mansion,2010.0,Comedy,171497
+tt1037163,2009,Asian Film Award,,False,False,The Time That Remains,nm0837839,Elia Suleiman,The Time That Remains,2011.0,Drama,1242067
+tt1532350,2009,Japanese Eyes: Best Film,,False,False,Kimi to arukou,nm2911203,Yûya Ishii,Kimi to arukou,2010.0,Drama,2597
+tt1535103,2009,Earth Grand Prix,,True,True,Loup,nm1534640,Nicolas Vanier,Loup,2009.0,Drama,12217536
+tt1533013,2010,Tokyo Grand Prix,,False,False,Beautiful Boy,nm0473329,Shawn Ku,Beautiful Boy,2011.0,Drama,246985
+tt1233192,2010,Tokyo Grand Prix,,False,False,Brighton Rock,nm0423626,Rowan Joffe,Brighton Rock,2011.0,Others,2322230
+tt1745713,2010,Tokyo Grand Prix,,False,True,Buddha Mountain,nm1165953,Yu Li,Buddha Mountain,2012.0,Drama,11412987
+tt1706679,2010,Tokyo Grand Prix,,False,False,Et in terra pax,nm2733360,Matteo Botrugno,Et in terra pax,2010.0,Others,39784
+tt1733118,2010,Tokyo Grand Prix,,False,False,If the Seed Doesn't Die,nm1141238,Sinisa Dragin,If the Seed Doesn't Die,2010.0,Comedy,795
+tt1334260,2010,Tokyo Grand Prix,,False,False,Never Let Me Go,nm0738796,Mark Romanek,Never Let Me Go,2010.0,Drama,13908008
+tt1641397,2010,Tokyo Grand Prix,,False,True,Postcard,nm0793881,Kaneto Shindô,Postcard,2012.0,Drama,42499
+tt1668200,2010,Tokyo Grand Prix,,False,True,Sarah's Key,nm0660707,Gilles Paquet-Brenner,Sarah's Key,2011.0,Drama,44063619
+tt1313254,2010,Tokyo Grand Prix,,False,False,The Invisible Eye,nm1195308,Diego Lerman,The Invisible Eye,2011.0,Drama,124429
+tt1723118,2010,Tokyo Grand Prix,,False,True,The Piano in a Factory,nm4070848,Meng Zhang,The Piano in a Factory,2011.0,Comedy,1131867
+tt1711021,2010,Tokyo Grand Prix,,False,False,Zefir,nm2268763,Belma Bas,Zefir,2011.0,Drama,13248
+tt1733269,2010,Asian Film Award,,True,True,Reinbou,nm4100260,Su-won Shin,Reinbou,2010.0,Others,16349
+tt1361349,2010,Earth Grand Prix - Special Award,,True,True,Nanga Parbat,nm0005917,Joseph Vilsmaier,Nanga Parbat,2010.0,Others,3058526
+tt1675434,2011,Tokyo Grand Prix,,True,True,The Intouchables,nm0865918,Éric Toledano,The Intouchables,2012.0,Others,485125621
+tt2027265,2011,Tokyo Grand Prix,,False,False,A Better Life,nm0434806,Cédric Kahn,A Better Life,2012.0,Drama,3928081
+tt1602098,2011,Tokyo Grand Prix,,False,True,Albert Nobbs,nm0006554,Rodrigo García,Albert Nobbs,2011.0,Drama,9742070
+tt1683526,2011,Tokyo Grand Prix,,False,True,Detachment,nm0443411,Tony Kaye,Detachment,2011.0,Drama,2001378
+tt1682186,2011,Tokyo Grand Prix,,False,False,Headshot,nm0711579,Pen-Ek Ratanaruang,Headshot,2012.0,Others,129077
+tt2075392,2011,Tokyo Grand Prix,,False,False,Home,nm0960230,Muzaffer Özdemir,Home,2012.0,Drama,5870
+tt1376717,2011,Tokyo Grand Prix,,False,True,Play,nm1128037,Ruben Östlund,Play,2011.0,Drama,117367
+tt2075310,2011,Tokyo Grand Prix,,False,False,Sleepwalker,nm0161152,Oxide Chun Pang,Sleepwalker,2011.0,Others,510861
+tt1867566,2011,Tokyo Grand Prix,,False,True,The Woodsman and the Rain,nm3255587,Shûichi Okita,The Woodsman and the Rain,2012.0,Comedy,350823
+tt2015340,2011,Tokyo Grand Prix,,False,False,Things from Another World,nm1391054,Francesco Patierno,Things from Another World,2011.0,Comedy,6179130
+tt1836987,2011,Tokyo Grand Prix,,False,False,Trishna,nm0935863,Michael Winterbottom,Trishna,2012.0,Drama,1345294
+tt1735200,2011,Tokyo Grand Prix,,False,True,When Pigs Have Wings,nm3742814,Sylvain Estibal,When Pigs Have Wings,2011.0,Comedy,3079120
+tt1305797,2011,Asian Film Award - Special Mention,,True,True,Enthiran,nm0788171,S. Shankar,Enthiran,2010.0,Others,4544612
+tt1922736,2011,Asian Film Award - Special Mention,,True,True,Tatsumi,nm0451799,Eric Khoo,Tatsumi,2012.0,Others,64588
+tt1890472,2011,Japanese Eyes: Best Film,,True,True,About the Pink Sky,nm2796318,Keiichi Kobayashi,About the Pink Sky,2012.0,Drama,21413
+tt1683876,2011,Earth Grand Prix - Special Award,,True,True,Happy People: A Year in the Taiga,nm0001348,Werner Herzog,Happy People: A Year in the Taiga,2010.0,Others,793150
+tt2073016,2012,Tokyo Grand Prix,,True,True,The Other Son,nm0506518,Lorraine Lévy,The Other Son,2012.0,Drama,4122888
+tt2216240,2012,Tokyo Grand Prix,,False,False,A Hijacking,nm2105585,Tobias Lindholm,A Hijacking,2013.0,Drama,3443351
+tt2249712,2012,Tokyo Grand Prix,,False,True,Araf/Somewhere in Between,nm0882445,Yesim Ustaoglu,Araf/Somewhere in Between,2012.0,Drama,199053
+tt1674773,2012,Tokyo Grand Prix,,False,False,Hannah Arendt,nm0903137,Margarethe von Trotta,Hannah Arendt,2013.0,Others,10651318
+tt2059255,2012,Tokyo Grand Prix,,False,False,No,nm1883257,Pablo Larraín,No,2012.0,Drama,11094761
+tt1932767,2012,Tokyo Grand Prix,,False,False,What Maisie Knew,nm0569166,Scott McGehee,What Maisie Knew,2013.0,Drama,4144420
+tt2186873,2012,Asian Film Award,,True,True,Night of Silence,nm0959881,Reis Çelik,Night of Silence,2012.0,Drama,52856
+tt2244376,2012,Asian Film Award - Special Mention,,True,True,Bwakaw,nm0484073,Jun Lana,Bwakaw,2012.0,Drama,41384
+tt2125439,2012,Earth Grand Prix,,False,False,Bestiaire,nm1992193,Denis Côté,Bestiaire,2012.0,Others,3219
+tt2043900,2012,Earth Grand Prix,,False,False,Last Call at the Oasis,nm0950506,Jessica Yu,Last Call at the Oasis,2012.0,Others,94346
+tt1990352,2012,Earth Grand Prix,,False,False,The Island President,nm0074009,Richard Berge,The Island President,2011.0,Others,177274
+tt2364975,2013,Tokyo Grand Prix,,True,False,We Are the Best!,nm0600546,Lukas Moodysson,We Are the Best!,2014.0,Drama,1913704
+tt2265398,2013,Tokyo Grand Prix,,False,False,Drinking Buddies,nm1846132,Joe Swanberg,Drinking Buddies,2013.0,Comedy,815289
+tt3103576,2013,Tokyo Grand Prix,,False,False,Love Is the Perfect Crime,nm0488623,Arnaud Larrieu,Love Is the Perfect Crime,2014.0,Others,3133883
+tt3074732,2013,Tokyo Grand Prix,,False,True,Of Horses and Men,nm0259574,Benedikt Erlingsson,Of Horses and Men,2015.0,Comedy,272587
+tt1825157,2013,Tokyo Grand Prix,,False,False,The Double,nm1547964,Richard Ayoade,The Double,2014.0,Comedy,2014726
+tt3249158,2013,Tokyo Grand Prix,,False,True,The Empty Hours,nm1848095,Aarón Fernández Lesur,The Empty Hours,2014.0,Drama,17936
+tt2762122,2013,Tokyo Grand Prix,,False,False,Those Happy Years,nm0524516,Daniele Luchetti,Those Happy Years,2014.0,Drama,2118102
+tt0839742,2013,Asian Future Best Film Award,,False,False,Bhopal: A Prayer for Rain,nm1212237,Ravi Kumar,Bhopal: A Prayer for Rain,2014.0,Drama,27330
+tt2771800,2013,Asian Future Best Film Award,,False,False,Rigor Mortis,nm1474034,Juno Mak,Rigor Mortis,2014.0,Others,3244690
+tt3687186,2014,Tokyo Grand Prix,,True,True,Heaven Knows What,nm1343394,Josh Safdie,Heaven Knows What,2015.0,Drama,177473
+tt3346824,2014,Tokyo Grand Prix,,False,False,1001 Grams,nm0357584,Bent Hamer,1001 Grams,2014.0,Drama,206662
+tt3560492,2014,Tokyo Grand Prix,,False,True,Pale Moon,nm2469894,Daihachi Yoshida,Pale Moon,2014.0,Drama,1514151
+tt4131150,2014,Tokyo Grand Prix,,False,False,River Road,nm4772581,Ruijun Li,River Road,2015.0,Drama,5669
+tt2935564,2014,Tokyo Grand Prix,,False,False,The Connection,nm1473428,Cédric Jimenez,The Connection,2015.0,Others,13167667
+tt3958072,2014,Tokyo Grand Prix,,False,True,The Lesson,nm1571492,Kristina Grozeva,The Lesson,2015.0,Drama,80769
+tt2521188,2014,Tokyo Grand Prix,,False,True,The Mighty Angel,nm1500530,Wojciech Smarzowski,The Mighty Angel,2014.0,Drama,5719554
+tt4080598,2014,Japanese Cinema Splash Best Picture Award,,True,True,100 Yen Love,nm3118757,Masaharu Take,100 Yen Love,2015.0,Comedy,125969
+tt2168180,2015,Tokyo Grand Prix,,True,True,Nise: The Heart of Madness,nm0075644,Roberto Berliner,Nise: The Heart of Madness,2017.0,Others,814407
+tt4569240,2015,Tokyo Grand Prix,,False,False,A Monster with a Thousand Heads,nm0687751,Rodrigo Plá,A Monster with a Thousand Heads,2015.0,Drama,55567
+tt4057632,2015,Tokyo Grand Prix,,False,True,All Three of Us,nm4595176,Kheiron,All Three of Us,2015.0,Comedy,4290971
+tt2133196,2015,Tokyo Grand Prix,,False,False,Born to Be Blue,nm1519253,Robert Budreau,Born to Be Blue,2016.0,Others,2557782
+tt4518234,2015,Tokyo Grand Prix,,False,True,Cold of Kalandar,nm2583919,Mustafa Kara,Cold of Kalandar,2016.0,Drama,61915
+tt3828058,2015,Tokyo Grand Prix,,False,True,Family Film,nm2601092,Olmo Omerzu,Family Film,2016.0,Drama,120127
+tt4643844,2015,Tokyo Grand Prix,,False,True,God Willing,nm2640138,Edoardo Maria Falcone,God Willing,2015.0,Comedy,6746949
+tt3841424,2015,Tokyo Grand Prix,,False,True,Land of Mine,nm1324710,Martin Zandvliet,Land of Mine,2016.0,Drama,3888316
+tt5111844,2015,Tokyo Grand Prix,,False,False,My Original Dream,nm3903865,Jie Hao,My Original Dream,2015.0,Drama,1800254
+tt5097504,2015,Asian Future Best Film Award,,False,False,Lazy Hazy Crazy,nm4980076,Yee-sum Luk,Lazy Hazy Crazy,2015.0,Drama,193013
+tt4596408,2015,Asian Future Best Film Award,,False,False,Shoot Me in the Heart,nm7652356,Je-yong Mun,Shoot Me in the Heart,2015.0,Drama,2745608
+tt5112400,2015,Asian Future Best Film Award,,False,False,Young Love Lost,nm7652502,Guoqiang Xiang,Young Love Lost,2015.0,Comedy,485412
+tt4621472,2015,Japanese Cinema Splash Best Picture Award,,False,False,Their Distance,nm4219316,Rikiya Imaizumi,Their Distance,2016.0,Drama,241395
+tt6500276,2016,Tokyo Grand Prix,Best Film,False,False,After You're Gone,nm4243505,Anna Matison,After You're Gone,2017.0,Drama,233759
+tt6128782,2016,Tokyo Grand Prix,Best Film,False,True,Mr. No Problem,nm0576606,Feng Mei,Mr. No Problem,2016.0,Drama,1231528
+tt5287168,2016,Tokyo Grand Prix,Best Film,False,True,Sami Blood,nm1840544,Amanda Kernell,Sami Blood,2017.0,Drama,461548
+tt6135054,2016,Tokyo Grand Prix,Best Film,False,False,Shed Skin Papa,nm0844036,Roy Szeto,Shed Skin Papa,2018.0,Comedy,1322413
+tt6135034,2016,Asian Film Award,,False,False,Nirvana,nm3065653,Xiaodong Xie,Nirvana,2017.0,Others,12116
+tt6118258,2016,Asian Film Award,,False,False,The Summer Is Gone,nm7972509,Dalei Zhang,The Summer Is Gone,2017.0,Drama,655039
+tt4807830,2016,Spirit of Asia Award,,True,True,Lipstick Under My Burkha,nm2771884,Alankrita Shrivastava,Lipstick Under My Burkha,2017.0,Drama,13104
+tt4073682,2017,Tokyo Grand Prix,Best Film,True,False,Grain,nm0969427,Semih Kaplanoglu,Grain,2017.0,Drama,76681
+tt5373854,2017,Tokyo Grand Prix,Best Film,False,False,Forget About Nick,nm0903137,Margarethe von Trotta,Forget About Nick,2017.0,Comedy,43478
+tt7649320,2017,Tokyo Grand Prix,Best Film,False,True,The Looming Storm,nm9429750,Yue Dong,The Looming Storm,2017.0,Others,5143061
+tt6505968,2017,Tokyo Grand Prix,,False,True,Euthanizer,nm1630429,Teemu Nikki,Euthanizer,2019.0,Drama,12057
+tt5966600,2017,Best Actress Award,,True,True,Maryline,nm3333908,Adeline D'Hermy,Maryline,2017.0,Drama,1129528
+tt6441120,2017,Asian Future Best Film Award,Best Film,False,False,Taksim Hold'em,,[],Taksim Hold'em,2017.0,Comedy,7980
+tt8005776,2017,Japanese Cinema Splash Best Picture Award,,True,True,Of Love & Law,nm4368924,Hikaru Toda,Of Love & Law,2018.0,Others,7936
+tt5931802,2017,Tokyo Gemstone Award,,True,True,Tokyo Night Sky Is Always the Densest Shade of Blue,nm8332644,Shizuka Ishibashi,Tokyo Night Sky Is Always the Densest Shade of Blue,2017.0,Drama,62626
+tt7491144,2018,Tokyo Grand Prix,Best Film,True,True,Amanda,nm1492984,Mikhaël Hers,Amanda,2018.0,Drama,2131782
+tt4795062,2018,Tokyo Grand Prix,Best Film,False,False,His Master's Voice,nm0701650,György Pálfi,His Master's Voice,2018.0,Drama,25049
+tt9163346,2018,Tokyo Grand Prix,Best Film,False,False,Just Only Love,nm4219316,Rikiya Imaizumi,Just Only Love,2019.0,Drama,1371101
+tt7447304,2018,Tokyo Grand Prix,Best Film,False,False,Siren's Call,nm3601988,Ramin Matin,Siren's Call,2018.0,Comedy,3371
+tt5791098,2018,Tokyo Grand Prix,Best Film,False,False,Tel Aviv on Fire,nm2108295,Sameh Zoabi,Tel Aviv on Fire,2019.0,Comedy,958257
+tt7791188,2018,Tokyo Grand Prix,Best Film,False,False,The Bra,nm0375691,Veit Helmer,The Bra,2019.0,Comedy,20368
+tt7111818,2018,Tokyo Grand Prix,Best Film,False,False,The River,nm5028357,Emir Baigazin,The River,2019.0,Drama,748
+tt7247524,2018,Tokyo Grand Prix,Best Film,False,True,The Vice of Hope,nm2395887,Edoardo De Angelis,The Vice of Hope,2019.0,Drama,234474
+tt5460858,2018,Tokyo Grand Prix,Best Film,False,True,The White Crow,nm0000146,Ralph Fiennes,The White Crow,2018.0,Others,9195715
+tt9076570,2018,Tokyo Grand Prix,Best Film,False,False,Three Husbands,nm0150897,Fruit Chan,Three Husbands,2019.0,Drama,87765

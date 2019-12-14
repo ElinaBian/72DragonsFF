@@ -1,0 +1,51 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0107358,1994,Silver Screen Award,Best Asian Feature Film,False,False,The Blue Kite,nm0862514,Zhuangzhuang Tian,The Blue Kite,1994.0,Drama,617992
+tt0103935,1994,Special Jury Prize,Asian Feature Film,True,True,Rebels of the Neon God,nm0158857,Ming-liang Tsai,Rebels of the Neon God,1993.0,Others,100994
+tt0116384,1997,Silver Screen Award,Best Asian Feature Film,True,False,Gabbeh,nm0538532,Mohsen Makhmalbaf,Gabbeh,1997.0,Drama,1698219
+tt0115486,1997,Silver Screen Award,Best Asian Feature Film,False,False,Ah-chung,nm0151844,Tso-chi Chang,Zhong zi,1997.0,Drama,86
+tt0119687,1997,Silver Screen Award,Best Asian Feature Film,False,False,Suzaku,nm0442905,Naomi Kawase,Suzaku,1997.0,Drama,2799
+tt0115669,1997,Silver Screen Award,Best Asian Feature Film,False,False,The King of Masks,nm0943177,Tian-Ming Wu,The King of Masks,1997.0,Drama,3575754
+tt0118849,1998,Silver Screen Award,Best Asian Feature Film,True,False,Children of Heaven,nm0006498,Majid Majidi,Children of Heaven,1999.0,Drama,2905230
+tt0117056,1998,Special Jury Prize,,True,True,The Mirror,nm0070159,Jafar Panahi,The Mirror,1998.0,Drama,217885
+tt0177963,1999,Silver Screen Award,Best Asian Feature Film,False,False,The Flight of the Bee,nm0590846,Byung-hun Min,The Flight of the Bee,1999.0,Drama,4930
+tt0156906,1999,Silver Screen Award,Best Asian Feature Film,False,True,The Power of Kangwon Province,nm0393254,Sang-soo Hong,The Power of Kangwon Province,1999.0,Drama,12222
+tt0200689,2000,Silver Screen Award,Best Asian Feature Film,True,True,Darkness and Light,nm0151844,Tso-chi Chang,Darkness and Light,2001.0,Drama,53
+tt0189630,2000,Silver Screen Award,Best Asian Feature Film,True,False,Kadosh,nm0321159,Amos Gitai,Kadosh,1999.0,Drama,2293606
+tt0200486,2000,Silver Screen Award,Best Asian Feature Film,False,True,So Close to Paradise,nm0911075,Xiaoshuai Wang,So Close to Paradise,2001.0,Others,2097
+tt0243889,2001,Silver Screen Award,Best Asian Feature Film,True,False,Eureka,nm0031888,Shinji Aoyama,Eureka,2001.0,Drama,142048
+tt0262196,2001,Silver Screen Award,Best Asian Feature Film,False,False,19,nm0913820,Kazushi Watanabe,19,2002.0,Comedy,502121
+tt0276501,2001,Silver Screen Award,Best Asian Feature Film,False,False,Beijing Bicycle,nm0911075,Xiaoshuai Wang,Beijing Bicycle,2002.0,Drama,406892
+tt0255094,2001,Silver Screen Award,Best Asian Feature Film,False,False,The Circle,nm0070159,Jafar Panahi,The Circle,2000.0,Drama,1889650
+tt0260332,2001,Silver Screen Award,Best Asian Feature Film,False,False,The Day I Became a Woman,nm0581863,Marzieh Makhmalbaf,The Day I Became a Woman,2000.0,Comedy,440514
+tt0257939,2001,Silver Screen Award,Best Asian Feature Film,False,False,The Guava House,nm0199470,Dang Nhat Minh,The Guava House,2001.0,Drama,60861
+tt0280927,2001,Silver Screen Award,Best Asian Feature Film,False,True,This Is My Moon,nm0359491,Asoka Handagama,This Is My Moon,2001.0,Others,9392
+tt0253378,2001,Silver Screen Award,Best Asian Feature Film,False,False,Virgin Stripped Bare by Her Bachelors,nm0393254,Sang-soo Hong,Virgin Stripped Bare by Her Bachelors,2001.0,Comedy,5708
+tt0290654,2002,Silver Screen Award,Best Asian Feature Film,False,False,Hollywood Hong-Kong,nm0150897,Fruit Chan,Hollywood Hong-Kong,2002.0,Comedy,60848
+tt0298238,2002,Silver Screen Award,Best Asian Feature Film,False,False,Quitting,nm0955434,Yang Zhang,Quitting,2002.0,Others,63848
+tt0317171,2003,Young Cinema Award,,True,True,Blissfully Yours,nm0917405,Apichatpong Weerasethakul,Blissfully Yours,2002.0,Drama,26386
+tt0318025,2003,FIPRESCI/NETPAC Award - Special Mention,,True,True,Unknown Pleasures,nm0422605,Zhangke Jia,Unknown Pleasures,2002.0,Comedy,94813
+tt0346094,2004,Silver Screen Award,Best Asian Feature Film,True,False,Uzak,nm0149196,Nuri Bilge Ceylan,Distant,2003.0,Drama,569927
+tt0363303,2004,Young Cinema Award,,True,True,At Five in the Afternoon,nm0538533,Samira Makhmalbaf,At Five in the Afternoon,2003.0,Drama,711589
+tt0381668,2005,Special Jury Prize,Asian Feature Film,True,True,Tropical Malady,nm0917405,Apichatpong Weerasethakul,Tropical Malady,2004.0,Drama,125163
+tt0423277,2005,FIPRESCI/NETPAC Award,,True,True,Stray Dogs,nm0581863,Marzieh Makhmalbaf,Stray Dogs,2004.0,Drama,60386
+tt0844742,2007,Silver Screen Award,Best Asian Feature Film,True,False,Requiem from Java,nm0637838,Garin Nugroho,Requiem from Java,2008.0,Others,34415
+tt1058739,2007,NETPAC Award,,True,True,Crossing the Dust,nm2704726,Shawkat Amin Korki,Crossing the Dust,2009.0,Drama,2310
+tt0889064,2007,NETPAC Award,,True,True,Like a Virgin,nm1536498,Hae-Young Lee,Like a Virgin,2006.0,Comedy,4445692
+tt1281951,2009,Silver Screen Award,Best Asian Feature Film,True,False,Laila's Birthday,nm0556301,Rashid Masharawi,Laila's Birthday,2008.0,Drama,64259
+tt1373120,2009,Silver Screen Award,Best Performance - Asian Feature Film,True,False,Breathless,nm3344655,Ik-joon Yang,Breathless,2009.0,Others,813589
+tt1305907,2009,Silver Screen Award,Best Performance - Singapore Film,True,False,Money No Enough II,nm0497834,Mark Lee,Money No Enough II,2008.0,Comedy,5529400
+tt0918561,2009,Silver Screen Award,Best Singapore Film,True,False,Rule Number One,nm0867210,Kelvin Tong,Rule Number One,2008.0,Others,1121259
+tt1129405,2009,NETPAC Award - Special Mention,,True,True,Blind Pig Who Wants to Fly,nm1637767,Edwin,Blind Pig Who Wants to Fly,2009.0,Drama,407
+tt1347521,2010,Silver Screen Award,Best Cinematography - Asian Feature Film,True,False,I Saw the Sun,nm1387755,Soykut Turan,I Saw the Sun,2010.0,Drama,31226171
+tt1745713,2011,Silver Screen Award,Best Asian Feature Film,True,False,Buddha Mountain,nm1165953,Yu Li,Buddha Mountain,2012.0,Drama,11412987
+tt1826860,2011,Silver Screen Award,Best Cinematography - Asian Feature Film,True,False,Rolling Home with a Bull,nm4287025,Young-Joon Park,Rolling Home with a Bull,2010.0,Drama,105313
+tt3717068,2014,Silver Screen Award,Best Asian Feature Film,True,False,Court,nm4058904,Chaitanya Tamhane,Court,2015.0,Drama,86922
+tt4044970,2014,Silver Screen Award,Best Asian Feature Film,False,False,Salute! Sun Yat-Sen,nm0947140,Chih-yen Yee,Meeting Dr. Sun,2014.0,Drama,24217
+tt4780662,2015,Silver Screen Award,Best Asian Feature Film,False,False,Happy Hour,nm3152327,Ryûsuke Hamaguchi,Happy Hour,2015.0,Drama,497042
+tt3259424,2015,Silver Screen Award,Best Asian Feature Film,True,False,Kar korsanlari,nm6015400,Faruk Hacihafizoglu,Kar korsanlari,2015.0,Drama,4069
+tt4991660,2015,Silver Screen Award,Best Asian Feature Film,False,False,The Black Hen,nm5336883,Min Bahadur Bham,The Black Hen,2016.0,Others,7179
+tt4482858,2015,Silver Screen Award,Best Asian Feature Film,False,True,Tikkun,nm3844801,Avishai Sivan,Tikkun,2015.0,Drama,29364
+tt3638644,2016,Silver Screen Award,Best Asian Feature Film,True,False,White Sun,nm3581951,Deepak Rauniyar,White Sun,2017.0,Others,193514
+tt5769054,2016,Silver Screen Award,Best Asian Feature Film,False,False,Verge,nm0757556,Ayhan Salar,Verge,2016.0,Drama,250
+tt8185182,2018,Silver Screen Award,Best Asian Feature Film,False,False,Long Day's Journey into Night,nm7267981,Gan Bi,Long Day's Journey Into Night,2018.0,Drama,42971620
+tt7111818,2018,Silver Screen Award,Best Asian Feature Film,False,False,The River,nm5028357,Emir Baigazin,The River,2019.0,Drama,748

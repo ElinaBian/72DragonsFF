@@ -1,0 +1,96 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0269743,2001,FIPRESCI Prize,,True,True,Barking Dogs Never Bite,nm0094435,Joon-ho Bong,Barking Dogs Never Bite,2001.0,Others,65334
+tt0312941,2002,FIPRESCI Prize,,True,True,My Life as McDull,nm1211088,Toe Yuen,My Life as McDull,2002.0,Others,2575389
+tt0296658,2002,FIPRESCI Prize - Special Mention,,True,True,Take Care of My Cat,nm1062423,Jae-eun Jeong,Take Care of My Cat,2002.0,Drama,27812
+tt0289229,2003,Golden Firebird Award,,True,False,Hukkle,nm0701650,György Pálfi,Hukkle,2003.0,Others,258262
+tt0351299,2003,Silver Firebird Award,,True,True,Blind Shaft,nm1317258,Yang Li,Blind Shaft,2003.0,Others,137390
+tt0307913,2003,Firebird Award - Special Mention,,True,True,Abouna,nm0757958,Mahamat-Saleh Haroun,Abouna,2003.0,Drama,26393
+tt0368954,2004,Humanitarian Award (Documentary),,True,True,S21: The Khmer Rouge Killing Machine,nm0659454,Rithy Panh,S21: The Khmer Rouge Killing Machine,2003.0,Documentary,63757
+tt0336264,2004,SIGNIS Award,,True,True,Since Otar Left,nm0078465,Julie Bertuccelli,Since Otar Left,2003.0,Drama,2741543
+tt0373861,2004,SIGNIS Award - Special Mention,,True,True,The Story of the Weeping Camel,nm1389025,Byambasuren Davaa,The Story of the Weeping Camel,2004.0,Drama,14965484
+tt0436794,2005,Humanitarian Award (Documentary) - Special Mention,,True,True,Shape of the Moon,nm0720503,Leonard Retel Helmrich,Shape of the Moon,2005.0,Documentary,25286
+tt0893356,2007,Humanitarian Award (Documentary),,True,True,Nanking,nm0349702,Bill Guttentag,Nanking,2007.0,Others,2180861
+tt1073548,2008,Humanitarian Award (Documentary),Best Documentary,True,True,Yasukuni,nm0910692,Ai Wan,Yasukuni,2009.0,Documentary,4644
+tt1426381,2010,Humanitarian Award (Documentary),Best Documentary,True,True,Petition,nm2420832,Liang Zhao,Petition,2011.0,Documentary,549526
+tt1568328,2010,Humanitarian Award (Documentary) - Special Mention,,True,True,Enemies of the People,nm2215000,Rob Lemkin,Enemies of the People,2010.0,Documentary,179070
+tt1742178,2011,Humanitarian Award (Documentary),Best Documentary,False,False,Position Among the Stars,nm0720503,Leonard Retel Helmrich,Position Among the Stars,2011.0,Documentary,2191
+tt1836099,2011,FIPRESCI Prize,,True,True,Bleak Night,nm4307147,Sung-hyun Yoon,Bleak Night,2011.0,Drama,81125
+tt1872026,2011,FIPRESCI Prize,,False,False,Cure,nm0948107,Bill Yip,Cure,2011.0,Drama,5042
+tt1399683,2011,SIGNIS Award,,True,True,Winter's Bone,nm0335138,Debra Granik,Winter's Bone,2010.0,Drama,23828457
+tt1639901,2011,SIGNIS Award,,False,False,A Screaming Man,nm0757958,Mahamat-Saleh Haroun,A Screaming Man,2011.0,Drama,221510
+tt1576382,2011,SIGNIS Award,,False,False,Brother and Sister,nm0122184,Daniel Burman,Brother and Sister,2011.0,Others,2693403
+tt1714014,2011,SIGNIS Award,,False,False,Majority,nm4043787,Seren Yüce,Majority,2011.0,Drama,165470
+tt1311075,2011,SIGNIS Award,,False,True,The Human Resources Manager,nm0726954,Eran Riklis,The Human Resources Manager,2011.0,Others,543855
+tt1646979,2011,SIGNIS Award,,False,False,The Light Thief,nm0008332,Aktan Arym Kubat,The Light Thief,2011.0,Drama,130071
+tt2215363,2012,Golden Firebird Award,Documentary,False,False,Futaba kara tooku hanarete,nm1164653,Atsushi Funahashi,Futaba kara tooku hanarete,2013.0,Documentary,10877
+tt2094920,2012,Golden Firebird Award,Documentary,False,False,Putin's Kiss,nm1459798,Lise Birk Pedersen,Putin's Kiss,2012.0,Documentary,22633
+tt1890472,2012,Golden Firebird Award,Young Cinema,False,False,About the Pink Sky,nm2796318,Keiichi Kobayashi,About the Pink Sky,2012.0,Drama,21413
+tt2073058,2012,Golden Firebird Award,Young Cinema,False,False,Postcards from the Zoo,nm1637767,Edwin,Postcards from the Zoo,2013.0,Drama,3810
+tt1961179,2012,Golden Firebird Award,Young Cinema,False,False,The Woman in the Septic Tank,nm2842515,Marlon Rivera,The Woman in the Septic Tank,2011.0,Others,802663
+tt2011971,2012,SIGNIS Award,,True,True,Monsieur Lazhar,nm0265852,Philippe Falardeau,Monsieur Lazhar,2011.0,Others,9696641
+tt1931470,2012,SIGNIS Award,,False,True,Declaration of War,nm0233123,Valérie Donzelli,Declaration of War,2012.0,Drama,6719675
+tt1980935,2012,SIGNIS Award,,False,False,Gypsy,nm0838499,Martin Sulík,Gypsy,2012.0,Drama,29528
+tt1650453,2012,SIGNIS Award,,False,True,I Wish,nm0466153,Hirokazu Koreeda,I Wish,2012.0,Drama,1876132
+tt1848784,2012,SIGNIS Award,,False,False,Life Back Then,nm0955270,Takahisa Zeze,Life Back Then,2011.0,Drama,7184738
+tt2375605,2013,Golden Firebird Award,Documentary,False,False,The Act of Killing,nm1484791,Joshua Oppenheimer,The Act of Killing,2012.0,Others,1345790
+tt2741806,2013,Golden Firebird Award,Young Cinema,True,True,In Bloom,nm2206574,Nana Ekvtimishvili,In Bloom,2014.0,Drama,167507
+tt2417568,2013,FIPRESCI Prize,,False,False,Together,nm1314647,Chao-jen Hsu,Together,2013.0,Drama,5635647
+tt2738050,2013,FIPRESCI Prize,,False,False,Will You Still Love Me Tomorrow?,nm1789897,Arvin Chen,Will You Still Love Me Tomorrow?,2013.0,Others,109155
+tt1638353,2013,SIGNIS Award,,True,True,The Patience Stone,nm1680298,Atiq Rahimi,The Patience Stone,2013.0,Drama,882768
+tt1874416,2013,SIGNIS Award,,False,False,Aquí y Allá: Here and There,nm3564648,Antonio Méndez Esparza,Aquí y Allá: Here and There,2012.0,Drama,25423
+tt1733105,2013,SIGNIS Award,,False,False,Bekas,nm2545652,Karzan Kader,Bekas,2012.0,Others,531946
+tt2244376,2013,SIGNIS Award,,False,False,Bwakaw,nm0484073,Jun Lana,Bwakaw,2012.0,Drama,41384
+tt2219514,2013,SIGNIS Award,,False,False,Fill the Void,nm5112815,Rama Burshtein,Fill the Void,2012.0,Drama,5493857
+tt2300438,2013,SIGNIS Award,,False,False,Fly with the Crane,nm4772581,Ruijun Li,Fly with the Crane,2012.0,Drama,10046
+tt2315226,2013,SIGNIS Award,,False,False,The Great Passage,nm2911203,Yûya Ishii,The Great Passage,2013.0,Drama,8057850
+tt2368920,2013,SIGNIS Award,,False,False,Touch of the Light,nm2611855,Jung-chi Chang,Touch of the Light,2013.0,Drama,1562368
+tt1820488,2013,SIGNIS Award,,False,False,War Witch,nm1243740,Kim Nguyen,War Witch,2012.0,Drama,426419
+tt3263690,2014,Golden Firebird Award,Documentary,False,False,Concerning Violence,nm0648057,Göran Olsson,Concerning Violence,2014.0,Documentary,27705
+tt3469960,2014,Golden Firebird Award,Young Cinema,True,False,Macondo,nm2670854,Sudabeh Mortezai,Macondo,2014.0,Drama,49642
+tt3577190,2014,Golden Firebird Award,Young Cinema,False,False,Exit,nm1250957,Hsiang Chienn,Exit,2015.0,Others,9434
+tt2994962,2014,SIGNIS Award,,False,False,Homeland,nm5744349,Nao Kubota,Homeland,2014.0,Drama,24784
+tt2593230,2014,SIGNIS Award,,False,False,Lulu femme nue,nm0030681,Sólveig Anspach,Lulu femme nue,2014.0,Others,3221688
+tt2932606,2014,SIGNIS Award,,False,True,Siddharth,nm1416352,Richie Mehta,Siddharth,2013.0,Drama,142382
+tt3646344,2015,Golden Firebird Award,Young Cinema,True,False,Sworn Virgin,nm3053575,Laura Bispuri,Sworn Virgin,2015.0,Drama,122392
+tt4078856,2015,Golden Firebird Award,Young Cinema,False,True,Deep in the Heart,nm6810894,Yukun Xin,Deep in the Heart,2015.0,Drama,741481
+tt3858912,2015,Golden Firebird Award,Young Cinema,False,False,Goat,nm4234962,Ivan Ostrochovský,Goat,2016.0,Drama,2167
+tt4512306,2015,Golden Firebird Award,Young Cinema,False,False,Vanishing Point,nm3789048,Jakrawal Nilthamrong,Vanishing Point,2015.0,Drama,1124
+tt3828466,2015,FIPRESCI Prize,,False,False,40-Love,nm2683602,Stéphane Demoustier,40-Love,2014.0,Others,81806
+tt4108740,2015,FIPRESCI Prize,,False,False,End of Winter,nm6607191,Dae-hwan Kim,End of Winter,2014.0,Drama,11310
+tt4131150,2015,SIGNIS Award,,True,True,River Road,nm4772581,Ruijun Li,River Road,2015.0,Drama,5669
+tt2614684,2015,SIGNIS Award,,False,False,'71,nm1312919,Yann Demange,'71,2014.0,Others,3112205
+tt1800338,2015,SIGNIS Award,,False,False,Accused,nm0644309,Paula van der Oest,Accused,2015.0,Others,1370015
+tt3244512,2015,SIGNIS Award,,False,False,Charlie's Country,nm0208854,Rolf de Heer,Charlie's Country,2014.0,Drama,264664
+tt2764784,2015,SIGNIS Award,,False,True,Phoenix,nm0678857,Christian Petzold,Phoenix,2015.0,Drama,9774276
+tt5592444,2016,Golden Firebird Award,Documentary,False,False,Eldorado XXI,nm4899088,Salomé Lamas,Eldorado XXI,2016.0,Documentary,1841
+tt2338774,2016,Golden Firebird Award,Documentary,False,False,The Land of the Enlightened,nm4689260,Pieter-Jan De Pue,The Land of the Enlightened,2016.0,Documentary,656
+tt3568002,2016,Golden Firebird Award,Documentary,False,False,The Witness,nm0003833,James D. Solomon,The Witness,2016.0,Others,337817
+tt5129818,2016,Golden Firebird Award,Documentary,False,True,Under the Sun,nm0543882,Vitaliy Manskiy,Under the Sun,2016.0,Documentary,441089
+tt2953762,2016,Golden Firebird Award,Young Cinema,False,False,"I, Olga",nm2341285,Petr Kazda,"I, Olga Hepnarová",2017.0,Others,238425
+tt5474522,2016,Golden Firebird Award,Young Cinema,False,False,Old Stone,nm3534176,Johnny Ma,Old Stone,2016.0,Others,16140
+tt4543804,2016,FIPRESCI Prize,,False,False,Viaje,nm2869400,Paz Fábrega,Viaje,2015.0,Others,769
+tt3841424,2016,SIGNIS Award,,True,True,Land of Mine,nm1324710,Martin Zandvliet,Land of Mine,2016.0,Drama,3888316
+tt3828378,2016,SIGNIS Award,,False,False,A Childhood,nm1061623,Philippe Claudel,A Childhood,2015.0,Drama,11461
+tt3830162,2016,SIGNIS Award,,False,False,A War,nm2105585,Tobias Lindholm,A War,2016.0,Others,1334891
+tt4636046,2016,SIGNIS Award,,False,False,Nahid,nm5304764,Ida Panahandeh,Nahid,2015.0,Drama,155477
+tt3704050,2016,SIGNIS Award,,False,False,Remember,nm0000382,Atom Egoyan,Remember,2015.0,Drama,5856479
+tt3597510,2016,SIGNIS Award,,False,False,The White Knights,nm1050098,Joachim Lafosse,The White Knights,2015.0,Drama,1221943
+tt3754940,2016,SIGNIS Award,,False,True,Truman,nm0310747,Cesc Gay,Truman,2017.0,Others,9654941
+tt6587706,2017,Golden Firebird Award,Documentary,False,False,El mar la mar,nm4593467,Joshua Bonnetta,El mar la mar,2018.0,Documentary,18607
+tt5791536,2017,Golden Firebird Award,Young Cinema,True,False,My Happy Family,nm2206574,Nana Ekvtimishvili,My Happy Family,2017.0,Drama,444152
+tt6484982,2017,Golden Firebird Award,Young Cinema,False,True,Newton,nm3536895,Amit Masurkar,Newton,2017.0,Drama,15076
+tt4446472,2017,Golden Firebird Award,Young Cinema,False,False,Porto,nm5674075,Gabe Klinger,Porto,2017.0,Drama,128494
+tt5061162,2017,SIGNIS Award - Special Mention,,True,True,The Teacher,nm0398575,Jan Hrebejk,The Teacher,2016.0,Others,1495746
+tt6041030,2017,Audience Choice Award,,True,True,Mad World,nm5241376,Chun Wong,Mad World,2017.0,Drama,1391713
+tt8005776,2018,Golden Firebird Award,Documentary,True,False,Of Love & Law,,[],Of Love & Law,2018.0,Documentary,7936
+tt7115920,2018,Golden Firebird Award,Documentary,False,False,"Lots of Kids, a Monkey and a Castle",nm0758687,Gustavo Salmerón,"Lots of Kids, a Monkey and a Castle",2018.0,Documentary,509189
+tt7218812,2018,Golden Firebird Award,Documentary,False,False,The Other Side of Everything,nm2043219,Mila Turajlic,The Other Side of Everything,2017.0,Others,9707
+tt7955712,2018,Golden Firebird Award,Young Cinema,True,True,Girls Always Happy,nm7614958,Yang Mingming,Girls Always Happy,2018.0,Drama,20962
+tt7205208,2018,Golden Firebird Award,Young Cinema,False,False,Angels Wear White,nm2735954,Vivian Qu,Angels Wear White,2018.0,Drama,3428371
+tt7765120,2018,Golden Firebird Award,Young Cinema,False,False,Daughter of Mine,nm3053575,Laura Bispuri,Daughter of Mine,2019.0,Drama,389638
+tt6746304,2018,Golden Firebird Award,Young Cinema,False,False,Pity,nm1702672,Babis Makridis,Pity,2018.0,Drama,30912
+tt5942864,2018,Golden Firebird Award,Young Cinema,False,False,Styx,nm1625151,Wolfgang Fischer,Styx,2018.0,Drama,211167
+tt8020896,2018,Audience Choice Award,,True,True,An Elephant Sitting Still,nm9636804,Bo Hu,An Elephant Sitting Still,2019.0,Drama,72155
+tt8991268,2019,Golden Firebird Award,Documentary,False,False,Honeyland,nm9393813,Tamara Kotevska,Honeyland,2019.0,Documentary,88312
+tt8875366,2019,Firebird Award,Young Cinema Chinese Competition,False,False,The Crossing,nm10063029,Bai Xue,The Crossing,2019.0,Drama,1680108
+tt8378126,2019,Firebird Award,Young Cinema International Competition,False,False,Queen of Hearts,nm1392439,May el-Toukhy,Queen of Hearts,2019.0,Drama,283696

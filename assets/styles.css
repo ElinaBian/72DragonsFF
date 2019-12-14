@@ -1,0 +1,139 @@
+body {
+    background-color: #000000;
+    margin:5%;
+    /*width:100%;*/
+    max-width:100% !important;
+    /*margin:0;*/
+}
+
+/*#big-app-container {
+    max-width:100%;
+    display:flex;
+    flex-direction:column;
+}*/
+
+.banner {
+    height:fit-content;
+    background-color: #000000;
+    color: #f3f5f4;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    border-bottom:1px solid #1e2130;
+    padding: 1rem 5rem;
+    max-width:100%;
+}
+
+#banner-logo {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:flex-end;
+}
+
+.banner Img {
+    height:10rem;
+    margin:0px 10px;
+}
+
+.pretty_container {
+    border-radius: 5px;
+    background-color: #161a28;
+    color: #f9f9f9;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+    box-shadow: 2px 2px 2px #161a28;
+}
+
+.mini_container {
+    border-radius: 0px;
+    background-color: #161a28;
+    color: #f9f9f9;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+
+}
+
+.word-wrap {
+    overflow-wrap: break-word;
+}
+
+/* Dropdown items */
+.Select-control, .Select-multi-value-wrapper, .Select-menu-outer div {
+    background-color:#1e2130;
+}
+
+.Select-control, .Select, .Select-value-label, .Select-clear-zone {
+    color: white;
+}
+
+.Select-menu-outer {
+    background-color:#1e2130;
+    border:1px solid darkgray !important;
+}
+
+.Select-menu-outer div:hover {
+    background-color: rgba(36, 38, 51, 0.5) !important;
+    cursor: pointer;
+}
+
+/*Dropdown arrow + delete button*/
+.Select-control, .Select-control > span {
+    color: white;
+    background: #1e2130 !important;
+}
+
+.Select.is-focused:not(.is-open) > .Select-control{
+    border-color: #91dfd2 !important;
+}
+
+/*Placeholder*/
+.Select.has-value.Select--single > .Select-control .Select-value .Select-value-label, .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value .Select-value-label {
+    color: white !important;
+}
+
+/*Placeholder*/
+.Select--single > .Select-control .Select-value, .Select-placeholder {
+  /*border: 1px solid darkgray;*/
+  border-radius: 4px;
+  background-color: #1e2130;
+  cursor: pointer;
+}
+
+.Select.is-focused:not(.is-open) > .Select-control {
+  border-color: #91dfd2 !important;
+}
+
+/*Tabs*/
+.custom-tabs {
+    background-color:#161a28;
+    text-transform:uppercase;
+}
+
+#Drama.custom-tab, #Documentary.custom-tab, #Comedy.custom-tab, #ComedyDrama.custom-tab, #DramaThriller.custom-tab, #Biography.custom-tab, #Crime.custom-tab, #Others.custom-tab, #Foreign.custom-tab, #Romance.custom-tab, #Unknown.custom-tab, #Adventure.custom-tab, #Thriller.custom-tab, #Action.custom-tab,  #Horror.custom-tab {
+    background-color:#1e2130;
+    color: inherit;
+    letter-spacing:1px;
+    /*border:1px #1E2130;
+    border-bottom: #1E2130 solid 4px !important;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin:3px;
+}
+
+#Drama.custom-tab--selected {
+    border-bottom: #91dfd2 solid 4px !important;
+}
+
+.VirtualizedSelectOption {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    scrollbar-color: dark;
+}

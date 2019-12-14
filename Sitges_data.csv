@@ -1,0 +1,564 @@
+tconst,Year,awardName,categoryName,isWinner,otherAwards,primaryNominees,nconst,secondaryNominees,Name,releaseYear,Genre1,AdjustedTotalGross
+tt0072750,1976,Medalla Sitges en Plata de Ley,Best Special Effects,True,True,Bug,nm0179811,Phil Cory,Bug,1975.0,Horror,34346633
+tt0083907,1982,Clavell de Plata,Best Special Effects,True,True,The Evil Dead,nm0838385,Tom Sullivan,The Evil Dead,1983.0,Horror,13718446
+tt0087075,1984,Caixa de Catalunya,Best Film,True,True,The Company of Wolves,nm0001403,Neil Jordan,The Company of Wolves,1985.0,Drama,20985697
+tt0087004,1984,Caixa de Catalunya,Best Screenplay,True,True,The Brother from Another Planet,nm0000626,John Sayles,The Brother from Another Planet,1984.0,Comedy,17899112
+tt0089885,1985,Caixa de Catalunya,Best Film,True,True,Re-Animator,nm0002340,Stuart Gordon,Re-Animator,1985.0,Comedy,9513880
+tt0089489,1985,Caixa de Catalunya,Best Special Effects,True,True,Lifeforce,nm0004375,John Dykstra,Lifeforce,1985.0,Action,55116407
+tt0090756,1986,Caixa de Catalunya,Best Cinematography,True,True,Blue Velvet,nm0005695,Frederick Elmes,Blue Velvet,1986.0,Drama,39813163
+tt0091083,1986,Caixa de Catalunya,Best Original Soundtrack,True,True,From Beyond,nm0051659,Richard Band,From Beyond,1986.0,Horror,5843083
+tt0092991,1987,Best Film,,False,False,Evil Dead II,nm0000600,Sam Raimi,Evil Dead II,1987.0,Comedy,27004853
+tt0093177,1987,Best Film,,False,False,Hellraiser,nm0000850,Clive Barker,Hellraiser,1987.0,Horror,64751907
+tt0093092,1987,Best Film,,False,True,Julia and Julia,nm0215659,Peter Del Monte,Julia and Julia,1988.0,Drama,3971409
+tt0093870,1987,Best Film,,False,True,RoboCop,nm0000682,Paul Verhoeven,RoboCop,1987.0,Action,239939725
+tt0093185,1987,Best Film,,False,True,The Hidden,nm0794791,Jack Sholder,The Hidden,1987.0,Action,43210387
+tt0094035,1987,Best Film,,False,True,The Stepfather,nm0747849,Joseph Ruben,The Stepfather,1987.0,Horror,11206916
+tt0095709,1988,Best Film,,True,False,The Navigator: A Medieval Odyssey,nm0911910,Vincent Ward,The Navigator: A Medieval Odyssey,1989.0,Action,5572237
+tt0095742,1988,Best Film,,False,True,A Nightmare on Elm Street 4: The Dream Master,nm0001317,Renny Harlin,A Nightmare on Elm Street 4: The Dream Master,1988.0,Horror,212039982
+tt0097074,1988,Best Film,,False,False,Cohen and Tate,nm0714599,Eric Red,Cohen and Tate,1989.0,Others,271066
+tt0094919,1988,Best Film,,False,True,Critters 2,nm0308376,Mick Garris,Critters 2,1988.0,Comedy,16643542
+tt0094934,1988,Best Film,,False,True,Da,nm0164273,Matt Clark,Da,1988.0,Drama,2779896
+tt0095294,1988,Best Film,,False,False,Hellbound: Hellraiser II,nm0709752,Tony Randel,Hellbound: Hellraiser II,1988.0,Horror,51282375
+tt0095652,1988,Best Film,,False,True,Monkey Shines,nm0001681,George A. Romero,Monkey Shines,1988.0,Drama,23051408
+tt0093668,1988,Special Mention,,True,True,Pathfinder,nm0310168,Nils Gaup,Pathfinder,1989.0,Action,526503
+tt0095286,1989,Best Film,,True,False,Heart of Midnight,nm0152466,Matthew Chapman,Heart of Midnight,1989.0,Drama,236690
+tt0097889,1989,Best Film,,False,True,Miracle Mile,nm0208923,Steve De Jarnatt,Miracle Mile,1989.0,Action,4728686
+tt0097108,1989,Best Film,,False,True,"The Cook, the Thief, His Wife & Her Lover",nm0000425,Peter Greenaway,"The Cook, the Thief, His Wife & Her Lover",1990.0,Others,30628888
+tt0098577,1989,Best Film,,False,True,Vampire's Kiss,nm0081590,Robert Bierman,Vampire's Kiss,1988.0,Comedy,3093585
+tt0099763,1990,Best Film,,True,True,Henry: Portrait of a Serial Killer,nm0573796,John McNaughton,Henry: Portrait of a Serial Killer,1990.0,Others,2349189
+tt0099365,1990,Best Film,,False,True,Darkman,nm0000600,Sam Raimi,Darkman,1990.0,Action,160702027
+tt0099740,1990,Best Film,,False,False,Hardware,nm0822582,Richard Stanley,Hardware,1990.0,Others,22065146
+tt0100469,1990,Best Film,,False,True,The Reflecting Skin,nm0726000,Philip Ridley,The Reflecting Skin,1991.0,Drama,64044
+tt0101829,1991,Best Film,,True,True,Europa,nm0001885,Lars von Trier,Europa,1992.0,Drama,3691138
+tt0101917,1991,Best Film,,False,False,Freddy's Dead: The Final Nightmare,nm0003080,Rachel Talalay,Freddy's Dead: The Final Nightmare,1991.0,Others,129904931
+tt0102687,1991,Best Film,,False,True,Poison,nm0001331,Todd Haynes,Poison,1991.0,Drama,2989417
+tt0103129,1991,Best Film,,False,True,Truly Madly Deeply,nm0005237,Anthony Minghella,Truly Madly Deeply,1991.0,Comedy,5860047
+tt0103905,1992,Best Film,,True,True,Man Bites Dog,nm0069715,Rémy Belvaux,Man Bites Dog,1993.0,Comedy,736784
+tt0106308,1992,Best Film,,False,False,Army of Darkness,nm0000600,Sam Raimi,Army of Darkness,1993.0,Comedy,41084032
+tt0103873,1992,Best Film,,False,True,Dead Alive,nm0001392,Peter Jackson,Dead Alive,1993.0,Comedy,866552
+tt0105236,1992,Best Film,,False,True,Reservoir Dogs,nm0000233,Quentin Tarantino,Reservoir Dogs,1992.0,Others,10532387
+tt0105569,1992,Best Film,,False,True,Tetsuo II: Body Hammer,nm0875354,Shin'ya Tsukamoto,Tetsuo II: Body Hammer,1997.0,Horror,4052
+tt0107756,1993,Best Film,,True,False,Orlando,nm0006845,Sally Potter,Orlando,1993.0,Others,19033876
+tt0104029,1993,Best Film,,False,True,Cronos,nm0868219,Guillermo del Toro,Cronos,1994.0,Horror,2153159
+tt0106709,1993,Best Film,,False,True,Desperate Remedies,nm0537695,Stewart Main,Desperate Remedies,1994.0,Comedy,120830
+tt0106963,1993,Best Film,,False,False,Frauds,nm0254632,Stephan Elliott,Frauds,1993.0,Comedy,973
+tt0109838,1993,Best Film,,False,False,Freaked,nm0827868,Tom Stern,Freaked,1993.0,Comedy,103979
+tt0108069,1993,Best Film,,False,True,The Secret Adventures of Tom Thumb,nm0097529,Dave Borthwick,The Secret Adventures of Tom Thumb,1995.0,Others,239535
+tt0108260,1994,Best Film,,False,True,Suture,nm0569166,Scott McGehee,Suture,1994.0,Drama,359305
+tt0110475,1994,Best Film,,False,True,The Mask,nm0751080,Chuck Russell,The Mask,1994.0,Comedy,811971287
+tt0111438,1994,Best Film,,False,False,Timecop,nm0001382,Peter Hyams,Timecop,1994.0,Action,250587840
+tt0113303,1995,Best Film,,False,False,Hideaway,nm0502577,Brett Leonard,Hideaway,1995.0,Others,41188986
+tt0113855,1995,Best Film,,False,False,Mortal Kombat,nm0027271,Paul W.S. Anderson,Mortal Kombat,1995.0,Action,321983824
+tt0110604,1995,Best Film,,False,False,Mute Witness,nm0909026,Anthony Waller,Mute Witness,1995.0,Others,3756188
+tt0110620,1995,Best Film,,False,True,Nadja,nm0021899,Michael Almereyda,Nadja,1995.0,Drama,1478471
+tt0114303,1995,Best Film,,False,True,Rough Magic,nm0672543,Clare Peploe,Rough Magic,1997.0,Comedy,789156
+tt0114323,1995,Best Film,,False,False,Safe,nm0001331,Todd Haynes,Safe,1995.0,Drama,1716763
+tt0114508,1995,Best Film,,False,True,Species,nm0002044,Roger Donaldson,Species,1995.0,Action,290651423
+tt0112716,1995,Best Film,,False,True,The Convent,nm0210701,Manoel de Oliveira,The Convent,1995.0,Drama,87583
+tt0114852,1995,Best Film,,False,False,Village of the Damned,nm0000118,John Carpenter,Village of the Damned,1995.0,Horror,31689853
+tt0114857,1995,Best Film,,False,False,Virtuosity,nm0502577,Brett Leonard,Virtuosity,1995.0,Action,80383718
+tt0109575,1995,Best Actor,,False,False,Death Machine,nm0000374,Brad Dourif,Death Machine,1995.0,Action,7572928
+tt0114134,1996,Best Film,,True,True,The Pillow Book,nm0000425,Peter Greenaway,The Pillow Book,1997.0,Drama,7565190
+tt0115994,1996,Best Film,,False,False,Curdled,nm0102929,Reb Braddock,Curdled,1996.0,Comedy,160713
+tt0116136,1996,Best Film,,False,False,DragonHeart,nm0003418,Rob Cohen,DragonHeart,1996.0,Action,271923225
+tt0116384,1996,Best Film,,False,True,Gabbeh,nm0538532,Mohsen Makhmalbaf,Gabbeh,1997.0,Drama,1698219
+tt0113568,1996,Best Film,,False,False,Ghost in the Shell,nm0651900,Mamoru Oshii,Ghost in the Shell,1996.0,Action,1693493
+tt0116502,1996,Best Film,,False,True,Head Above Water,nm0933604,Jim Wilson,Head Above Water,1997.0,Comedy,102703
+tt0113542,1996,Best Film,,False,True,Killer: A Journal of Murder,nm0582481,Tim Metcalfe,Killer: A Journal of Murder,1996.0,Others,265682
+tt0117008,1996,Best Film,,False,False,Matilda,nm0000362,Danny DeVito,Matilda,1996.0,Comedy,108715662
+tt0115571,1996,Best Film,,False,False,The Arrival,nm0878638,David Twohy,The Arrival,1996.0,Others,45898545
+tt0116365,1996,Best Film,,False,True,The Frighteners,nm0001392,Peter Jackson,The Frighteners,1996.0,Comedy,75066707
+tt0119177,1997,Best Film,,True,True,Gattaca,nm0629272,Andrew Niccol,Gattaca,1997.0,Drama,39637699
+tt0116361,1997,Best Film,,False,True,Freeway,nm0109165,Matthew Bright,Freeway,1996.0,Comedy,978143
+tt0116783,1997,Best Film,,False,False,Kissed,nm0832369,Lynne Stopkewich,Kissed,1997.0,Drama,1050302
+tt0119506,1997,Best Film,,False,True,Lawn Dogs,nm0241090,John Duigan,Lawn Dogs,1998.0,Drama,334045
+tt0119675,1997,Best Film,,False,False,Mimic,nm0868219,Guillermo del Toro,Mimic,1997.0,Horror,80988659
+tt0119809,1997,Best Film,,False,False,Nowhere,nm0000777,Gregg Araki,Nowhere,1997.0,Comedy,619958
+tt0120177,1997,Best Film,,False,True,Spawn,nm0228147,Mark A.Z. Dippé,Spawn,1997.0,Action,226799194
+tt0120357,1997,Best Film,,False,False,Touch,nm0001707,Paul Schrader,Touch,1997.0,Comedy,1239532
+tt0120524,1997,Best Film,,False,False,Wishmaster,nm0476071,Robert Kurtzman,Wishmaster,1997.0,Others,49900880
+tt0123755,1998,Best Film,,True,True,Cube,nm0622112,Vincenzo Natali,Cube,1998.0,Drama,1688174
+tt0120694,1998,Best Film,,False,False,Halloween H20: 20 Years Later,nm0591171,Steve Miner,Halloween H20: 20 Years Later,1998.0,Horror,172164088
+tt0157016,1998,Best Film,,False,True,I Stand Alone,nm0637615,Gaspar Noé,I Stand Alone,1998.0,Others,21727
+tt0133122,1998,Best Film,,False,False,New Rose Hotel,nm0001206,Abel Ferrara,New Rose Hotel,1998.0,Drama,67068
+tt0122718,1998,Best Film,,False,True,Small Soldiers,nm0001102,Joe Dante,Small Soldiers,1998.0,Action,171250190
+tt0144646,1998,Best Film,,False,True,Toto Who Lived Twice,nm0162668,Daniele Ciprì,Toto Who Lived Twice,1998.0,Comedy,13210
+tt0138590,1998,Gran Angular Award,Best Film,True,True,Twice Upon a Yesterday,nm0728048,Maria Ripoll,Twice Upon a Yesterday,1999.0,Comedy,11443754
+tt0178868,1999,Best Film,,True,True,Ringu,nm0620378,Hideo Nakata,Ringu,2003.0,Horror,81854
+tt0205735,1999,Best Film,,False,True,Criminal Lovers,nm0654830,François Ozon,Criminal Lovers,2000.0,Others,74638
+tt0218553,1999,Best Film,,False,False,Ringu 2,nm0620378,Hideo Nakata,Ringu 2,2005.0,Horror,85337
+tt0161977,1999,Best Film,,False,True,Simon Magus,nm0394114,Ben Hopkins,Simon Magus,2000.0,Drama,123719
+tt0118736,1999,Best Film,,False,False,Six-String Samurai,nm0612812,Lance Mungia,Six-String Samurai,1998.0,Action,456503
+tt0138304,1999,Best Film,,False,False,The Astronaut's Wife,nm0712444,Rand Ravich,The Astronaut's Wife,1999.0,Drama,46294032
+tt0185937,1999,Best Film,,False,True,The Blair Witch Project,nm0617130,Daniel Myrick,The Blair Witch Project,1999.0,Horror,596602940
+tt0222368,1999,Best Film,,False,True,The Nameless,nm0049371,Jaume Balagueró,The Nameless,2005.0,Drama,5127093
+tt0201721,1999,Best Film,,False,False,The Ugliest Woman in the World,nm0054221,Miguel Bardem,The Ugliest Woman in the World,1999.0,Comedy,2096
+tt0120907,1999,Best Film,,False,False,eXistenZ,nm0000343,David Cronenberg,eXistenZ,1999.0,Horror,8784922
+tt0167926,1999,Gran Angular Award,,True,True,The Children of the Marshland,nm0065449,Jean Becker,The Children of the Marshland,2000.0,Comedy,966714
+tt0120894,1999,Grand Prize of European Fantasy Film in Gold,,False,False,Immortality,nm0502987,Po-Chih Leong,Immortality,2000.0,Others,119927
+tt0122515,1999,Grand Prize of European Fantasy Film in Gold,,False,False,The Acid House,nm0006476,Paul McGuigan,The Acid House,1999.0,Comedy,221138
+tt0230169,2000,Best Film,,True,True,Ed Gein,nm0661257,Chuck Parello,Ed Gein,2001.0,Others,8208
+tt0144084,2000,Best Film,,False,False,American Psycho,nm0366004,Mary Harron,American Psycho,2000.0,Others,73601477
+tt0236638,2000,Best Film,,False,True,Deep in the Woods,nm0217803,Lionel Delplanque,Deep in the Woods,2000.0,Horror,538195
+tt0221928,2000,Best Film,,False,False,Seven Days to Live,nm0631093,Sebastian Niemann,Seven Days to Live,2001.0,Drama,974400
+tt0189998,2000,Best Film,,False,True,Shadow of the Vampire,nm0580729,E. Elias Merhige,Shadow of the Vampire,2001.0,Drama,28384651
+tt0150216,2000,Gran Angular Award,Best Film,True,True,Cradle Will Rock,nm0000209,Tim Robbins,Cradle Will Rock,2000.0,Drama,8917438
+tt0209144,2000,Prize of the Catalan Screenwriter's Critic and Writer's Association,,True,True,Memento,nm0634240,Christopher Nolan,Memento,2001.0,Others,93860987
+tt0259929,2001,Best Film,,False,False,A Christmas Carol,nm0613471,Jimmy T. Murakami,A Christmas Carol,2003.0,Others,368092
+tt0267287,2001,Best Film,,False,True,Avalon,nm0651900,Mamoru Oshii,Avalon,2001.0,Action,647188
+tt0266308,2001,Best Film,,False,False,Battle Royale,nm0297935,Kinji Fukasaku,Battle Royale,2001.0,Others,1390849
+tt0237534,2001,Best Film,,False,True,Brotherhood of the Wolf,nm0304521,Christophe Gans,Brotherhood of the Wolf,2002.0,Action,117875467
+tt0264508,2001,Best Film,,False,False,Dagon,nm0002340,Stuart Gordon,Dagon,2002.0,Others,205809
+tt0246578,2001,Best Film,,False,True,Donnie Darko,nm0446819,Richard Kelly,Donnie Darko,2001.0,Drama,8266307
+tt0299873,2001,Best Film,,False,True,Fausto 5.0,nm0647303,Àlex Ollé,Fausto 5.0,2003.0,Drama,46097
+tt0228333,2001,Best Film,,False,False,Ghosts of Mars,nm0000118,John Carpenter,Ghosts of Mars,2001.0,Action,32710823
+tt0263488,2001,Best Film,,False,False,Jeepers Creepers,nm0759207,Victor Salva,Jeepers Creepers,2001.0,Horror,140048190
+tt0280645,2001,Best Film,,False,False,La biblia negra,nm0700242,David Pujol,La biblia negra,2002.0,Others,105744
+tt0293416,2001,Best Film,,False,False,Metropolis,nm0727336,Rintaro,Metropolis,2002.0,Others,6865776
+tt0166924,2001,Best Film,,False,False,Mulholland Drive,nm0000186,David Lynch,Mulholland Dr.,2001.0,Drama,39331382
+tt0248190,2001,Best Film,,False,False,No Such Thing,nm0001325,Hal Hartley,No Such Thing,2002.0,Comedy,179235
+tt0286751,2001,Best Film,,False,True,Pulse,nm0475905,Kiyoshi Kurosawa,Pulse,2005.0,Horror,478339
+tt0261983,2001,Best Film,,False,True,Session 9,nm0026442,Brad Anderson,Session 9,2001.0,Horror,2865643
+tt0242527,2001,Best Film,,False,False,The Hole,nm0358327,Nick Hamm,The Hole,2003.0,Drama,10790212
+tt0235618,2001,Best Film,,False,False,The Nine Lives of Tomas Katz,nm0394114,Ben Hopkins,The Nine Lives of Tomas Katz,2001.0,Comedy,12387
+tt0204700,2001,Best Film,,False,False,Trouble Every Day,nm0219136,Claire Denis,Trouble Every Day,2001.0,Drama,35667
+tt0291350,2001,Orient Express Award,,True,True,Millennium Actress,nm0464804,Satoshi Kon,Millennium Actress,2002.0,Others,106464
+tt0256524,2001,Gran Angular Award,Best Film,True,True,The Curse of the Jade Scorpion,nm0000095,Woody Allen,The Curse of the Jade Scorpion,2001.0,Comedy,38053613
+tt0293113,2002,Best Film,,True,False,Dracula: Pages from a Virgin's Diary,nm0534665,Guy Maddin,Dracula: Pages from a Virgin's Diary,2003.0,Horror,155733
+tt0310313,2002,Best Film,,False,False,A New Life,nm0334930,Philippe Grandrieux,A New Life,2002.0,Drama,25917
+tt0284929,2002,Best Film,,False,False,Bundy,nm0109165,Matthew Bright,Ted Bundy,2002.0,Others,105592
+tt0303816,2002,Best Film,,False,True,Cabin Fever,nm0744834,Eli Roth,Cabin Fever,2003.0,Horror,71354164
+tt0284978,2002,Best Film,,False,True,Cypher,nm0622112,Vincenzo Natali,Cypher,2005.0,Others,1168917
+tt0308379,2002,Best Film,,False,True,Dark Water,nm0620378,Hideo Nakata,Dark Water,2002.0,Drama,2044928
+tt0273517,2002,Best Film,,False,False,Darkness,nm0049371,Jaume Balagueró,Darkness,2004.0,Horror,75357632
+tt0286306,2002,Best Film,,False,False,Deathwatch,nm1068186,M.J. Bassett,Deathwatch,2004.0,Drama,3058840
+tt0284034,2002,Best Film,,False,True,Demonlover,nm0000801,Olivier Assayas,Demonlover,2003.0,Drama,959022
+tt0280609,2002,Best Film,,False,False,Dog Soldiers,nm0551076,Neil Marshall,Dog Soldiers,2002.0,Action,5009677
+tt0295254,2002,Best Film,,False,False,Feardotcom,nm0540532,William Malone,Feardotcom,2002.0,Others,45481411
+tt0280665,2002,Best Film,,False,False,Femme Fatale,nm0000361,Brian De Palma,Femme Fatale,2002.0,Others,33080515
+tt0302280,2002,Best Film,,False,False,I Murder Seriously,nm0882100,Antonio Urrutia,I Murder Seriously,2002.0,Comedy,4264210
+tt0303361,2002,Best Film,,False,True,May,nm1031246,Lucky McKee,May,2002.0,Drama,598288
+tt0280969,2002,Best Film,,False,False,My Little Eye,nm0263009,Marc Evans,My Little Eye,2004.0,Horror,9180102
+tt0289765,2002,Best Film,,False,False,Red Dragon,nm0711840,Brett Ratner,Red Dragon,2002.0,Others,426166385
+tt0253556,2002,Best Film,,False,True,Reign of Fire,nm0101385,Rob Bowman,Reign of Fire,2002.0,Action,177666398
+tt0318034,2002,Best Film,,False,False,Russian Ark,nm0812546,Aleksandr Sokurov,Russian Ark,2002.0,Drama,16546718
+tt0303021,2002,Best Film,,False,True,Second Name,nm0687042,Paco Plaza,Second Name,2003.0,Horror,1452459
+tt0278731,2002,Best Film,,False,True,Spider,nm0000343,David Cronenberg,Spider,2002.0,Drama,10520422
+tt0245429,2002,Best Film,,False,True,Spirited Away,nm0594503,Hayao Miyazaki,Spirited Away,2003.0,Others,499923981
+tt0325655,2002,Best Film,,False,True,The Eye,nm0161152,Oxide Chun Pang,The Eye,2003.0,Horror,17587397
+tt0351867,2002,Best Film,,False,False,Thirteen Chimes,nm0898178,Xavier Villaverde,Thirteen Chimes,2003.0,Others,651397
+tt0365608,2002,Best Film,,False,False,Witchery Deal,nm0255546,Javier Elorrieta,Witchery Deal,2003.0,Horror,233355
+tt0307213,2002,Orient Express Award,,True,True,Bad Guy,nm1104118,Ki-duk Kim,Bad Guy,2005.0,Drama,82739
+tt0283476,2002,Audience Award,Best Animated Feature,True,True,Mercano the Martian,nm1010601,Juan Antin,Mercano the Martian,2005.0,Others,10279
+tt0363226,2003,Best Film,,True,True,The Blind Swordsman: Zatoichi,nm0001429,Takeshi Kitano,The Blind Swordsman: Zatoichi,2004.0,Action,48729478
+tt0365376,2003,Best Film,,False,False,A Tale of Two Sisters,nm0453518,Jee-woon Kim,A Tale of Two Sisters,2003.0,Drama,1544052
+tt0267248,2003,Best Film,,False,False,Abandon,nm0300866,Stephen Gaghan,Abandon,2002.0,Drama,32461364
+tt0354490,2003,Best Film,,False,False,Ballroom,nm0076349,Patrick-Mario Bernard,Ballroom,2003.0,Drama,26916
+tt0384055,2003,Best Film,,False,False,Dragon Head,nm0407332,Jôji Iida,Dragon Head,2004.0,Drama,11729786
+tt0361668,2003,Best Film,,False,True,Gozu,nm0586281,Takashi Miike,Gozu,2004.0,Others,157058
+tt0338095,2003,Best Film,,False,True,High Tension,nm0014960,Alexandre Aja,High Tension,2005.0,Horror,13103271
+tt0367913,2003,Best Film,,False,False,Ju-On: The Grudge 2,nm1234345,Takashi Shimizu,Ju-On: The Grudge 2,2005.0,Drama,3520707
+tt0368909,2003,Best Film,,False,True,Ong-Bak: The Thai Warrior,nm1272773,Prachya Pinkaew,Ong-Bak: The Thai Warrior,2005.0,Action,32877613
+tt0343524,2003,Best Film,,False,False,That Day,nm0749914,Raoul Ruiz,That Day,2003.0,Comedy,485416
+tt0301730,2003,Best Film,,False,False,The Pharmacist,nm0891556,Jean Veber,The Pharmacist,2003.0,Others,1930279
+tt0314676,2003,Best Film,,False,True,The Singing Detective,nm0330360,Keith Gordon,The Singing Detective,2003.0,Comedy,1086886
+tt0324216,2003,Best Film,,False,True,The Texas Chainsaw Massacre,nm1197971,Marcus Nispel,The Texas Chainsaw Massacre,2003.0,Horror,259601354
+tt0315110,2003,Best Film,,False,True,Twentynine Palms,nm0241622,Bruno Dumont,Twentynine Palms,2004.0,Drama,302473
+tt0339840,2003,Best Film,,False,False,Undead,nm1294962,Peter Spierig,Undead,2005.0,Action,364587
+tt0358345,2003,Best Film,,False,True,Uninvited,nm0498270,Soo-youn Lee,Uninvited,2006.0,Drama,114382
+tt0326036,2003,Best Film,,False,False,Who Killed Bambi?,nm0545382,Gilles Marchand,Who Killed Bambi?,2004.0,Drama,1342585
+tt0295700,2003,Best Film,,False,False,Wrong Turn,nm0003343,Rob Schmidt,Wrong Turn,2003.0,Horror,61372414
+tt0388473,2003,Best Animated Feature Film,,True,True,Tokyo Godfathers,nm0464804,Satoshi Kon,Tokyo Godfathers,2003.0,Others,477764
+tt0266697,2003,Audience Award,Best Feature Film,True,True,Kill Bill: Vol. 1,nm0000233,Quentin Tarantino,Kill Bill: Vol. 1,2003.0,Action,346713837
+tt0355683,2003,Official Fantàstic European Selection Méliès d'Argent,Best Feature Film,False,False,The Child I Never Was,,[],The Child I Never Was,2003.0,Others,7258
+tt0364569,2004,Best Film,,True,True,Oldboy,nm0661791,Chan-wook Park,Oldboy,2005.0,Action,21033440
+tt0373690,2004,Best Film,,False,False,Adventures of Arsene Lupin,nm0758933,Jean-Paul Salomé,Arsène Lupin,2005.0,Action,12686826
+tt0337876,2004,Best Film,,False,True,Birth,nm0322242,Jonathan Glazer,Birth,2004.0,Drama,38848289
+tt0414931,2004,Best Film,,False,True,Breaking News,nm0864775,Johnnie To,Breaking News,2006.0,Action,1354957
+tt0345061,2004,Best Film,,False,True,Code 46,nm0935863,Michael Winterbottom,Code 46,2004.0,Drama,1607952
+tt0363095,2004,Best Film,,False,False,Freeze Frame,nm0801055,John Simpson,Freeze Frame,2004.0,Others,54739
+tt0347246,2004,Best Film,,False,True,Ghost in the Shell 2: Innocence,nm0651900,Mamoru Oshii,Ghost in the Shell 2: Innocence,2004.0,Others,14578679
+tt0347149,2004,Best Film,,False,True,Howl's Moving Castle,nm0594503,Hayao Miyazaki,Howl's Moving Castle,2005.0,Others,317466163
+tt0390384,2004,Best Film,,False,False,Primer,nm1503403,Shane Carruth,Primer,2004.0,Drama,1338723
+tt0387575,2004,Best Film,,False,False,Seed of Chucky,nm0238841,Don Mancini,Seed of Chucky,2004.0,Comedy,56077902
+tt0364343,2004,Best Film,,False,False,The Final Cut,nm0619715,Omar Naim,The Final Cut,2004.0,Drama,5051684
+tt0391198,2004,Best Film,,False,False,The Grudge,nm1234345,Takashi Shimizu,The Grudge,2004.0,Horror,398435980
+tt0361862,2004,Best Film,,False,True,The Machinist,nm0026442,Brad Anderson,The Machinist,2004.0,Drama,12469815
+tt0420251,2004,Best Film,,False,True,Three... Extremes,nm0150897,Fruit Chan,Three... Extremes,2005.0,Horror,796610
+tt0348121,2004,Best Animated Feature Film,,True,True,Steamboy,nm0960028,Katsuhiro Ôtomo,Steamboy,2005.0,Action,14990560
+tt0413893,2004,Orient Express Award - Special Mention,,True,True,The Taste of Tea,nm0411002,Katsuhito Ishii,The Taste of Tea,2004.0,Comedy,28545
+tt0424136,2005,Best Film,,True,True,Hard Candy,nm1720541,David Slade,Hard Candy,2006.0,Others,10205241
+tt0456912,2005,Best Film,,False,True,A Bittersweet Life,nm0453518,Jee-woon Kim,A Bittersweet Life,2006.0,Action,12783860
+tt0434008,2005,Best Film,,False,True,Election,nm0864775,Johnnie To,Election,2007.0,Others,2723606
+tt0428856,2005,Best Film,,False,True,La moustache,nm0141127,Emmanuel Carrère,La moustache,2005.0,Drama,4220059
+tt0451094,2005,Best Film,,False,True,Lady Vengeance,nm0661791,Chan-wook Park,Lady Vengeance,2005.0,Others,30878079
+tt0415932,2005,Best Film,,False,False,Lemming,nm0596962,Dominik Moll,Lemming,2005.0,Drama,1125159
+tt0366780,2005,Best Film,,False,True,Mirrormask,nm0571098,Dave McKean,Mirrormask,2005.0,Others,2323648
+tt0429078,2005,Best Film,,False,True,Seven Swords,nm0007139,Hark Tsui,Seven Swords,2005.0,Action,4542437
+tt0411267,2005,Best Film,,False,False,The Dark,nm0269502,John Fawcett,The Dark,2006.0,Drama,8346067
+tt0425661,2005,Best Film,,False,False,The Great Yokai War,nm0586281,Takashi Miike,The Great Yokai War,2005.0,Others,20253323
+tt0342882,2005,Best Film,,False,True,The Piano Tuner of EarthQuakes,nm0703028,Stephen Quay,The Piano Tuner of EarthQuakes,2006.0,Drama,73864
+tt0445760,2005,Best Film,,False,True,The Wayward Cloud,nm0158857,Ming-liang Tsai,The Wayward Cloud,2005.0,Comedy,465625
+tt0443693,2005,Best Film,,False,True,The Wild Blue Yonder,nm0001348,Werner Herzog,The Wild Blue Yonder,2006.0,Others,8735
+tt0398237,2005,Best Animated Feature Film,,True,True,The District,nm1556095,Áron Gauder,The District,2007.0,Others,243069
+tt0462703,2005,Orient Express Award,,True,True,Antarctic Journal,nm1941507,Pil-sung Yim,Antarctic Journal,2006.0,Horror,7122615
+tt0402249,2005,Carnet Jove Jury Award,Midnight X-Treme,True,True,The Dark Hours,nm0289186,Paul Fox,The Dark Hours,2005.0,Horror,1085
+tt0388973,2005,New Visions Award,,True,True,The Girl from Monday,nm0001325,Hal Hartley,The Girl from Monday,2005.0,Action,1204
+tt0427312,2005,New Visions Award - Special Mention,,True,True,Grizzly Man,nm0001348,Werner Herzog,Grizzly Man,2005.0,Others,9309996
+tt0368375,2005,Grand Prize of European Fantasy Film in Silver,,True,True,Duplicity,nm0166507,Harry Cleven,Duplicity,2005.0,Others,397852
+tt0454931,2006,Best Film,,True,True,Requiem,nm0772691,Hans-Christian Schmid,Requiem,2006.0,Drama,660433
+tt0475169,2006,Best Film,,False,True,13 Tzameti,nm1201875,Géla Babluani,13 Tzameti,2006.0,Others,1172365
+tt0497876,2006,Best Film,,False,False,"Big Bang Love, Juvenile A",nm0586281,Takashi Miike,"Big Bang Love, Juvenile A",2007.0,Drama,1864
+tt0393109,2006,Best Film,,False,True,Brick,nm0426059,Rian Johnson,Brick,2006.0,Action,7638947
+tt0796212,2006,Best Film,,False,True,Exiled,nm0864775,Johnnie To,Exiled,2007.0,Action,1595485
+tt0457572,2006,Best Film,,False,False,Fido,nm0192933,Andrew Currie,Fido,2007.0,Comedy,922572
+tt0448400,2006,Best Film,,False,True,Grimm Love,nm1170286,Martin Weisz,Grimm Love,2007.0,Others,119062
+tt0419073,2006,Best Film,,False,True,Princess,nm0605186,Anders Morgenthaler,Princess,2006.0,Action,29980
+tt0458367,2006,Best Film,,False,False,Right at Your Door,nm0329755,Chris Gorak,Right at Your Door,2006.0,Drama,2819736
+tt0410730,2006,Best Film,,False,False,Taxidermia,nm0701650,György Pálfi,Taxidermia,2006.0,Comedy,119004
+tt0475937,2006,Best Film,,False,False,The Abandoned,nm0148511,Nacho Cerdà,The Abandoned,2007.0,Horror,7764307
+tt0808185,2006,Best Film,,False,True,The Bothersome Man,nm0509633,Jens Lien,The Bothersome Man,2007.0,Comedy,466230
+tt0468492,2006,Best Film,,False,True,The Host,nm0094435,Joon-ho Bong,The Host,2007.0,Action,114034597
+tt0354899,2006,Best Film,,False,True,The Science of Sleep,nm0327273,Michel Gondry,The Science of Sleep,2006.0,Comedy,24792386
+tt0489318,2006,Best Film,,False,False,The Ungodly,nm1711449,Thomas Dunn,The Ungodly,2007.0,Others,22407
+tt0465203,2006,Best Film,,False,False,Them,nm1219963,David Moreau,Them,2007.0,Horror,6789586
+tt0497986,2006,Best Film,,False,True,Time,nm1104118,Ki-duk Kim,Time,2006.0,Drama,18668
+tt0437857,2006,Carnet Jove - Special Mention,Midnight X-Treme,True,True,Behind the Mask: The Rise of Leslie Vernon,nm1795664,Scott Glosserman,Behind the Mask: The Rise of Leslie Vernon,2006.0,Comedy,175099
+tt0443496,2006,New Visions Award,,True,True,Edmond,nm0002340,Stuart Gordon,Edmond,2005.0,Drama,482357
+tt0460791,2007,Best Film,,True,False,The Fall,nm0802248,Tarsem Singh,The Fall,2008.0,Others,7002785
+tt0997147,2007,Best Film,,False,False,Big Man Japan,nm1035719,Hitoshi Matsumoto,Big Man Japan,2008.0,Action,11771936
+tt1085862,2007,Best Film,,False,False,El rey de la montaña,nm1018426,Gonzalo López-Gallego,El rey de la montaña,2008.0,Others,485650
+tt1016301,2007,Best Film,,False,False,Fermat's Room,nm1618276,Luis Piedrahita,Fermat's Room,2008.0,Others,1223227
+tt0432289,2007,Best Film,,False,False,First Snow,nm1318843,Mark Fergus,First Snow,2007.0,Drama,978563
+tt0814685,2007,Best Film,,False,False,Frontier(s),nm1164755,Xavier Gens,Frontier(s),2008.0,Horror,2975900
+tt0373883,2007,Best Film,,False,False,Halloween,nm0957772,Rob Zombie,Halloween,2007.0,Horror,170260373
+tt0497137,2007,Best Film,,False,True,"I'm a Cyborg, But That's OK",nm0661791,Chan-wook Park,"I'm a Cyborg, But That's OK",2007.0,Comedy,5777184
+tt0856288,2007,Best Film,,False,True,Inside,nm2376614,Alexandre Bustillo,Inside,2007.0,Horror,968914
+tt0808331,2007,Best Film,,False,True,Joshua,nm0711807,George Ratliff,Joshua,2007.0,Drama,1475049
+tt0862946,2007,Best Film,,False,True,Mushi-Shi: The Movie,nm0960028,Katsuhiro Ôtomo,Mushi-Shi: The Movie,2007.0,Others,5371237
+tt1038988,2007,Best Film,,False,True,REC,nm0049371,Jaume Balagueró,REC,2008.0,Horror,38340457
+tt0479528,2007,Best Film,,False,False,Rogue,nm0572562,Greg McLean,Rogue,2008.0,Action,5512515
+tt0499570,2007,Best Film,,False,False,Slipstream,nm0000164,Anthony Hopkins,Slipstream,2007.0,Comedy,45142
+tt0758786,2007,Best Film,,False,False,Stuck,nm0002340,Stuart Gordon,Stuck,2007.0,Others,267800
+tt0906665,2007,Best Film,,False,True,Sukiyaki Western Django,nm0586281,Takashi Miike,Sukiyaki Western Django,2008.0,Action,3237906
+tt0780622,2007,Best Film,,False,False,Teeth,nm0509033,Mitchell Lichtenstein,Teeth,2007.0,Comedy,3393176
+tt0804552,2007,Best Film,,False,False,The Killing Gene,nm0788191,Tom Shankland,The Killing Gene,2008.0,Others,1816139
+tt0810988,2007,Best Film,,False,False,The Nines,nm0041864,John August,The Nines,2007.0,Drama,244979
+tt0780607,2007,Best Film,,False,False,The Signal,nm1410159,David Bruckner,The Signal,2007.0,Horror,1630550
+tt0480669,2007,Best Film,,False,False,Timecrimes,nm1443023,Nacho Vigalondo,Timecrimes,2007.0,Horror,726017
+tt0972542,2007,Best Animated Feature Film,,True,True,Aachi & Ssipak,nm2568991,Jo Beom-jin,Aachi & Ssipak,2007.0,Action,711034
+tt0831888,2007,Best Animated Feature Film - Special Mention,,True,True,Tekkonkinkreet,nm0034712,Michael Arias,Tekkonkinkreet,2007.0,Action,59918
+tt0780503,2007,Orient Express Award,Best Motion Picture,True,True,Dororo,nm0794048,Akihiko Shiota,Dororo,2008.0,Action,31893269
+tt0874423,2007,New Visions Award,Best Motion Picture,True,True,Zoo,nm0222894,Robinson Devor,Zoo,2007.0,Others,176167
+tt0969269,2007,Orient Express Award - Special Mention,,True,True,Mad Detective,nm0864775,Johnnie To,Mad Detective,2008.0,Action,2515723
+tt0409345,2008,Best Film,,True,False,Surveillance,nm0528337,Jennifer Lynch,Surveillance,2008.0,Others,1361554
+tt1027658,2008,Best Film,,False,False,Absurdistan,nm0375691,Veit Helmer,Absurdistan,2008.0,Comedy,185174
+tt0861689,2008,Best Film,,False,True,Blindness,nm0576987,Fernando Meirelles,Blindness,2008.0,Drama,27371269
+tt1016290,2008,Best Film,,False,False,Crows Zero,nm0586281,Takashi Miike,Crows Zero,2007.0,Action,26952802
+tt1020530,2008,Best Film,,False,True,Eden Lake,nm1220140,James Watkins,Eden Lake,2008.0,Horror,4710398
+tt0995029,2008,Best Film,,False,True,Fighter,nm0037874,Natasha Arthy,Fighter,2008.0,Action,1073794
+tt1002567,2008,Best Film,,False,False,Hansel and Gretel,nm1941507,Pil-sung Yim,Hansel and Gretel,2009.0,Drama,2658226
+tt1139797,2008,Best Film,,False,True,Let the Right One In,nm0019247,Tomas Alfredson,Let the Right One In,2008.0,Drama,16227204
+tt0926764,2008,Best Film,,False,False,Possibility of an Island,nm0396391,Michel Houellebecq,Possibility of an Island,2008.0,Drama,206293
+tt1180579,2008,Best Film,,False,False,Prime Time,nm2265670,Luis Calvo Ramos,Prime Time,2008.0,Others,356476
+tt0972883,2008,Best Film,,False,True,Red,nm0226148,Trygve Allister Diesen,Red,2008.0,Drama,18612
+tt1056416,2008,Best Film,,False,False,Sexy Killer: You'll Die for Her,nm0554507,Miguel Martí,"Sexykiller, morirás por ella",2009.0,Comedy,447135
+tt1170397,2008,Best Film,,False,True,Tale 52,nm1397189,Alexis Alexiou,Tale 52,2008.0,Others,39390
+tt0906734,2008,Best Film,,False,True,The Broken,nm1193346,Sean Ellis,The Broken,2008.0,Drama,1076902
+tt1190539,2008,Best Film,,False,True,The Chaser,nm2947553,Hong-jin Na,The Chaser,2008.0,Action,42628611
+tt0465430,2008,Best Film,,False,False,The Cottage,nm1440314,Paul Andrew Williams,The Cottage,2008.0,Comedy,1934343
+tt0901487,2008,Best Film,,False,True,The Good the Bad the Weird,nm0453518,Jee-woon Kim,The Good the Bad the Weird,2008.0,Action,51849082
+tt1056437,2008,Best Film,,False,True,The Sky Crawlers,nm0651900,Mamoru Oshii,The Sky Crawlers,2009.0,Action,6985120
+tt0976060,2008,Best Film,,False,False,Tokyo!,nm0327273,Michel Gondry,Tokyo!,2008.0,Comedy,1805159
+tt1029241,2008,Best Film,,False,True,Vinyan,nm0239001,Fabrice du Welz,Vinyan,2008.0,Drama,183317
+tt1029234,2008,Best Make-Up,,True,True,Martyrs,nm0504405,Benoît Lestang,Martyrs,2008.0,Horror,1342242
+tt0923683,2008,Carnet Jove Jury Award,Midnight X-Treme,True,True,Embodiment of Evil,nm0596261,José Mojica Marins,Embodiment of Evil,2009.0,Horror,109989
+tt0841922,2008,New Visions Award,Best Motion Picture,True,True,Los bastardos,nm1661334,Amat Escalante,Los bastardos,2009.0,Others,62722
+tt0815241,2008,New Visions Award,Non Fiction Motion Picture,True,True,Religulous,nm0153078,Larry Charles,Religulous,2008.0,Comedy,31446322
+tt1089677,2008,New Visions Award - Special Mention,,True,True,God's Puzzle,nm0586281,Takashi Miike,God's Puzzle,2008.0,Others,752851
+tt1182345,2009,Best Film,,True,True,Moon,nm1512910,Duncan Jones,Moon,2009.0,Drama,17527256
+tt1202514,2009,Best Film,,False,False,Accident,nm1110912,Soi Cheang,Accident,2010.0,Others,1433182
+tt1119123,2009,Best Film,,False,False,Accidents Happen,nm0484108,Andrew Lancaster,Accidents Happen,2009.0,Comedy,44169
+tt1127877,2009,Best Film,,False,False,Cold Souls,nm1754436,Sophie Barthes,Cold Souls,2009.0,Comedy,2467409
+tt1379182,2009,Best Film,,False,True,Dogtooth,nm0487166,Yorgos Lanthimos,Dogtooth,2010.0,Drama,591748
+tt1075113,2009,Best Film,,False,False,Don't Look Back,nm0888418,Marina de Van,Don't Look Back,2010.0,Drama,3109178
+tt1235124,2009,Best Film,,False,False,Dorian Gray,nm0662529,Oliver Parker,Dorian Gray,2010.0,Drama,26232435
+tt1191111,2009,Best Film,,False,True,Enter the Void,nm0637615,Gaspar Noé,Enter the Void,2010.0,Drama,1286326
+tt1220213,2009,Best Film,,False,False,Grace,nm2099491,Paul Solet,Grace,2009.0,Drama,20083
+tt1390405,2009,Best Film,,False,True,Happy End,nm0488623,Arnaud Larrieu,Happy End,2009.0,Others,846645
+tt1220214,2009,Best Film,,False,False,Heartless,nm0726000,Philip Ridley,Heartless,2010.0,Drama,28184
+tt1318025,2009,Best Film,,False,True,Hierro,nm2688320,Gabe Ibáñez,Hierro,2009.0,Others,541632
+tt1305897,2009,Best Film,,False,False,Ingrid,nm0181525,Eduard Cortés,Ingrid,2010.0,Drama,2282242
+tt0985058,2009,Best Film,,False,False,Metropia,nm0757975,Tarik Saleh,Metropia,2010.0,Others,95231
+tt0485947,2009,Best Film,,False,True,Mr. Nobody,nm0233757,Jaco Van Dormael,Mr. Nobody,2013.0,Drama,3877315
+tt1017460,2009,Best Film,,False,True,Splice,nm0622112,Vincenzo Natali,Splice,2010.0,Drama,51431582
+tt1172571,2009,Best Film,,False,False,The Children,nm0788191,Tom Shankland,The Children,2009.0,Horror,1449134
+tt0496634,2009,Best Film,,False,False,The Countess,nm0000365,Julie Delpy,The Countess,2011.0,Others,888185
+tt0762073,2009,Best Film,,False,True,Thirst,nm0661791,Chan-wook Park,Thirst,2009.0,Drama,15905486
+tt1179794,2009,Best Film,,False,False,TiMER,nm2356614,Jac Schaeffer,TiMER,2010.0,Comedy,54321
+tt1010055,2009,Best Film,,False,False,Yatterman,nm0586281,Takashi Miike,Yatterman,2009.0,Action,39618730
+tt1433540,2009,Best Animated Feature Film,Kids,True,True,A Town Called Panic,nm0041334,Stéphane Aubier,A Town Called Panic,2009.0,Others,427968
+tt1474276,2009,Best Animated Feature Film,,True,True,Summer Wars,nm0396074,Mamoru Hosoda,Summer Wars,2010.0,Action,21633551
+tt1220719,2009,Orient Express Award,,True,True,Ip Man,nm0948159,Wilson Yip,Ip Man,2010.0,Action,25832522
+tt1272012,2009,New Visions Award,Best Motion Picture,True,True,Deliver Us from Evil,nm0097079,Ole Bornedal,Deliver Us from Evil,2009.0,Others,82172
+tt1144539,2009,New Visions Award,Non Fiction Motion Picture Diploma,True,True,Best Worst Movie,nm0827294,Michael Paul Stephenson,Best Worst Movie,2009.0,Comedy,264055
+tt1361843,2009,New Visions Award - Special Mention,,True,True,Van Diemen's Land,nm1650905,Jonathan auf der Heide,Van Diemen's Land,2009.0,Others,40958
+tt1156398,2009,Audience Award,,True,True,Zombieland,nm0281508,Ruben Fleischer,Zombieland,2009.0,Others,210397210
+tt1245112,2009,Ben & Jerry's Award,,True,True,[Rec] 2,nm0049371,Jaume Balagueró,[Rec] 2,2009.0,Horror,21920187
+tt1346961,2009,Grand Prize of European Fantasy Film in Silver,,True,True,The Eclipse,nm0574217,Conor McPherson,The Eclipse,2009.0,Drama,351448
+tt0984155,2009,Grand Prize of European Fantasy Film in Gold,,False,False,Before the Fall,nm1279573,F. Javier Gutiérrez,Before the Fall,2008.0,Others,395723
+tt1401143,2010,Best Film,,True,True,Rare Exports: A Christmas Tale,,[],Rare Exports: A Christmas Tale,2010.0,Others,4973732
+tt1465522,2010,Best Film,,True,False,Tucker and Dale vs Evil,nm0185848,Eli Craig,Tucker and Dale vs Evil,2010.0,Comedy,5865283
+tt1320244,2010,Best Actor,,True,True,The Last Exorcism,nm0264579,Patrick Fabian,The Last Exorcism,2010.0,Horror,127325018
+tt1407972,2010,Best Actress,,True,True,Dream Home,nm0387319,Josie Ho,Dream Home,2010.0,Others,448627
+tt1568816,2010,Best Screenplay,,True,True,Phase 7,nm0324901,Nicolás Goldbart,Phase 7,2011.0,Others,182294
+tt1470827,2010,Best Special Effects,,True,True,Monsters,nm2284484,Gareth Edwards,Monsters,2010.0,Drama,5260860
+tt1692504,2010,Special Prize of the Jury,Feature Film,True,True,We Are the Night,nm0304541,Dennis Gansel,We Are the Night,2011.0,Drama,1438078
+tt1612774,2010,Carnet Jove Jury Award,Official Fantastic,True,True,Rubber,nm1668020,Julien Berlan,Rubber,2010.0,Comedy,236432
+tt1588895,2010,José Luis Guarner Critic's Award,Best Film,True,True,Uncle Boonmee Who Can Recall His Past Lives,nm0917405,Apichatpong Weerasethakul,Uncle Boonmee Who Can Recall His Past Lives,2010.0,Drama,1540916
+tt1462758,2010,Grand Prize of European Fantasy Film in Gold,,True,True,Buried,nm0181579,Rodrigo Cortés,Buried,2010.0,Drama,23598294
+tt1734067,2010,Official Fantàstic Competition,Best Feature Length Film,False,False,Atrocious,,[],Atrocious,2011.0,Horror,5044
+tt0873886,2011,Best Film,,True,True,Red State,nm0003620,Kevin Smith,Red State,2011.0,Action,3457013
+tt1650555,2011,Best Film,,False,False,Game of Werewolves,nm0554890,Juan Martínez Moreno,Game of Werewolves,2012.0,Comedy,159353
+tt1601475,2011,Best Film,,False,False,Seconds Apart,nm0624423,Antonio Negret,Seconds Apart,2011.0,Horror,1319
+tt1588398,2011,Best Film,,False,False,Sleeping Beauty,nm3772967,Julia Leigh,Sleeping Beauty,2011.0,Drama,504204
+tt1549572,2011,Best Actress,,True,True,Another Earth,nm1779870,Brit Marling,Another Earth,2011.0,Drama,3595086
+tt1643222,2011,Best Cinematography,,True,True,Hell,nm2775581,Markus Förderer,Hell,2012.0,Horror,1516147
+tt1714208,2011,Best Screenplay,,True,True,The Woman,nm1031246,Lucky McKee,The Woman,2011.0,Horror,1681
+tt1478964,2011,Best Original Soundtrack,Best Music,True,True,Attack the Block,nm1888527,Steven Price,Attack the Block,2011.0,Action,7831501
+tt1298554,2011,Best Special Effects,Best Special Effects,True,True,Eva,nm2922442,Lluís Castells,Eva,2015.0,Drama,1417281
+tt1535616,2011,Best Make-Up,,True,True,The Divide,nm2725627,Steven Kostanski,The Divide,2011.0,Drama,166589
+tt1242599,2011,Carnet Jove Jury Award,Official Fantastic,True,True,Bellflower,nm3035239,Evan Glodell,Bellflower,2011.0,Action,395885
+tt1547084,2011,Citizen Kane Award for Best Directorial Revelation,,True,True,The Squad,nm3688090,Jaime Osorio Marquez,The Squad,2011.0,Horror,7829
+tt1703199,2011,Midnight X-Treme,Best Film,False,False,Grave Encounters,nm4017355,Colin Minihan,Grave Encounters,2011.0,Horror,1867486
+tt2126362,2012,Carnet Jove Jury Award,Midnight X-Treme,True,True,Stitches,nm1114700,Conor McMahon,Stitches,2012.0,Comedy,70212
+tt2099556,2012,Carnet Jove Jury Award,Official Fantàstic Selection,True,True,Antiviral,nm0188722,Brandon Cronenberg,Antiviral,2012.0,Horror,68255
+tt1820488,2012,New Visions Award,Best Motion Picture,True,True,War Witch,nm1243740,Kim Nguyen,War Witch,2012.0,Drama,426419
+tt2076220,2012,José Luis Guarner Critic's Award,,True,True,Holy Motors,nm0136021,Leos Carax,Holy Motors,2012.0,Drama,2865965
+tt1833844,2012,José Luis Guarner Critic's Award - Special Mention,,True,True,Berberian Sound Studio,nm3270827,Peter Strickland,Berberian Sound Studio,2012.0,Drama,387893
+tt1990314,2012,Audience Award,Best Motion Picture,True,True,Robot & Frank,nm1500577,Jake Schreier,Robot & Frank,2012.0,Comedy,9167620
+tt1992258,2012,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,True,True,Tower Block,nm2071556,James Nunn,Tower Block,2012.0,Others,104273
+tt2140203,2012,Anima't Award,Best Animated Feature Film,True,True,Wolf Children,nm0396074,Mamoru Hosoda,Wolf Children,2013.0,Others,59216555
+tt1682186,2012,Maria,Best Cinematography,True,True,Headshot,nm0150553,Chankit Chamnivikaipong,Headshot,2012.0,Others,129077
+tt2006040,2012,Maria,Best Motion Picture,False,False,A Fantastic Fear of Everything,nm1553775,Crispian Mills,A Fantastic Fear of Everything,2014.0,Comedy,105523
+tt1780762,2012,Maria,Best Motion Picture,False,False,Aftershock,nm1240647,Nicolás López,Aftershock,2012.0,Action,390053
+tt1941466,2012,Maria,Best Motion Picture,False,False,Blood-C: The Last Dark,nm2022248,Naoyoshi Shiotani,Blood-C: The Last Dark,2012.0,Action,445455
+tt2341664,2012,Maria,Best Motion Picture,False,False,Come Out and Play,nm5222391,Makinov,Come Out and Play,2013.0,Horror,301218
+tt1971352,2012,Maria,Best Motion Picture,False,False,Compliance,nm0957505,Craig Zobel,Compliance,2012.0,Others,1027537
+tt1480656,2012,Maria,Best Motion Picture,False,False,Cosmopolis,nm0000343,David Cronenberg,Cosmopolis,2012.0,Drama,7572976
+tt2297164,2012,Maria,Best Motion Picture,False,False,Doomsday Book,nm1941507,Pil-sung Yim,Doomsday Book,2012.0,Comedy,577473
+tt2364649,2012,Maria,Best Motion Picture,False,False,El bosc,nm0014426,Óscar Aibar,El bosc,2012.0,Drama,103224
+tt1525366,2012,Maria,Best Motion Picture,False,False,Grabbers,nm1229323,Jon Wright,Grabbers,2012.0,Comedy,481788
+tt1783732,2012,Maria,Best Motion Picture,False,False,John Dies at the End,nm0181741,Don Coscarelli,John Dies at the End,2013.0,Comedy,315053
+tt1707392,2012,Maria,Best Motion Picture,False,False,Lovely Molly,nm0844896,Eduardo Sánchez,Lovely Molly,2011.0,Drama,739692
+tt1740002,2012,Maria,Best Motion Picture,False,False,Motorway,nm1110912,Soi Cheang,Motorway,2013.0,Action,2139806
+tt2082221,2012,Maria,Best Motion Picture,False,False,Nameless Gangster: Rules of the Time,nm2151556,Jong-bin Yoon,Nameless Gangster: Rules of the Time,2013.0,Action,34868910
+tt1763264,2012,Maria,Best Motion Picture,False,False,No One Lives,nm0457565,Ryûhei Kitamura,No One Lives,2013.0,Horror,1232648
+tt1757769,2012,Maria,Best Motion Picture,False,False,Painless,nm0575726,Juan Carlos Medina,Painless,2012.0,Others,148367
+tt1805492,2012,Maria,Best Motion Picture,False,False,Robo Jî,nm0944937,Shinobu Yaguchi,Robo Jî,2012.0,Comedy,15135394
+tt1979319,2012,Maria,Best Motion Picture,False,False,Rurouni Kenshin Part I: Origins,nm3311094,Keishi Ohtomo,Rurouni Kenshin Part I: Origins,2013.0,Action,40327691
+tt1862079,2012,Maria,Best Motion Picture,False,False,Safety Not Guaranteed,nm1119880,Colin Trevorrow,Safety Not Guaranteed,2012.0,Comedy,9510577
+tt1931533,2012,Maria,Best Motion Picture,False,False,Seven Psychopaths,nm1732981,Martin McDonagh,Seven Psychopaths,2012.0,Comedy,38054642
+tt2023690,2012,Maria,Best Motion Picture,False,True,Sightseers,nm1296554,Ben Wheatley,Sightseers,2013.0,Others,2396674
+tt1922777,2012,Maria,Best Motion Picture,False,False,Sinister,nm0220600,Scott Derrickson,Sinister,2012.0,Horror,138977119
+tt1981080,2012,Maria,Best Motion Picture,False,False,Tai Chi Zero,nm0298691,Stephen Fung,Tai Chi Zero,2012.0,Action,1689028
+tt1756799,2012,Maria,Best Motion Picture,False,False,The Day,nm0007439,Douglas Aarniokoski,The Day,2012.0,Action,113101
+tt1658837,2012,Maria,Best Motion Picture,False,False,The Tall Man,nm1052791,Pascal Laugier,The Tall Man,2012.0,Others,5807294
+tt2063011,2012,Maria,Best Motion Picture,False,True,The Viral Factor,nm0482592,Dante Lam,The Viral Factor,2012.0,Action,6688465
+tt1745686,2012,Maria,Best Motion Picture,False,False,The Wall,nm0702518,Julian Pölsler,The Wall,2013.0,Drama,1311434
+tt2105044,2012,Maria,Best Motion Picture,False,False,V/H/S,nm1410159,David Bruckner,V/H/S,2012.0,Horror,2305171
+tt1901040,2012,Maria,Best Motion Picture,False,False,Wrong,nm1189197,Quentin Dupieux,Wrong,2013.0,Comedy,167799
+tt1718199,2012,Focus Asia Award,,True,True,Dragon,nm0151066,Peter Ho-Sun Chan,Dragon,2012.0,Action,32516708
+tt1714915,2013,Special Prize of the Jury,,True,True,Only Lovers Left Alive,nm0000464,Jim Jarmusch,Only Lovers Left Alive,2013.0,Comedy,10382638
+tt2309224,2013,Special Mention,,True,True,Big Bad Wolves,nm0253313,Haim Frank Ilfman,Big Bad Wolves,2013.0,Drama,356588
+tt1935156,2013,Special Mention,,True,True,Jodorowsky's Dune,nm0667650,Frank Pavich,Jodorowsky's Dune,2013.0,Others,1414513
+tt2290065,2013,Carnet Jove Jury Award,Midnight X-Treme,True,True,100 Bloody Acres,nm1454108,Colin Cairnes,100 Bloody Acres,2013.0,Comedy,13982
+tt2866360,2013,Carnet Jove Jury Award,Official Fantàstic Selection,True,True,Coherence,nm0126096,James Ward Byrkit,Coherence,2014.0,Horror,260393
+tt2626926,2013,New Visions Award,Best Motion Picture,False,False,Closed Curtain,nm0070159,Jafar Panahi,Closed Curtain,2013.0,Drama,67658
+tt2315628,2013,New Visions Award,Best Motion Picture,False,False,For Those in Peril,nm3591467,Paul Wright,For Those in Peril,2014.0,Drama,4174
+tt1851006,2013,New Visions Award,Best Motion Picture,False,False,Goltzius and the Pelican Company,nm0000425,Peter Greenaway,Goltzius and the Pelican Company,2013.0,Others,80514
+tt2466786,2013,New Visions Award,Best Motion Picture,False,False,National Security,nm0161244,Ji-yeong Jeong,National Security,2014.0,Drama,1339586
+tt2576522,2013,New Visions Award,Best Motion Picture,False,False,Nobody's Daughter Haewon,nm0393254,Sang-soo Hong,Nobody's Daughter Haewon,2013.0,Drama,8367
+tt3091242,2013,New Visions Award,Best Motion Picture,False,True,People in Places,nm1044996,Juan Cavestany,People in Places,2013.0,Comedy,79612
+tt2195548,2013,New Visions Award,Best Motion Picture,False,False,Prince Avalanche,nm0337773,David Gordon Green,Prince Avalanche,2013.0,Comedy,718495
+tt1675759,2013,New Visions Award,Best Motion Picture,False,False,The Wait,nm2100674,M. Blash,The Wait,2013.0,Drama,5445
+tt2385882,2013,New Visions Award,Best Motion Picture,False,False,Vic + Flo Saw a Bear,nm1992193,Denis Côté,Vic + Flo Saw a Bear,2013.0,Others,6125
+tt2409302,2013,New Visions Award,Best Motion Picture,False,False,Why Don't You Play in Hell?,nm0814469,Sion Sono,Why Don't You Play in Hell?,2014.0,Action,1360321
+tt2545118,2013,New Visions Award,Non Fiction,False,False,Blackfish,nm1363250,Gabriela Cowperthwaite,Blackfish,2013.0,Others,4857275
+tt2176504,2013,New Visions Award,Non Fiction,False,False,The End of Time,nm0582650,Peter Mettler,The End of Time,2013.0,Others,9631
+tt2084989,2013,Citizen Kane Award for Best Directorial Revelation,,True,True,Upstream Color,nm1503403,Shane Carruth,Upstream Color,2013.0,Drama,1144430
+tt1821641,2013,José Luis Guarner Critic's Award,,True,True,The Congress,nm0284369,Ari Folman,The Congress,2014.0,Others,704972
+tt2316411,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic European Selection,True,True,Enemy,nm0898288,Denis Villeneuve,Enemy,2014.0,Others,4795125
+tt1160996,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,True,True,The Colony,nm1199954,Jeff Renfroe,The Colony,2013.0,Action,350674
+tt2274570,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,False,False,Bad Milo,nm0891048,Jacob Vaughan,Bad Milo,2013.0,Comedy,42860
+tt2281159,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,False,False,Contracted,nm3146718,Eric England,Contracted,2013.0,Drama,68337
+tt1865393,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,False,False,Hellbenders,nm0678786,J.T. Petty,Hellbenders,2013.0,Comedy,70135
+tt1959438,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,False,False,Kiss of the Damned,nm0144018,Xan Cassavetes,Kiss of the Damned,2013.0,Drama,32390
+tt2317225,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,False,False,The Machine,nm1589670,Caradog W. James,The Machine,2013.0,Action,226077
+tt2450186,2013,Grand Prize of European Fantasy Film in Silver,Official Fantàstic Panorama Selection,False,False,V/H/S/2,nm1440023,Simon Barrett,V/H/S/2,2013.0,Horror,905518
+tt3091272,2013,Anima't Award,Best Animated Feature Film,True,True,The Fake,nm3613566,Sang-ho Yeon,The Fake,2013.0,Others,2248
+tt2358913,2013,Anima't Award,Best Animated Feature Film,False,False,Berserk: The Golden Age Arc III - The Advent,nm0473549,Toshiyuki Kubooka,Berserk: The Golden Age Arc III - The Advent,2014.0,Action,428446
+tt2361846,2013,Anima't Award,Best Animated Feature Film,False,False,Cheatin',nm0687739,Bill Plympton,Cheatin',2014.0,Others,32942
+tt2263944,2013,Anima't Award,Best Animated Feature Film,False,False,Dragon Ball Z: Battle of Gods,nm0396075,Masahiro Hosoda,Dragon Ball Z: Battle of Gods,2014.0,Action,56842168
+tt0860907,2013,Anima't Award,Best Animated Feature Film,False,False,Evangelion: 3.0 You Can (Not) Redo,nm0030417,Hideaki Anno,Evangelion: 3.0 You Can (Not) Redo,2013.0,Action,66395025
+tt2085795,2013,Anima't Award,Best Animated Feature Film,False,False,Fairy Tail: Priestess of the Phoenix,nm4047350,Masaya Fujimori,Fairy Tail: Priestess of the Phoenix,2013.0,Action,842728
+tt2231208,2013,Anima't Award,Best Animated Feature Film,False,False,Rio 2096: A Story of Love and Fury,nm0093252,Luiz Bolognesi,Rio 2096: A Story of Love and Fury,2013.0,Others,159860
+tt1602613,2013,Maria,Best Cinematography,True,True,Only God Forgives,nm0809040,Larry Smith,Only God Forgives,2013.0,Others,12491884
+tt1954315,2013,Maria,Best Motion Picture,True,True,Borgman,nm0912334,Alex van Warmerdam,Borgman,2013.0,Drama,1164456
+tt2078523,2013,Maria,Best Motion Picture,False,False,009 Re: Cyborg,nm0436784,Kenji Kamiyama,009 Re: Cyborg,2015.0,Action,2903005
+tt2375574,2013,Maria,Best Motion Picture,False,False,A Field in England,nm1296554,Ben Wheatley,A Field in England,2013.0,Drama,141925
+tt2309961,2013,Maria,Best Motion Picture,False,True,Afflicted,nm1429317,Clif Prowse,Afflicted,2013.0,Horror,264507
+tt1928340,2013,Maria,Best Motion Picture,False,False,After the Dark,nm0399655,John Huddles,After the Dark,2014.0,Drama,1926970
+tt1715336,2013,Maria,Best Motion Picture,False,False,Anna,nm1085270,Jorge Dorado,Anna,2014.0,Drama,1359738
+tt2332707,2013,Maria,Best Motion Picture,False,False,Blind Detective,nm0864775,Johnnie To,Blind Detective,2013.0,Comedy,38243802
+tt2389182,2013,Maria,Best Motion Picture,False,False,Cheap Thrills,nm1414810,E.L. Katz,Cheap Thrills,2014.0,Comedy,128532
+tt2328549,2013,Maria,Best Motion Picture,False,False,Dark Touch,nm0888418,Marina de Van,Dark Touch,2013.0,Horror,282415
+tt2051879,2013,Maria,Best Motion Picture,False,False,Europa Report,nm0179542,Sebastián Cordero,Europa Report,2013.0,Drama,275105
+tt2071550,2013,Maria,Best Motion Picture,False,False,Open Grave,nm1018426,Gonzalo López-Gallego,Open Grave,2014.0,Horror,535108
+tt2771800,2013,Maria,Best Motion Picture,False,False,Rigor Mortis,nm1474034,Juno Mak,Rigor Mortis,2014.0,Action,3244690
+tt2974248,2013,Maria,Best Motion Picture,False,False,Sapi,nm1137289,Brillante Mendoza,Sapi,2013.0,Horror,33647
+tt2387408,2013,Maria,Best Motion Picture,False,False,The Damned,nm1414579,Víctor García,The Damned,2014.0,Horror,1609731
+tt2403021,2013,Maria,Best Motion Picture,False,False,The Green Inferno,nm0744834,Eli Roth,The Green Inferno,2015.0,Others,21327875
+tt2093270,2013,Maria,Best Motion Picture,False,False,The Returned,nm1298542,Manuel Carballo,The Returned,2014.0,Others,666700
+tt2733258,2013,Maria,Best Motion Picture,False,False,The Strange Color of Your Body's Tears,nm1732946,Hélène Cattet,The Strange Color of Your Body's Tears,2013.0,Horror,15676
+tt2309021,2013,Maria,Best Motion Picture,False,False,We Are What We Are,nm0585344,Jim Mickle,We Are What We Are,2013.0,Drama,266809
+tt2625030,2013,Focus Asia Award,,True,True,New World,nm4219902,Hoon-jung Park,New World,2013.0,Others,35274411
+tt2165735,2013,Focus Asia Award,,False,False,Drug War,nm0864775,Johnnie To,Drug War,2013.0,Action,27211357
+tt2961802,2013,Focus Asia Award,,False,False,Horror Stories 2,nm0590855,Kyu-dong Min,Horror Stories 2,2013.0,Horror,2327532
+tt2717558,2013,Focus Asia Award,,False,False,On the Job,nm0560277,Erik Matti,On the Job,2013.0,Action,695772
+tt2347144,2013,Focus Asia Award,,False,False,Shield of Straw,nm0586281,Takashi Miike,Shield of Straw,2013.0,Others,9691597
+tt2296404,2013,Focus Asia Award,,False,False,Tai Chi 2: The Hero Rises,nm0298691,Stephen Fung,Tai Chi 2: The Hero Rises,2013.0,Action,458241
+tt3259968,2013,Focus Asia Award,,False,False,The Wrath of Vajra,nm0492408,Wing-Cheong Law,The Wrath of Vajra,2014.0,Action,2025521
+tt2187884,2013,Noves Visions Experimenta Award,,True,True,Escape from Tomorrow,nm5090157,Randy Moore,Escape from Tomorrow,2013.0,Drama,381661
+tt2007360,2013,Noves Visions Experimenta Award,,False,False,Computer Chess,nm1216004,Andrew Bujalski,Computer Chess,2013.0,Comedy,255118
+tt2006181,2013,Noves Visions Experimenta Award,,False,False,Jellyfish Eyes,nm1784692,Takashi Murakami,Jellyfish Eyes,2013.0,Comedy,17970
+tt1568812,2013,Noves Visions Emergents Award,,False,False,Diablo,nm0520875,Nicanor Loreti,Diablo,2012.0,Others,47349
+tt2972058,2013,Noves Visions Emergents Award,,False,False,Some Girls,nm1172960,Santiago Palavecino,Some Girls,2014.0,Others,3893
+tt2884206,2014,Best Film,,True,False,I Origins,nm2648685,Mike Cahill,I Origins,2014.0,Drama,893325
+tt3061836,2014,Best Director,,True,True,Cub,nm1818050,Jonas Govaerts,Cub,2015.0,Others,824410
+tt3108158,2014,Best Actor,,True,True,The World of Kanako,nm0945131,Kôji Yakusho,The World of Kanako,2015.0,Drama,7178917
+tt2268458,2014,Best Actor,,True,True,These Final Hours,nm0680667,Nathan Phillips,These Final Hours,2015.0,Drama,389875
+tt2172584,2014,Best Actress,,True,True,Maps to the Stars,nm0000194,Julianne Moore,Maps to the Stars,2015.0,Comedy,1838974
+tt2321549,2014,Best Actress,,True,True,The Babadook,nm0204583,Essie Davis,The Babadook,2014.0,Drama,12203220
+tt2693664,2014,Best Screenplay,,True,True,Young Ones,nm0658823,Jake Paltrow,Young Ones,2014.0,Action,8330
+tt2910814,2014,Best Special Effects,,True,True,The Signal,nm0147861,Frank Ceglia,The Signal,2014.0,Drama,3492124
+tt2326554,2014,Special Mention,,True,True,A Girl Walks Home Alone at Night,nm3235877,Ana Lily Amirpour,A Girl Walks Home Alone at Night,2015.0,Drama,1121415
+tt3740416,2014,Special Mention,,True,True,Possessed,nm7412036,Samuel Ortí Martí,Possessed,2014.0,Others,10478
+tt3395184,2014,Special Mention,,True,True,Spring,nm1918140,Justin Benson,Spring,2015.0,Horror,108163
+tt3416742,2014,Special Mention,,True,True,What We Do in the Shadows,nm1318596,Jemaine Clement,What We Do in the Shadows,2015.0,Comedy,10595971
+tt1745787,2014,Carnet Jove Jury Award,experimenta film,True,True,The Tribe,nm2990632,Myroslav Slaboshpytskyi,The Tribe,2014.0,Others,392502
+tt3265462,2014,New Visions Award,Best Motion Picture,True,True,Han Gong-ju,nm3964742,Su-jin Lee,Han Gong-ju,2014.0,Drama,1730762
+tt2570858,2014,New Visions Award - Special Mention,,True,True,The Duke of Burgundy,nm3270827,Peter Strickland,The Duke of Burgundy,2015.0,Drama,273000
+tt2818178,2014,Citizen Kane Award for Best Directorial Revelation - Special Mention,,True,True,When Animals Dream,nm1064646,Jonas Alexander Arnby,When Animals Dream,2015.0,Drama,120046
+tt2392672,2014,José Luis Guarner Critic's Award,Best Film,True,True,Reality,nm1189197,Quentin Dupieux,Reality,2015.0,Comedy,455225
+tt3086442,2014,José Luis Guarner Critic's Award - Special Mention,,True,True,Goodnight Mommy,nm3868633,Severin Fiala,Goodnight Mommy,2015.0,Horror,3621103
+tt2582426,2014,Grand Prize of European Fantasy Film in Silver,,False,False,Julia,nm0114231,Matthew A. Brown,Julia,2015.0,Horror,5823
+tt2972362,2014,Focus Asia Award - Special Mention,,True,True,Hwayi: A Monster Boy,nm2287741,Joon-Hwan Jang,Hwayi: A Monster Boy,2013.0,Action,14624889
+tt3089778,2014,Panorama Fantàstic Award,,True,True,The Treatment,nm0378681,Hans Herbots,The Treatment,2015.0,Others,1571186
+tt1837574,2014,Òrbita Award,,True,True,Hyena,nm1976116,Gerard Johnson,Hyena,2015.0,Others,7508
+tt0862748,2014,Òrbita Award,,False,False,Lupin the 3rd,nm0457565,Ryûhei Kitamura,Lupin the 3rd,2015.0,Action,24451426
+tt2494362,2015,Best Director,Oficial Fantàstic Competition,True,True,Bone Tomahawk,nm0951975,S. Craig Zahler,Bone Tomahawk,2015.0,Others,411066
+tt3205376,2015,Best Director,Oficial Fantàstic Òrbita,True,True,Slow West,nm3304468,John Maclean,Slow West,2015.0,Others,1646777
+tt4178092,2015,Best Actor,,True,True,The Gift,nm0249291,Joel Edgerton,The Gift,2015.0,Drama,110198652
+tt3792960,2015,Best Actress,,True,True,The Brand New Testament,nm6497349,Pili Groyne,The Brand New Testament,2016.0,Comedy,16819560
+tt3672742,2015,Best Original Soundtrack,Best Music,True,True,Turbo Kid,nm1946837,Jean-Philippe Bernier,Turbo Kid,2015.0,Action,143837
+tt3775202,2015,Best Special Effects,Best Special Effects,True,True,I Am a Hero,nm0436780,Makoto Kamiya,I Am a Hero,2016.0,Action,14777648
+tt2580382,2015,Citizen Kane Award for Best Directorial Revelation,,True,True,The Survivalist,nm2850285,Stephen Fingleton,The Survivalist,2015.0,Drama,61533
+tt3963466,2015,Audience Award,Best Feature Film,True,True,The Rotten Link,nm1145183,Valentín Javier Diment,The Rotten Link,2015.0,Others,8625
+tt4768764,2015,Focus Asia Award,Best film,True,True,Veteran,nm0753423,Seung-wan Ryoo,Veteran,2015.0,Action,102665596
+tt2400463,2015,Official Fantàstic Competition,Best Motion Picture,True,True,The Invitation,nm0476201,Karyn Kusama,The Invitation,2016.0,Drama,626501
+tt4935418,2015,Official Fantàstic Competition,Best Motion Picture,False,False,Baskin,nm3159880,Can Evrenol,Baskin,2015.0,Drama,341691
+tt2818654,2015,Official Fantàstic Competition,Best Motion Picture,False,False,Cemetery of Splendor,nm0917405,Apichatpong Weerasethakul,Cemetery of Splendor,2015.0,Drama,162044
+tt4935158,2015,Official Fantàstic Competition,Best Motion Picture,False,False,Demon,nm1672085,Marcin Wrona,Demon,2016.0,Drama,220245
+tt4173478,2015,Official Fantàstic Competition,Best Motion Picture,False,False,Journey to the Shore,nm0475905,Kiyoshi Kurosawa,Journey to the Shore,2015.0,Drama,75496
+tt2884018,2015,Official Fantàstic Competition,Best Motion Picture,False,False,Macbeth,nm2355933,Justin Kurzel,Macbeth,2015.0,Drama,18834839
+tt3430416,2015,Official Fantàstic Competition,Best Motion Picture,False,False,Schneider vs. Bax,nm0912334,Alex van Warmerdam,Schneider vs. Bax,2015.0,Comedy,299409
+tt4935372,2015,Official Fantàstic Competition,Best Motion Picture,False,False,The Devil's Candy,nm2015237,Sean Byrne,The Devil's Candy,2017.0,Drama,809531
+tt3547682,2015,Official Fantàstic Competition,Best Motion Picture,False,False,What We Become,nm1474236,Bo Mikkelsen,What We Become,2016.0,Horror,41735
+tt1480285,2016,Best Film,Panorama Fantàstic,False,False,Abattoir,nm1135423,Darren Lynn Bousman,Abattoir,2016.0,Horror,702251
+tt3289956,2016,Special Prize of the Jury,Feature Film,True,True,The Autopsy of Jane Doe,nm0004217,André Øvredal,The Autopsy of Jane Doe,2016.0,Horror,6344339
+tt4954522,2016,Carnet Jove Jury Award,Best Feature Length Film,True,True,Raw,nm4469445,Julia Ducournau,Raw,2016.0,Drama,3822915
+tt4805316,2016,New Visions Award,Best Motion Picture,True,True,A Dark Song,nm2201016,Liam Gavin,A Dark Song,2017.0,Drama,10366
+tt4273292,2016,New Visions Award,Best Motion Picture,True,True,Under the Shadow,nm2035118,Babak Anvari,Under the Shadow,2016.0,Drama,174669
+tt4392770,2016,New Visions Award,Best Motion Picture,False,False,Always Shine,nm3046419,Sophia Takal,Always Shine,2016.0,Drama,36215
+tt5325492,2016,New Visions Award - Special Mention,,True,True,Are We Not Cats,nm3545127,Xander Robin,Are We Not Cats,2018.0,Comedy,11326
+tt1974419,2016,José Luis Guarner Critic's Award,Best Film,True,True,The Neon Demon,nm0716347,Nicolas Winding Refn,The Neon Demon,2016.0,Horror,4994534
+tt5311514,2016,Anima't Award,Best Animated Feature Film,True,True,Your Name.,nm1396121,Makoto Shinkai,Your Name.,2017.0,Others,379368797
+tt4695548,2016,Anima't Award,Best Animated Feature Film,False,False,Bad Cat,nm7335981,Mehmet Kurtulus,Bad Cat,2019.0,Action,1656516
+tt4731504,2016,Anima't Award,Best Animated Feature Film,False,False,Dofus - Livre 1: Julith,nm4247366,Anthony Roux,Dofus - Livre 1: Julith,2016.0,Others,14877
+tt5894778,2016,Anima't Award,Best Animated Feature Film,False,False,Louise by the Shore,nm0481451,Jean-François Laguionie,Louise by the Shore,2016.0,Others,505950
+tt4489416,2016,Anima't Award,Best Animated Feature Film,False,False,The Anthem of the Heart,nm2171473,Tatsuyuki Nagai,The Anthem of the Heart,2016.0,Others,9359090
+tt5215952,2016,Focus Asia Award,,True,True,The Wailing,nm2947553,Hong-jin Na,The Wailing,2016.0,Others,53691187
+tt2516966,2016,Blood Window Award,Best Latinamerican Feature Film,True,True,1974: La posesión de Altair,nm3305928,Victor Dryere,1974: La posesión de Altair,2017.0,Horror,210015
+tt4034354,2016,Official Fantàstic Competition,Best Feature Length Film,True,True,Swiss Army Man,nm3215397,Daniel Scheinert,Swiss Army Man,2016.0,Others,9713044
+tt5587022,2016,Official Fantàstic Competition,Best Motion Picture,False,False,Karaoke Crazies,,[],Karaoke Crazies,2016.0,Others,47498
+tt3908142,2016,Official Fantàstic Competition,Best Motion Picture,False,False,The Love Witch,nm0082366,Anna Biller,The Love Witch,2016.0,Others,505409
+tt5700672,2016,Official Fantàstic Competition,Best Special Effects,True,True,Train to Busan,nm7394000,Jung Hwang-su,Train to Busan,2016.0,Action,95237674
+tt4016934,2016,Official Fantàstic Competition,Grand Audience Award,True,True,The Handmaiden,nm0661791,Chan-wook Park,The Handmaiden,2016.0,Drama,42021523
+tt5735280,2016,Midnight X-Treme,,True,True,It Stains the Sands Red,nm4017355,Colin Minihan,It Stains the Sands Red,2017.0,Drama,3757
+tt4303340,2016,Panorama Audience Award,Audience Award,True,True,I Am Not a Serial Killer,nm0639376,Billy O'Brien,I Am Not a Serial Killer,2016.0,Drama,22438
+tt5842890,2017,Best Film,Official Fantàstic Selection,True,False,Jupiter's Moon,nm0610960,Kornél Mundruczó,Jupiter's Moon,2018.0,Drama,90258
+tt5480782,2017,Best Film,Official Fantàstic Selection,False,True,Good Manners,nm1824290,Marco Dutra,Good Manners,2018.0,Others,67831
+tt4372240,2017,Best Film,Oficial Fantàstic Competition,False,False,78/52: Hitchcock's Shower Scene,nm1465431,Alexandre O. Philippe,78/52: Hitchcock's Shower Scene,2017.0,Others,87545
+tt5999530,2017,Best Film,Oficial Fantàstic Competition,False,False,Before We Vanish,nm0475905,Kiyoshi Kurosawa,Before We Vanish,2017.0,Drama,518631
+tt5084170,2017,Best Film,Oficial Fantàstic Competition,False,False,Blade of the Immortal,nm0586281,Takashi Miike,Blade of the Immortal,2017.0,Action,7576390
+tt4720702,2017,Best Film,Oficial Fantàstic Competition,False,False,Bushwick,nm5732579,Jonathan Milott,Bushwick,2017.0,Action,83151
+tt6229030,2017,Best Film,Oficial Fantàstic Competition,False,True,Killing God,nm4543557,Caye Casas,Killing God,2018.0,Comedy,22991
+tt2291540,2017,Best Film,Oficial Fantàstic Competition,False,False,My Friend Dahmer,nm1836315,Marc Meyers,My Friend Dahmer,2017.0,Drama,2924521
+tt3986820,2017,Best Film,Oficial Fantàstic Competition,False,False,The Endless,nm1918140,Justin Benson,The Endless,2018.0,Others,1252970
+tt6830412,2017,Best Film,Oficial Fantàstic Competition,False,False,The Inhabitant,nm3771227,Guillermo Amoedo,The Inhabitant,2019.0,Horror,1838846
+tt5715874,2017,Best Film,Oficial Fantàstic Competition,False,True,The Killing of a Sacred Deer,nm0487166,Yorgos Lanthimos,The Killing of a Sacred Deer,2017.0,Drama,9654688
+tt6777338,2017,Best Film,Oficial Fantàstic Competition,False,False,The Villainess,nm3468066,Byung-gil Jung,The Villainess,2017.0,Action,9150560
+tt3859272,2017,Best Film,Oficial Fantàstic Competition,False,False,Tragedy Girls,nm3225709,Tyler MacIntyre,Tragedy Girls,2017.0,Comedy,190741
+tt5638642,2017,Best Actor,,True,True,The Ritual,nm1245863,Rafe Spall,The Ritual,2018.0,Horror,1611001
+tt5923026,2017,Best Actress,,True,True,Marlina the Murderer in Four Acts,nm2682250,Marsha Timothy,Marlina the Murderer in Four Acts,2017.0,Drama,45708
+tt6265828,2017,Best Cinematography,,True,True,A Ghost Story,nm3902730,Andrew Droz Palermo,A Ghost Story,2017.0,Drama,3733741
+tt4457344,2017,New Visions Award,Best Motion Picture,True,True,Dave Made a Maze,nm1826889,Bill Watterson,Dave Made a Maze,2017.0,Others,71021
+tt5334076,2017,New Visions Award,Best Motion Picture,False,False,Inflame,nm7388685,Ceylan Özgün Özçelik,Inflame,2017.0,Drama,22564
+tt5215486,2017,New Visions Award,Non Fiction,True,True,Dawson City: Frozen Time,nm0994484,Bill Morrison,Dawson City: Frozen Time,2016.0,Others,279872
+tt5884784,2017,Time-Machine Honorary Award,,True,True,The Super,nm0000174,Val Kilmer,The Super,2018.0,Horror,19718
+tt2520046,2017,Blood Window Award,Award for the Best Iberoamerican film,False,True,Madraza,nm1231289,Hernan Aguilar,Madraza,2017.0,Action,34508
+tt1895315,2017,Official Fantàstic Competition,Best Feature Length Film,False,False,Brimstone,nm0465551,Martin Koolhoven,Brimstone,2017.0,Drama,2252987
+tt6243140,2017,Official Fantàstic Competition,Best Feature Length Film,False,False,Ravenous,nm0041315,Robin Aubert,Ravenous,2018.0,Drama,42011
+tt5085522,2017,Panorama Audience Award,Audience Award,False,False,Hostile,nm3332970,Mathieu Turi,Hostile,2017.0,Drama,399059
+tt6087426,2017,Panorama Fantàstic Award,,False,False,Still/Born,nm3417134,Brandon Christensen,Still/Born,2018.0,Horror,1182590
+tt5969696,2017,Òrbita Award,,True,True,The Battleship Island,nm0753423,Seung-wan Ryoo,The Battleship Island,2017.0,Action,49176360
+tt8359848,2018,Best Film,Secció Oficial Fantàstic,True,False,Climax,nm0637615,Gaspar Noé,Climax,2018.0,Drama,2879765
+tt7538958,2018,Best Film,Secció Oficial Fantàstic,False,False,Animal,nm3174584,Armando Bo,Animal,2018.0,Drama,1423456
+tt6205872,2018,Best Film,Secció Oficial Fantàstic,False,False,Assassination Nation,nm0506094,Sam Levinson,Assassination Nation,2018.0,Action,4646661
+tt7282468,2018,Best Film,Secció Oficial Fantàstic,False,False,Burning,nm0496969,Chang-dong Lee,Burning,2018.0,Drama,8165687
+tt6522668,2018,Best Film,Secció Oficial Fantàstic,False,False,Diamantino,nm4085019,Gabriel Abrantes,Diamantino,2019.0,Comedy,288621
+tt6852872,2018,Best Film,Secció Oficial Fantàstic,False,False,Elizabeth Harvest,nm0349406,Sebastian Gutierrez,Elizabeth Harvest,2018.0,Horror,5092
+tt7051048,2018,Best Film,Secció Oficial Fantàstic,False,True,Fugue,nm2835452,Agnieszka Smoczynska,Fugue,2018.0,Drama,1247
+tt6752992,2018,Best Film,Secció Oficial Fantàstic,False,True,Happy as Lazzaro,nm3114621,Alice Rohrwacher,Happy as Lazzaro,2018.0,Drama,1816634
+tt6169694,2018,Best Film,Secció Oficial Fantàstic,False,False,I Think We're Alone Now,nm1543747,Reed Morano,I Think We're Alone Now,2018.0,Drama,3200
+tt6195094,2018,Best Film,Secció Oficial Fantàstic,False,False,Incident in a Ghostland,nm1052791,Pascal Laugier,Incident in a Ghostland,2018.0,Drama,5632377
+tt6340500,2018,Best Film,Secció Oficial Fantàstic,False,True,Inuyashiki,nm0766263,Shinsuke Sato,Inuyashiki,2018.0,Drama,5709864
+tt7156222,2018,Best Film,Secció Oficial Fantàstic,False,True,Keep an Eye Out,nm1189197,Quentin Dupieux,Keep an Eye Out,2018.0,Comedy,2013016
+tt6426028,2018,Best Film,Secció Oficial Fantàstic,False,False,Knife+Heart,nm2287606,Yann Gonzalez,Knife+Heart,2019.0,Drama,373227
+tt4669296,2018,Best Film,Secció Oficial Fantàstic,False,False,Lords of Chaos,nm0959774,Jonas Åkerlund,Lords of Chaos,2019.0,Others,618537
+tt6998518,2018,Best Film,Secció Oficial Fantàstic,False,True,Mandy,nm0181903,Panos Cosmatos,Mandy,2018.0,Action,2773143
+tt8311792,2018,Best Film,Secció Oficial Fantàstic,False,False,"Murder Me, Monster",nm1375024,Alejandro Fadel,"Murder Me, Monster",2018.0,Drama,11903
+tt6509058,2018,Best Film,Secció Oficial Fantàstic,False,True,Nancy,nm1357921,Christina Choe,Nancy,2018.0,Drama,165195
+tt6516314,2018,Best Film,Secció Oficial Fantàstic,False,False,Piercing,nm2073372,Nicolas Pesce,Piercing,2019.0,Horror,165067
+tt7429708,2018,Best Film,Secció Oficial Fantàstic,False,True,Pig,nm2155679,Mani Haghighi,Pig,2019.0,Comedy,24666
+tt7175992,2018,Best Film,Secció Oficial Fantàstic,False,True,School's Out,nm1903612,Sébastien Marnier,School's Out,2018.0,Others,493136
+tt5774450,2018,Best Film,Secció Oficial Fantàstic,False,False,Summer of 84,nm2379331,François Simard,Summer of 84,2018.0,Drama,42594
+tt7549892,2018,Best Film,Secció Oficial Fantàstic,False,False,Terrified,nm1899608,Demián Rugna,Terrified,2018.0,Horror,371039
+tt6916362,2018,Best Film,Secció Oficial Fantàstic,False,False,The Purity of Vengeance,nm1061993,Christoffer Boe,The Purity of Vengeance,2018.0,Others,475260
+tt6107666,2018,Best Film,Secció Oficial Fantàstic,False,False,The Sacrifice,nm3688090,Jaime Osorio Marquez,The Sacrifice,2017.0,Drama,24524
+tt5227746,2018,Best Film,Secció Oficial Fantàstic,False,False,The Unthinkable,nm3127153,Victor Danell,The Unthinkable,2019.0,Action,6390
+tt4131496,2018,Best Film,Secció Oficial Fantàstic,False,False,The Vanishing,nm0638679,Kristoffer Nyholm,The Vanishing,2019.0,Others,1202522
+tt5691670,2018,Best Film,Secció Oficial Fantàstic,False,True,Under the Silver Lake,nm1379002,David Robert Mitchell,Under the Silver Lake,2019.0,Comedy,2078844
+tt6499752,2018,Best Film,Secció Oficial Fantàstic,False,True,Upgrade,nm1191481,Leigh Whannell,Upgrade,2018.0,Action,26726477
+tt8473642,2018,New Visions Award,Special Mention,True,True,Domestique,nm8578900,Adam Sedlák,Domestique,2018.0,Drama,5943
+tt5628302,2018,New Visions Award - Special Mention,,True,True,Beast,nm2976580,Jessie Buckley,Beast,2018.0,Others,2584485
+tt4374286,2018,Audience Award,Panorama Fantàstic,True,True,Monstrum,,[],Monstrum,2018.0,Action,5312130
+tt8327492,2018,Anima't Award - Special Mention,Special Mention,True,True,Tito and the Birds,nm0825756,Gustavo Steinberg,Tito and the Birds,2018.0,Action,8755
+tt6900448,2018,Anima't Award,Best Feature-Length Film,True,True,Mirai,nm0396074,Mamoru Hosoda,Mirai,2018.0,Others,28638077
+tt7169514,2018,Anima't Award,Best Feature-Length Film,False,False,Dilili in Paris,nm0643664,Michel Ocelot,Dilili in Paris,2018.0,Others,4906518
+tt1849772,2018,Anima't Award,Best Feature-Length Film,False,False,Hoffmaniada,nm0812474,Stanislav Sokolov,Hoffmaniada,2019.0,Others,32804
+tt7236034,2018,Anima't Award,Best Feature-Length Film,False,False,I Want to Eat Your Pancreas,nm9026707,Shin'ichirô Ushijima,I Want to Eat Your Pancreas,2018.0,Others,34383324
+tt7089878,2018,Anima't Award,Best Feature-Length Film,False,False,Liz and the Blue Bird,nm2210720,Naoko Yamada,Liz and the Blue Bird,2018.0,Others,800655
+tt8076344,2018,Anima't Award,Best Feature-Length Film,False,False,Penguin Highway,nm5995018,Hiroyasu Ishida,Penguin Highway,2019.0,Others,3663878
+tt6212478,2018,Órbita,Best Feature Length Film,True,True,American Animals,nm1717925,Bart Layton,American Animals,2018.0,Others,7023374
